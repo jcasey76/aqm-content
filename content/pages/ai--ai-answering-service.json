@@ -1,0 +1,244 @@
+{
+  "path": "/ai/ai-answering-service/",
+  "title": "AI Answering Service",
+  "status": "publish",
+  "seo": {
+    "title": "AI Answering Service — Answer Every Call, 24/7",
+    "description": "An AI answering service that picks up 24/7, captures every missed call, and books jobs for Greater Boston small businesses. Free demo.",
+    "canonical": "https://aqmarketing.com/ai/ai-answering-service/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "AI Answering Service · Answered 24/7",
+      "heading": "An AI answering service that catches every call you can't pick up",
+      "subheading": "24/7 coverage for Woburn and Greater Boston small businesses",
+      "sub_style": "text-accent-500",
+      "intro": "When you can't get to the phone, the call doesn't wait — it goes to the next business on Google. AQ Marketing's AI answering service picks up on the first ring, day or night, answers the caller's questions, captures the lead, and books the job onto your calendar. No voicemail. No phone tag on Monday morning. No missed call walking away.",
+      "image": "ai-answering-service-hero.webp",
+      "badges": [
+        {
+          "text": "Picks up in seconds, 24/7"
+        },
+        {
+          "text": "Measurable progress, fast"
+        },
+        {
+          "text": "Part of the $500/mo Smart Website & Marketing Package"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free demo",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See the full AI receptionist",
+          "href": "/ai/ai-receptionist/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why it matters",
+      "heading": "Every missed call is a customer your competitor answers",
+      "subheading": "Most callers won't leave a voicemail — they hang up and dial the next business",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "You're on a job, with a customer, or already on another line. The phone rings out and kicks to voicemail — and the caller doesn't try again. They scroll down to the next name on Google and call them instead. That wasn't a wrong number. It was a booked job that went to the shop down the street."
+        },
+        {
+          "html": "After hours is where it really hurts. The calls that come in at 7pm, on weekends, and over the holidays are often the most urgent — a burst pipe, a lockout, a leak someone needs fixed tonight. <strong>Every after-hours ring-through is a customer calling the next shop on the list.</strong> A voicemail box doesn't win that job. A real answer does."
+        },
+        {
+          "html": "An AI answering service closes the gap. It picks up on the first ring — nights, weekends, lunch rushes, busy season — sounds natural, answers the questions people actually ask, and captures the lead while they're still interested. You stop leaking calls without hiring a front-desk team or paying an answering service by the minute. Want it to book straight onto your calendar and run your website chat too? That's our <a href=\"/ai/ai-receptionist/\">AI receptionist</a>."
+        }
+      ],
+      "image": "ai-answering-after-hours.png"
+    },
+    {
+      "type": "compare_table",
+      "v": 1,
+      "kicker": "Compare",
+      "heading": "AI answering service vs. a traditional service vs. voicemail",
+      "col_feature": "What you get",
+      "col_us": "AQ Marketing AI Answering",
+      "col_us_flag": "Recommended",
+      "col_b": "Traditional answering service",
+      "col_c": "Voicemail",
+      "rows": [
+        {
+          "feature": "Answers 24/7 — nights, weekends & holidays",
+          "us_check": true,
+          "col_b_text": "Extra fees for after-hours",
+          "col_c_text": "No one answers"
+        },
+        {
+          "feature": "Picks up on the first ring, every time",
+          "us_check": true,
+          "col_b_text": "Hold queues are common",
+          "col_c_text": "Straight to the beep"
+        },
+        {
+          "feature": "Answers your real questions (hours, pricing, service area)",
+          "us_check": true,
+          "col_b_text": "Generic script",
+          "col_c_text": "None"
+        },
+        {
+          "feature": "Captures and qualifies every lead",
+          "us_check": true,
+          "col_b_text": "Usually just takes a message",
+          "col_c_text": "Only if they leave one"
+        },
+        {
+          "feature": "Texts you the lead the moment the call ends",
+          "us_check": true,
+          "col_b_text": "Message relayed later",
+          "col_c_text": "You check it whenever"
+        },
+        {
+          "feature": "Logs every call to your CRM",
+          "us_check": true,
+          "col_b_text": "Rarely",
+          "col_c_text": "No record"
+        },
+        {
+          "feature": "Included in one predictable monthly package",
+          "us_check": true,
+          "col_b_text": "Billed per minute, plus after-hours fees",
+          "col_c_text": "Free, but loses jobs"
+        },
+        {
+          "feature": "Set up and managed by a local Greater Boston team",
+          "us_check": true,
+          "col_b_text": "Offshore call center",
+          "col_c_text": "On your own"
+        }
+      ]
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "How it works",
+      "heading": "Answering your calls in days, not months",
+      "subheading": "We set the whole thing up for you — no new phone system, no IT project",
+      "intro": "You don't change how you work or what number you give out. We build the AI answering service around your business, test it, and switch it on.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "We learn your business",
+          "text": "A short call to capture your hours, service area, pricing ranges, and the questions your callers ask most. That becomes the script your AI answers from."
+        },
+        {
+          "number": "02",
+          "title": "We build and train it",
+          "text": "We set up the AI voice in your tone, connect it to your existing number and CRM, and load your real answers. You review and approve before it takes a single call."
+        },
+        {
+          "number": "03",
+          "title": "We test it with you",
+          "text": "We run real call scenarios together — after-hours, busy-season overflow, common questions, urgent jobs — and fine-tune the responses until it sounds right."
+        },
+        {
+          "number": "04",
+          "title": "It goes live and we watch the numbers",
+          "text": "Your AI starts answering around the clock. We track calls answered and leads captured, and keep tuning it month over month."
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "One package, your whole front desk covered",
+      "subheading": "The AI answering service is built into our Smart Website & Marketing Package.",
+      "intro": "Most clients start with our Smart Website & Marketing Package at $500/month (12-month agreement). It includes the AI answering service along with your website, hosting, local SEO foundations, reputation management, and more — your whole online presence under one roof. (AI voice and chat carry small per-minute usage fees on top.) Want the AI to book appointments straight to your calendar and run your website chat as well as the phone? That's the full AI receptionist, included in the same package.",
+      "bg": "brand-50",
+      "cols": 2,
+      "featured_label": "Most Popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "/mo",
+          "features": "<ul><li>Mobile-responsive website design + content & page development</li><li>On-page SEO + premium hosting & software updates</li><li>AI answering service: picks up 24/7, answers your common questions</li><li>Captures & qualifies every lead, texts you instantly</li><li>Logs every call to your CRM + lead automation</li><li>Reputation review management + Google Business Profile visibility</li><li>Social media posting (up to 3 posts/week)</li><li>Maintenance & support (up to 12 hrs/yr)</li><li>AI voice & chat usage billed per minute</li></ul>",
+          "cta_label": "Get started",
+          "cta_href": "/contact/",
+          "featured": true
+        },
+        {
+          "name": "Add the AI Receptionist",
+          "price": "Included",
+          "features": "<ul><li>Everything in the package, plus the full AI receptionist</li><li>Books appointments straight to your calendar</li><li>AI website chat as well as the phone</li><li>Text & email follow-up</li><li>Part of the AI Front Desk — your full front desk under one roof</li></ul>",
+          "cta_label": "See the AI receptionist",
+          "cta_href": "/ai/ai-receptionist/"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "AI answering service FAQ",
+      "subheading": "Straight answers to what small-business owners ask us most",
+      "schema": true,
+      "items": [
+        {
+          "q": "What is an AI answering service?",
+          "a": "An AI answering service is software that answers your business calls automatically, in a natural-sounding voice, 24 hours a day. It greets the caller, answers common questions about your hours, pricing, and service area, captures their details, and texts the lead to you — so calls you can't pick up turn into real leads instead of voicemails nobody returns. AQ Marketing sets one up for your business and trains it on how your trade talks to customers."
+        },
+        {
+          "q": "How is an AI answering service different from a traditional answering service?",
+          "a": "A traditional answering service is staffed by people, usually bills by the minute, and often just takes a message — especially after hours. An AI answering service picks up instantly every time, answers your real questions from your business info, captures and qualifies the lead, and runs for a flat monthly fee with no per-minute charges. You get faster, more consistent coverage at a predictable cost."
+        },
+        {
+          "q": "How much does an AI answering service cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month (12-month agreement), which includes the AI answering service along with your website, hosting, local SEO, reputation management, and more. The AI voice and chat carry small per-minute usage fees on top, based on how many calls it handles. Want the AI to book appointments and run your website chat too? That's the full <a href=\"/ai/ai-receptionist/\">AI receptionist</a>, included in the same package."
+        },
+        {
+          "q": "Does the AI answering service sound like a robot?",
+          "a": "No. It speaks in natural, conversational language and is set up in your business's tone. Callers can ask questions in their own words and get a friendly, sensible answer — not a phone tree. You review and approve how it sounds before it answers a single customer."
+        },
+        {
+          "q": "What happens if the AI can't answer a question?",
+          "a": "It's built to know its limits. When a caller needs something outside its script, it captures their name, number, and reason for calling, routes urgent calls straight to you, and logs the rest so you can follow up fast. The caller never hits a dead end, and you never lose the lead."
+        },
+        {
+          "q": "Will it work with my current phone number?",
+          "a": "Yes. We connect the AI answering service to your existing business number, so it answers your real calls without you changing anything or buying a new phone system. Every call is captured and logged to your CRM so nothing slips through."
+        },
+        {
+          "q": "Can the AI answering service book appointments, or just take messages?",
+          "a": "On its own, the answering service captures the lead and texts you the details. If you want it to book the job straight onto your calendar and handle your website chat as well as the phone, that's our <a href=\"/ai/ai-receptionist/\">AI receptionist</a> — the next step up, on the same platform."
+        },
+        {
+          "q": "Do I own my call data and customer list?",
+          "a": "Yes. Your phone number, your data, and your customer list are yours from day one — same as everything else we build for you. AQ Marketing runs it all in-house alongside your <a href=\"/services/local-seo/\">Local SEO</a> and website, so there's one team and one login, with no middlemen."
+        },
+        {
+          "q": "Do you serve businesses outside Woburn and Boston?",
+          "a": "AQ Marketing is based in Woburn, MA and serves small businesses across Greater Boston — the North Shore, MetroWest, and the surrounding towns. We take on Massachusetts-adjacent clients case by case; outside the Northeast we'll likely refer you elsewhere."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Stop losing calls to voicemail",
+      "heading": "Hear your AI answering service in action — free",
+      "subheading": "See exactly how it handles your calls before you commit",
+      "body": "Book a free, no-pitch demo and we'll show you your AI answering service picking up real call scenarios for your business — after hours, busy-season overflow, and the questions your callers ask most. We'll show you measurable progress, fast — not a year of waiting to see results.",
+      "image": "ai-answering-service-cta-bg.webp",
+      "cta_label": "Get your free demo",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Serving Greater Boston since 2003 · Smart Website & Marketing Package $500/mo (12-month agreement)"
+    }
+  ]
+}

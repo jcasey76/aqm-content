@@ -1,0 +1,210 @@
+{
+  "path": "/services/reputation-management/",
+  "title": "Reputation Management",
+  "status": "publish",
+  "seo": {
+    "title": "Reputation Management Services for Local Business",
+    "description": "We generate more 5-star reviews, monitor every site, and respond fast — reputation management that lifts your Google ranking and books more jobs.",
+    "canonical": "https://aqmarketing.com/services/reputation-management/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Reputation Management",
+      "heading": "Reputation management that turns reviews into your best salesperson",
+      "subheading": "More 5-star reviews. Watched everywhere. Answered fast.",
+      "sub_style": "text-accent-500",
+      "intro": "Before a new customer calls you, they Google you — and a thin or out-of-date review profile sends them straight to the competitor with more stars. We build a steady flow of real reviews, watch every site they land on, and respond to all of them, so the first thing people find makes them pick you. Done for you across Greater Boston.",
+      "image": "reputation-management-hero.webp",
+      "badges": [
+        {
+          "text": "Woburn, MA · Since 2003"
+        },
+        {
+          "text": "5.0 on Google · 34 reviews"
+        },
+        {
+          "text": "Reviews handled for you"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free reputation audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See all our SEO services",
+          "href": "/services/local-seo/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why reputation matters",
+      "heading": "Your reviews decide who calls before they ever reach your phone",
+      "subheading": "Stars and recent reviews are the first thing a customer judges you on.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "When someone searches for what you do, Google lines up the local businesses side by side with their star ratings right there in the results. People click the ones with more reviews and better ratings — and they barely look at the rest. A great service business with five reviews loses work every day to a worse one with fifty."
+        },
+        {
+          "html": "Reviews don’t just win the click — they help you rank. Review count, how recent they are, your overall rating, and whether you reply are among the strongest signals Google uses to decide who lands in the Map Pack, the top 3 local results. So a steady flow of fresh reviews does double duty: it lifts you in <a href=\"/services/local-seo/\">local search</a> and it convinces the customer once they find you."
+        },
+        {
+          "html": "We’ve managed reviews and local visibility for the Woburn, North Shore, MetroWest, and Greater Boston markets since 2003. We make asking for reviews effortless, catch every new one the moment it posts, and answer the good and the bad in your voice — so your reputation works for you instead of against you."
+        }
+      ],
+      "image": "reputation-management-local-results.webp"
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "Our process",
+      "heading": "How we build and protect your reputation",
+      "subheading": "A clear path from a thin review profile to a steady stream of 5-star proof.",
+      "intro": "No mystery, no 40-page PDF. Here’s exactly how we get you more reviews, keep watch, and handle every response for you.",
+      "bg": "brand-50",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Free reputation audit",
+          "text": "We start with our free 20-point local audit — including a hard look at your reviews across Google, Facebook, and the directories that matter in your industry — and benchmark you against your top 5 local competitors. You get a written action plan showing where you stand, where you’re losing customers, and what to fix first. No obligation, no pitch."
+        },
+        {
+          "number": "02",
+          "title": "Turn on review generation",
+          "text": "We set up a simple system that asks every happy customer for a review by text and email at the right moment, with one-tap links straight to your Google profile. No awkward asks, no gift cards, no fake reviews — just the compliant, automated nudge that turns satisfied customers into public proof."
+        },
+        {
+          "number": "03",
+          "title": "Monitor & respond",
+          "text": "We watch Google, Facebook, and your industry’s review sites so a new review never sits unanswered. We reply to the positive ones to reinforce them and handle the negative ones calmly and fast — because how you respond to a bad review often matters more to the next customer than the review itself."
+        },
+        {
+          "number": "04",
+          "title": "Report, defend & grow",
+          "text": "You get one login showing your rating trend, new reviews, and response times — not vanity numbers. We flag fake or policy-violating reviews for removal, keep the flow steady, and tie it all back to your Map Pack ranking. We earn the next month by performing in this one."
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "What’s included",
+      "heading": "What our reputation management service covers",
+      "subheading": "One team handling reviews end to end — under one roof, nothing to chase.",
+      "intro": "Reputation management isn’t one tool — it’s generating reviews, watching for them, responding to them, and defending your listings, all kept current. We handle every piece in-house.",
+      "bg": "white",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14l-5-4.87 6.91-1.01L12 2Z\"/></svg>",
+          "title": "Review generation",
+          "text": "We set up automated review requests by text and email that go out at the right moment, with one-tap links to your Google Business Profile. A steady, compliant flow of real reviews from your real customers — never bought, never faked."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10.268 21a2 2 0 0 0 3.464 0\"/><path d=\"M3.262 15.326A1 1 0 0 0 4 17h16a1 1 0 0 0 .74-1.673C19.41 13.956 18 12.499 18 8A6 6 0 0 0 6 8c0 4.499-1.411 5.956-2.738 7.326\"/></svg>",
+          "title": "Review monitoring",
+          "text": "We watch Google, Facebook, and the review sites that matter in your industry, so the moment a new review posts, we know. No more finding out about a one-star rating weeks later, after it has already cost you customers."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"9 17 4 12 9 7\"/><path d=\"M20 18v-2a4 4 0 0 0-4-4H4\"/></svg>",
+          "title": "Review responses",
+          "text": "We respond to every review in your voice — thanking the happy customers and answering the unhappy ones calmly and quickly. Google rewards businesses that reply, and a well-handled complaint often wins more trust than the five-star reviews around it."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z\"/><path d=\"m9 12 2 2 4-4\"/></svg>",
+          "title": "Negative review defense",
+          "text": "A bad review won’t sink you — ignoring it will. We respond fast to limit the damage, and when a review breaks Google’s policies — fake, spam, or from a non-customer — we flag it for removal so it isn’t dragging down your rating unfairly."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/></svg>",
+          "title": "Google Business Profile reviews",
+          "text": "Your Google reviews are the ones that show in the Map Pack and on Maps, and they carry the most weight for local ranking. We focus your review flow there first, tied directly into your <a href=\"/services/google-business-profile-optimization/\">Google Business Profile optimization</a>."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 3v16a2 2 0 0 0 2 2h16\"/><path d=\"m19 9-5 5-4-4-3 3\"/></svg>",
+          "title": "Reporting & rating trend",
+          "text": "One login shows your rating over time, new reviews, response times, and how you stack up against local competitors — the numbers that actually predict more calls, not vanity dashboards."
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Client results",
+      "heading": "Local businesses that earned the reviews to prove it",
+      "bg": "brand-50",
+      "intro": "We’ve helped Massachusetts small businesses build their reputation and win local search since 2003 — home services, roofing, landscaping, masonry, spas, and more. We hold a 5.0 rating across 34 Google reviews of our own.",
+      "items": [
+        {
+          "quote": "“The clear results they delivered with their SEO services and online marketing efforts, friendly responsive service, and affordable rates with transparent reporting. AQ Marketing is a great marketing agency that helped our small business improve its online presence. Highly recommend!”",
+          "name": "AJM Grounds",
+          "role": "Landscaping · Google 5.0★"
+        }
+      ],
+      "cta_label": "See the businesses we work with",
+      "cta_href": "/about/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Reputation management questions, answered straight",
+      "subheading": "The questions Greater Boston owners actually ask us.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What is reputation management?",
+          "a": "Reputation management is the ongoing work of shaping what people find when they look you up online — mainly your reviews and star ratings. For a local business it means three things done continuously: generating a steady flow of real reviews from happy customers, monitoring every site those reviews land on, and responding to all of them, good and bad. The goal is simple: when a new customer Googles you, what they see makes them choose you."
+        },
+        {
+          "q": "How do you get more Google reviews without breaking the rules?",
+          "a": "We set up an automated system that asks every happy customer for a review by text and email at the right moment, with a one-tap link to your Google profile. We never buy reviews, write fake ones, offer incentives, or filter out negative feedback — all of which violate Google’s policies and can get your listing penalized. Just making the genuine ask easy and consistent is what builds a real, compliant review flow."
+        },
+        {
+          "q": "Do online reviews affect my Google ranking?",
+          "a": "Yes — they’re one of the strongest local ranking signals. Google weighs your review count, how recent the reviews are, your overall rating, and whether you respond when it decides who shows up in the Map Pack, the top 3 local results with the map. A business collecting fresh reviews and replying to them reads as active and trusted, which helps it climb. That’s why we tie reputation management directly to your <a href=\"/services/google-business-profile-optimization/\">Google Business Profile</a> and <a href=\"/services/local-seo/\">local SEO</a>."
+        },
+        {
+          "q": "What do you do about a bad review?",
+          "a": "First, we respond — fast, calm, and professional, in your voice. A thoughtful reply to a complaint often earns more trust from the next customer than the bad review costs you, because people read how you handle problems. If the review breaks Google’s policies — it’s fake, spam, or from someone who was never a customer — we flag it for removal. What we never do is hide or fake reviews; that backfires and violates the rules."
+        },
+        {
+          "q": "Can you remove a negative review?",
+          "a": "Only if it violates the platform’s policies — for example, it’s fake, spam, contains hate speech, or comes from someone who isn’t a real customer. We identify those and report them for removal. A genuine but unflattering review from a real customer usually can’t be removed, so the right move there is a strong, professional response and a steady flow of newer, better reviews to outweigh it."
+        },
+        {
+          "q": "How long does it take to improve my online reputation?",
+          "a": "You’ll usually see new reviews coming in within the first few weeks once the request system is live, and your overall rating climbs as the steady flow continues. How fast depends on your customer volume and where you’re starting. We focus on showing you measurable progress, fast, and we set realistic targets for your reviews during the free audit."
+        },
+        {
+          "q": "How much does reputation management cost?",
+          "a": "Reputation management is built into our Smart Website & Marketing Package at $500/month, which most clients start with — review generation, monitoring, and responses are all included alongside your website, hosting, Google Business Profile, and more, on a 12-month agreement. If you want a heavier content and link-building push to climb local search faster, our SEO accelerator is $1,299/month on top. Book a free audit and we’ll confirm the exact plan for your business. You own your reviews, your profiles, and your data from day one."
+        },
+        {
+          "q": "What areas do you serve?",
+          "a": "We’re based in Woburn, MA and have managed local reputation and search visibility across Woburn, the North Shore, MetroWest, and Greater Boston since 2003. We take on Massachusetts-adjacent clients case by case; if you’re outside the Northeast, we’ll likely refer you elsewhere."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free reputation audit",
+      "heading": "See what people find when they Google your business",
+      "subheading": "A free, no-pitch audit of your reviews and ratings.",
+      "body": "We’ll run a free 20-point audit of your reviews across Google, Facebook, and your industry’s directories, benchmark you against your top 5 local competitors, and hand you a written action plan for earning more 5-star reviews and ranking higher. No obligation — written audit back within 2 business days.",
+      "image": "reputation-management-cta.webp",
+      "cta_label": "Get your free reputation audit",
+      "cta_href": "/contact/",
+      "footnote": "Free 20-point reputation audit · Included in the $500/mo Smart Website & Marketing Package · You own your reviews, profiles, and data"
+    }
+  ]
+}

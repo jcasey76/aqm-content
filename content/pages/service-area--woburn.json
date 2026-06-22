@@ -1,0 +1,234 @@
+{
+  "path": "/service-area/woburn/",
+  "title": "Woburn",
+  "status": "publish",
+  "seo": {
+    "title": "Woburn, MA Marketing Agency — Local SEO & AI Sites",
+    "description": "AQ Marketing is headquartered in Woburn, MA at 400 Tradecenter Dr, Suite 5900 — Local SEO + AI websites for small businesses since 2003. Free audit.",
+    "canonical": "https://aqmarketing.com/service-area/woburn/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Woburn, MA · Home base since 2003",
+      "heading": "Your Woburn, MA marketing agency — Local SEO and AI websites",
+      "subheading": "Headquartered at 400 Tradecenter Drive since 2003",
+      "sub_style": "text-accent-500",
+      "intro": "AQ Marketing isn't a national outfit with a rented PO box. We're a real Woburn company — same address, same team, same town since 2003 — helping Greater Boston small businesses get found in local search and get booked. Local SEO and AI websites, one team, under one roof, run from our office at 400 Tradecenter Drive.",
+      "image": "woburn-city-hero.webp",
+      "badges": [
+        {
+          "text": "400 Tradecenter Dr, Suite 5900"
+        },
+        {
+          "text": "Woburn, MA 01801"
+        },
+        {
+          "text": "Since 2003"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free local audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "Meet the team",
+          "href": "/about/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Find us",
+      "heading": "A real Woburn address, not a virtual office",
+      "subheading": "Where we are, how to reach us, and how the office works",
+      "bg": "white",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "We've run AQ Marketing from Woburn since 2003. That's two decades in one Massachusetts town — long enough to know the local market, the competition, and what it takes to get a small business to the top of the map pack here. When you hire us, you're hiring the people who actually do the work, in-house, from this office. No middlemen, no overseas call center, no finger-pointing between vendors."
+        },
+        {
+          "html": "Our office is open <strong>by appointment only</strong> — most of our day-to-day work happens remotely, so we can serve clients across Greater Boston without anyone driving to a meeting that didn't need to be in person. If you'd like to come in, just say so when you book your audit and we'll set a time. Either way, you get the same Woburn-based team on your account."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "AQ Marketing, Inc."
+        },
+        {
+          "text": "400 Tradecenter Dr, Suite 5900, Woburn, MA 01801"
+        },
+        {
+          "text": "(781) 730-6971"
+        },
+        {
+          "text": "hello@aqmarketing.com"
+        },
+        {
+          "text": "Mon–Fri · 9a–6p ET · Office by appointment only"
+        }
+      ],
+      "link_list": [
+        {
+          "label": "Visit or call",
+          "link_text": "Get directions and contact details",
+          "href": "/contact/"
+        },
+        {
+          "label": "Our story",
+          "link_text": "Two decades of local growth in Woburn",
+          "href": "/about/"
+        }
+      ],
+      "footnote": "Headquartered in Woburn, MA since 2003. Serving small businesses across Greater Boston.",
+      "cta_label": "Book your free audit",
+      "cta_href": "/contact/",
+      "image": "woburn-office-400-tradecenter.webp"
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "What we do from Woburn",
+      "heading": "Everything you need to grow, under one roof",
+      "subheading": "Local SEO, AI websites, and the marketing that fills your calendar",
+      "intro": "One team, one login — no juggling three vendors. Here's where most local owners start.",
+      "cards": [
+        {
+          "title": "Local SEO services",
+          "body": "Google Business Profile, citations, reviews, and on-page work that move you up the local results for the searches that bring you customers.",
+          "price_primary": "From $500/mo",
+          "price_secondary": "Local SEO foundations included in the Smart Website & Marketing Package; add the SEO accelerator ($1,299/mo) for blog content + link building.",
+          "link_label": "Full Details",
+          "link_href": "/services/local-seo/"
+        },
+        {
+          "title": "Google Business Profile optimization",
+          "body": "The map pack is where local buyers choose who to call. We optimize your profile so you're the business they pick.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/google-business-profile-optimization/"
+        },
+        {
+          "title": "Small-business web design",
+          "body": "Fast, conversion-first websites built to turn visitors into booked customers — and to keep working long after launch.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/web-design/"
+        },
+        {
+          "title": "AI receptionist",
+          "body": "A 24/7 AI receptionist answers calls, texts, and chats so you never lose a lead after hours or on the weekend.",
+          "price_primary": "Included in the $500/mo package (per-minute usage fees apply)",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-receptionist/"
+        },
+        {
+          "title": "Greater Boston marketing",
+          "body": "We're Woburn-based and serve the whole metro. See how we approach Local SEO and marketing across Greater Boston.",
+          "link_label": "See Greater Boston",
+          "link_href": "/boston/"
+        },
+        {
+          "title": "All services",
+          "body": "Google Ads, reputation management, social, and more — the full done-for-you stack, handled in-house from Woburn.",
+          "link_label": "Browse all services",
+          "link_href": "/services/"
+        }
+      ]
+    },
+    {
+      "type": "town_card_grid",
+      "v": 1,
+      "eyebrow": "Middlesex County & Greater Boston",
+      "heading": "Woburn and the towns around us",
+      "subheading": "Woburn home base, the whole metro served",
+      "intro": "We're headquartered in Woburn and take on small businesses across Greater Boston. Most work is done remotely, so where you sit in the metro doesn't change how we work — the office is open by appointment only.",
+      "bg": "brand-50",
+      "card_heading_size": "base",
+      "cards": [
+        {
+          "county": "Middlesex County",
+          "title": "Burlington",
+          "body": "Next door to our Woburn office — Local SEO and AI websites for Burlington's local service businesses and B2B."
+        },
+        {
+          "county": "Middlesex County",
+          "title": "Winchester",
+          "body": "Map-pack rankings and lead capture for Winchester businesses competing in a tight local market."
+        },
+        {
+          "county": "Middlesex County",
+          "title": "Stoneham",
+          "body": "Done-for-you Local SEO and conversion-first sites for Stoneham's small businesses."
+        },
+        {
+          "county": "Middlesex County",
+          "title": "Reading",
+          "body": "Get found by local buyers in Reading and keep every after-hours lead with a 24/7 AI receptionist."
+        },
+        {
+          "county": "Greater Boston",
+          "title": "Greater Boston",
+          "body": "Beyond our Woburn neighbors, we serve small businesses across the North Shore, MetroWest, and into Boston.",
+          "href": "/boston/"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Woburn FAQ",
+      "heading": "Questions about working with a Woburn agency",
+      "schema": true,
+      "items": [
+        {
+          "q": "Where is AQ Marketing located?",
+          "a": "AQ Marketing, Inc. is headquartered in Woburn, Massachusetts at 400 Tradecenter Drive, Suite 5900, Woburn, MA 01801. We've been at work in Woburn since 2003. You can reach us at (781) 730-6971 or hello@aqmarketing.com, Monday through Friday, 9am to 6pm ET. The office is open by appointment only."
+        },
+        {
+          "q": "Can I visit your Woburn office?",
+          "a": "Yes — by appointment. Most of our work is done remotely so we can serve clients across Greater Boston efficiently, but if you'd like to meet in person, just ask when you book your free audit and we'll set a time at our 400 Tradecenter Drive office."
+        },
+        {
+          "q": "Do I have to be in Woburn to work with AQ Marketing?",
+          "a": "No. Woburn is our home base, but we serve small businesses across Greater Boston — Burlington, Winchester, Stoneham, Reading, the North Shore, MetroWest, and into Boston. Because most of the work is remote, where you're located in the metro doesn't change how we run your account."
+        },
+        {
+          "q": "How long has AQ Marketing been in Woburn?",
+          "a": "Since 2003 — more than two decades in the same Massachusetts town. That's long enough to know the local market and the competition, and it's why we run everything in-house from Woburn rather than outsourcing it."
+        },
+        {
+          "q": "What does AQ Marketing do for local businesses?",
+          "a": "We pair done-for-you Local SEO with AI websites, all under one roof. That means getting you into the Google map pack, optimizing your Google Business Profile, building reviews, and launching a fast, conversion-first website with a 24/7 AI receptionist so calls and forms get answered even after hours. <a href=\"/services/\">Browse all our services</a>."
+        },
+        {
+          "q": "Is there a contract, and is there any guarantee?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month on a 12-month agreement, so we have the runway to rank you and compound results. We earn your business by performing, month after month — and you own everything: your site, domain, Google Business Profile, and data, from day one. You'll see measurable progress, fast."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free local audit",
+      "heading": "Let's get your Woburn-area business found",
+      "subheading": "No pitch, no obligation",
+      "body": "Get a free 20-point local audit. We'll benchmark your Google Business Profile, reviews, and site speed against your top 5 local competitors, then map the three highest-ROI moves to get you booked. Written action plan, on the house — typically back to you within 2 business days.",
+      "image": "woburn-final-cta.webp",
+      "cta_label": "Get your free audit",
+      "cta_href": "/contact/",
+      "footnote": "AQ Marketing, Inc. · 400 Tradecenter Dr, Suite 5900, Woburn, MA 01801 · (781) 730-6971 · Since 2003 · Rated 5.0 on Google across 34 reviews"
+    }
+  ]
+}

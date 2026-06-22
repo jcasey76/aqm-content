@@ -1,0 +1,245 @@
+{
+  "path": "/services/google-ads-management/",
+  "title": "Google Ads Management",
+  "status": "publish",
+  "seo": {
+    "title": "Google Ads Management & PPC for Small Business",
+    "description": "Transparent Google Ads management for Greater Boston small businesses. We run PPC that books real jobs and you own the account, the data, and the history.",
+    "canonical": "https://aqmarketing.com/services/google-ads-management/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Google Ads Management",
+      "heading": "Google Ads management that turns clicks into booked jobs — not wasted spend.",
+      "subheading": "PPC built for small business, run in plain sight.",
+      "sub_style": "text-accent-500",
+      "intro": "Most small businesses pour money into Google Ads and have no idea what they're getting back. Our PPC management points your campaigns at one thing — phone calls and booked jobs — and shows you exactly where every dollar goes. You own the account and you keep the data, so we earn your business by performing month after month. Pair it with Local SEO and a 24/7 AI receptionist, and every click you pay for actually turns into a customer.",
+      "image": "google-ads-management-hero.webp",
+      "badges": [
+        {
+          "text": "Woburn, MA · Since 2003"
+        },
+        {
+          "text": "You own the Google Ads account"
+        },
+        {
+          "text": "5.0 on Google · 34 reviews"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free ads review",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See our services",
+          "href": "/services/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "trust_image_left",
+      "v": 1,
+      "eyebrow": "What you get",
+      "heading": "Ads that chase booked jobs, not vanity clicks.",
+      "subheading": "Run in plain sight, with the account in your name.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "<p>Plenty of agencies happily spend your budget and send you a dashboard nobody reads. We do the opposite. Our PPC management services point every campaign at one outcome — the phone ringing and the calendar filling — and we tell you in plain words what's working, what we cut, and why. No 40-page PDFs, no jargon, no mystery line items.</p>"
+        },
+        {
+          "html": "<p>The Google Ads account is yours. We build it in your name, you keep every bit of the data and history, and if you ever leave, it leaves with you. That's true the day we start — no hostage situations, no rebuilding from scratch later. It's a principle we don't compromise on.</p>"
+        },
+        {
+          "html": "<p>Ads work best when the click has somewhere good to land. We're a Woburn, MA agency that handles Local SEO, web design, and AI under one roof, so we point your traffic at a fast page and a 24/7 AI receptionist that answers after hours. You stop paying for clicks that ring out to voicemail.</p>"
+        },
+        {
+          "html": "<blockquote><p>\"I've been using AQ Marketing for over two years, and my sales and exposure have gone through the roof. The results have been nothing but positive. Every project is handled on time, with great attention to detail.\"</p><cite>— Tyler Tranni, Tranni Home Remodeling</cite></blockquote>"
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Campaigns built around booked jobs, not just clicks"
+        },
+        {
+          "text": "Call tracking, so you see which ads make the phone ring"
+        },
+        {
+          "text": "Plain-English reporting — what's working and what we cut"
+        },
+        {
+          "text": "You own the Google Ads account, the data, and the history"
+        },
+        {
+          "text": "Landing pages built to convert the click"
+        },
+        {
+          "text": "24/7 AI receptionist answers the leads your ads bring in"
+        },
+        {
+          "text": "Account, data, and history stay in your name"
+        }
+      ],
+      "cta_label": "Get your free ads review",
+      "cta_href": "/contact/",
+      "image": "google-ads-dashboard-call-tracking.webp"
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "How it works",
+      "heading": "From wasted spend to booked jobs in four clear steps.",
+      "subheading": "You see where every dollar goes, the whole way through.",
+      "intro": "No mystery, no set-it-and-forget-it. Here's exactly how we take a Google Ads budget and turn it into calls you can count.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Free ads review",
+          "text": "We look at your current Google Ads — or your competitors' if you're starting fresh — find where the budget is leaking, and map the keywords your customers actually search before they buy. You leave with a plan, not a pitch."
+        },
+        {
+          "number": "02",
+          "title": "Build the campaigns",
+          "text": "We structure your account around the searches that book jobs, write ads that earn the click, add negative keywords to kill wasted spend, and set up call tracking so every lead is measured. The account is built in your name from day one."
+        },
+        {
+          "number": "03",
+          "title": "Land the click & answer the call",
+          "text": "We point traffic at a fast landing page built to convert, with a 24/7 AI receptionist and chatbot behind it so after-hours leads never ring out. The click you paid for actually turns into a booked customer."
+        },
+        {
+          "number": "04",
+          "title": "Optimize & report",
+          "text": "We watch the numbers every week — cost per call, which keywords convert, what to cut — and keep tightening the account. You get plain-English reporting on what's working, so we earn your business by performing month after month."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "v": 1,
+      "eyebrow": "Why it works",
+      "heading": "Built to make your ad budget work harder.",
+      "h2_mt": "mt-0",
+      "bg": "brand-50",
+      "cols": "4",
+      "stats": [
+        {
+          "value": "20",
+          "suffix": "+",
+          "label": "Years running campaigns for Massachusetts small businesses"
+        },
+        {
+          "value": "24/7",
+          "label": "AI receptionist answering the leads your ads bring in"
+        },
+        {
+          "value": "100",
+          "suffix": "%",
+          "label": "Account ownership — it's yours from day one"
+        },
+        {
+          "value": "5.0",
+          "label": "Rating on Google across 34 client reviews"
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "Simple, transparent management pricing.",
+      "subheading": "You own the account. Your ad spend stays yours.",
+      "intro": "We charge a flat monthly management fee to run your campaigns — separate from your ad budget, which you pay Google or Meta directly and keep full control of. Most clients start on our Smart Website & Marketing Package at $500/month (a 12-month agreement) for the website, landing pages, and lead handling, then add the ad channel they want to grow. Your free ads review confirms the right fit.",
+      "bg": "white",
+      "cols": "3",
+      "featured_label": "Most Popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "per month (12-month agreement)",
+          "features": "<ul><li>Mobile-responsive website + landing pages your ads can land on</li><li>Content writing, page development & on-page SEO</li><li>Premium hosting, software updates, maintenance & support</li><li>CRM lead management + automation</li><li>AI Website Chatbot + AI Voice Receptionist (per-minute usage fees)</li><li>Google Business Profile, citations & reputation management</li></ul>",
+          "cta_label": "Get your free ads review",
+          "cta_href": "/contact/"
+        },
+        {
+          "name": "Google Ads Management",
+          "price": "$1,299",
+          "period": "per month (ad spend not included)",
+          "features": "<ul><li>Campaigns built around booked jobs, not vanity clicks</li><li>Keyword research, ad copy & negative keywords</li><li>Call tracking so you see which ads ring the phone</li><li>Weekly optimization & plain-English reporting</li><li>You own the Google Ads account, data, and history</li><li>Best paired with the $500 package for landing pages & lead handling</li></ul>",
+          "cta_label": "Get your free ads review",
+          "cta_href": "/contact/",
+          "featured": true
+        },
+        {
+          "name": "Meta Ads Management",
+          "price": "$999",
+          "period": "per month (ad spend not included)",
+          "features": "<ul><li>Facebook & Instagram campaigns to reach local customers</li><li>Audience targeting, creative & ongoing optimization</li><li>Lead tracking with plain-English reporting</li><li>You own the ad account and the data</li><li>Best paired with the $500 package for landing pages & lead handling</li></ul>",
+          "cta_label": "Book an ads review",
+          "cta_href": "/contact/"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Google Ads management questions.",
+      "subheading": "Straight answers before you spend a dollar.",
+      "schema": true,
+      "items": [
+        {
+          "q": "How much does Google Ads management cost?",
+          "a": "<p>You pay two things: a flat monthly management fee to us for running the campaigns, and your ad budget, which you pay Google directly and keep full control of. Google Ads management is $1,299/month and Meta (Facebook/Instagram) ads management is $999/month — ad spend not included in either. Most clients also start on our Smart Website & Marketing Package at $500/month (a 12-month agreement) for the website, landing pages, and lead handling that make the ads pay off. We confirm the right mix at your free ads review — no obligation, no pressure.</p>"
+        },
+        {
+          "q": "Do I own my Google Ads account?",
+          "a": "<p>Yes — the account is built in your name and it's yours from day one. You keep the campaigns, the data, and the history, and if you ever leave, it all goes with you. No hostage situations, no starting over. That's true across everything we do, and it's a principle we don't compromise on.</p>"
+        },
+        {
+          "q": "What's the difference between Google Ads and SEO?",
+          "a": "<p>Google Ads (PPC) puts you at the top of the results today — you pay for each click, and the traffic stops when the budget does. <a href=\"/services/local-seo/\">Local SEO</a> earns your spot in the map pack over time and keeps working without paying per click. Most small businesses do best running both: ads bring leads now while SEO builds the free traffic that lasts. We handle both under one roof, so they work together instead of against each other.</p>"
+        },
+        {
+          "q": "How much should I spend on Google Ads?",
+          "a": "<p>It depends on your market and how many jobs you want to win. We'd rather start you at a budget you're comfortable with, prove it books real calls, and scale up from there — not talk you into a big number on day one. Your ad budget is separate from our management fee, and you pay Google directly, so you're always in control of the spend.</p>"
+        },
+        {
+          "q": "How fast will I see results from Google Ads?",
+          "a": "<p>Faster than SEO — ads can start showing the day a campaign goes live. But \"showing\" and \"booking jobs\" aren't the same thing. The first few weeks are about gathering data, cutting wasted spend with negative keywords, and tightening the targeting so your cost per call drops. We'll be straight with you about what's realistic for your market — no agency that promises instant floods of cheap leads is being honest.</p>"
+        },
+        {
+          "q": "Will you send the leads somewhere that actually answers?",
+          "a": "<p>That's half the battle. A click that lands on a slow page or rings out to voicemail at 7pm is money wasted. We point your ads at a fast landing page built to convert, with a 24/7 <a href=\"/ai/ai-receptionist/\">AI receptionist</a> and chatbot behind it, so after-hours leads get answered instead of calling the next business on the list. You stop paying for clicks that go nowhere.</p>"
+        },
+        {
+          "q": "How does the agreement work?",
+          "a": "<p>Most clients start on our Smart Website & Marketing Package, which runs on a 12-month agreement at $500/month — that covers the website, landing pages, and lead handling your ads depend on. The Google Ads ($1,299/mo) and Meta ($999/mo) management fees sit alongside it, and your ad budget is always separate and paid to Google or Meta directly. Either way, the ad account stays in your name with all the data and history, so you're never locked out of your own campaigns. We earn your business by performing — not by holding your account hostage.</p>"
+        },
+        {
+          "q": "What makes AQ Marketing different from other Google Ads agencies?",
+          "a": "<p>Two things, done under one roof. First, transparency — you own the account, you see where every dollar goes, and we report in plain English instead of burying it in a 40-page PDF. Second, we don't just buy clicks — we wire in a fast landing page and a 24/7 AI receptionist so the leads your ads bring in actually get answered and booked. We're a Woburn, MA Google Ads agency that's been growing Massachusetts small businesses since 2003, rated 5.0 on Google across 34 client reviews, and you keep everything. See all of our <a href=\"/services/\">marketing services</a>.</p>"
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free ads review",
+      "heading": "Find out where your ad budget is leaking.",
+      "subheading": "No pitch, no obligation.",
+      "body": "Get a free, no-pressure review of your Google Ads — where the budget is being wasted, which keywords are worth chasing, and how you stack up against your top local competitors — plus a clear plan to turn the spend into booked jobs. Not running ads yet? We'll map what a smart, transparent campaign looks like for your business.",
+      "image": "google-ads-management-cta-backdrop.webp",
+      "cta_label": "Get your free ads review",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Serving Greater Boston since 2003 · You own the account and the data."
+    }
+  ]
+}

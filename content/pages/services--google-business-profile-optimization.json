@@ -1,0 +1,242 @@
+{
+  "path": "/services/google-business-profile-optimization/",
+  "title": "Google Business Profile Optimization",
+  "status": "publish",
+  "seo": {
+    "title": "Google Business Profile Optimization for the Map Pack",
+    "description": "We optimize your Google Business Profile to rank in the Map Pack and on Google Maps across Greater Boston — more calls, more directions, more booked jobs.",
+    "canonical": "https://aqmarketing.com/services/google-business-profile-optimization/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Google Business Profile · Map Pack",
+      "heading": "Google Business Profile optimization that gets you into the Map Pack",
+      "subheading": "The top 3 local results win the clicks.",
+      "sub_style": "text-accent-500",
+      "intro": "Your Google Business Profile is the listing that decides whether you show up when someone nearby searches for what you do. We optimize, manage, and defend it so your business lands in the Map Pack — the top 3 local results with the map — and ranks on Google Maps for the searches that turn into calls, directions, and booked jobs across Greater Boston.",
+      "image": "gbp-map-pack-hero.webp",
+      "badges": [
+        {
+          "text": "Woburn, MA · Since 2003"
+        },
+        {
+          "text": "Measurable progress, fast"
+        },
+        {
+          "text": "Included in the $500/mo package"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free Map Pack audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See all our SEO services",
+          "href": "/services/local-seo/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why the Map Pack",
+      "heading": "The Map Pack is where local customers actually click",
+      "subheading": "Three spots. Yours should be one of them.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "When someone searches “near me” or names your town, Google shows a map and three local listings before anything else. Most people call or tap directions from one of those three — they rarely scroll past them. If your competitors own those spots, you’re invisible at the exact moment a customer is ready to act."
+        },
+        {
+          "html": "Your Google Business Profile is what feeds the Map Pack and your spot on Google Maps. It’s free to claim, but ranking in the top 3 isn’t automatic — Google weighs how complete, active, and trusted your profile is against every other local business chasing the same searches. That’s the work we do."
+        },
+        {
+          "html": "We’ve tuned local profiles for the Woburn, North Shore, MetroWest, and Greater Boston markets since 2003. We benchmark your profile against your top 5 local competitors, then close the gaps keeping you out of the top 3."
+        }
+      ],
+      "image": "gbp-map-pack-result.webp"
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "What we optimize",
+      "heading": "Everything on your profile that moves you up the Map Pack",
+      "subheading": "Done for you, kept current month after month.",
+      "intro": "Map Pack ranking comes down to a profile that’s complete, active, and trusted. We handle every piece in-house — and keep it that way.",
+      "bg": "brand-50",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2\"/><rect x=\"9\" y=\"3\" width=\"6\" height=\"4\" rx=\"1\"/><path d=\"m9 14 2 2 4-4\"/></svg>",
+          "title": "Profile completeness & accuracy",
+          "text": "We fill out every field Google rewards — categories, services, service areas, hours, attributes, and your description — and make sure your name, address, and phone match your website and citations exactly."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m12 2 9 4.5-9 4.5-9-4.5L12 2Z\"/><path d=\"m3 12 9 4.5 9-4.5\"/><path d=\"m3 17 9 4.5 9-4.5\"/></svg>",
+          "title": "Categories & services",
+          "text": "We pick your primary and secondary categories the way Google reads them, then list your services with descriptions so you surface for the searches that actually bring in work."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/></svg>",
+          "title": "Service areas & geo signals",
+          "text": "We set the towns you serve and align the local signals across your profile and site so you rank in the communities you want jobs from — not just the block your office sits on."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m12 2 3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14l-5-4.87 6.91-1.01L12 2Z\"/></svg>",
+          "title": "Reviews & review responses",
+          "text": "Reviews are one of the strongest Map Pack signals. We help you generate a steady stream of them and respond to every one, which Google reads as an active, trusted business. See our <a href=\"/services/reputation-management/\">reputation management service</a> for the full system."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><circle cx=\"9\" cy=\"9\" r=\"2\"/><path d=\"m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21\"/></svg>",
+          "title": "Photos & posts",
+          "text": "We keep fresh photos and Google Posts flowing so your profile looks active and current — a signal Google favors and a reason customers pick you over a stale listing down the street."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"m8 2 1.88 1.88\"/><path d=\"M14.12 3.88 16 2\"/><path d=\"M9 7.13v-1a3.003 3.003 0 1 1 6 0v1\"/><path d=\"M12 20c-3.3 0-6-2.7-6-6v-3a4 4 0 0 1 4-4h4a4 4 0 0 1 4 4v3c0 3.3-2.7 6-6 6Z\"/><path d=\"M12 20v-9\"/><path d=\"M6.53 9C4.6 8.8 3 7.1 3 5\"/><path d=\"M6 13H2\"/><path d=\"M3 21c0-2.1 1.7-3.9 3.8-4\"/><path d=\"m22 5-3 2.5\"/><path d=\"M22 13h-4\"/><path d=\"M17.2 17c2.1.1 3.8 1.9 3.8 4\"/></svg>",
+          "title": "Spam fighting & listing defense",
+          "text": "Fake listings, keyword-stuffed competitor names, and duplicate profiles can push you down. We report violations and clean up duplicates so the businesses ranking above you are playing by the rules."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M3 3v16a2 2 0 0 0 2 2h16\"/><path d=\"m19 9-5 5-4-4-3 3\"/></svg>",
+          "title": "Insights & tracking",
+          "text": "We watch your profile’s calls, direction requests, and search views every month so you can see exactly how Map Pack visibility turns into real customers — not vanity numbers."
+        },
+        {
+          "icon_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71\"/><path d=\"M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71\"/></svg>",
+          "title": "Citations & local consistency",
+          "text": "Google cross-checks your business details across the web. We build and clean up citations so your information is consistent everywhere, which strengthens the trust that lifts you on Google Maps and in the Map Pack."
+        }
+      ]
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "Our process",
+      "heading": "How we get you into the top 3",
+      "subheading": "A clear path from buried listing to Map Pack regular.",
+      "intro": "No mystery, no 40-page PDF. Here’s exactly how we move your Google Business Profile up the local results.",
+      "bg": "white",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Free Map Pack audit",
+          "text": "We run a free 20-point audit of your Google Business Profile and benchmark it against your top 5 local competitors. You get a written action plan showing exactly where you stand and what’s keeping you out of the top 3 — no obligation, no pitch."
+        },
+        {
+          "number": "02",
+          "title": "Fix & fully optimize",
+          "text": "We correct your NAP, choose the right categories, complete every field, square up your service areas, and clean up duplicate or inaccurate listings. We get the foundation right before we push for rankings."
+        },
+        {
+          "number": "03",
+          "title": "Build trust signals",
+          "text": "We turn on a steady flow of reviews, keep posts and photos current, and build consistent citations across the web — the active, trusted signals Google uses to decide who earns the top 3."
+        },
+        {
+          "number": "04",
+          "title": "Track, defend & grow",
+          "text": "We monitor your calls, directions, and Google Maps rankings every month, fight listing spam, and keep optimizing. You get one login with the metrics that matter — and we earn the next month by performing in this one."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "v": 1,
+      "eyebrow": "What good looks like",
+      "heading": "Map Pack visibility, measured",
+      "subheading": "The numbers we move when your profile climbs.",
+      "h2_mt": "mt-0",
+      "intro": "These are the outcomes a top-3 Google Business Profile drives. We report the calls, directions, and views that turn into real customers — not vanity dashboards.",
+      "bg": "brand-50",
+      "cols": 3,
+      "stats": [
+        {
+          "value": "20+",
+          "label": "Years optimizing local profiles in Greater Boston"
+        },
+        {
+          "value": "Top 3",
+          "label": "The Map Pack position we work to win and hold"
+        },
+        {
+          "value": "5.0",
+          "suffix": "★",
+          "label": "Our own Google rating across 34 reviews"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Client results",
+      "heading": "What Greater Boston owners say",
+      "items": [
+        {
+          "quote": "“The clear results they delivered with their SEO services and online marketing efforts, friendly responsive service, and affordable rates with transparent reporting. AQ Marketing is a great marketing agency that helped our small business improve its online presence. Highly recommend!”",
+          "name": "AJM Grounds",
+          "role": "Landscaping · Google 5.0★"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Google Business Profile optimization FAQs",
+      "subheading": "The questions Greater Boston owners actually ask us.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What is Google Business Profile optimization?",
+          "a": "Google Business Profile optimization is the ongoing work of completing, improving, and managing your free Google listing so it ranks higher in local search, on Google Maps, and in the Map Pack — the top 3 local results with the map. It covers your categories, services, service areas, photos, posts, reviews, and the accuracy of your business details, all tuned to the signals Google uses to rank local businesses."
+        },
+        {
+          "q": "How long does it take to rank in the Map Pack?",
+          "a": "It depends on how competitive your category and town are and how complete your profile is today. Less competitive areas can move within weeks; competitive ones take longer. Either way, we show you measurable progress, fast — and report it every month. No legitimate agency can promise a specific spot, because Google doesn’t let anyone guarantee #1."
+        },
+        {
+          "q": "What’s the difference between Google Business Profile and Google My Business?",
+          "a": "They’re the same thing. Google renamed Google My Business to Google Business Profile in 2022. If you’ve done Google My Business optimization before, that’s exactly the listing we manage today — only the name changed."
+        },
+        {
+          "q": "How do I rank higher on Google Maps?",
+          "a": "Ranking on Google Maps comes down to the same profile that feeds the Map Pack: the right categories and services, a complete and accurate listing, a steady flow of reviews you respond to, fresh photos and posts, and consistent business details across the web. Google reads all of that to decide who shows up first on the map. We manage every piece of it for you, month after month."
+        },
+        {
+          "q": "Can I optimize my Google Business Profile myself?",
+          "a": "You can claim and fill out your profile yourself, and you should. Ranking in the top 3 is harder, because it depends on signals you have to manage continuously — a steady flow of reviews, fresh posts and photos, consistent citations across the web, and fighting off spam listings. That ongoing work is what we do for you, so you can run your business instead."
+        },
+        {
+          "q": "Do reviews affect Map Pack ranking?",
+          "a": "Yes — review quantity, recency, your overall rating, and how you respond are among the strongest local ranking signals. A profile collecting fresh reviews and replying to them reads as active and trusted, which helps it climb. We build a steady review flow into every plan; see our <a href=\"/services/reputation-management/\">reputation management service</a> for the full system."
+        },
+        {
+          "q": "How much does Google Business Profile optimization cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which includes Google Business Profile optimization and management along with your website, hosting, citations, reviews, and social posting. If you want to go further with content and link building, our SEO accelerator is $1,299/month. Book a free audit and we’ll recommend the right plan for your business and your town."
+        },
+        {
+          "q": "What areas do you serve?",
+          "a": "We’re based in Woburn, MA and have optimized local profiles across Woburn, the North Shore, MetroWest, and Greater Boston since 2003. We take on Massachusetts-adjacent clients case by case; if you’re outside the Northeast, we’ll likely refer you elsewhere."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free Map Pack audit",
+      "heading": "See exactly why you’re not in the top 3 yet",
+      "subheading": "A free, no-pitch audit of your Google Business Profile.",
+      "body": "We’ll run a free 20-point audit of your Google Business Profile, benchmark you against your top 5 local competitors, and hand you a written action plan for getting into the Map Pack. No obligation — written audit back within 2 business days.",
+      "image": "gbp-map-pack-cta.webp",
+      "cta_label": "Get your free Map Pack audit",
+      "cta_href": "/contact/",
+      "footnote": "Included in the $500/mo Smart Website & Marketing Package · You own your profile and data"
+    }
+  ]
+}

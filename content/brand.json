@@ -1,0 +1,180 @@
+{
+  "name": "AQ Marketing, Inc.",
+  "legalName": "AQ Marketing, Inc.",
+  "shortName": "AQ Marketing",
+  "tagline": "Greater Boston digital marketing & AI-ready websites for small business",
+  "description": "Woburn-based digital marketing agency serving Greater Boston since 2003 — local SEO, Google Business Profile optimization, small-business web design, and AI receptionist & chatbot solutions.",
+  "url": "https://aqmarketing.com",
+  "seoSuffix": "AQ Marketing",
+  "themeColor": "#c8102e",
+  "regionSuffix": " in Greater Boston",
+
+  "schema": { "businessType": "MarketingAgency", "serviceRadius": "40000" },
+
+  "phone": "(781) 730-6971",
+  "phoneTel": "+17817306971",
+  "email": "hello@aqmarketing.com",
+  "salesPhone": "(888) 971-4934",
+  "salesPhoneTel": "+18889714934",
+
+  "address": {
+    "street": "400 Tradecenter Dr, Suite 5900",
+    "locality": "Woburn",
+    "region": "MA",
+    "postalCode": "01801",
+    "country": "US"
+  },
+
+  "geo": { "latitude": 42.5103, "longitude": -71.1389 },
+
+  "hours": {
+    "monFri": { "opens": "09:00", "closes": "17:00" },
+    "sat": null,
+    "sun": null
+  },
+
+  "license": {
+    "number": "",
+    "state": "MA",
+    "issuingBody": "",
+    "credentialName": "",
+    "yearLicensed": null
+  },
+
+  "founded": 2003,
+
+  "logo": { "file": "logo.png", "fileDark": "logo-light.png" },
+
+  "fonts": {
+    "googleCss": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+  },
+
+  "social": { "facebook": "#", "instagram": "#", "google": null },
+
+  "areas": [
+    "Woburn, MA", "Burlington, MA", "Reading, MA", "Winchester, MA",
+    "Lexington, MA", "Stoneham, MA", "Wakefield, MA", "Medford, MA",
+    "Arlington, MA", "Melrose, MA", "Malden, MA", "Somerville, MA", "Boston, MA"
+  ],
+  "counties": ["Middlesex County, MA", "Suffolk County, MA"],
+  "regions": ["Greater Boston", "North Suburban Boston", "Massachusetts"],
+
+  "towns": [
+    { "slug": "woburn", "name": "Woburn", "county": "Middlesex" },
+    { "slug": "burlington", "name": "Burlington", "county": "Middlesex" },
+    { "slug": "reading", "name": "Reading", "county": "Middlesex" },
+    { "slug": "winchester", "name": "Winchester", "county": "Middlesex" },
+    { "slug": "lexington", "name": "Lexington", "county": "Middlesex" },
+    { "slug": "stoneham", "name": "Stoneham", "county": "Middlesex" },
+    { "slug": "wakefield", "name": "Wakefield", "county": "Middlesex" },
+    { "slug": "medford", "name": "Medford", "county": "Middlesex" },
+    { "slug": "arlington", "name": "Arlington", "county": "Middlesex" },
+    { "slug": "melrose", "name": "Melrose", "county": "Middlesex" },
+    { "slug": "malden", "name": "Malden", "county": "Middlesex" },
+    { "slug": "somerville", "name": "Somerville", "county": "Middlesex" }
+  ],
+
+  "bookingUrl": "",
+
+  "blog": { "author": "AQ Marketing", "authorUrl": "/about/", "label": "Resources", "base": "/blog/" },
+
+  "nav": [
+    { "href": "/services/", "label": "Services", "panel": "services", "id": "nav-services" },
+    { "href": "/ai/", "label": "AI Solutions", "panel": "specialty", "id": "nav-ai" },
+    { "href": "/boston/", "label": "Boston" },
+    {
+      "href": "/industries/", "label": "Industries", "children": [
+        { "label": "Dental & Medical Marketing", "href": "/industries/dental-marketing/", "tagline": "Practices & clinics" },
+        { "label": "Law Firm Marketing", "href": "/industries/law-firm-marketing/", "tagline": "Attorneys & firms" },
+        { "label": "Home Services Marketing", "href": "/industries/home-services-marketing/", "tagline": "Contractors & trades" }
+      ],
+      "linkLabel": "View all industries"
+    },
+    { "href": "/about/", "label": "About" },
+    { "href": "/contact/", "label": "Contact" }
+  ],
+
+  "megamenu": {
+    "services": {
+      "base": "/services/",
+      "heading": "Marketing Services",
+      "viewAllHref": "/services/",
+      "promo": {
+        "eyebrow": "Most clients start here",
+        "text": "Smart Website & Marketing Package — $500/month (12-month agreement). Website, SEO, AI chatbot & receptionist, reviews, and social, all in one.",
+        "ctaLabel": "See what's included",
+        "ctaHref": "/services/"
+      },
+      "items": [
+        { "slug": "local-seo", "label": "Local SEO", "tagline": "Rank in the map pack", "icon": "<circle cx=\"11\" cy=\"11\" r=\"7\"/><path d=\"M21 21l-4.3-4.3\"/>" },
+        { "slug": "google-business-profile-optimization", "label": "Google Business Profile", "tagline": "Map Pack visibility", "icon": "<path d=\"M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/>" },
+        { "slug": "web-design", "label": "Web Design", "tagline": "Sites that convert", "icon": "<rect x=\"2\" y=\"3\" width=\"20\" height=\"14\" rx=\"2\"/><path d=\"M8 21h8M12 17v4\"/>" },
+        { "slug": "google-ads-management", "label": "Google Ads Management", "tagline": "PPC that pays back", "icon": "<path d=\"M3 3v18h18\"/><path d=\"M7 14l4-4 4 4 4-6\"/>" },
+        { "slug": "reputation-management", "label": "Reputation Management", "tagline": "More 5-star reviews", "icon": "<path d=\"M12 2l3 6.5 7 .6-5.3 4.6L18.5 21 12 17.3 5.5 21l1.8-7.3L2 9.1l7-.6z\"/>" },
+        { "slug": "social-media-marketing", "label": "Social Media Marketing", "tagline": "Stay top of mind", "icon": "<circle cx=\"18\" cy=\"5\" r=\"3\"/><circle cx=\"6\" cy=\"12\" r=\"3\"/><circle cx=\"18\" cy=\"19\" r=\"3\"/><path d=\"M8.6 13.5l6.8 4M15.4 6.5l-6.8 4\"/>" },
+        { "slug": "seo-audit", "label": "Free SEO Audit", "tagline": "See where you stand", "icon": "<path d=\"M9 11l3 3L22 4\"/><path d=\"M21 12v7a2 2 0 01-2 2H5a2 2 0 01-2-2V5a2 2 0 012-2h11\"/>" }
+      ]
+    },
+    "specialty": {
+      "base": "/ai/",
+      "heading": "AI Solutions",
+      "viewAllHref": "/ai/",
+      "promo": {
+        "eyebrow": "Never miss a call",
+        "text": "AI receptionist and website chatbot that answer 24/7, book jobs, and capture every lead — included in the $500/mo package (per-minute usage fees apply).",
+        "ctaLabel": "Explore AI solutions",
+        "ctaHref": "/ai/"
+      },
+      "items": [
+        { "slug": "ai-receptionist", "label": "AI Receptionist", "tagline": "Answers every call", "icon": "<path d=\"M22 16.92v3a2 2 0 01-2.18 2 19.86 19.86 0 01-8.63-3.07 19.5 19.5 0 01-6-6 19.86 19.86 0 01-3.07-8.67A2 2 0 014.11 2h3a2 2 0 012 1.72 12.84 12.84 0 00.7 2.81 2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45 12.84 12.84 0 002.81.7A2 2 0 0122 16.92z\"/>" },
+        { "slug": "ai-answering-service", "label": "AI Answering Service", "tagline": "24/7 coverage", "icon": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M12 7v5l3 2\"/>" },
+        { "slug": "website-chatbot", "label": "Website Chatbot", "tagline": "Capture every lead", "icon": "<path d=\"M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z\"/>" }
+      ]
+    },
+    "areas": {
+      "base": "/service-area/",
+      "heading": "Service Area",
+      "viewAllHref": "/service-area/",
+      "promo": {
+        "eyebrow": "Based in Woburn",
+        "text": "We serve small businesses across Greater Boston and the northern suburbs. Don't see your town? Just reach out — chances are we cover it."
+      }
+    }
+  },
+
+  "footer": {
+    "about": "Woburn-based digital marketing agency serving Greater Boston since 2003 — local SEO, Google Business Profile optimization, small-business web design, and AI receptionist & chatbot solutions.",
+    "company": {
+      "heading": "Company",
+      "links": [
+        { "label": "About Us", "href": "/about/" },
+        { "label": "Greater Boston", "href": "/boston/" },
+        { "label": "Industries We Serve", "href": "/industries/" },
+        { "label": "Service Area", "href": "/service-area/" },
+        { "label": "Blog & Resources", "href": "/blog/" },
+        { "label": "Contact", "href": "/contact/" }
+      ]
+    },
+    "inspections": {
+      "heading": "Services",
+      "links": [
+        { "label": "Local SEO", "href": "/services/local-seo/" },
+        { "label": "Google Business Profile", "href": "/services/google-business-profile-optimization/" },
+        { "label": "Web Design", "href": "/services/web-design/" },
+        { "label": "Google Ads Management", "href": "/services/google-ads-management/" },
+        { "label": "Reputation Management", "href": "/services/reputation-management/" },
+        { "label": "Social Media Marketing", "href": "/services/social-media-marketing/" },
+        { "label": "AI Receptionist", "href": "/ai/ai-receptionist/" },
+        { "label": "AI Answering Service", "href": "/ai/ai-answering-service/" },
+        { "label": "Website Chatbot", "href": "/ai/website-chatbot/" },
+        { "label": "Free SEO Audit", "href": "/services/seo-audit/" }
+      ]
+    },
+    "legal": [
+      { "label": "Privacy Policy", "href": "/privacy/" },
+      { "label": "Terms & Conditions", "href": "/terms/" },
+      { "label": "Accessibility", "href": "/accessibility/" }
+    ],
+    "social": { "facebook": "#", "instagram": "#" }
+  }
+}

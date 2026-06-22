@@ -1,0 +1,712 @@
+{
+  "path": "/",
+  "title": "Home",
+  "status": "publish",
+  "seo": {
+    "title": "Digital Marketing for Greater Boston Small Businesses",
+    "description": "Woburn, MA agency since 2003. Done-for-you Local SEO + AI websites, chatbots & AI receptionists that turn every search into a booked customer.",
+    "canonical": "https://aqmarketing.com/"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "v": 1,
+      "eyebrow": "Local SEO + AI Websites · Greater Boston",
+      "heading": "Digital marketing for small businesses across Greater Boston.",
+      "subheading": "Rank locally. Convert instantly. Answered 24/7.",
+      "intro": "AQ Marketing pairs done-for-you Local SEO with AI-powered websites — chatbots, AI receptionists, and smart lead capture — so every search turns into a booked customer. Most clients start with our Smart Website & Marketing Package at $500/month — and we show you measurable progress, fast.",
+      "intro_max": 930,
+      "image": "hero-boston.webp",
+      "ctas": [
+        {
+          "label": "Get your free audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See what we do",
+          "href": "/services/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "logo_marquee",
+      "v": 1,
+      "label_lead": "Trusted by",
+      "label_strong": "Massachusetts small businesses since 2003",
+      "logos": [
+        {
+          "name": "Peak Home Services"
+        },
+        {
+          "name": "McLeod Landscaping"
+        },
+        {
+          "name": "Tranni Home Remodeling"
+        },
+        {
+          "name": "Gerrior Masonry"
+        },
+        {
+          "name": "Twin Metals Roofing"
+        },
+        {
+          "name": "AccuTech Communications"
+        },
+        {
+          "name": "Golini Roofing"
+        },
+        {
+          "name": "Boston Landscape Co."
+        },
+        {
+          "name": "Cassidy Landscaping"
+        },
+        {
+          "name": "Monarch Pavement"
+        },
+        {
+          "name": "Stanton Insurance"
+        },
+        {
+          "name": "Lentine Landscaping"
+        }
+      ]
+    },
+    {
+      "type": "stat_split",
+      "v": 1,
+      "num": "01",
+      "kicker": "Why AQ Marketing",
+      "heading": "Local SEO and AI websites.",
+      "heading_accent": "Under one roof.",
+      "aside_text": "We're a digital marketing company built for small business: we rank you in the map pack, then put an AI receptionist behind every click. No missed calls, no dead forms, no agency fluff — one team, one login, since 2003. From our Woburn home base we work with <a href=\"/boston/\">small businesses across Greater Boston</a>.",
+      "aside_link_text": "The AQ Marketing difference",
+      "aside_link_href": "/about/",
+      "show_map": true,
+      "stats": [
+        {
+          "value": "20",
+          "suffix": "+ yrs",
+          "label": "Serving Massachusetts small businesses since 2003"
+        },
+        {
+          "value": "98",
+          "suffix": "%",
+          "label": "Of after-hours inquiries answered by AI"
+        },
+        {
+          "value": "11",
+          "suffix": " days",
+          "label": "Average time to first local ranking gain"
+        },
+        {
+          "value": "24/7",
+          "label": "AI receptionist coverage on every site we build"
+        }
+      ]
+    },
+    {
+      "type": "problem_panel",
+      "v": 1,
+      "num": "02",
+      "kicker": "The problem we solve",
+      "heading": "Invisible on Google. Silent after hours.",
+      "heading_accent": "Leaking leads everywhere.",
+      "note": "Every one of these is fixable — and we fix all four at once.",
+      "search_term": "plumber near me",
+      "comp_rows": [
+        {
+          "name": "Apex Plumbing Co."
+        },
+        {
+          "name": "BayState Drains"
+        },
+        {
+          "name": "Citywide Plumbing"
+        }
+      ],
+      "badge_title": "BURIED",
+      "badge_sub": "Poor visibility and lost leads",
+      "you_av": "You",
+      "you_name": "Your Business",
+      "pains": [
+        {
+          "fa": "fa-location-dot",
+          "title": "Not in the map pack",
+          "body": "Competitors own the top 3 local results. Your Google Business Profile is a ghost town."
+        },
+        {
+          "fa": "fa-phone-slash",
+          "title": "Missed calls at 7pm",
+          "body": "Every after-hours ring-through is a customer calling the next shop on the list."
+        },
+        {
+          "fa": "fa-hourglass-half",
+          "title": "Slow, outdated website",
+          "body": "Four-second load times, no mobile polish, no lead capture. Google notices. So do customers."
+        },
+        {
+          "fa": "fa-robot",
+          "title": "No AI in your stack",
+          "body": "Competitors are qualifying leads 24/7 with AI. You're still playing phone tag on Monday."
+        }
+      ]
+    },
+    {
+      "type": "sticky_steps",
+      "v": 1,
+      "num": "03",
+      "kicker": "How it works",
+      "heading": "From invisible to the top of the map pack —",
+      "heading_accent": "in under 90 days.",
+      "steps": [
+        {
+          "tag": "Step 01",
+          "title": "Free local audit",
+          "body": "We benchmark your Google Business Profile, citations, reviews, and site speed against your top 5 local competitors.",
+          "meta": "20-point plan\nCompetitor benchmark\nZero obligation"
+        },
+        {
+          "tag": "Step 02",
+          "title": "Launch the AI site",
+          "body": "A fast, mobile-first website with the AI chatbot and receptionist pre-wired to your services.",
+          "meta": "Sub-1s loads\nChatbot pre-wired\nAI receptionist live"
+        },
+        {
+          "tag": "Step 03",
+          "title": "Rank the map pack",
+          "body": "Local SEO work — Google Business Profile optimization, citations, geo-targeted content, and review generation.",
+          "meta": "GBP optimization\nCitations\nReview engine"
+        },
+        {
+          "tag": "Step 04",
+          "title": "Capture every lead",
+          "body": "AI handles calls and chats 24/7. Qualified leads drop straight into your CRM, booked to your calendar.",
+          "meta": "24/7 coverage\nBooked to calendar\nStraight into CRM"
+        }
+      ]
+    },
+    {
+      "type": "service_showcase",
+      "v": 1,
+      "num": "04",
+      "kicker": "What we do",
+      "heading": "Two things, done at",
+      "heading_accent": "an unfair level.",
+      "aside_text": "Local SEO that puts you in the map pack. AI-powered websites that turn every visitor into a booked customer.",
+      "aside_link_text": "See all services",
+      "aside_link_href": "/services/",
+      "serp_query": "plumber near me",
+      "serp_map_tag": "Map pack · Woburn MA",
+      "serp_divider": "below the map pack · ~0 calls",
+      "serp_rows": [
+        {
+          "name": "Your Business",
+          "rating": "5.0 (34) · Woburn",
+          "is_you": true,
+          "badge": "#1"
+        },
+        {
+          "name": "Apex Plumbing Co.",
+          "rating": "4.6 (87) · Burlington"
+        },
+        {
+          "name": "BayState Drains",
+          "rating": "4.4 (52) · Reading"
+        },
+        {
+          "name": "Citywide Plumbing",
+          "rating": "4.1 (39) · Stoneham",
+          "dim": true
+        }
+      ],
+      "serp_cap_title": "Local SEO",
+      "serp_cap_text": "Own the map pack for every service you offer, across Greater Boston.",
+      "serp_cap_link_text": "Explore Local SEO",
+      "serp_cap_link_href": "/services/local-seo/",
+      "chat_avatar": "AQ",
+      "chat_title": "AI Receptionist",
+      "chat_status": "Online · 11:48 PM",
+      "chat_timestamp": "Today · 11:48 PM",
+      "chat_lines": [
+        {
+          "who": "u",
+          "text": "Do you do emergency drain cleaning tonight?"
+        },
+        {
+          "who": "a",
+          "text": "We do — I can get a tech out tonight. What's the address, and is it a kitchen or main line?"
+        },
+        {
+          "who": "u",
+          "text": "Main line, 14 Elm St in Woburn."
+        },
+        {
+          "who": "a",
+          "text": "Booked a 9:15 PM visit and texted you a confirmation. You're all set."
+        }
+      ],
+      "chat_card_title": "Appointment booked",
+      "chat_card_sub": "Tonight · 9:15 PM · confirmation texted",
+      "chat_cap_title": "AI Websites",
+      "chat_cap_text": "Every visitor answered, qualified, and booked — 24/7.",
+      "chat_cap_link_text": "Explore AI receptionists",
+      "chat_cap_link_href": "/ai/ai-receptionist/",
+      "svc_cards": [
+        {
+          "tag": "Local SEO",
+          "title": "Google Business Profile",
+          "body": "Get to the top of the 3-pack and stay there — GBP optimization and posts, service-area and category tuning, photo and Q&A management, weekly insight reporting.",
+          "features": "GBP optimization and posts\nService-area and category tuning\nPhoto and Q&A management\nWeekly insight reporting"
+        },
+        {
+          "tag": "Local SEO",
+          "title": "Citations & Reviews",
+          "body": "Fix the foundation Google uses to trust you — NAP citation cleanup, top 50 local directories, automated review requests, reputation monitoring.",
+          "features": "NAP citation cleanup\nTop 50 local directories\nAutomated review requests\nReputation monitoring"
+        },
+        {
+          "tag": "Local SEO",
+          "title": "Geo-targeted content",
+          "body": "Rank for every service and neighborhood — city and service landing pages, schema and local structured data, internal linking, on-page SEO fixes.",
+          "features": "City and service landing pages\nSchema and local structured data\nInternal linking\nOn-page SEO fixes"
+        },
+        {
+          "tag": "AI Websites",
+          "title": "Conversion-first websites",
+          "body": "Fast, mobile-first sites engineered for local SEO — sub-1s loads, built-in schema and GBP hooks, click-to-call and directions, hosting and care included.",
+          "features": "Sub-1s loads\nBuilt-in schema and GBP hooks\nClick-to-call and directions\nHosting and care included"
+        },
+        {
+          "tag": "AI Websites",
+          "title": "AI Chatbot",
+          "body": "Qualify leads 24/7 on every page — trained on your services, structured lead qualification, books directly to calendar, drops leads into your CRM.",
+          "features": "Trained on your services\nStructured lead qualification\nBooks directly to calendar\nDrops leads into your CRM"
+        },
+        {
+          "tag": "AI Websites",
+          "title": "AI Receptionist",
+          "body": "Answer every call — day, night, weekend — in a natural voice in your brand, booking appointments live, handling FAQs and routing, with full call transcripts and scoring.",
+          "features": "Natural voice in your brand\nBooks appointments live\nHandles FAQs and routing\nFull call transcripts and scoring"
+        }
+      ]
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "cards": [
+        {
+          "icon_svg": "<i class=\"fa-solid fa-location-dot\"></i>",
+          "title": "Google Business Profile",
+          "body": "Get to the top of the 3-pack and stay there — GBP optimization and posts, service-area and category tuning, photo and Q&A management, weekly insight reporting.",
+          "price_primary": "$500/mo",
+          "price_secondary": "Included in the Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/google-business-profile-optimization/"
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-badge-check\"></i>",
+          "title": "Citations & Reviews",
+          "body": "Fix the foundation Google uses to trust you — NAP citation cleanup, top 50 local directories, automated review requests, reputation monitoring.",
+          "price_primary": "$500/mo",
+          "price_secondary": "Included in the Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/reputation-management/"
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-map-location-dot\"></i>",
+          "title": "Geo-targeted content",
+          "body": "Rank for every service and neighborhood — city and service landing pages, schema and local structured data, internal linking, on-page SEO fixes.",
+          "price_primary": "$500/mo",
+          "price_secondary": "Included in the Smart Website & Marketing Package (12-month agreement) · SEO accelerator $1,299/mo for ongoing blog articles + link building",
+          "link_label": "Full Details",
+          "link_href": "/services/local-seo/"
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-desktop\"></i>",
+          "title": "Conversion-first websites",
+          "body": "Fast, mobile-first sites engineered for local SEO — sub-1s loads, built-in schema and GBP hooks, click-to-call and directions, hosting and care included.",
+          "price_primary": "$500/mo",
+          "price_secondary": "Included in the Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/web-design/"
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-comment-dots\"></i>",
+          "title": "AI Chatbot",
+          "body": "Qualify leads 24/7 on every page — trained on your services, structured lead qualification, books directly to calendar, drops leads into your CRM.",
+          "price_primary": "$500/mo",
+          "price_secondary": "Included in the Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/website-chatbot/"
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-headset\"></i>",
+          "title": "AI Receptionist",
+          "body": "Answer every call — day, night, weekend — in a natural voice in your brand, booking appointments live, handling FAQs and routing, with full call transcripts and scoring.",
+          "price_primary": "$500/mo",
+          "price_secondary": "Included in the Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-receptionist/"
+        }
+      ]
+    },
+    {
+      "type": "proof_story",
+      "v": 1,
+      "num": "05",
+      "kicker": "A client story",
+      "heading": "Trusted by business owners.",
+      "heading_accent": "Here's what they say.",
+      "quote": "As a small roofing business based in Massachusetts, we couldn't be more grateful for the incredible work AQ Marketing has done for us. From building our website from the ground up to managing our social media and SEO, they've handled every aspect of our online presence with true professionalism and care… If you're looking for a marketing company with true integrity that cares and delivers outstanding results, AQ Marketing is it.",
+      "author_initials": "LD",
+      "author_name": "Lindsay Devin",
+      "author_role": "Massachusetts roofing company",
+      "review_rating": "5.0",
+      "review_count": "34 Google reviews",
+      "review_snip_initials": "TT",
+      "review_snip_text": "I've been using AQ Marketing for over two years, and my sales and exposure have gone through the roof. The results have been nothing but positive. Every project is handled on time, with great attention to detail. — Tyler Tranni, Tranni Home Remodeling",
+      "bars": [
+        {
+          "star": "5",
+          "pct": "100"
+        },
+        {
+          "star": "4",
+          "pct": "0"
+        },
+        {
+          "star": "3",
+          "pct": "0"
+        },
+        {
+          "star": "2",
+          "pct": "0"
+        },
+        {
+          "star": "1",
+          "pct": "0"
+        }
+      ],
+      "metrics": [
+        {
+          "fa": "fa-location-dot",
+          "label": "Map-pack position",
+          "prefix": "#",
+          "from": "14",
+          "to": "1",
+          "old_value": "#14",
+          "caption": "For 7 of 8 tracked service keywords"
+        },
+        {
+          "fa": "fa-phone-volume",
+          "label": "After-hours leads captured",
+          "from": "0",
+          "to": "41",
+          "suffix": "/mo",
+          "old_value": "0",
+          "caption": "Handled by the AQ AI receptionist"
+        }
+      ]
+    },
+    {
+      "type": "spotlight_grid",
+      "v": 1,
+      "num": "06",
+      "kicker": "The AQ platform",
+      "heading": "Everything you need to grow,",
+      "heading_accent": "under one roof.",
+      "aside_text": "The complete marketing platform — every channel, every tool, one team and one login.",
+      "dash_chart_label": "Leads / week",
+      "dash_ring_value": "+38%",
+      "dash_ring_label": "Growth",
+      "dash_kpis": [
+        {
+          "value": "1,240",
+          "label": "Leads"
+        },
+        {
+          "value": "8.5%",
+          "label": "Conversion"
+        },
+        {
+          "value": "$45k",
+          "label": "Pipeline"
+        }
+      ],
+      "cells": [
+        {
+          "number": "01",
+          "title": "Keyword research",
+          "body": "Target the terms customers actually buy on — not just search."
+        },
+        {
+          "number": "02",
+          "title": "On-page SEO",
+          "body": "Titles, schema, and speed tuned for both humans and Google."
+        },
+        {
+          "number": "03",
+          "title": "Backlink building",
+          "body": "Real links from real sites. No PBNs, ever."
+        },
+        {
+          "number": "04",
+          "title": "Google Ads mgmt.",
+          "body": "Account audits, negative lists, and smart bidding done right."
+        },
+        {
+          "number": "05",
+          "title": "Meta & TikTok ads",
+          "body": "Creative testing engines that find winners fast."
+        },
+        {
+          "number": "06",
+          "title": "Landing pages",
+          "body": "Purpose-built pages that beat default-site conversion rates."
+        },
+        {
+          "number": "07",
+          "title": "Call tracking",
+          "body": "Every inbound call tied to the keyword or campaign that drove it."
+        },
+        {
+          "number": "08",
+          "title": "CRM & pipeline",
+          "body": "All leads in one place, with automated nurture built in."
+        },
+        {
+          "number": "09",
+          "title": "AI chatbots",
+          "body": "Qualify leads 24/7 with AQ's structured chat flows."
+        },
+        {
+          "number": "10",
+          "title": "Review generation",
+          "body": "Turn happy customers into a steady stream of 5-star reviews."
+        },
+        {
+          "number": "11",
+          "title": "Email & SMS",
+          "body": "Broadcast and drip campaigns that reactivate old customers."
+        },
+        {
+          "number": "12",
+          "title": "Reporting dashboard",
+          "body": "One login. Every metric. Zero 40-page PDFs."
+        }
+      ]
+    },
+    {
+      "type": "chip_marquee",
+      "v": 1,
+      "num": "07",
+      "kicker": "Industries we serve",
+      "heading": "Built for local service",
+      "heading_accent": "and B2B.",
+      "aside_text": "Playbooks proven across 30+ industries. A few we specialize in:",
+      "aside_link_text": "Every industry we serve",
+      "aside_link_href": "/industries/",
+      "row1_speed": "0.55",
+      "row1_chips": [
+        {
+          "fa": "fa-house",
+          "label": "Home Services",
+          "href": "/industries/home-services-marketing/"
+        },
+        {
+          "fa": "fa-fan",
+          "label": "HVAC",
+          "href": "/industries/home-services-marketing/"
+        },
+        {
+          "fa": "fa-house-chimney",
+          "label": "Roofing",
+          "href": "/industries/home-services-marketing/"
+        },
+        {
+          "fa": "fa-wrench",
+          "label": "Plumbing",
+          "href": "/industries/home-services-marketing/"
+        },
+        {
+          "fa": "fa-bolt",
+          "label": "Electrical",
+          "href": "/industries/home-services-marketing/"
+        },
+        {
+          "fa": "fa-leaf",
+          "label": "Landscaping",
+          "href": "/industries/home-services-marketing/"
+        },
+        {
+          "fa": "fa-tooth",
+          "label": "Dental",
+          "href": "/industries/dental-marketing/"
+        },
+        {
+          "fa": "fa-stethoscope",
+          "label": "Medical",
+          "href": "/industries/dental-marketing/"
+        },
+        {
+          "fa": "fa-user-doctor",
+          "label": "Chiropractic",
+          "href": "/industries/dental-marketing/"
+        }
+      ],
+      "row2_speed": "-0.45",
+      "row2_chips": [
+        {
+          "fa": "fa-scale-balanced",
+          "label": "Legal",
+          "href": "/industries/law-firm-marketing/"
+        },
+        {
+          "fa": "fa-chart-pie",
+          "label": "Financial",
+          "href": "/industries/"
+        },
+        {
+          "fa": "fa-shield-halved",
+          "label": "Insurance",
+          "href": "/industries/"
+        },
+        {
+          "fa": "fa-key",
+          "label": "Real Estate",
+          "href": "/industries/"
+        },
+        {
+          "fa": "fa-helmet-safety",
+          "label": "Construction",
+          "href": "/industries/"
+        },
+        {
+          "fa": "fa-car",
+          "label": "Auto",
+          "href": "/industries/"
+        },
+        {
+          "fa": "fa-utensils",
+          "label": "Restaurants",
+          "href": "/industries/"
+        },
+        {
+          "fa": "fa-dumbbell",
+          "label": "Fitness",
+          "href": "/industries/"
+        },
+        {
+          "fa": "fa-cubes",
+          "label": "B2B SaaS",
+          "href": "/industries/"
+        }
+      ]
+    },
+    {
+      "type": "compare_table",
+      "v": 1,
+      "num": "08",
+      "kicker": "AQ vs. the rest",
+      "heading": "Why Massachusetts small businesses",
+      "heading_accent": "pick AQ Marketing.",
+      "col_feature": "What you get",
+      "col_us": "AQ Marketing",
+      "col_us_flag": "Recommended",
+      "col_b": "Typical agency",
+      "col_c": "DIY / freelancer",
+      "rows": [
+        {
+          "feature": "Dedicated strategist",
+          "us_text": "Included",
+          "us_check": true,
+          "col_b_text": "Account coordinator",
+          "col_c_text": "—"
+        },
+        {
+          "feature": "Weekly optimization",
+          "us_check": true,
+          "col_b_text": "Monthly at best",
+          "col_c_text": "When you remember"
+        },
+        {
+          "feature": "Call & revenue tracking",
+          "us_text": "Built in",
+          "us_check": true,
+          "col_b_text": "Add-on fee",
+          "col_c_text": "—"
+        },
+        {
+          "feature": "Transparent reporting",
+          "us_text": "Live dashboard",
+          "col_b_text": "Quarterly PDF",
+          "col_c_text": "Screenshots"
+        },
+        {
+          "feature": "Everything in one package",
+          "us_text": "$500/mo, 12-month agreement",
+          "us_check": true,
+          "col_b_text": "Per-service retainers",
+          "col_c_text": "Piecemeal"
+        },
+        {
+          "feature": "Measurable progress, fast",
+          "us_check": true,
+          "col_b_text": "—",
+          "col_c_text": "—"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "FAQ",
+      "heading": "Questions, answered.",
+      "subheading": "Don't see yours? Ask the chatbot in the corner — it's exactly what we sell.",
+      "schema": true,
+      "items": [
+        {
+          "q": "How long before I see results from digital marketing?",
+          "a": "Paid campaigns produce qualified leads within the first 2–3 weeks. Local SEO compounds over about 90 days, with most clients reaching page one for priority terms inside six months. We show you measurable progress, fast, and prove it in a live dashboard."
+        },
+        {
+          "q": "Can you guarantee a #1 ranking on Google?",
+          "a": "No — and be wary of any agency that does, because Google doesn't let anyone promise a specific position. What we focus on is the map pack and the terms your customers actually search — and we show you measurable progress, fast, proven in a live dashboard."
+        },
+        {
+          "q": "What does AQ Marketing cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month (12-month agreement) — that bundles your website, on-page SEO, hosting and care, CRM and lead automation, our AI Website Chatbot and AI Voice Receptionist (per-minute usage fees apply), citations, reviews, social posting, and Google Business Profile management. When you're ready to grow faster, you can add accelerators: SEO (blog articles + link building) at $1,299/month, Google Ads management at $1,299/month, or Meta Ads management at $999/month (ad spend not included). We confirm the right mix after a free 20-point audit."
+        },
+        {
+          "q": "What's included in the $500/month package?",
+          "a": "A mobile-responsive website with content and page development, on-page SEO, premium hosting plus software updates, maintenance and support, CRM lead management and automation, our AI Website Chatbot and AI Voice Receptionist (per-minute usage fees apply), citation building and directory management, reputation and review management, social media posting (up to 3 posts/week), and Google Business Profile / Maps visibility. It's a 12-month agreement at $500/month."
+        },
+        {
+          "q": "Do you only work with businesses in Greater Boston?",
+          "a": "Greater Boston and Massachusetts are our home turf — we've worked the Woburn, North Shore, MetroWest, and Boston-metro markets since 2003. We take on MA-adjacent clients case by case, and we serve a number of clients across the U.S. and Canada; if you're outside the Northeast, we'll tell you honestly whether we're the right fit or point you elsewhere."
+        },
+        {
+          "q": "Will I own my website and ad accounts?",
+          "a": "Always. Every asset — your site, domain, Google Ads, Meta, and Google Business Profile — is owned by you from day one."
+        },
+        {
+          "q": "What is an AI receptionist, and do I need one?",
+          "a": "It's an AI that answers your phone and website chat 24/7 in a natural voice, qualifies the lead, answers common questions, and books the appointment straight to your calendar. If you're losing after-hours or missed calls to competitors, it pays for itself fast — and we include one on every site we build. Learn more on our <a href=\"/ai/ai-receptionist/\">AI receptionist page</a>."
+        }
+      ]
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready for a faster path to growth?",
+      "body": "Want to see where you stand? We'll run a free 20-point audit, benchmark you against your top 5 local competitors, and pinpoint the three highest-ROI moves to get you ranking and booked. You leave with a written action plan and zero obligation — no pitch, no pressure.",
+      "primary_label": "Book your free audit",
+      "primary_href": "/contact/",
+      "secondary_label": "See our services",
+      "secondary_href": "/services/"
+    }
+  ]
+}

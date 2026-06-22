@@ -1,0 +1,239 @@
+{
+  "path": "/industries/dental-marketing/",
+  "title": "Dental & Medical Marketing",
+  "status": "publish",
+  "seo": {
+    "title": "Dental Marketing for Greater Boston Practices",
+    "description": "Local SEO, conversion-first websites, and a 24/7 AI front desk that fills dental and medical practices with new patients across Greater Boston.",
+    "canonical": "https://aqmarketing.com/industries/dental-marketing/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Dental & Medical Marketing",
+      "heading": "Dental marketing that fills your chairs with new patients",
+      "subheading": "Local SEO + AI websites for Greater Boston practices",
+      "sub_style": "text-accent-500",
+      "intro": "AQ Marketing helps dentists and medical practices get found on Google, get chosen over the practice down the street, and get booked. We rank you in the map pack, build a website that turns visits into appointments, and put an AI front desk behind every click — so the after-hours call you'd lose today gets answered and booked instead.",
+      "image": "dental-marketing-city-hero.webp",
+      "badges": [
+        {
+          "text": "Woburn, MA · Serving Greater Boston"
+        },
+        {
+          "text": "Since 2003"
+        },
+        {
+          "text": "Rated 5.0 on Google"
+        },
+        {
+          "text": "You own everything"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free practice audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See our services",
+          "href": "/services/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why AQ Marketing",
+      "heading": "Patients pick the practice they find first",
+      "subheading": "Local SEO + AI websites, under one roof.",
+      "paragraphs": [
+        {
+          "html": "When someone needs a dentist or a doctor, they pull out their phone and tap the first few practices in the map pack. If your practice isn't there, you're not in the running — the new patient is already booking with whoever shows up first. Most dental and medical websites are built to look nice, not to get found or get the phone to ring."
+        },
+        {
+          "html": "We fix both halves of that problem with one team. We rank your practice in Google's local results, then put an AI receptionist and chatbot behind every click — so the after-hours \"do you take my insurance?\" question gets answered at 9pm, and the patient books instead of calling the office across town."
+        },
+        {
+          "html": "No middlemen, no finger-pointing between a \"web guy\" and an \"SEO guy.\" One login, one team, one bill. We've tuned this for Woburn, the North Shore, MetroWest, and Greater Boston practices since 2003. See how it works on our <a href=\"/services/local-seo/\">Local SEO</a> and <a href=\"/services/web-design/\">web design</a> pages, browse the full <a href=\"/services/\">services lineup</a>, or explore the other <a href=\"/industries/\">industries we serve</a> — including <a href=\"/industries/law-firm-marketing/\">law firms</a> and <a href=\"/industries/home-services-marketing/\">home services</a>."
+        }
+      ],
+      "image": "dental-marketing-why-overview.webp"
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "What we do for practices",
+      "heading": "Everything a busy practice needs to grow",
+      "subheading": "Pick one piece or the whole front desk.",
+      "intro": "We handle the work that actually books patients — local rankings, reviews, a website that converts, and 24/7 AI coverage so the calls you're missing now turn into appointments.",
+      "cards": [
+        {
+          "icon_svg": "location-dot",
+          "title": "Local SEO for dentists & doctors",
+          "body": "We get your practice into Google's top 3 local results for the searches patients actually use — \"dentist near me,\" \"emergency dentist,\" \"pediatric dentist Woburn.\" More visibility in the map pack means more booked chairs.",
+          "price_primary": "Foundations included in the $500/mo package",
+          "price_secondary": "+ SEO accelerator $1,299/mo for blog content & link building",
+          "link_label": "Full Details",
+          "link_href": "/services/local-seo/"
+        },
+        {
+          "icon_svg": "store",
+          "title": "Google Business Profile management",
+          "body": "Your profile is the first thing patients see. We optimize it, keep your hours and services accurate, post regularly, and answer questions — so you look active, trusted, and open.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/google-business-profile-optimization/"
+        },
+        {
+          "icon_svg": "star",
+          "title": "Reputation & review management",
+          "body": "Practices live and die by their star rating. We help you collect more 5-star reviews from happy patients automatically and respond to the rest — so your reputation does the selling before the first call.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/reputation-management/"
+        },
+        {
+          "icon_svg": "display",
+          "title": "Conversion-first practice websites",
+          "body": "A fast, modern website that loads in a blink, looks great on a phone, and makes booking an appointment obvious. Built to turn visitors into patients — and you own it from day one.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/web-design/"
+        },
+        {
+          "icon_svg": "robot",
+          "title": "AI website chatbot",
+          "body": "A chatbot on your site that answers \"do you take my insurance?\", \"are you taking new patients?\", and \"what are your hours?\" instantly — then captures the lead so your front desk wakes up to a booked schedule.",
+          "price_primary": "Included in the $500/mo package (per-minute usage fees apply)",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/website-chatbot/"
+        },
+        {
+          "icon_svg": "headset",
+          "title": "AI receptionist (your AI front desk)",
+          "body": "A 24/7 AI receptionist that picks up every call your team can't — after hours, at lunch, mid-procedure — and books the appointment. Every missed call today is a patient calling the next practice on the list.",
+          "price_primary": "Included in the $500/mo package (per-minute usage fees apply)",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-receptionist/"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "v": 1,
+      "eyebrow": "Why practices stay",
+      "heading": "Two decades of local growth — now powered by AI",
+      "bg": "brand-50",
+      "cols": 4,
+      "stats": [
+        {
+          "value": "2003",
+          "label": "Helping Massachusetts businesses win local search since"
+        },
+        {
+          "value": "24/7",
+          "label": "AI receptionist & chatbot coverage on every site we build"
+        },
+        {
+          "value": "5.0",
+          "suffix": "★",
+          "label": "Average rating across 34 Google reviews"
+        },
+        {
+          "value": "1",
+          "label": "Team, one login — Local SEO, website, and AI front desk under one roof"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Proof",
+      "heading": "Trusted by Massachusetts businesses for 20+ years",
+      "bg": "brand-50",
+      "intro": "We've grown local businesses across Greater Boston since 2003 — from spas and accounting firms to masonry, roofing, and landscaping companies — with a 5.0 rating across 34 Google reviews and clients spanning 30+ industries.",
+      "items": [
+        {
+          "quote": "Robert has been honest, dependable, and deeply committed to helping my spa grow. His knowledge of marketing, design, and how to build a professional, easy-to-navigate website has made a huge difference in how clients find and connect with us. Because of his help, we've seen real growth and stronger engagement from our clients.",
+          "name": "Saloni",
+          "role": "SA Blissful Spa"
+        },
+        {
+          "quote": "AQ Marketing helped us create our website and continues to help with our online services and forms. He is professional and responds to every email I send. If you are looking for website design, look no further than AQ Marketing.",
+          "name": "Heather Baril",
+          "role": "Client"
+        },
+        {
+          "quote": "We have been working with AQ Marketing for over 10 years. AQ doesn't just help us with our marketing, AQ is our marketing. They can take much of the credit for our consistent, steady growth, year after year.",
+          "name": "Betsy Sullivan",
+          "role": "Flynn Accounting"
+        }
+      ],
+      "cta_label": "See our work",
+      "cta_href": "/about/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Dental & medical marketing FAQ",
+      "subheading": "Straight answers for practice owners.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What does a dental marketing agency actually do?",
+          "a": "A dental marketing agency gets your practice found by patients who are searching right now and turns those searches into booked appointments. At AQ Marketing that means four things under one roof: ranking you in Google's local map pack, optimizing your Google Business Profile, building a fast website that makes booking easy, and adding a 24/7 AI receptionist and chatbot so no patient call goes unanswered."
+        },
+        {
+          "q": "How do you get a dental or medical practice to rank on Google?",
+          "a": "We start with a free 20-point local audit that benchmarks your practice against your top 5 local competitors. Then we optimize your Google Business Profile, build local citations, generate more 5-star reviews, publish location- and service-specific content, and tune your site speed. The goal is simple: get your practice into the top 3 local results for the searches your future patients are typing."
+        },
+        {
+          "q": "Will this help my practice get more new patients, not just more clicks?",
+          "a": "That's the whole point. Rankings only matter if they turn into appointments, so we pair Local SEO with a conversion-first website and an AI front desk that answers calls and chats around the clock. When a patient searches at 9pm and asks \"are you taking new patients?\", the AI answers and books them — instead of them calling the practice down the street."
+        },
+        {
+          "q": "Do you work with medical practices too, or only dentists?",
+          "a": "Both. The same playbook that fills a dental schedule works for medical, chiropractic, and other local healthcare practices — get found in local search, build trust with reviews, and capture every call and chat with an AI front desk. We've run this across 30+ industries since 2003."
+        },
+        {
+          "q": "What's the AI receptionist and why does a practice need one?",
+          "a": "It's a 24/7 AI receptionist that picks up the calls your team can't — after hours, during procedures, over lunch — and books the appointment or captures the lead. Every missed call is a patient calling the next practice on the list. The AI makes sure that patient books with you instead. Learn more on our <a href=\"/ai/ai-receptionist/\">AI receptionist</a> page."
+        },
+        {
+          "q": "How does billing work, and is there a guarantee?",
+          "a": "Most practices start with our Smart Website & Marketing Package at $500/month on a 12-month agreement, so we have the runway to rank you and compound results. We earn your business by performing, month after month — and you own everything: your website, domain, Google Business Profile, and data, from day one. You'll see measurable progress, fast."
+        },
+        {
+          "q": "Do you only work with practices in Boston?",
+          "a": "We're based in Woburn, MA and focus on Greater Boston — Woburn, the North Shore, MetroWest, and the surrounding metro. We take on Massachusetts-adjacent practices case-by-case; if you're outside the Northeast, we'll likely point you to someone better suited."
+        },
+        {
+          "q": "What does dental marketing cost?",
+          "a": "Most practices start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which covers your website, Google Business Profile, citations, reviews, AI receptionist, and chatbot. In more competitive areas we add the SEO accelerator at $1,299/month for ongoing content and link building. You own everything we build. The best starting point is our free 20-point audit — we'll benchmark you against your top 5 competitors and recommend the right mix."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free practice audit",
+      "heading": "Ready to fill your schedule with new patients?",
+      "subheading": "No pitch. Just a clear plan.",
+      "body": "Get a free 20-point local audit of your practice. We'll benchmark you against your top 5 local competitors, find where you're losing patients to the map pack, and map the highest-ROI moves to fix it — written up and yours to keep, no obligation. One team, one roof, since 2003.",
+      "image": "dental-marketing-final-cta.webp",
+      "cta_label": "Get your free audit",
+      "cta_href": "/contact/",
+      "footnote": "Free 20-point audit · You own everything · Rated 5.0 on Google"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "path": "/services/",
+  "title": "Services",
+  "status": "publish",
+  "seo": {
+    "title": "Digital Marketing Services for Small Businesses",
+    "description": "Small-business marketing services in Woburn, MA — Local SEO, Google Business Profile, web design, Google Ads, reviews & social, all from one team.",
+    "canonical": "https://aqmarketing.com/services/"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "v": 1,
+      "eyebrow": "Digital marketing services",
+      "heading": "Small-business marketing services that get you found and booked.",
+      "subheading": "One team for your rankings, your website, and your ads.",
+      "intro": "AQ Marketing runs the search rankings, the website, the AI follow-up, and the ads for Greater Boston small businesses — one team, one login, no finger-pointing between vendors. Most owners start with our Smart Website & Marketing Package at $500/month (a 12-month agreement) and add accelerators as they grow. Pick the service you need, or let us build the plan — and we'll show you measurable progress, fast.",
+      "intro_max": 860,
+      "image": "services-hero-boston.webp",
+      "ctas": [
+        {
+          "label": "Get your free local audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "Talk to a strategist",
+          "href": "/contact/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "What we do",
+      "heading": "Pick one service, or run them together.",
+      "subheading": "Each one stands on its own. Stacked, they turn local search into booked work.",
+      "intro": "Most owners start with the one fire they need put out — they're invisible on Google, their site is slow, the phone rings after hours and nobody answers. Start there. When you're ready, the rest plug in without adding a single new vendor.",
+      "cards": [
+        {
+          "icon_svg": "location-dot",
+          "title": "Local SEO",
+          "body": "Get into the Google map pack for the searches that bring you customers. We optimize your Google Business Profile, citations, reviews, and on-site content so the right people in your service area find you first.",
+          "price_primary": "Foundations included in the $500/mo package",
+          "price_secondary": "+ SEO accelerator $1,299/mo for blog content & link building",
+          "link_label": "Full Details",
+          "link_href": "/services/local-seo/"
+        },
+        {
+          "icon_svg": "store",
+          "title": "Google Business Profile Optimization",
+          "body": "Your Google Business Profile is the single biggest local ranking signal. We build it out, fix the categories and service areas, post weekly, and turn it into a source of calls — not a ghost town competitors outrank.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/google-business-profile-optimization/"
+        },
+        {
+          "icon_svg": "display",
+          "title": "Small-Business Web Design",
+          "body": "Web design services built to convert, not just to look good. A fast, mobile-first site that loads quickly, ranks locally, and puts a booking or a call one tap away. You own the site and the domain from day one.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/web-design/"
+        },
+        {
+          "icon_svg": "bullseye",
+          "title": "Google Ads Management",
+          "body": "Show up at the top the day you need leads, not in 90 days. We run Google Ads priced around cost-per-booked-call, not vanity clicks — and you own the account and the data the whole way through.",
+          "price_primary": "Google Ads management $1,299/mo (ad spend not included)",
+          "price_secondary": "Meta Ads management $999/mo · landing pages via the $500/mo package",
+          "link_label": "Full Details",
+          "link_href": "/services/google-ads-management/"
+        },
+        {
+          "icon_svg": "star",
+          "title": "Reputation Management",
+          "body": "A steady stream of real reviews, automatically. We ask every happy customer at the right moment, catch problems before they hit Google, and keep your rating high enough to win the click when buyers are comparing.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/reputation-management/"
+        },
+        {
+          "icon_svg": "hashtag",
+          "title": "Social Media Marketing",
+          "body": "Done-for-you social media marketing services that keep your business visible between jobs. We plan it, write it, and publish it so your feed stays active and on-brand without eating your week.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Up to 3 posts/week · Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/social-media-marketing/"
+        },
+        {
+          "icon_svg": "magnifying-glass-chart",
+          "title": "Free SEO Audit",
+          "body": "See exactly where you stand before you spend a dollar. We benchmark your Google Business Profile, citations, reviews, and site speed against your top 5 local competitors and hand you a written action plan — no obligation.",
+          "price_primary": "Free",
+          "price_secondary": "Written plan in 2 business days",
+          "link_label": "Full Details",
+          "link_href": "/services/seo-audit/"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why one roof beats five vendors",
+      "heading": "One team, one login — instead of an SEO guy, a web guy, and a finger-pointing match.",
+      "subheading": "The services connect, so the results compound.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "Most small businesses end up with a different vendor for every problem: one company for the website, another for SEO, a freelancer for ads, a tool for reviews. When something breaks, nobody owns it — and you're the one stuck refereeing."
+        },
+        {
+          "html": "We do it differently. AQ Marketing handles your Local SEO, website, <a href=\"/ai/\">AI follow-up</a>, ads, reviews, and social in-house, on one team. The website is built to rank. The rankings feed the AI receptionist. The reviews lift the rankings. Everything talks to everything, because it all lives under one roof."
+        },
+        {
+          "html": "We've done this for Greater Boston small businesses <a href=\"/about/\">since 2003</a> — through every algorithm change and every new tool. The technology keeps changing; the goal hasn't. Get you found, get you chosen, get you booked."
+        },
+        {
+          "html": "<blockquote>\"The team at AQ Marketing demonstrates exceptional creativity, effective communication, and professionalism throughout every project… a standout small business marketing agency. We have been with AQ Marketing for many years and we will continue for many more!\"<cite>— Arlington Club</cite></blockquote> <span class=\"rating\">Rated 5.0 on Google across 34 reviews.</span>"
+        }
+      ],
+      "image": "services-under-one-roof.webp"
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "What every engagement includes",
+      "heading": "What you get with AQ Marketing — no matter which service you pick.",
+      "subheading": "The promises that come standard, on everything.",
+      "bg": "brand-50",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "shield-check",
+          "title": "Measurable progress, fast",
+          "text": "We don't make you wait months to see whether it's working. From the first weeks, you see real movement — rankings, calls, and reviews — reported in plain English."
+        },
+        {
+          "icon_svg": "handshake",
+          "title": "One simple plan, one team",
+          "text": "The Smart Website & Marketing Package is a straightforward $500/month, 12-month agreement that bundles your website, SEO foundations, AI follow-up, reviews, and social under one roof — so everything pulls in the same direction."
+        },
+        {
+          "icon_svg": "key",
+          "title": "You own everything",
+          "text": "Your website, domain, Google Business Profile, Google Ads account, and all your data are yours from day one. If we ever part ways, you keep every bit of it."
+        },
+        {
+          "icon_svg": "user-tie",
+          "title": "A dedicated strategist",
+          "text": "You get a real person who knows your business and your market — not a ticket queue. One point of contact who owns the plan and the results across every service."
+        },
+        {
+          "icon_svg": "chart-line",
+          "title": "Plain-English reporting",
+          "text": "One login, every metric, zero 40-page PDFs nobody reads. You see calls, rankings, and revenue — the numbers that tell you whether it's working."
+        },
+        {
+          "icon_svg": "location-dot",
+          "title": "Local expertise that actually fits Boston",
+          "text": "We've tuned our playbooks for the Woburn, North Shore, MetroWest, and Greater Boston markets since 2003 — across 30+ local-service and B2B industries."
+        }
+      ]
+    },
+    {
+      "type": "link_card_grid",
+      "v": 1,
+      "variant": "light",
+      "eyebrow": "Where to start",
+      "heading": "Not sure which service you need? Start here.",
+      "subheading": "Three common starting points for Greater Boston owners.",
+      "intro": "You don't have to figure out the whole plan today. Tell us what's hurting, and we'll point you to the fix.",
+      "cols": 3,
+      "bg": "white",
+      "cards": [
+        {
+          "title": "\"I'm invisible on Google.\"",
+          "body": "You're not showing up in the map pack when local customers search for what you do. Start with Local SEO and Google Business Profile optimization to climb the local results.",
+          "note": "Best first step for most local businesses",
+          "href": "/services/local-seo/",
+          "aria": "Learn about Local SEO services"
+        },
+        {
+          "title": "\"My website is slow and dated.\"",
+          "body": "Your site loads slowly, looks old, or doesn't turn visitors into calls. A fast, mobile-first rebuild gives every other service a foundation that can actually rank and convert.",
+          "note": "Start with web design",
+          "href": "/services/web-design/",
+          "aria": "Learn about small-business web design"
+        },
+        {
+          "title": "\"I just want to know where I stand.\"",
+          "body": "Get a free, no-pitch audit benchmarked against your top 5 local competitors. We'll map the highest-ROI moves and hand you a written plan — whether or not you hire us.",
+          "note": "Free · written plan in 2 business days",
+          "href": "/services/seo-audit/",
+          "aria": "Get a free SEO audit"
+        }
+      ],
+      "cta_label": "Book a free strategy call",
+      "cta_href": "/contact/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Common questions about working with AQ Marketing.",
+      "subheading": "Ask us anything — these are the ones we hear most.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What digital marketing services does AQ Marketing offer?",
+          "a": "We offer seven core services for small businesses: <a href=\"/services/local-seo/\">Local SEO</a>, <a href=\"/services/google-business-profile-optimization/\">Google Business Profile optimization</a>, <a href=\"/services/web-design/\">small-business web design</a>, <a href=\"/services/google-ads-management/\">Google Ads management</a>, <a href=\"/services/reputation-management/\">reputation management</a>, <a href=\"/services/social-media-marketing/\">social media marketing</a>, and a <a href=\"/services/seo-audit/\">free SEO audit</a>. They work on their own or together as one connected plan, all handled in-house by one team."
+        },
+        {
+          "q": "Do I have to buy every service, or can I start with just one?",
+          "a": "Most owners start with our Smart Website & Marketing Package at $500/month — it bundles the website, SEO foundations, AI follow-up, reviews, and social into one plan — and then add accelerators like SEO or Google Ads as the results come in. If you only need one specific service, tell us and we'll point you to the right starting place."
+        },
+        {
+          "q": "How is a services hub different from your industries pages?",
+          "a": "Our service pages are organized by what you need done — rankings, a website, ads, reviews. Our <a href=\"/industries/\">industries pages</a> are organized by who you are — a dental practice, a law firm, a home-services contractor — and show how we tailor those same services to your field."
+        },
+        {
+          "q": "How much do your services cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which includes the website, on-page SEO, premium hosting, CRM and AI follow-up, reviews, and social. From there, add Marketing Accelerators as you grow: SEO (blog content and link building) at $1,299/month, Google Ads management at $1,299/month (ad spend not included), or Meta Ads management at $999/month (ad spend not included). The free audit is the fastest way to see which mix fits your market."
+        },
+        {
+          "q": "How does the agreement work?",
+          "a": "The Smart Website & Marketing Package is a 12-month agreement at $500/month — that lets us build, rank, and grow your presence with a real runway instead of starting over every 30 days. You'll see measurable progress fast, reported in plain English, so you always know it's working."
+        },
+        {
+          "q": "Do you only work with businesses in the Boston area?",
+          "a": "Greater Boston is home base — we've served Woburn, the North Shore, MetroWest, and the wider Boston metro since 2003. We take on Massachusetts-adjacent clients case by case. If you're outside the Northeast, we'll likely point you to someone better suited."
+        },
+        {
+          "q": "Who actually does the work?",
+          "a": "Our own team, in-house. You get a dedicated strategist as your single point of contact, and the people building your site, running your SEO, and managing your ads all sit under one roof. No subcontractors, no middlemen, no finger-pointing between vendors."
+        },
+        {
+          "q": "Can you handle our website and our marketing, or just one?",
+          "a": "Both, and that's the point. We build the <a href=\"/services/web-design/\">website</a> and run the marketing — Local SEO, Google Ads, reviews, and social — on the same team, so the site is built to rank and every service pulls in the same direction. You can start with just the website or just the marketing and add the rest when you're ready."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "No pitch, no pressure",
+      "heading": "Not sure where to start? Let's find your highest-ROI move.",
+      "subheading": "A free 45-minute growth audit for Greater Boston small businesses.",
+      "body": "The free audit is the fastest way to find out. We'll look at where your competitors are beating you, tell you straight which moves matter most, and follow up with a written plan — usually within 2 business days. No obligation, and if we're not the right fit, we'll say so.",
+      "image": "boston-night-skyline.png",
+      "cta_label": "Get your free audit",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Helping Massachusetts small businesses win the map pack since 2003 · (781) 730-6971"
+    }
+  ]
+}

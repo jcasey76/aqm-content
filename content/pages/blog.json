@@ -1,0 +1,29 @@
+{
+  "path": "/blog/",
+  "title": "Resources",
+  "status": "publish",
+  "seo": {
+    "title": "Local SEO & AI Website Advice for Small Businesses",
+    "description": "Plain-spoken Local SEO, web design, and AI tips for Greater Boston small businesses from AQ Marketing — ranking Massachusetts businesses since 2003.",
+    "canonical": "https://aqmarketing.com/blog/"
+  },
+  "sections": [
+    {
+      "type": "post_feed",
+      "v": 1,
+      "heading": "Local SEO and AI website advice for Greater Boston small businesses",
+      "intro": "Straight answers on getting found on Google, turning your website into a booking machine, and putting AI to work answering customers — written for small-business owners, not marketers. We started ranking Massachusetts businesses in 2003, and everything here comes from the work we do every day for local shops, contractors, and service companies. No fluff, no jargon, no 40-page PDFs. Just what's working right now in the map pack, on your site, and in AI search. When you're ready to put it to work, see how we handle <a href=\"/services/local-seo/\">Local SEO</a> and our <a href=\"/ai/ai-receptionist/\">AI receptionist</a>, or browse <a href=\"/services/\">everything we do under one roof</a>.",
+      "limit": 24
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Want this dialed in for your business instead of just reading about it?",
+      "body": "Skip the homework. We'll run a free 20-point local audit, benchmark you against your top 5 local competitors, and hand you a written plan with the three highest-ROI moves to make first. It takes about 45 minutes and there's no pitch — just a clear picture of where you're losing leads and how to fix it. You'll see measurable progress, fast — and you own everything we build.",
+      "primary_label": "Get your free audit",
+      "primary_href": "/contact/",
+      "secondary_label": "See what we do",
+      "secondary_href": "/services/"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "path": "/ai/ai-receptionist/",
+  "title": "AI Receptionist",
+  "status": "publish",
+  "seo": {
+    "title": "AI Receptionist for Small Business — Answered 24/7",
+    "description": "An AI receptionist that answers every call 24/7, books jobs, and captures leads for small businesses in Woburn & Greater Boston. Free demo.",
+    "canonical": "https://aqmarketing.com/ai/ai-receptionist/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "AI Receptionist · Answered 24/7",
+      "heading": "An AI receptionist that answers every call, books the job, and never takes a day off",
+      "subheading": "Built for small businesses in Woburn and across Greater Boston",
+      "sub_style": "text-accent-500",
+      "intro": "Every missed call is a customer dialing the next shop on the list. AQ Marketing puts an AI receptionist on your phone and your website that answers in seconds, 24/7 — it handles questions, qualifies the lead, and books the appointment straight onto your calendar. No voicemail. No phone tag on Monday morning. No after-hours lead walking away.",
+      "image": "ai-receptionist-hero.webp",
+      "badges": [
+        {
+          "text": "Answers in seconds, 24/7"
+        },
+        {
+          "text": "Measurable progress, fast"
+        },
+        {
+          "text": "Included in the $500/mo package"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free AI receptionist demo",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See how it works",
+          "href": "#how-it-works",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "The problem we solve",
+      "heading": "Every call you miss is a customer your competitor answers",
+      "subheading": "When you can't get to the phone, most callers won't leave a voicemail — they just dial the next business",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "You're on a roof, under a sink, or with a patient. The phone rings and rings, kicks to voicemail, and the caller hangs up. They don't try again — they call the next business on Google. That lost call wasn't a wrong number. It was a booked job that went to the franchise down the street."
+        },
+        {
+          "html": "After hours is worse. The calls that come in at 7pm, on weekends, and during the holidays are often the most urgent — a burst pipe, a lockout, a leak. If a real voice doesn't pick up, that emergency becomes someone else's customer. <strong>Every after-hours ring-through is a customer calling the next shop on the list.</strong>"
+        },
+        {
+          "html": "An AI receptionist closes that gap. It picks up on the first ring, day or night, sounds natural, answers the common questions, and books the appointment while the caller is still interested. You stop leaking leads — without hiring a front-desk team or paying an answering service per minute."
+        }
+      ],
+      "image": "ai-chatbot-receptionist.png"
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "What it does",
+      "heading": "A full front desk, running on autopilot",
+      "subheading": "Your AI receptionist does the work a great receptionist does — at every hour, on every channel",
+      "intro": "It's not a robotic phone tree. It talks like a person, understands what the caller needs, and takes action — answering on the phone and in the website chat, then handing off to you with the lead already captured.",
+      "bg": "brand-50",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "<i class=\"fa-solid fa-phone\"></i>",
+          "title": "Answers every call, 24/7",
+          "text": "An AI phone receptionist that picks up on the first ring — days, nights, weekends, and holidays. No voicemail, no hold music, no missed call ever again."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-calendar-check\"></i>",
+          "title": "Books appointments on the spot",
+          "text": "Checks your availability and schedules the job straight onto your calendar while the caller is still on the line."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-comments\"></i>",
+          "title": "Answers the questions people actually ask",
+          "text": "Hours, pricing ranges, service area, 'do you handle X?' — answered instantly and accurately from your real business info."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-user-check\"></i>",
+          "title": "Qualifies and routes the lead",
+          "text": "Asks the right follow-ups, separates a ready-to-book customer from a tire-kicker, and flags urgent calls so they reach you fast."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-message-sms\"></i>",
+          "title": "Follows up by text and email",
+          "text": "Sends confirmations, reminders, and a quick recap so the customer shows up — and you have every detail in writing."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-chart-line\"></i>",
+          "title": "Logs every call and lead",
+          "text": "Each conversation is captured, transcribed, and saved to your CRM. You see exactly what's coming in — no guesswork."
+        }
+      ]
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "How it works",
+      "heading": "Live in days, not months",
+      "subheading": "We set the whole thing up for you — you keep doing the work you're good at",
+      "intro": "No tech project, no new hire to train. We build your AI receptionist around how your business already runs, test it, and turn it on.",
+      "bg": "white",
+      "cards": [
+        {
+          "number": "01",
+          "title": "We learn your business",
+          "text": "A short call to capture your services, hours, service area, pricing ranges, and the questions your callers ask most. This becomes your receptionist's playbook."
+        },
+        {
+          "number": "02",
+          "title": "We build and train it",
+          "text": "We set up the AI voice and website chat in your tone, connect it to your calendar and CRM, and load your real answers. You review and approve before anything goes live."
+        },
+        {
+          "number": "03",
+          "title": "We test it with you",
+          "text": "We run real call scenarios together — booking, FAQs, after-hours, urgent jobs — and fine-tune the responses until it sounds like your best front-desk person."
+        },
+        {
+          "number": "04",
+          "title": "It goes live and we watch the numbers",
+          "text": "Your receptionist starts answering. We monitor calls booked, questions handled, and leads captured, and keep tuning it month over month."
+        }
+      ]
+    },
+    {
+      "type": "compare_table",
+      "v": 1,
+      "kicker": "Compare",
+      "heading": "AI receptionist vs. a human hire vs. the big answering services",
+      "col_feature": "What you get",
+      "col_us": "AQ Marketing AI Receptionist",
+      "col_us_flag": "Recommended",
+      "col_b": "Full-time receptionist",
+      "col_c": "Big-brand answering service",
+      "rows": [
+        {
+          "feature": "Answers 24/7, including nights, weekends & holidays",
+          "us_check": true,
+          "col_b_text": "Business hours only",
+          "col_c_text": "Extra fees for after-hours"
+        },
+        {
+          "feature": "Picks up on the first ring, every time",
+          "us_check": true,
+          "col_b_text": "If not on another call",
+          "col_c_text": "Hold queues common"
+        },
+        {
+          "feature": "Books straight onto your calendar",
+          "us_check": true,
+          "col_b_text": "Yes",
+          "col_c_text": "Often just takes a message"
+        },
+        {
+          "feature": "Knows your services, pricing & service area",
+          "us_check": true,
+          "col_b_text": "After training",
+          "col_c_text": "Generic script"
+        },
+        {
+          "feature": "Answers website chat too, not just the phone",
+          "us_check": true,
+          "col_b_text": "Phone only",
+          "col_c_text": "Phone only"
+        },
+        {
+          "feature": "Never calls in sick, quits, or needs benefits",
+          "us_check": true,
+          "col_b_text": "Salary + benefits + turnover",
+          "col_c_text": "Per-minute billing"
+        },
+        {
+          "feature": "Predictable flat monthly package (light per-minute AI usage only)",
+          "us_check": true,
+          "col_b_text": "$40k+/yr salary",
+          "col_c_text": "Charged per minute"
+        },
+        {
+          "feature": "Built and managed by a local Greater Boston team",
+          "us_check": true,
+          "col_b_text": "You manage them",
+          "col_c_text": "Offshore call center"
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "The AI receptionist comes built into your $500/month package",
+      "subheading": "It's part of the Smart Website & Marketing Package — a 12-month agreement at $500/month.",
+      "intro": "You don't buy the AI receptionist as a stand-alone line item. It's included in our Smart Website & Marketing Package — one flat monthly price that also covers your website, hosting, local SEO foundations, CRM, and more. The AI voice and chat carry small per-minute usage fees on top.",
+      "bg": "brand-50",
+      "cols": 1,
+      "featured_label": "Most Popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "/mo",
+          "features": "<ul><li>AI Website Chatbot + AI Voice Receptionist (per-minute usage fees)</li><li>Mobile-responsive website design, content & page development</li><li>On-page SEO</li><li>Premium hosting + software updates</li><li>Maintenance & support (up to 12 hrs/yr)</li><li>CRM lead management + automation</li><li>Citation building + directory management</li><li>Reputation review management</li><li>Social media posting (up to 3 posts/week)</li><li>Google Business Profile / Maps visibility</li></ul>",
+          "cta_label": "Get started",
+          "cta_href": "/contact/",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "What owners say",
+      "heading": "Small businesses that stopped missing calls",
+      "bg": "white",
+      "intro": "Rated 5.0 on Google across 34 reviews. These are real AQ Marketing clients speaking to our overall work — not specifically the AI receptionist.",
+      "items": [
+        {
+          "quote": "I've been using AQ Marketing for over two years, and my sales and exposure have gone through the roof. The results have been nothing but positive. Every project is handled on time, with great attention to detail.",
+          "name": "Tyler Tranni",
+          "role": "Tranni Home Remodeling"
+        },
+        {
+          "quote": "Best business decision I have ever made. Working with Robert and his team has grown our business immensely.",
+          "name": "Steven Schumacher",
+          "role": "AQ Marketing client"
+        }
+      ],
+      "cta_label": "Get your free demo",
+      "cta_href": "/contact/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "AI receptionist FAQ",
+      "subheading": "Straight answers to what small-business owners ask us most",
+      "schema": true,
+      "items": [
+        {
+          "q": "Is an AI receptionist right for a small business?",
+          "a": "Yes — an AI receptionist is built for small businesses that can't afford to miss a call but also can't justify a full-time front desk. While big brands hire whole call-center teams, you get the same always-on coverage for a flat monthly price. It answers the phone and your website chat 24/7, books jobs, and captures every lead, so a one-person shop or a small crew can compete with much larger companies on responsiveness."
+        },
+        {
+          "q": "How much does an AI receptionist cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), and the AI receptionist is included in that price — alongside your website, hosting, local SEO foundations, CRM, and more. The only add-on is small per-minute usage fees for the AI voice and chat. That's typically far less than a part-time front-desk hire (often $40,000+ a year for full-time), and there are no big per-minute answering-service bills."
+        },
+        {
+          "q": "What is an AI receptionist?",
+          "a": "An AI receptionist is software that answers your phone calls and website chats automatically, in a natural-sounding voice, 24 hours a day. It greets the caller, answers common questions about your hours, pricing, and services, qualifies the lead, and books the appointment straight onto your calendar — then logs everything for you. Think of it as a front-desk person who never sleeps, never takes a break, and never puts a caller on hold."
+        },
+        {
+          "q": "Does the AI receptionist sound like a robot?",
+          "a": "No. It speaks in natural, conversational language and is set up in your business's tone. Callers can ask questions in their own words, and it responds the way a well-trained receptionist would. For anything it can't handle — or any call you'd rather take yourself — it routes the caller to you or takes a detailed message."
+        },
+        {
+          "q": "What happens if the AI can't answer a question?",
+          "a": "It's built to know its limits. When a caller needs something outside its playbook, it captures their name, number, and reason for calling, then routes urgent calls straight to you and logs the rest so you can follow up fast. You never lose the lead, and the caller never hits a dead end."
+        },
+        {
+          "q": "Will it work with my current phone number and calendar?",
+          "a": "Yes. We connect the AI receptionist to your existing business number and your calendar so it can answer your real calls and book real appointments without you changing anything. It also ties into your CRM so every lead and conversation is saved in one place."
+        },
+        {
+          "q": "How is this different from a virtual receptionist or an answering service?",
+          "a": "A traditional virtual receptionist or answering service is staffed by people, usually bills steep per-minute rates, and often just takes a message after hours. An AI receptionist answers instantly every time, books the appointment itself, and handles website chat as well as the phone — included in your $500/month package with only light per-minute AI usage fees. You get faster, more consistent coverage at a predictable cost."
+        },
+        {
+          "q": "How long does it take to set up?",
+          "a": "Most setups go live within a few days. We learn your business, build and train the AI in your tone, connect it to your calendar and CRM, test it with you on real call scenarios, then turn it on. You review and approve everything before it answers a single customer."
+        },
+        {
+          "q": "What's the difference between an AI phone receptionist and an AI voice receptionist?",
+          "a": "They're two names for the same thing — an AI that answers your business calls out loud, in a natural-sounding voice, instead of just chatting in text. Your $500/month package includes both the AI voice receptionist on your phone line and the AI chat receptionist on your website, so you're covered whether a customer calls or messages."
+        },
+        {
+          "q": "Do you serve businesses outside Woburn and Boston?",
+          "a": "AQ Marketing is based in Woburn, MA and serves small businesses across Greater Boston — the North Shore, MetroWest, and the metro area. We take on Massachusetts-adjacent clients case by case; outside the Northeast we'll likely refer you elsewhere."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Stop missing calls",
+      "heading": "Hear your AI receptionist answer — free",
+      "subheading": "See exactly how it handles your calls before you commit",
+      "body": "Book a free, no-pitch demo and we'll show you your AI receptionist answering real call scenarios for your business — booking jobs, handling questions, and capturing leads after hours. It's included in the Smart Website & Marketing Package ($500/month, 12-month agreement), and we show you measurable progress, fast.",
+      "image": "ai-receptionist-cta-bg.webp",
+      "cta_label": "Get your free AI receptionist demo",
+      "cta_href": "/contact/",
+      "footnote": "Included in the $500/mo Smart Website & Marketing Package (12-month agreement) · You own your number, calendar, and data. Part of the AQ Marketing <a href=\"/ai/\">AI solutions lineup</a> — pair it with <a href=\"/services/local-seo/\">Local SEO</a> so every search you win turns into a booked call."
+    }
+  ]
+}

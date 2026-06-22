@@ -1,0 +1,88 @@
+{
+  "path": "/contact/",
+  "title": "Contact",
+  "status": "publish",
+  "seo": {
+    "title": "Contact AQ Marketing — Woburn, MA Local SEO Agency",
+    "description": "Contact AQ Marketing in Woburn, MA. Call (781) 730-6971 or request a free 20-point local audit — we reply within 2 business days.",
+    "canonical": "https://aqmarketing.com/contact/"
+  },
+  "sections": [
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Contact AQ Marketing",
+      "heading": "Let's talk about getting your business found.",
+      "meta": "Woburn, MA · Mon–Fri 9a–6p ET · Phone answered within 4 business hours"
+    },
+    {
+      "type": "columns",
+      "v": 1,
+      "heading": "Request your free local growth audit",
+      "intro": "Tell us about your business and we'll send back a written 20-point local audit within 2 business days — your Google Business Profile, citations, reviews, site speed, and how you stack up against your top 5 local competitors. No pitch, no obligation. Prefer to talk it through? Call (781) 730-6971 and you'll reach a real person, not a queue.",
+      "cols": 2,
+      "align": "start",
+      "columns": [
+        {
+          "body": "<p class=\"form-note\">Takes under a minute. We reply within 2 business days.</p>\n<!-- FORM HOST: render the WordPress form-plugin block/shortcode here (CF7 / GravityForms / admin-post / REST). Fields: First name* · Last name* · Work email* · Phone · Business name* · Current website · \"What are you looking for?\"* (select: Local SEO / map pack rankings · New website (build or rebuild) · AI chatbot & AI receptionist · Google Ads management · Google Business Profile management · Reputation & review management · Social media marketing · Branding & identity · Not sure — I need guidance) · \"Anything else we should know?\" (textarea) · honeypot (hidden) · consent checkbox*. [NEEDS CONFIRMATION: form backend is UNOWNED — must post to a real WP handler, NOT /api/contact.] -->\n<p class=\"form-consent\">I agree to receive a one-time audit response at the email and phone I provide. AQ Marketing will never sell or share your information.</p>\n<p class=\"form-submit-label\">Button: Send my free audit request</p>"
+        },
+        {
+          "body": "<aside class=\"contact-info\">\n<h3>AQ Marketing, Inc.</h3>\n<p>400 Tradecenter Dr, Suite 5900<br>Woburn, MA 01801</p>\n<div class=\"contact-card\">\n<h4>Call us</h4>\n<p><a href=\"tel:+17817306971\">(781) 730-6971</a></p>\n<p class=\"detail\">Mon–Fri · 9a–6p ET · answered within 4 business hours</p>\n</div>\n<div class=\"contact-card\">\n<h4>Email</h4>\n<p><a href=\"mailto:hello@aqmarketing.com\">hello@aqmarketing.com</a></p>\n<p class=\"detail\">Typical reply within 1 business day</p>\n</div>\n<div class=\"contact-card\">\n<h4>Visit</h4>\n<p>400 Tradecenter Dr, Suite 5900, Woburn, MA 01801</p>\n<p class=\"detail\">By appointment only</p>\n</div>\n</aside>"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "FAQ",
+      "heading": "Questions, answered before you reach out.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What happens after I submit the form?",
+          "a": "Within 2 business days you'll get a written 20-point local audit of your business — your Google Business Profile, citations, reviews, site speed, and how you stack up against your top 5 local competitors. If it looks like a fit, we'll invite you to a 45-minute strategy call. There's no pitch attached to the audit itself."
+        },
+        {
+          "q": "How fast will someone get back to me?",
+          "a": "Call during business hours (Mon–Fri, 9a–6p ET) and a real person answers — we aim to pick up or return your call within 4 business hours. Email replies typically go out within 1 business day. The written audit lands within 2 business days."
+        },
+        {
+          "q": "Is the audit really free?",
+          "a": "Yes. No credit card, no strings, no obligation to hire us. We run 3–5 free audits a month as part of how we find good-fit clients, so if we're booked up when you reach out, we'll tell you within a day."
+        },
+        {
+          "q": "Do you only work with Massachusetts businesses?",
+          "a": "We focus on Woburn, Boston, and Greater Boston because we know the market and can meet you in person. We take on Massachusetts-adjacent clients case by case. If you're outside the Northeast, we'll be straight with you and likely refer you to someone better placed to help."
+        },
+        {
+          "q": "Where is AQ Marketing located?",
+          "a": "We're at 400 Tradecenter Dr, Suite 5900, Woburn, MA 01801, and we've been here helping Massachusetts small businesses win local search since 2003. The office is by appointment only — call ahead at (781) 730-6971 and we'll set a time."
+        },
+        {
+          "q": "What does it cost to work with you?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month on a 12-month agreement — that covers your website, hosting, on-page SEO, your AI Website Chatbot and AI Voice Receptionist (plus per-minute usage), Google Business Profile, reviews, and social posting. When you want to grow faster, you can add accelerators: SEO content and link building at $1,299/month, Google Ads management at $1,299/month, or Meta Ads management at $999/month (ad spend not included). We'll recommend the right mix after your free audit."
+        },
+        {
+          "q": "What if I'm not sure what I need yet?",
+          "a": "That's fine — most owners aren't. Pick \"Not sure — I need guidance\" on the form, or just call. The free audit shows you where your business is leaking leads first, so you can decide what's worth fixing before you spend a dollar. To see the full menu first, browse <a href=\"/services/\">what we do</a>."
+        }
+      ]
+    },
+    {
+      "type": "rich_section",
+      "v": 1,
+      "section_class": "map-embed",
+      "body": "<iframe src=\"https://www.google.com/maps?q=400+Tradecenter+Dr,+Woburn,+MA+01801&output=embed\" title=\"AQ Marketing office location\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\" style=\"border:0;width:100%;aspect-ratio:4/3\" allowfullscreen></iframe>"
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Rather just pick up the phone?",
+      "body": "No forms, no waiting. Call and you'll talk to the same team that's been helping Massachusetts small businesses win the map pack since 2003 — straight answers about your map-pack rankings, your website, and what an AI front desk could do for your after-hours calls.",
+      "primary_label": "Call (781) 730-6971",
+      "primary_href": "tel:+17817306971",
+      "secondary_label": "See what we do",
+      "secondary_href": "/services/"
+    }
+  ]
+}

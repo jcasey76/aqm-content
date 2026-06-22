@@ -1,0 +1,218 @@
+{
+  "path": "/ai/",
+  "title": "AI Solutions",
+  "status": "publish",
+  "seo": {
+    "title": "AI Receptionist & Chatbots for Small Business",
+    "description": "An AI receptionist, 24/7 answering, and a website chatbot that catch every call and message for Greater Boston small businesses.",
+    "canonical": "https://aqmarketing.com/ai/"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "v": 1,
+      "eyebrow": "AI Solutions · Under one roof",
+      "heading": "An AI receptionist that never misses a call, click, or customer.",
+      "subheading": "Answered 24/7.",
+      "intro": "AQ Marketing puts an AI receptionist, a 24/7 answering line, and a website chatbot to work for your business — so every after-hours call gets picked up, every form gets a fast reply, and every visitor turns into a booked customer. Built for Greater Boston small businesses, set up by one team, and included in our Smart Website & Marketing Package at $500/month (12-month agreement). We show you measurable progress, fast.",
+      "image": "ai-solutions-hero.webp",
+      "ctas": [
+        {
+          "label": "Get your free AI demo",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See the AI receptionist",
+          "href": "/ai/ai-receptionist/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "Three ways to answer",
+      "heading": "Pick the AI that fits how your customers reach you.",
+      "subheading": "Phone, after-hours, or on your website — we cover all three.",
+      "intro": "Most leads slip away in the gap between \"they reached out\" and \"someone got back to them.\" These three tools close that gap. Start with one or run all three together — same team, one login.",
+      "cards": [
+        {
+          "icon_svg": "<i class=\"fa-solid fa-headset\"></i>",
+          "title": "AI Receptionist",
+          "body": "A friendly AI that answers your phone in your business's voice, books the appointment, and texts you the details — so a call at 7pm becomes a job on the calendar instead of a voicemail nobody returns.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Plus per-minute usage fees",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-receptionist/"
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-clock\"></i>",
+          "title": "AI Answering Service (24/7)",
+          "body": "Round-the-clock coverage for the calls you can't take — nights, weekends, lunch rushes, and busy seasons. Every caller gets a real answer, your questions asked, and the lead captured before they call the next shop on the list.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Plus per-minute usage fees",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-answering-service/"
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-comment-dots\"></i>",
+          "title": "Website Chatbot",
+          "body": "An AI chatbot on every page that answers questions, qualifies the visitor, and books the appointment while they're still on your site — so a quick click doesn't bounce to a competitor.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Plus per-minute usage fees",
+          "link_label": "Full Details",
+          "link_href": "/ai/website-chatbot/"
+        }
+      ]
+    },
+    {
+      "type": "dark_card_grid",
+      "v": 1,
+      "eyebrow": "What it does for you",
+      "heading": "More than an answering machine. A real front desk that never clocks out.",
+      "subheading": "Every tool above shares the same smart core.",
+      "intro": "Whether a customer calls, texts, or chats, the AI does the same job a great receptionist would — and hands you a clean lead with the details already captured.",
+      "cards": [
+        {
+          "icon_svg": "<i class=\"fa-solid fa-clock\"></i>",
+          "title": "Answers in seconds, 24/7",
+          "body": "Nights, weekends, holidays, and the middle of a job — every call and message gets picked up right away. No hold music, no voicemail dead-ends."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-calendar-check\"></i>",
+          "title": "Books the appointment",
+          "body": "It checks your availability, offers real time slots, and locks in the booking — then sends a confirmation by text. The customer is on the calendar before they hang up."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-message\"></i>",
+          "title": "Answers your real questions",
+          "body": "We train it on your services, service area, hours, and pricing, so it answers like someone who actually works there — not a generic bot reading a script."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-comment-sms\"></i>",
+          "title": "Texts you the lead instantly",
+          "body": "Name, number, what they need, and when — delivered to your phone the moment the call ends. You follow up warm instead of starting from a missed call."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-filter\"></i>",
+          "title": "Screens out the time-wasters",
+          "body": "It asks the qualifying questions first, so the leads that reach you are the ones worth your time — and spam and wrong numbers never make it through."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-shield-halved\"></i>",
+          "title": "Yours from day one",
+          "body": "Your number, your data, your customer list — you own all of it. Built and managed in-house by AQ Marketing, alongside your Local SEO and website. One team, one roof, one login."
+        }
+      ]
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "Getting started",
+      "heading": "Up and running fast — and we do the heavy lifting.",
+      "subheading": "No new phone system to buy. No IT project.",
+      "intro": "We set the whole thing up for you, train it on your business, and test it before it ever answers a real customer.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Free demo & plan",
+          "text": "Tell us how customers reach you and what you keep missing. We'll show you a live demo and map the right setup — receptionist, answering, chatbot, or all three."
+        },
+        {
+          "number": "02",
+          "title": "We train your AI",
+          "text": "We load in your services, hours, service area, FAQs, and booking rules, then write it to sound like your business — not a robot. You review and approve every word."
+        },
+        {
+          "number": "03",
+          "title": "Connect & test",
+          "text": "We connect it to your phone line and website and run real test calls and chats, so by the time it goes live it's already handling your customers the right way."
+        },
+        {
+          "number": "04",
+          "title": "Go live & grow",
+          "text": "Your AI starts answering, booking, and texting you leads around the clock. We watch the calls and conversations and keep tuning it month after month."
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "What owners say",
+      "heading": "Local businesses that trust AQ Marketing.",
+      "bg": "brand-50",
+      "intro": "Real Greater Boston business owners on the results they've seen working with our team. Rated 5.0 on Google across 34 reviews.",
+      "items": [
+        {
+          "quote": "I've been using AQ Marketing for over two years, and my sales and exposure have gone through the roof. The results have been nothing but positive. Every project is handled on time, with great attention to detail.",
+          "name": "Tyler Tranni",
+          "role": "Tranni Home Remodeling"
+        },
+        {
+          "quote": "Best business decision I have ever made. Working with Robert and his team has grown our business immensely.",
+          "name": "Steven Schumacher"
+        }
+      ],
+      "cta_label": "Talk to us about your calls",
+      "cta_href": "/contact/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "AI receptionists, answering, and chatbots — answered.",
+      "subheading": "The things owners ask us before they get started.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What is an AI receptionist?",
+          "a": "An AI receptionist is software that answers your business phone in a natural voice, talks to the caller, answers their questions, and books the appointment — then texts you the details. It works around the clock, so calls that used to hit voicemail after hours turn into booked jobs instead. AQ Marketing sets one up for your business and trains it on your services, hours, and service area."
+        },
+        {
+          "q": "How much does an AI receptionist cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which includes the AI receptionist, 24/7 answering, and a website chatbot, plus per-minute usage fees for the AI voice and chat. We'll walk through the details on your free demo call."
+        },
+        {
+          "q": "What's the difference between an AI receptionist, an AI answering service, and a chatbot?",
+          "a": "They cover three different doors. An <a href=\"/ai/ai-receptionist/\">AI receptionist</a> answers your phone and books appointments. An <a href=\"/ai/ai-answering-service/\">AI answering service</a> gives you 24/7 coverage for the calls you can't pick up — nights, weekends, and busy stretches. A <a href=\"/ai/website-chatbot/\">website chatbot</a> answers questions and books appointments right on your site. Many of our clients run all three together so no customer slips through."
+        },
+        {
+          "q": "Will it sound like a robot?",
+          "a": "No. We train it on your business and write it to sound like your team, so callers get a friendly, natural conversation — not a script-reading bot. You review and approve how it talks before it ever answers a real customer."
+        },
+        {
+          "q": "Can it actually book appointments, or just take messages?",
+          "a": "It books. The AI checks your availability, offers real time slots, and locks in the appointment, then sends a text confirmation. It can also just capture a message and pass it to you if that's how you'd rather work — your rules."
+        },
+        {
+          "q": "Do I have to replace my current phone number or system?",
+          "a": "No. We connect the AI to your existing number and website — there's no new phone system to buy and no IT project on your end. Most setups go live in about a week."
+        },
+        {
+          "q": "Does AQ Marketing serve businesses outside Greater Boston?",
+          "a": "Our home base is Woburn, MA, and we focus on the Greater Boston metro — Woburn, the North Shore, MetroWest, and the surrounding towns. We take on Massachusetts-adjacent clients case by case; if you're outside the Northeast, we'll likely point you to someone better suited."
+        },
+        {
+          "q": "What kinds of businesses use an AI receptionist?",
+          "a": "Mostly local service businesses that live and die by the phone — home services, HVAC, roofing, plumbing, electrical, landscaping, dental and medical offices, law firms, and the like. If you lose work every time a call goes to voicemail, it's a fit. We've built marketing for 30+ industries, so the AI gets trained on how your specific trade talks to customers."
+        },
+        {
+          "q": "Do I own my data and customer list?",
+          "a": "Yes. Your phone number, your data, and your customer list are yours from day one — same as everything else we build for you. AQ Marketing runs it all in-house alongside your <a href=\"/services/local-seo/\">Local SEO</a> and website, so there's one team and one login, with no middlemen."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Stop losing leads to voicemail",
+      "heading": "See your AI front desk in action — free.",
+      "body": "Book a free demo and we'll show you exactly how an AI receptionist, 24/7 answering line, and website chatbot would handle your calls and chats — and map the fastest way to stop missing customers. No pitch, no obligation. It's all included in our Smart Website & Marketing Package at $500/month (12-month agreement), and we show you measurable progress, fast.",
+      "image": "ai-solutions-hero.webp",
+      "cta_label": "Get your free AI demo",
+      "cta_href": "/contact/",
+      "footnote": "AQ Marketing, Inc. · 400 Tradecenter Dr, Suite 5900, Woburn, MA 01801 · (781) 730-6971 · hello@aqmarketing.com · Serving Greater Boston since 2003"
+    }
+  ]
+}

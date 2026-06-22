@@ -1,0 +1,202 @@
+{
+  "path": "/ai/website-chatbot/",
+  "title": "Website Chatbot",
+  "status": "publish",
+  "seo": {
+    "title": "AI Chatbot for Your Website That Books Leads",
+    "description": "An AI website chatbot trained on your services — it answers 24/7, qualifies leads, and books appointments straight to your CRM. Free AI audit.",
+    "canonical": "https://aqmarketing.com/ai/website-chatbot/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "AI Solutions · Website Chatbot",
+      "heading": "A website chatbot that books the customer while they're still reading.",
+      "subheading": "An AI chatbot for your website, trained on your services. Answers in seconds. Drops the lead straight into your CRM.",
+      "sub_style": "text-accent-500",
+      "intro": "Most websites just sit there. Someone shows up at 9pm with a question, doesn't get an answer, and clicks to the next business. Our AI chatbot lives on every page of your site, knows your services, prices, and service area, and turns that visitor into a booked job — before they ever leave.",
+      "image": "ai-website-chatbot-hero.webp",
+      "badges": [
+        {
+          "text": "Answers 24/7"
+        },
+        {
+          "text": "Qualifies every lead"
+        },
+        {
+          "text": "Books straight to your calendar"
+        },
+        {
+          "text": "Included in the $500/mo package"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free AI audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See all AI solutions",
+          "href": "/ai/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why a chatbot",
+      "heading": "An AI chatbot for your website turns traffic into booked work.",
+      "subheading": "Most visitors won't call and won't fill out a form. They'll ask a question — if something's there to answer it.",
+      "paragraphs": [
+        {
+          "html": "<p>Here's the gap on most small-business sites: the work to get people there is done — they searched, they clicked, they're on your page. Then nothing catches them. No quick answer to \"do you cover my town?\" or \"how much for a repair?\" — so they bounce.</p>"
+        },
+        {
+          "html": "<p>An AI website chatbot closes that gap. It's a chat window that opens on your site, trained on <strong>your</strong> services, pricing, hours, and service area — not a generic bot reading from a script. It answers the real question in plain language, asks the few things you need to qualify the lead, and books the appointment or hands off a hot lead to you.</p>"
+        },
+        {
+          "html": "<p>This is the <strong>chat</strong> side of our AI front desk. If you also want missed calls answered by a real-sounding voice, that's our <a href=\"/ai/ai-receptionist/\">AI receptionist</a> — and the two work together under one roof. The chatbot catches the people typing; the receptionist catches the people calling.</p>"
+        }
+      ],
+      "image": "ai-website-chatbot-widget.webp"
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "What it does",
+      "heading": "Not a FAQ widget. A salesperson that never logs off.",
+      "subheading": "Every chatbot we build does the same four jobs your best front-desk hire would.",
+      "intro": "A toy chatbot answers \"what are your hours?\" Ours does the part that actually makes you money — it qualifies the lead and books the job.",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "<i class=\"fa-solid fa-message-bot\"></i>",
+          "title": "Answers in your voice, from your info",
+          "text": "We train it on your services, pricing ranges, service area, and the questions you get all day. It replies in seconds, in plain language — no \"I'm just an AI\" dead ends."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-clipboard-check\"></i>",
+          "title": "Qualifies before it wastes your time",
+          "text": "It asks the few things you need to know — what they need, where they are, how soon — so the leads that reach you are real ones, not tire-kickers and wrong-area requests."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-calendar-check\"></i>",
+          "title": "Books straight to your calendar",
+          "text": "When a visitor's ready, it offers real open slots and books the appointment on the spot — while they're still interested, not three days later when they've called someone else."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-database\"></i>",
+          "title": "Drops every lead into your CRM",
+          "text": "Name, contact, and the whole conversation land in your CRM and pipeline automatically. Nothing sits in an inbox. You follow up knowing exactly what they asked for. You own all of it."
+        }
+      ]
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "How it works",
+      "heading": "Live on your site in days, not months.",
+      "subheading": "We do the building and the training. You approve it and watch the leads come in.",
+      "intro": "No coding on your end, no long onboarding. Here's the path from \"we should try this\" to a chatbot booking jobs.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "We learn your business",
+          "text": "We start with a free audit and pull what the chatbot needs to know — your services, pricing, service area, hours, and the questions customers ask most. The more it knows, the better it sells."
+        },
+        {
+          "number": "02",
+          "title": "We build and train it",
+          "text": "We set up the chat widget to match your site, write the conversation flows that qualify and book, and connect it to your calendar and CRM. You review the answers before it goes live."
+        },
+        {
+          "number": "03",
+          "title": "We launch it on your site",
+          "text": "The chatbot goes live on every page — desktop and mobile. It starts answering questions, qualifying visitors, and booking appointments around the clock from day one."
+        },
+        {
+          "number": "04",
+          "title": "We tune it as it learns",
+          "text": "We watch the real conversations, sharpen the answers, and adjust the booking flow so it converts more over time. It's part of your ongoing package — we keep earning it."
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "The chatbot is built into one simple package.",
+      "subheading": "The AI website chatbot is included in our Smart Website & Marketing Package — $500/month on a 12-month agreement. You own your data and leads, and we show you measurable progress, fast. Final details are confirmed on your free audit.",
+      "intro": "Most clients start with the Smart Website & Marketing Package, which includes the AI chatbot along with your website, hosting, on-page SEO, CRM, and more. When you're ready to grow faster, you can add a marketing accelerator.",
+      "cols": 2,
+      "featured_label": "Most Popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "/mo (12-month agreement)",
+          "features": "<ul><li>AI Website Chatbot — trained on your services & service area (per-minute usage fees for AI voice/chat)</li><li>AI Voice Receptionist included too</li><li>Answers questions 24/7, qualifies leads, books to your calendar</li><li>Mobile-responsive website design, content & page development</li><li>On-page SEO, premium hosting & software updates</li><li>CRM lead management + automation — you own all your data and leads</li><li>Google Business Profile visibility, reputation management, social posting</li></ul>",
+          "cta_label": "Get started",
+          "cta_href": "/contact/",
+          "featured": true
+        },
+        {
+          "name": "Add: SEO Accelerator",
+          "price": "$1,299",
+          "period": "/mo",
+          "features": "<ul><li>Everything in the Smart Website & Marketing Package</li><li>Blog articles written and published for you</li><li>Ongoing link building</li><li>Deeper organic growth over time</li><li>Pairs with your chatbot to turn more traffic into booked work</li></ul>",
+          "cta_label": "Talk to us",
+          "cta_href": "/contact/"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "What business owners ask about the website chatbot.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What is an AI chatbot for a website?",
+          "a": "It's a chat window on your website that answers visitor questions automatically using AI. Ours is trained on your specific services, pricing, and service area, so it gives real answers — then it qualifies the lead and books the appointment. It runs 24/7, so no one leaves your site without getting helped."
+        },
+        {
+          "q": "How is the chatbot different from the AI receptionist?",
+          "a": "The chatbot handles people who are <strong>typing</strong> on your website. The <a href=\"/ai/ai-receptionist/\">AI receptionist</a> handles people who are <strong>calling</strong> your phone. Many of our clients run both as one AI front desk — chat catches the website visitors, the receptionist catches the missed calls — all managed by one team under one roof."
+        },
+        {
+          "q": "Will the chatbot actually book appointments, or just answer questions?",
+          "a": "It books. The chatbot asks the questions needed to qualify the visitor, shows your real open time slots, and schedules the appointment on the spot. The booking and the full conversation drop straight into your CRM, so the lead never gets lost."
+        },
+        {
+          "q": "Does the chatbot work after hours?",
+          "a": "Yes — 24/7. Most website questions come in evenings and weekends, when no one's at the desk. The chatbot answers, qualifies, and books at 9pm on a Sunday the same way it does at 9am on a Tuesday."
+        },
+        {
+          "q": "Do I have to write the answers or train it myself?",
+          "a": "No. We build and train it for you using your services, pricing, and the questions you already get, then you review everything before it goes live. As real conversations come in, we keep tuning the answers so it converts better over time."
+        },
+        {
+          "q": "Do I own the chatbot and the leads it captures?",
+          "a": "Yes. You own your data, your leads, and your CRM from day one — that's true across everything we do. The chatbot comes as part of our Smart Website & Marketing Package at $500/month on a 12-month agreement, and we show you measurable progress, fast."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free AI audit",
+      "heading": "See what an AI chatbot would book for you.",
+      "subheading": "No pitch, no obligation — just a clear look at the leads your website is leaking.",
+      "body": "Book your free AI audit and we'll show you exactly where visitors are dropping off, what a trained chatbot would answer for them, and how many of those questions could turn into booked jobs. You own everything, and we show you measurable progress, fast.",
+      "image": "ai-front-desk-team.webp",
+      "cta_label": "Get your free AI audit",
+      "cta_href": "/contact/",
+      "footnote": "Greater Boston small businesses, served from Woburn, MA since 2003."
+    }
+  ]
+}

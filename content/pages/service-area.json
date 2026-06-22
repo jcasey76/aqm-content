@@ -1,0 +1,119 @@
+{
+  "path": "/service-area/",
+  "title": "Service Areas",
+  "status": "publish",
+  "seo": {
+    "title": "Service Areas — Greater Boston Towns We Serve",
+    "description": "Woburn, MA agency serving small businesses across Greater Boston: the North Shore, MetroWest, and Middlesex County. Local SEO + AI websites since 2003.",
+    "canonical": "https://aqmarketing.com/service-area/"
+  },
+  "sections": [
+    {
+      "type": "page_header",
+      "v": 1,
+      "eyebrow": "Service areas · Since 2003",
+      "heading": "Where AQ Marketing works across Greater Boston",
+      "meta": "Woburn, MA home base · Serving the Greater Boston metro · Local SEO + AI websites"
+    },
+    {
+      "type": "prose_with_image",
+      "v": 1,
+      "eyebrow": "Our home base",
+      "heading": "Based in Woburn — serving small businesses across Greater Boston",
+      "subheading": "One team, one roof, since 2003",
+      "bg": "white",
+      "image_side": "right",
+      "col_ratio": "55fr_40fr",
+      "align": "start",
+      "paragraphs": [
+        {
+          "html": "AQ Marketing is headquartered in Woburn, Massachusetts, and we've helped Greater Boston small businesses get found, get chosen, and get booked since 2003. We're not a downtown shop chasing national brands — we're a local team that knows how Middlesex County and the metro's suburbs actually search."
+        },
+        {
+          "html": "Most of our work happens remotely, so where you sit in the metro doesn't change how we work. We pair done-for-you Local SEO with AI websites — chatbots and a 24/7 AI receptionist — under one roof, so every search turns into a booked customer instead of a missed call. <a href=\"/services/local-seo/\">See how our Local SEO works</a>, or <a href=\"/ai/ai-receptionist/\">meet the AI receptionist</a>."
+        },
+        {
+          "html": "Here's where to reach us:"
+        }
+      ],
+      "checklist": [
+        {
+          "text": "AQ Marketing, Inc. — 400 Tradecenter Dr, Suite 5900, Woburn, MA 01801"
+        },
+        {
+          "text": "(781) 730-6971 · hello@aqmarketing.com"
+        },
+        {
+          "text": "Mon–Fri · 9a–6p ET · Office visits by appointment only"
+        }
+      ],
+      "link_list": [
+        {
+          "label": "Our home town:",
+          "link_text": "Marketing in Woburn, MA",
+          "href": "/service-area/woburn/"
+        },
+        {
+          "label": "Across the metro:",
+          "link_text": "Greater Boston marketing agency",
+          "href": "/boston/"
+        }
+      ],
+      "footnote": "Woburn, MA · Serving Greater Boston since 2003 · Smart Website & Marketing Package, $500/mo (12-month agreement)",
+      "cta_label": "Get your free local audit",
+      "cta_href": "/contact/",
+      "image": "service-area-woburn-office.jpg"
+    },
+    {
+      "type": "town_card_grid",
+      "v": 1,
+      "eyebrow": "Greater Boston · Middlesex County & beyond",
+      "heading": "The areas we serve",
+      "subheading": "Woburn home base, the whole metro covered",
+      "intro": "We're based in Woburn and take on small businesses across Greater Boston — the North Shore, MetroWest, and the suburbs north of the city. Below is where we work. As we publish a dedicated page for each town, it'll link from here.",
+      "bg": "brand-50",
+      "card_heading_size": "base",
+      "cards": [
+        {
+          "county": "Middlesex County",
+          "title": "Woburn",
+          "body": "Our verified home base since 2003 — the office Greater Boston owners can actually visit (by appointment) and the address behind everything we do.",
+          "href": "/service-area/woburn/"
+        },
+        {
+          "county": "Suffolk County",
+          "title": "Boston",
+          "body": "Done-for-you Local SEO and AI websites that get city small businesses into the map pack and booked after hours."
+        },
+        {
+          "county": "Essex County",
+          "title": "North Shore",
+          "body": "Map-pack rankings and 24/7 lead capture tuned for the North Shore's local searchers."
+        },
+        {
+          "county": "Middlesex County",
+          "title": "MetroWest",
+          "body": "Local SEO and conversion-first websites for MetroWest service businesses and B2B."
+        },
+        {
+          "county": "Middlesex County",
+          "title": "Northern suburbs",
+          "body": "The towns next door to Woburn — local search, reviews, and AI lead capture for businesses just north of the city."
+        },
+        {
+          "county": "Greater Boston",
+          "title": "The wider metro",
+          "body": "If you serve a local Greater Boston market and want to be found and booked, we can help — wherever you are in the metro."
+        }
+      ]
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Not sure if we cover your town? Just ask.",
+      "body": "We're based in Woburn and serve small businesses across Greater Boston. Tell us where you are and what you do, and we'll get you a free 20-point local audit — benchmarked against your top 5 local competitors, with the three highest-ROI moves mapped out. No pitch, no obligation, typically back to you within 2 business days.",
+      "primary_label": "Get your free local audit",
+      "primary_href": "/contact/"
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "path": "/services/social-media-marketing/",
+  "title": "Social Media Marketing",
+  "status": "publish",
+  "seo": {
+    "title": "Social Media Marketing for Small Business",
+    "description": "Done-for-you social media marketing and paid social for Massachusetts small businesses. Posts, ads, and replies handled by one team in Woburn, MA - since 2003.",
+    "canonical": "https://aqmarketing.com/services/social-media-marketing/",
+    "services": [
+      {
+        "name": "Social Media Marketing",
+        "description": "Managed organic social and paid social ads for Massachusetts small businesses - posts written in your voice, Facebook and Instagram ads targeted to your service area, and comments and messages answered.",
+        "url": "https://aqmarketing.com/services/social-media-marketing/",
+        "serviceType": "Social Media Marketing"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Social Media Marketing",
+      "heading": "Social media marketing that turns followers into booked customers.",
+      "subheading": "Managed social and paid ads, handled for you.",
+      "sub_style": "text-accent-500",
+      "intro": "Most small businesses don't lose on social because they post too little - they lose because the posts never lead to a call. Our social media marketing services handle the whole thing: a steady stream of posts that sound like you, paid ads aimed at the right people in your area, and replies to comments and messages so nobody who's ready to buy gets ignored. It's the same local-search and AI work we're known for, pointed at the feeds your customers actually scroll. You own every account and every follower from day one.",
+      "image": "social-media-marketing-hero-owner-phone-boston.jpg",
+      "badges": [
+        {
+          "text": "Woburn, MA · Since 2003"
+        },
+        {
+          "text": "Managed social + paid ads"
+        },
+        {
+          "text": "You own every account"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free social audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See pricing",
+          "href": "#pricing",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "trust_image_left",
+      "v": 1,
+      "eyebrow": "What you get",
+      "heading": "Posting, ads, and replies - all handled under one roof.",
+      "subheading": "Two parts that work together: managed social keeps you visible, paid social brings new people in.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "<p>Managed social is the steady part. We plan a month of posts, write them in your voice, design the graphics, and publish on the platforms where your customers actually are - usually Facebook and Instagram for local service businesses, sometimes more. You approve the plan; we do the work.</p>"
+        },
+        {
+          "html": "<p>Paid social is the growth part. We build and run Facebook and Instagram ads aimed at the right people in your service area - homeowners near you, the right age, the right interests - so you reach customers who'd never have found you on their own. We start small, watch what works, and put the budget where the leads come from.</p>"
+        },
+        {
+          "html": "<p>And we don't post and disappear. When someone comments or sends a message, that's a customer raising a hand. We reply, and on sites we build the 24/7 AI receptionist and chatbot can answer after hours and book the appointment - so a 9pm message doesn't sit until Monday. One team handles social, ads, and the AI behind it. No middlemen, no finger-pointing between vendors.</p>"
+        },
+        {
+          "html": "<blockquote><p>As a small roofing business based in Massachusetts, we couldn't be more grateful for the incredible work AQ Marketing has done for us. From building our website from the ground up to managing our social media and SEO, they've handled every aspect of our online presence with true professionalism and care&hellip; If you're looking for a marketing company with true integrity that cares and delivers outstanding results, AQ Marketing is it.</p><cite>&mdash; Lindsay Devin, Massachusetts roofing company</cite></blockquote>"
+        }
+      ],
+      "checklist": [
+        {
+          "text": "A monthly plan of posts written and designed in your voice"
+        },
+        {
+          "text": "Publishing on the platforms your customers actually use"
+        },
+        {
+          "text": "Facebook & Instagram ads targeted to your service area"
+        },
+        {
+          "text": "Budgets started small, then shifted to what brings leads"
+        },
+        {
+          "text": "Comments and messages answered, not ignored"
+        },
+        {
+          "text": "24/7 AI receptionist & chatbot to catch after-hours messages"
+        },
+        {
+          "text": "You own every account, page, and follower from day one"
+        }
+      ],
+      "cta_label": "Get your free social audit",
+      "cta_href": "/contact/",
+      "image": "social-media-marketing-content-plan-feed-phone.jpg"
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "How it works",
+      "heading": "From quiet account to a steady stream of leads.",
+      "subheading": "A simple path - no jargon, no mystery, you approve before anything goes live.",
+      "intro": "You stay in control the whole way. Here's exactly how we take your social from an afterthought to a channel that brings in real customers.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Free social audit",
+          "text": "We look at your current accounts - and your top local competitors' - to see what's working, what's missing, and where the easy wins are. You leave with a clear plan, not a sales pitch."
+        },
+        {
+          "number": "02",
+          "title": "Plan & set up",
+          "text": "We map a month of posts and an ad plan aimed at your service area, write everything in your voice, and design the graphics. You review and approve before a single thing is published."
+        },
+        {
+          "number": "03",
+          "title": "Post, advertise & reply",
+          "text": "We publish on schedule, launch your paid ads with a small starting budget, and answer the comments and messages that come in - with the AI receptionist catching anything after hours so no lead slips through."
+        },
+        {
+          "number": "04",
+          "title": "Measure & improve",
+          "text": "We track which posts and ads actually drive calls and messages, then put more behind what works. One short report, no 40-page PDF. We show you measurable progress, fast - so the work earns its place every month."
+        }
+      ]
+    },
+    {
+      "type": "logos",
+      "v": 1,
+      "eyebrow": "Trusted by Massachusetts businesses",
+      "heading": "Local businesses we keep visible.",
+      "bg": "brand-50",
+      "columns": 6,
+      "grayscale": true,
+      "logos": [
+        {
+          "image": "logo-gerrior-masonry.png",
+          "alt": "Gerrior Masonry"
+        },
+        {
+          "image": "logo-norman-builders.png",
+          "alt": "Norman Builders"
+        },
+        {
+          "image": "logo-ajm-grounds.png",
+          "alt": "AJM Grounds"
+        },
+        {
+          "image": "logo-tranni-home-remodeling.png",
+          "alt": "Tranni Home Remodeling"
+        },
+        {
+          "image": "logo-flynn-accounting.png",
+          "alt": "Flynn Accounting"
+        },
+        {
+          "image": "logo-sa-blissful-spa.png",
+          "alt": "SA Blissful Spa"
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "Straightforward social media pricing.",
+      "subheading": "Managed social is built into our core package. Add paid social when you're ready to grow.",
+      "intro": "Most clients start with our Smart Website & Marketing Package at $500/month (12-month agreement) - managed social posting is already included, alongside your website, local SEO, and the AI front desk. When you're ready to bring new people in, add Meta Ads management. Ad spend is separate and always yours. Your free social audit confirms the exact scope. You own every account and follower from day one.",
+      "bg": "white",
+      "cols": "2",
+      "featured_label": "Most Popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "/mo",
+          "features": "<ul><li>Social media posting (up to 3 posts/week), written & designed in your voice</li><li>Comments & messages monitored and answered</li><li>Mobile-responsive website, content & on-page SEO</li><li>Google Business Profile & Maps visibility, citations & reputation management</li><li>CRM lead management, plus AI Website Chatbot & AI Voice Receptionist (per-minute usage fees)</li><li>You own every account and follower</li></ul>",
+          "cta_label": "Get your free social audit",
+          "cta_href": "/contact/",
+          "featured": true
+        },
+        {
+          "name": "Meta Ads Management",
+          "price": "$999",
+          "period": "/mo + ad spend",
+          "features": "<ul><li>An add-on accelerator to the $500/mo package</li><li>Facebook & Instagram ads targeted to your service area</li><li>Ad creative, setup & ongoing optimization</li><li>Lead tracking so you see what ads actually book work</li><li>Ad spend is separate and always yours</li></ul>",
+          "cta_label": "Get your free social audit",
+          "cta_href": "/contact/"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Social media marketing questions.",
+      "subheading": "Straight answers before you spend a dollar.",
+      "schema": true,
+      "items": [
+        {
+          "q": "How much does social media marketing cost for a small business?",
+          "a": "<p>Most clients start with our Smart Website & Marketing Package at $500/month (12-month agreement) - managed social posting is already included, along with your website, local SEO, and a 24/7 AI receptionist. When you're ready to bring new people in with paid ads, add Meta Ads management at $999/month plus your ad budget, which is separate and always yours. <a href=\"#pricing\">See our pricing above</a>.</p>"
+        },
+        {
+          "q": "What platforms should my business be on?",
+          "a": "<p>Probably fewer than you think. For most local service and B2B businesses in Greater Boston, Facebook and Instagram do the heavy lifting - that's where your customers already are. We'd rather you do two platforms well than five badly. At your free audit we tell you exactly which ones are worth your time and which to skip.</p>"
+        },
+        {
+          "q": "What's the difference between managed social and paid social?",
+          "a": "<p>Managed social (also called social media management) is the regular posting - content we plan, write, design, and publish to keep you visible to the people who already follow you. Paid social is advertising - Facebook and Instagram ads we target to new people in your service area to bring fresh leads in. They work best together: posting builds trust, ads bring reach. Most small businesses start with managed social and add paid ads once there's a steady rhythm.</p>"
+        },
+        {
+          "q": "Will social media actually bring me customers?",
+          "a": "<p>Honest answer: social media works best as part of a bigger picture, not on its own. For most local businesses, the calls come from showing up on Google and in the map pack - social keeps you top of mind and gives ads a place to send people. We won't promise viral posts or a flood of followers, because no honest agency can. What we will do is run it so the people who do reach out actually get answered and booked. If you want the channel that drives the most local calls, start with our <a href=\"/services/local-seo/\">Local SEO services</a>.</p>"
+        },
+        {
+          "q": "Who writes and approves the posts?",
+          "a": "<p>We do the writing and design, in your voice - but you approve the plan before anything goes live. We learn your business, your tone, and what you want to be known for, then handle the work each month so it's off your plate. You're never surprised by what shows up on your page.</p>"
+        },
+        {
+          "q": "Do you respond to comments and messages?",
+          "a": "<p>Yes. A comment or message is often a customer ready to buy, and an ignored one is a lead lost to the next business on the list. We monitor and reply during business hours, and on sites we build the <a href=\"/ai/\">24/7 AI receptionist and chatbot</a> can answer after hours and book the appointment - so a message at 9pm doesn't sit until Monday morning.</p>"
+        },
+        {
+          "q": "Do I own my social media accounts and followers?",
+          "a": "<p>Yes - you own every account, page, and follower from day one. We run them for you, but they're yours: your login, your audience, your data. If you ever leave, you keep everything. That's a principle we don't compromise on, across everything we do.</p>"
+        },
+        {
+          "q": "Is there a contract?",
+          "a": "<p>Our Smart Website & Marketing Package - which includes your managed social posting - is a 12-month agreement at $500/month. It's a real partnership: we build your presence, run it, and show you measurable progress month over month. Paid social (Meta Ads management) is an add-on you can start or pause when it makes sense. And whatever happens, you own every account and follower from day one. If social isn't the right fit for your business, we'll tell you that too.</p>"
+        },
+        {
+          "q": "What makes AQ Marketing different from other social media agencies?",
+          "a": "<p>We don't treat social as a standalone gimmick. We're a Woburn, MA agency that's been ranking Massachusetts small businesses since 2003, and we run social as one piece of getting you found and booked - alongside <a href=\"/services/local-seo/\">Local SEO</a>, a fast website, and a 24/7 AI receptionist. One team, one login, no finger-pointing between vendors, and you own everything. See <a href=\"/services/\">everything we do under one roof</a>.</p>"
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free social audit",
+      "heading": "See what your social media could actually be doing.",
+      "subheading": "No pitch, no obligation.",
+      "body": "Get a free, no-pressure look at your current accounts - what's working, what's missing, and how you stack up against your top local competitors - plus a clear plan for the posts and ads that will bring you more calls. If you're starting from nothing, we'll map exactly where to begin.",
+      "image": "social-media-marketing-final-cta-boston-workspace.jpg",
+      "cta_label": "Get your free social audit",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Serving Greater Boston since 2003 · You own every account."
+    }
+  ]
+}

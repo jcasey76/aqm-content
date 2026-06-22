@@ -1,0 +1,306 @@
+{
+  "path": "/services/web-design/",
+  "title": "Small-Business Web Design",
+  "status": "publish",
+  "seo": {
+    "title": "Small-Business Web Design That Books More Jobs",
+    "description": "Small-business web design and website redesign by a Woburn, MA agency. Fast, mobile-first sites built to rank locally and turn clicks into booked customers.",
+    "canonical": "https://aqmarketing.com/services/web-design/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Small-Business Web Design",
+      "heading": "Small-business web design that turns visitors into customers.",
+      "subheading": "Built to rank locally and book the call.",
+      "sub_style": "text-accent-500",
+      "intro": "Most small-business sites look fine and do nothing. We design fast, mobile-first websites that read clearly on a phone and push every visitor toward one thing — calling, booking, or filling out the form. Local SEO and a 24/7 AI receptionist come built in, so the traffic you earn actually turns into customers. New build or a redesign of a site that's letting you down, you own everything we make.",
+      "image": "web-design-hero.webp",
+      "badges": [
+        {
+          "text": "Woburn, MA · Since 2003"
+        },
+        {
+          "text": "Mobile-first & fast"
+        },
+        {
+          "text": "You own the site & domain"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free site review",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See pricing",
+          "href": "#pricing",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "trust_image_left",
+      "v": 1,
+      "eyebrow": "What you get",
+      "heading": "A website built to get found and get the call.",
+      "subheading": "Starting from scratch or fixing a site that's letting you down — same goal, every time.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "<p>A pretty website that nobody finds and nobody calls is just an expensive brochure. We design every page around one job: turn the visitor into a booked customer. That means fast load times, plain words, an obvious next step, and Local SEO wired in from day one so Google can actually rank you.</p>"
+        },
+        {
+          "html": "<p>Already have a site that feels slow, dated, or invisible on a phone? Our website redesign services keep what's working — your domain, your reviews, your rankings — and rebuild the rest on a faster, mobile-first foundation. You don't restart your reputation from zero.</p>"
+        },
+        {
+          "html": "<p>We build WordPress web design and sites on our own AI-website platform, so you get something that's easy to update with a 24/7 AI receptionist and chatbot built in. One team handles design, copy, SEO, and the AI — no middlemen, no finger-pointing between vendors.</p>"
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Mobile-first design that looks right on every phone"
+        },
+        {
+          "text": "Fast load times built for Google's Core Web Vitals"
+        },
+        {
+          "text": "Local SEO and Google Business Profile wired in from day one"
+        },
+        {
+          "text": "Conversion-first layout — clear calls, forms, and booking"
+        },
+        {
+          "text": "24/7 AI receptionist and chatbot on every site"
+        },
+        {
+          "text": "Website redesign that keeps your domain, reviews, and rankings"
+        },
+        {
+          "text": "You own the site, the domain, and the data from day one"
+        }
+      ],
+      "cta_label": "Get your free site review",
+      "cta_href": "/contact/",
+      "image": "web-design-responsive-mockup.webp"
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "How it works",
+      "heading": "From first call to live site in four clear steps.",
+      "subheading": "No mystery, no missed deadlines — you see progress at every stage.",
+      "intro": "You stay in the loop the whole way through. Here's exactly how a small-business website goes from a conversation to a site that's booking jobs.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Free site review",
+          "text": "We look at your current site — or your competitors' if you don't have one yet — check how it loads on a phone, and map the pages and words your customers are actually searching for. You leave with a plan, not a pitch."
+        },
+        {
+          "number": "02",
+          "title": "Design & copy",
+          "text": "We design a fast, mobile-first layout and write the words to match — outcome-first headlines, clear services, and an obvious next step on every page. You review and approve before anything is built."
+        },
+        {
+          "number": "03",
+          "title": "Build & wire the AI",
+          "text": "We build the site, connect your Google Business Profile and Local SEO, and install the AI receptionist and chatbot so no lead slips through after hours. Everything is tested on real devices before launch."
+        },
+        {
+          "number": "04",
+          "title": "Launch & grow",
+          "text": "We launch, watch the numbers, and keep improving — speed, rankings, and the pages that book the most jobs. You see measurable progress, fast, and we keep earning it every month of your plan."
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "v": 1,
+      "eyebrow": "Recent work",
+      "heading": "Sites we've built for local businesses.",
+      "subheading": "Real projects across home services, trades, and B2B.",
+      "intro": "A look at small-business websites we've designed and launched for Massachusetts companies.",
+      "bg": "white",
+      "columns": "3",
+      "items": [
+        {
+          "image": "portfolio-gerrior-masonry.webp",
+          "caption": "Gerrior Masonry — masonry & hardscape"
+        },
+        {
+          "image": "portfolio-norman-builders.webp",
+          "caption": "Norman Builders — construction"
+        },
+        {
+          "image": "portfolio-tranni-home-remodeling.webp",
+          "caption": "Tranni Home Remodeling — remodeling"
+        },
+        {
+          "image": "portfolio-ajm-grounds.webp",
+          "caption": "AJM Grounds — landscaping"
+        },
+        {
+          "image": "portfolio-sa-blissful-spa.webp",
+          "caption": "SA Blissful Spa — wellness"
+        },
+        {
+          "image": "portfolio-flynn-accounting.webp",
+          "caption": "Flynn Accounting — professional services"
+        }
+      ]
+    },
+    {
+      "type": "logos",
+      "v": 1,
+      "eyebrow": "Trusted by Massachusetts businesses",
+      "heading": "Local businesses that grow on a site we built.",
+      "bg": "brand-50",
+      "columns": "6",
+      "grayscale": true,
+      "logos": [
+        {
+          "image": "logo-gerrior-masonry.webp",
+          "alt": "Gerrior Masonry"
+        },
+        {
+          "image": "logo-norman-builders.webp",
+          "alt": "Norman Builders"
+        },
+        {
+          "image": "logo-tranni-home-remodeling.webp",
+          "alt": "Tranni Home Remodeling"
+        },
+        {
+          "image": "logo-ajm-grounds.webp",
+          "alt": "AJM Grounds"
+        },
+        {
+          "image": "logo-sa-blissful-spa.webp",
+          "alt": "SA Blissful Spa"
+        },
+        {
+          "image": "logo-flynn-accounting.webp",
+          "alt": "Flynn Accounting"
+        },
+        {
+          "image": "logo-arlington-club.webp",
+          "alt": "Arlington Club"
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "Straightforward website pricing.",
+      "subheading": "One plan covers your whole online presence. You own the site and domain from day one.",
+      "intro": "Web design isn't sold as a one-off project — it's built into our Smart Website & Marketing Package, so your site, hosting, Local SEO, and AI tools all live under one monthly plan. New build or redesign, the price is the same. Your free site review confirms the exact scope before you commit.",
+      "bg": "white",
+      "cols": "2",
+      "featured_label": "Most Popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "per month (12-month agreement)",
+          "features": "<ul><li>Mobile-responsive website design, copywriting & page development</li><li>On-page Local SEO + Google Business Profile / Maps visibility</li><li>Premium hosting, software updates, maintenance & support (up to 12 hrs/yr)</li><li>24/7 AI Website Chatbot + AI Voice Receptionist (per-minute usage fees)</li><li>CRM lead management + automation, citation building & directory management</li><li>Reputation review management + social posting (up to 3 posts/week)</li><li>New build or redesign — keep your domain, reviews & rankings; you own everything</li></ul>",
+          "cta_label": "Get your free site review",
+          "cta_href": "/contact/",
+          "featured": true
+        },
+        {
+          "name": "SEO Accelerator (add-on)",
+          "price": "$1,299",
+          "period": "per month",
+          "features": "<ul><li>Adds to the $500/mo package when you want to rank faster</li><li>Ongoing blog articles written to target buyer searches</li><li>Authority link building to lift your rankings</li><li>Transparent monthly reporting on progress</li><li>Pairs with the Local SEO already wired into your site</li></ul>",
+          "cta_label": "Get your free site review",
+          "cta_href": "/contact/"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "What clients say",
+      "heading": "Owners who stopped losing leads to a weak site.",
+      "intro": "Real reviews from Massachusetts business owners — 5.0 on Google across 34 reviews.",
+      "items": [
+        {
+          "quote": "Robert has been honest, dependable, and deeply committed to helping my spa grow. His knowledge of marketing, design, and how to build a professional, easy-to-navigate website has made a huge difference in how clients find and connect with us. Because of his help, we've seen real growth and stronger engagement from our clients.",
+          "name": "Saloni",
+          "role": "SA Blissful Spa"
+        },
+        {
+          "quote": "AQ Marketing helped us create our website and continues to help with our online services and forms. He is professional and responds to every email I send. If you are looking for website design, look no further than AQ Marketing.",
+          "name": "Heather Baril",
+          "role": "AQ Marketing client"
+        },
+        {
+          "quote": "Robert and his team redesigned our outdated construction website and helped us move to the top of Google searches with their SEO services. Highly recommend the team at AQ Marketing!",
+          "name": "Ryan Norman",
+          "role": "Norman Builders"
+        }
+      ],
+      "cta_label": "Get your free site review",
+      "cta_href": "/contact/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Small-business web design questions.",
+      "subheading": "Straight answers before you spend a dollar.",
+      "schema": true,
+      "items": [
+        {
+          "q": "How much does a small-business website cost?",
+          "a": "<p>Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement). That covers your website design, copywriting, hosting, Local SEO, Google Business Profile, the 24/7 AI receptionist and chatbot, and ongoing maintenance — your whole online presence in one plan, not a one-off build. Want to rank faster? You can add the SEO accelerator at $1,299/month. We confirm the exact scope at your free site review — no obligation. <a href=\"#pricing\">See pricing above</a>.</p>"
+        },
+        {
+          "q": "How long does it take to build a website?",
+          "a": "<p>Most small-business sites go live within a few weeks once we have your content and approvals. The timeline depends on how many pages you need and how fast we get your photos, services, and sign-off. We set clear dates up front so there are no surprises.</p>"
+        },
+        {
+          "q": "Do you build on WordPress?",
+          "a": "<p>Yes. We do WordPress web design, which is easy to update and search-friendly, and we also offer our own AI-website platform with a 24/7 receptionist and chatbot built in. We'll recommend the right fit for your business at your free review. Either way, you own the site and the domain.</p>"
+        },
+        {
+          "q": "Can you redesign my existing website instead of starting over?",
+          "a": "<p>Absolutely. Our website redesign services keep what's already working for you — your domain, your reviews, and any Google rankings you've earned — and rebuild the rest on a faster, mobile-first foundation. You don't restart your reputation from zero. If your current site is slow, dated, or invisible on a phone, a redesign is usually the smarter move. <a href=\"/contact/\">Book a redesign review</a>.</p>"
+        },
+        {
+          "q": "Will my new website show up on Google?",
+          "a": "<p>That's the whole point. We wire Local SEO and your Google Business Profile into the site from day one, so Google can read it, rank it, and show you in local results. A website nobody can find won't book you any work — ours are built to get found. See our <a href=\"/services/local-seo/\">Local SEO services</a> for the full ranking program.</p>"
+        },
+        {
+          "q": "Can I update the website myself after it launches?",
+          "a": "<p>Yes. We build on systems made for owners, not just developers — you can edit text, swap photos, and add pages without touching code. Prefer to hand it off? Maintenance and support are built into your package, so we'll keep the site updated for you. Either way it's your site, your login, your call. See <a href=\"/ai/\">our AI tools</a> for what runs behind the scenes once you're live.</p>"
+        },
+        {
+          "q": "Do I own my website and domain?",
+          "a": "<p>Yes — you own the site, the domain, and the data from day one. No hostage situations, no handing it back if you ever leave. That's true across everything we do, and it's a principle we don't compromise on.</p>"
+        },
+        {
+          "q": "What makes AQ Marketing different from other web design agencies?",
+          "a": "<p>Two things, done under one roof. We don't just design a nice-looking site — we wire in Local SEO so it ranks and an AI receptionist so it books. One team handles design, copy, SEO, and the AI, with one login and no finger-pointing between vendors. We're a Woburn, MA web design agency that's been ranking Massachusetts small businesses since 2003, and we earn your business by performing, month after month.</p>"
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free site review",
+      "heading": "See exactly what's holding your website back.",
+      "subheading": "No pitch, no obligation.",
+      "body": "Get a free, no-pressure review of your current site — speed, mobile experience, and how you stack up against your top local competitors — plus a clear plan for the pages and fixes that will book you more jobs. If you don't have a site yet, we'll map what you need from scratch.",
+      "image": "web-design-cta-backdrop.webp",
+      "cta_label": "Get your free site review",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Serving Greater Boston since 2003 · You own everything we build."
+    }
+  ]
+}

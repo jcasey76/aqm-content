@@ -1,0 +1,284 @@
+{
+  "path": "/services/local-seo/",
+  "title": "Local SEO",
+  "status": "publish",
+  "seo": {
+    "title": "Local SEO Services That Put You in the Map Pack",
+    "description": "Done-for-you local SEO services for Greater Boston small businesses. We rank you in the Google map pack with GBP, citations, reviews, and local content.",
+    "canonical": "https://aqmarketing.com/services/local-seo/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Local SEO Services",
+      "heading": "Local SEO services that put your business at the top of the map",
+      "subheading": "Woburn-based, Greater Boston–focused, since 2003",
+      "sub_style": "text-accent-500",
+      "intro": "When someone near you searches for what you do, you want to be one of the three businesses in the map pack — not buried on page two where nobody looks. We optimize your Google Business Profile, fix your citations, earn real reviews, and build the local content that moves you up. Done for you, and we show you measurable progress, fast.",
+      "image": "local-seo-hero-map-pack.webp",
+      "badges": [
+        {
+          "text": "Rated 5.0 on Google"
+        },
+        {
+          "text": "Woburn-based, Greater Boston–focused"
+        },
+        {
+          "text": "Serving Greater Boston since 2003"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get a free local audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "Call (781) 730-6971",
+          "href": "tel:+17817306971",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "trust_image_left",
+      "v": 1,
+      "eyebrow": "What's included",
+      "heading": "What local SEO services actually include",
+      "subheading": "One team handling every signal Google uses to rank you locally — under one roof, no vendors to chase.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "Local SEO isn't one thing — it's a stack of signals Google weighs every time someone searches near you. Most agencies fix one piece and call it done. We work the whole stack: your Google Business Profile, the directories that list your name and number, your reviews, and the pages on your own site. That's how rankings actually move and stay moved."
+        },
+        {
+          "html": "You get a dedicated strategist, weekly optimization, and one login that shows what's working — not a 40-page PDF nobody reads. Everything we build is yours: your profile, your site, your data, from day one. That's the deal whether you're a one-van plumber or a multi-location dental group."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Google Business Profile optimization — the #1 local ranking signal"
+        },
+        {
+          "text": "Citation cleanup across Google, Bing, Apple Maps, Yelp, and 40+ directories"
+        },
+        {
+          "text": "Review generation that arrives steadily, the compliant way"
+        },
+        {
+          "text": "Local, geo-targeted content for the towns you actually serve"
+        },
+        {
+          "text": "Technical SEO and Core Web Vitals so your site can rank at all"
+        },
+        {
+          "text": "Local schema and on-page SEO, done right once and maintained"
+        }
+      ],
+      "cta_label": "See how we work",
+      "cta_href": "#process",
+      "image": "local-seo-included-stack.webp"
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "Our process",
+      "heading": "A clear 90-day path from invisible to the map pack",
+      "subheading": "No mystery, no busywork. Here's the order we work in and what you get at each stage.",
+      "intro": "Local rankings compound. We fix the foundation first, then build authority on top of it — so each month does more than the last.",
+      "bg": "brand-50",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Audit & benchmark",
+          "text": "We score your Google Business Profile, citations, reviews, site speed, and on-page SEO against your top 5 local competitors — then baseline your rankings for the keywords that bring real customers."
+        },
+        {
+          "number": "02",
+          "title": "Fix the foundation",
+          "text": "We rebuild your GBP with the right category and services, clean up every inconsistent listing, install local schema, and get your site fast and mobile-friendly. This is where most rankings start to move."
+        },
+        {
+          "number": "03",
+          "title": "Build local authority",
+          "text": "Geo-targeted service-area pages, a steady flow of fresh reviews, weekly GBP posts, and local links. Real signals from your real market — not the template spam Google now penalizes."
+        },
+        {
+          "number": "04",
+          "title": "Optimize & expand",
+          "text": "We double down on what's ranking, then extend to secondary keywords and the next towns over. You see it all in one dashboard, and we earn the next month by performing in the current one."
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "Two pieces people always ask about",
+      "heading": "Google Business Profile and technical SEO, explained",
+      "subheading": "The two questions we get most. Here's how each one fits into a local SEO engagement.",
+      "bg": "white",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "<i class=\"fa-solid fa-location-dot\"></i>",
+          "title": "Google Business Profile (your biggest local lever)",
+          "text": "Your Google Business Profile feeds the three signals Google uses to rank locally — relevance, distance, and prominence. The right primary category, a complete service list, weekly posts, fresh photos, and active Q&A can lift your local-search visibility without touching your website. Want the deep dive? See our <a href=\"/services/google-business-profile-optimization/\">Google Business Profile optimization</a> service."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-gauge-high\"></i>",
+          "title": "Technical SEO (the ranking ceiling nobody mentions)",
+          "text": "A slow, broken, or schema-less site caps how high you can rank — no matter how good your profile is. We fix Core Web Vitals (speed, layout shift, responsiveness), add local schema, and clean up your site structure and internal links so Google can read and trust your pages. It's built into every local SEO engagement, not a separate bill."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-list-check\"></i>",
+          "title": "Citations and NAP consistency",
+          "text": "When your name, address, and phone number don't match across Google, Bing, Apple Maps, Yelp, the BBB, and dozens of industry directories, Google quietly lowers your trust. We find the mismatches and fix them in the first two weeks, then keep them in sync."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-magnifying-glass-chart\"></i>",
+          "title": "Free local audit (the best place to start)",
+          "text": "Not sure where you stand? Start with a free, no-obligation local audit. We benchmark your profile, citations, reviews, and site against your top 5 competitors and hand you a prioritized action plan. <a href=\"/contact/\">Book your free local audit</a> — no pitch, no commitment."
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "v": 1,
+      "eyebrow": "Results",
+      "heading": "What winning the map pack looks like",
+      "subheading": "Benchmarks from local SEO work — your results depend on your market and starting point.",
+      "intro": "Rankings aren't promises, they're earned. These are the kinds of gains a full local SEO engagement is built to produce. We'll set realistic targets for your market in the audit.",
+      "bg": "brand-50",
+      "cols": 4,
+      "stats": [
+        {
+          "value": "284",
+          "suffix": "%",
+          "label": "Lift in local-search impressions (first 6 months)"
+        },
+        {
+          "value": "11",
+          "suffix": " days",
+          "label": "Average time to first measurable ranking gain"
+        },
+        {
+          "value": "3.4",
+          "suffix": "×",
+          "label": "More direction requests on Google Business Profile"
+        },
+        {
+          "value": "78",
+          "suffix": "%",
+          "label": "Share of clicks the top 3 map-pack results capture"
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "Local SEO pricing that matches your market",
+      "subheading": "Most clients start with our Smart Website & Marketing Package, then add the SEO accelerator when their market calls for it. You own everything we build.",
+      "bg": "white",
+      "cols": 2,
+      "featured_label": "Most popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "/month",
+          "features": "12-month agreement\nMobile-responsive website design & development\nOn-page SEO + local schema\nGoogle Business Profile / Maps visibility\nCitation building & directory management\nReputation & review management\nSocial media posting (up to 3 posts/week)\nCRM lead management + automation\nPremium hosting, updates, maintenance & support",
+          "cta_label": "Start with a free audit",
+          "cta_href": "/contact/",
+          "featured": true
+        },
+        {
+          "name": "SEO Accelerator",
+          "price": "$1,299",
+          "period": "/month",
+          "features": "Add-on to the Smart Website & Marketing Package\nBlog articles written and published monthly\nLocal link building for authority\nGeo-targeted service-area content\nFor competitive markets like HVAC, legal & dental\nDedicated strategist",
+          "cta_label": "Talk to us",
+          "cta_href": "/contact/"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Client results",
+      "heading": "Local businesses we've helped get found",
+      "bg": "brand-50",
+      "intro": "We've ranked Massachusetts small businesses since 2003 — home services, roofing, landscaping, masonry, and more. Rated 5.0 on Google across 34 reviews.",
+      "items": [
+        {
+          "quote": "The clear results they delivered with their SEO services and online marketing efforts, friendly responsive service, and affordable rates with transparent reporting. AQ Marketing is a great marketing agency that helped our small business improve its online presence. Highly recommend!",
+          "name": "AJM Grounds",
+          "role": "Landscaping"
+        },
+        {
+          "quote": "Robert and his team redesigned our outdated construction website and helped us move to the top of Google searches with their SEO services. Highly recommend the team at AQ Marketing!",
+          "name": "Ryan Norman",
+          "role": "Norman Builders"
+        }
+      ],
+      "cta_label": "See the businesses we work with",
+      "cta_href": "/about/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "FAQ",
+      "heading": "Local SEO questions, answered straight",
+      "subheading": "The questions Greater Boston business owners ask us most.",
+      "schema": true,
+      "items": [
+        {
+          "q": "How long does local SEO take to work?",
+          "a": "Most clients see their first map-pack movement within the first month. Reaching the top three for your priority service keywords usually takes 60–90 days, depending on how competitive your market is and the starting state of your Google Business Profile and citations. We set realistic targets for your specific market during the free audit."
+        },
+        {
+          "q": "What do local SEO services cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which covers your Google Business Profile, citations, reviews, and the local-SEO foundations. In more competitive markets like HVAC, personal-injury law, and dental, we add the SEO accelerator at $1,299/month for ongoing blog content and link building. You own everything we build. We'll recommend the right mix after the free audit."
+        },
+        {
+          "q": "What's the difference between local SEO and regular SEO?",
+          "a": "Regular SEO chases broad keyword rankings nationwide. Local SEO targets the Google map pack and \"near me\" searches inside your service area, and it leans on different signals: your Google Business Profile, citations, reviews, and how close you are to the searcher. If your customers come from your town and the towns around it, local SEO is what you need."
+        },
+        {
+          "q": "How do I choose a local SEO company?",
+          "a": "Look for one that does the whole stack in-house — profile, citations, reviews, and on-site work — instead of farming pieces out, so there's no finger-pointing when rankings stall. Ask whether you own your profile, site, and data, and how they report results. A local SEO company that knows your actual market beats a national vendor running the same template everywhere."
+        },
+        {
+          "q": "Do you offer SEO for small businesses specifically?",
+          "a": "That's who we're built for. Since 2003 we've done small business SEO for local service companies and B2B firms across Greater Boston — the kind of owner who wants the phone to ring, not a vanity dashboard. We scale the work to your market and budget, from a single-van operation to a multi-location group."
+        },
+        {
+          "q": "Do I need a website for local SEO to work?",
+          "a": "Yes. Google ranks your website and your Google Business Profile together. A fast, mobile-friendly site with proper local schema is the foundation — a weak site caps how high you can climb in the map pack, no matter how good your profile is. If your current site can't clear the technical bar, we'll tell you and recommend a fix."
+        },
+        {
+          "q": "Can you guarantee #1 rankings?",
+          "a": "No honest agency can — Google doesn't let anyone guarantee a position. What we do promise is that you'll see measurable progress, fast, and full transparency on what we're doing and why. We earn your trust by performing, month after month."
+        },
+        {
+          "q": "Do you only work with businesses near Woburn and Boston?",
+          "a": "Greater Boston is our home turf — Woburn, the North Shore, MetroWest, and the metro suburbs are where we've worked since 2003, so we know these markets cold. We take on Massachusetts-adjacent clients case by case. If you're well outside the Northeast, we'll likely point you to someone better positioned for your area."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free · limited",
+      "heading": "See exactly why you're not in the map pack yet",
+      "subheading": "A free local audit, no pitch.",
+      "body": "Book a free local SEO audit. We'll score your Google Business Profile, citations, reviews, and site against your top 5 local competitors, then hand you a prioritized action plan — on the house. Written audit back within 2 business days.",
+      "image": "local-seo-audit-cta.webp",
+      "cta_label": "Book your free audit",
+      "cta_href": "/contact/",
+      "footnote": "45-minute call · 20-point written plan · measurable progress, fast · no pitch"
+    }
+  ]
+}

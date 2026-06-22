@@ -1,0 +1,241 @@
+{
+  "path": "/industries/law-firm-marketing/",
+  "title": "Law Firm Marketing",
+  "status": "publish",
+  "seo": {
+    "title": "Law Firm Marketing That Books More Consults",
+    "description": "Law firm marketing from a Woburn, MA agency: local SEO, reputation, and a 24/7 AI intake receptionist that turns calls into booked consults. Free audit.",
+    "canonical": "https://aqmarketing.com/industries/law-firm-marketing/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Law Firm Marketing",
+      "heading": "Law firm marketing that turns searches into signed clients",
+      "subheading": "Found on Google, chosen by clients, answered 24/7",
+      "sub_style": "text-accent-500",
+      "intro": "When someone needs a lawyer, they search, they call, and they hire whoever answers first and looks most trustworthy. AQ Marketing gets your firm into the local results for the practice areas you actually want, builds the reviews that make clients pick you, and puts a 24/7 AI intake receptionist behind every click — so the 9pm \"I just got arrested\" call gets answered instead of going to the firm down the street. Local SEO and AI websites, one team, under one roof.",
+      "image": "law-firm-marketing-city-hero.webp",
+      "badges": [
+        {
+          "text": "Woburn, MA · Serving Greater Boston"
+        },
+        {
+          "text": "Since 2003"
+        },
+        {
+          "text": "Rated 5.0 on Google"
+        },
+        {
+          "text": "You own everything"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free marketing audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See how we rank you locally",
+          "href": "/services/local-seo/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why most firms lose the lead",
+      "heading": "Your next client is searching right now — and calling whoever shows up first",
+      "subheading": "We get your firm found, chosen, and answered",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "Legal is one of the most competitive things you can market. The big firms outspend you, the directories sit above you, and the searcher who needs help isn't comparison shopping — they call the first credible result and book. If your firm isn't in the top local results with strong reviews, you never even get the chance to compete for that client."
+        },
+        {
+          "html": "We've spent two decades getting Massachusetts businesses to the top of local search, and lawyer marketing is the same fight, sharper: own the Google map pack for your practice areas and towns, stack the reviews that make a nervous client trust you, and make sure your site loads fast and reads like a firm worth hiring. Law firm SEO, reviews, and a conversion-ready site — all run in-house from our Woburn office. No national vendor that's never marketed an attorney."
+        },
+        {
+          "html": "Then there's the part most agencies ignore: intake. A missed call is a missed case. Every site we build comes with a 24/7 AI intake receptionist and chatbot, so the after-hours caller, the weekend form-fill, and the live-chat question all get answered and booked — not sent to voicemail. See how the <a href=\"/ai/ai-receptionist/\">AI receptionist handles intake</a>, or explore the <a href=\"/industries/\">other industries we serve</a>."
+        }
+      ],
+      "image": "law-firm-marketing-intake.webp"
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "What we do for law firms",
+      "heading": "Everything your firm needs to grow, under one roof",
+      "subheading": "Local SEO, reputation, AI intake, and a site that wins the consult",
+      "intro": "One team, one login — no middlemen and no finger-pointing between vendors. Here's where most firms start.",
+      "cards": [
+        {
+          "icon_svg": "location-dot",
+          "title": "Local SEO for your practice areas",
+          "body": "Get into the Google map pack for \"[practice area] lawyer near me\" in the towns you serve. Law firm SEO built for legal's competition — the searches your future clients are actually typing.",
+          "price_primary": "Foundations included in the $500/mo package",
+          "price_secondary": "+ SEO accelerator $1,299/mo for blog content & link building",
+          "link_label": "Full Details",
+          "link_href": "/services/local-seo/"
+        },
+        {
+          "icon_svg": "store",
+          "title": "Google Business Profile optimization",
+          "body": "The map pack is where clients pick a firm. We optimize your profile — practice areas, photos, posts, Q&A — so you're the one they call.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/google-business-profile-optimization/"
+        },
+        {
+          "icon_svg": "star",
+          "title": "Reputation management",
+          "body": "Clients trust the firm with more, better reviews. We build a steady flow of real 5-star reviews and protect the reputation you've earned.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/reputation-management/"
+        },
+        {
+          "icon_svg": "headset",
+          "title": "AI intake receptionist",
+          "body": "A 24/7 AI receptionist answers calls, texts, and chats, qualifies the matter, and books the consult — so your firm never loses an after-hours lead.",
+          "price_primary": "Included in the $500/mo package (per-minute usage fees apply)",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-receptionist/"
+        },
+        {
+          "icon_svg": "display",
+          "title": "Conversion-first website",
+          "body": "A fast, credible website that reads like a firm worth hiring — built to turn the click into a booked consultation, not just a visit. And you own it from day one.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/web-design/"
+        },
+        {
+          "icon_svg": "grip",
+          "title": "All services",
+          "body": "Google Ads, social media, and more — the full done-for-you stack for law firms, handled in-house by one team.",
+          "link_label": "Browse all services",
+          "link_href": "/services/"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "v": 1,
+      "eyebrow": "What working with us looks like",
+      "heading": "A marketing partner that earns its keep every month",
+      "h2_mt": "mt-0",
+      "intro": "No vanity dashboards — just the work that puts your firm in front of clients, and full transparency on what we're doing and why.",
+      "bg": "brand-50",
+      "cols": "4",
+      "stats": [
+        {
+          "value": "2003",
+          "label": "Marketing local businesses since"
+        },
+        {
+          "value": "24/7",
+          "label": "AI intake coverage on every site we build"
+        },
+        {
+          "value": "5.0",
+          "suffix": "★",
+          "label": "Average rating across 34 Google reviews"
+        },
+        {
+          "value": "20",
+          "suffix": "-point",
+          "label": "Free local audit, benchmarked vs. your top 5 competitors"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Trusted by Massachusetts businesses",
+      "heading": "Two decades of local businesses booked and growing",
+      "bg": "brand-50",
+      "intro": "We work with local businesses across Greater Boston. Here's the kind of result owners come to us for.",
+      "items": [
+        {
+          "quote": "The team at AQ Marketing demonstrates exceptional creativity, effective communication, and professionalism throughout every project… a standout small business marketing agency. We have been with AQ Marketing for many years and we will continue for many more!",
+          "name": "Arlington Club",
+          "role": "Client"
+        },
+        {
+          "quote": "Robert has been honest, dependable, and deeply committed to helping my spa grow. His knowledge of marketing, design, and how to build a professional, easy-to-navigate website has made a huge difference in how clients find and connect with us. Because of his help, we've seen real growth and stronger engagement from our clients.",
+          "name": "Saloni",
+          "role": "SA Blissful Spa"
+        },
+        {
+          "quote": "We have been working with AQ Marketing for over 10 years. AQ doesn't just help us with our marketing, AQ is our marketing. They can take much of the credit for our consistent, steady growth, year after year.",
+          "name": "Betsy Sullivan",
+          "role": "Flynn Accounting"
+        }
+      ],
+      "cta_label": "See our work",
+      "cta_href": "/about/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Law firm marketing FAQ",
+      "heading": "Questions law firms ask us",
+      "schema": true,
+      "items": [
+        {
+          "q": "What is law firm marketing?",
+          "a": "Law firm marketing is the work that gets your firm found by people who need a lawyer and turns those searches into booked consultations. In practice that means ranking in Google's local results for your practice areas, building the reviews that make clients trust you, running a fast and credible website, and capturing every call and form. AQ Marketing handles all of it — local SEO, reputation, website, and a 24/7 AI intake receptionist — under one roof."
+        },
+        {
+          "q": "How do law firms get more clients from Google?",
+          "a": "Two things win legal clients on Google: showing up in the local map pack for searches like \"[practice area] lawyer near me,\" and having the reviews and site that make a nervous client choose you over the next result. Our attorney marketing pairs Google Business Profile optimization, local citations, and real reviews with a site tuned for the practice areas and towns you want — then makes sure the resulting calls actually get answered."
+        },
+        {
+          "q": "Does law firm SEO really work for a small or solo practice?",
+          "a": "Yes — local SEO is often where a smaller firm has the advantage. You don't have to outspend a national firm to win the map pack in your own towns; you have to be more relevant, better reviewed, and faster to answer. We focus your law firm SEO on the specific practice areas and Greater Boston towns you serve, so you compete where it counts instead of fighting for a whole state."
+        },
+        {
+          "q": "Why do law firms lose so many leads?",
+          "a": "Because legal clients don't wait. Someone who needs a lawyer calls the first firm that looks credible and answers the phone — often after hours or on a weekend. If your call goes to voicemail, that case goes to the next firm on the list. That's why every site we build includes a 24/7 AI intake receptionist that answers, qualifies the matter, and books the consult around the clock. See how <a href=\"/ai/ai-receptionist/\">AI intake works</a>."
+        },
+        {
+          "q": "How much does law firm marketing cost?",
+          "a": "Most firms start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which covers your website, Google Business Profile, citations, reviews, AI intake receptionist, and chatbot. In competitive practice areas we add the SEO accelerator at $1,299/month for ongoing content and link building. You own everything we build. The best starting point is our free 20-point audit, before you spend a dollar."
+        },
+        {
+          "q": "How long until a law firm sees results?",
+          "a": "Local SEO is a build, not a switch, and legal is one of the most competitive verticals — so it takes steady monthly work, not a one-time fix. You'll see measurable progress, fast, and full transparency on what we're doing and why. No legitimate agency can promise a #1 ranking or a specific number of cases — Google doesn't let anyone — so be wary of any marketer who does."
+        },
+        {
+          "q": "Do you only work with law firms in Boston?",
+          "a": "No. We're based in Woburn, MA and work with firms across Greater Boston — the North Shore, MetroWest, Middlesex County, and the city itself — and we take on Massachusetts-adjacent firms case by case. Most of the work is done remotely, so where your office sits doesn't change how we work. Our Woburn office is open by appointment only."
+        },
+        {
+          "q": "What makes AQ Marketing different for law firms?",
+          "a": "Three things. We pair local SEO with AI intake under one roof, so your rankings and your booked consults come from the same team. We've marketed Massachusetts local businesses since 2003. And you own everything — your site, domain, Google Business Profile, and data — from day one, and you see measurable progress, fast. See the <a href=\"/industries/\">other industries we serve</a> or <a href=\"/services/\">browse all our services</a>."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free marketing audit",
+      "heading": "Ready to fill your calendar with booked consults?",
+      "subheading": "No pitch, no obligation",
+      "body": "Get a free 20-point local audit for your firm. We'll benchmark your Google Business Profile, reviews, and site speed against your top 5 local competitors, then map the three highest-ROI moves to get your phone ringing with the cases you want. Written action plan, on the house — typically back to you within 2 business days.",
+      "image": "law-firm-marketing-final-cta.webp",
+      "cta_label": "Get your free audit",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Marketing Massachusetts businesses since 2003 · Rated 5.0 on Google · You own everything"
+    }
+  ]
+}

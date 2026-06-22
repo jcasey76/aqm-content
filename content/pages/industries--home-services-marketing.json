@@ -1,0 +1,237 @@
+{
+  "path": "/industries/home-services-marketing/",
+  "title": "Home Services Marketing",
+  "status": "publish",
+  "seo": {
+    "title": "Home Services Marketing for Contractors in Greater Boston",
+    "description": "Local SEO and 24/7 AI receptionists for HVAC, roofing, plumbing, and landscaping companies across Greater Boston. Get found, get booked. Free audit.",
+    "canonical": "https://aqmarketing.com/industries/home-services-marketing/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Home Services Marketing · Greater Boston",
+      "heading": "Home services marketing that keeps your phone ringing and your crew booked.",
+      "subheading": "Booked jobs, not missed calls.",
+      "sub_style": "text-accent-500",
+      "intro": "We rank HVAC, roofing, plumbing, and landscaping companies in the Google map pack across Greater Boston — then put an AI receptionist behind every call so the lead that comes in at 7pm on a Saturday actually gets booked instead of calling the next contractor on the list.",
+      "image": "home-services-hero-contractor-van-boston.png",
+      "badges": [
+        {
+          "text": "Woburn, MA · Since 2003"
+        },
+        {
+          "text": "Rated 5.0 on Google"
+        },
+        {
+          "text": "You own everything"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get my free audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See how we work",
+          "href": "/services/local-seo/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why AQ Marketing",
+      "heading": "We grew up marketing home-service companies.",
+      "subheading": "This is our home turf, not a side line.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "<p>Roofers, HVAC techs, plumbers, masons, and landscapers are the businesses we know best. We've ranked and built sites for contractors like <strong>Twin Metals Roofing</strong>, <strong>Golini Roofing</strong>, <strong>Gerrior Masonry</strong>, <strong>McLeod Landscaping</strong>, <strong>Boston Landscape Co.</strong>, <strong>Cassidy Landscaping</strong>, and <strong>AA Tree Service</strong> — real Massachusetts home-service companies, not stock logos.</p>"
+        },
+        {
+          "html": "<p>Here's what makes home services different: the job is local, the buyer is in a hurry, and the call often comes after hours. So we do two things under one roof — rank you where local customers actually look (the map pack and the answers AI assistants give), and answer every call, form, and chat 24/7 so an emergency furnace call at 11pm turns into a booked appointment instead of a voicemail.</p>"
+        },
+        {
+          "html": "<p>No vanity dashboards. No 40-page PDFs nobody reads. You own your site, your domain, your Google Business Profile, and your data from day one — and we earn your business by booking you jobs, month after month.</p>"
+        }
+      ],
+      "image": "home-services-local-map-greater-boston.png"
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "What we do for home-service companies",
+      "heading": "Everything that gets a contractor booked — under one roof.",
+      "subheading": "Local SEO that ranks you, plus an AI front desk that books the call.",
+      "intro": "Pick the pieces you need or run the whole stack. It's the same team either way — no middlemen, no finger-pointing between vendors.",
+      "cards": [
+        {
+          "icon_svg": "map-location-dot",
+          "title": "Local SEO & Map Pack",
+          "body": "We benchmark your Google Business Profile, citations, reviews, and site speed against your top 5 local competitors, then optimize until you show up when someone searches \"roofer near me\" or \"emergency plumber Woburn.\"",
+          "price_primary": "Foundations included in the $500/mo package",
+          "price_secondary": "+ SEO accelerator $1,299/mo for blog content & link building",
+          "link_label": "Full Details",
+          "link_href": "/services/local-seo/"
+        },
+        {
+          "icon_svg": "location-crosshairs",
+          "title": "Google Business Profile Management",
+          "body": "Your profile is where most home-service jobs start. We keep it optimized, posted, and review-rich so you win the map pack and the \"Top 3\" most people call from.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/google-business-profile-optimization/"
+        },
+        {
+          "icon_svg": "phone-volume",
+          "title": "AI Receptionist & After-Hours Answering",
+          "body": "Every after-hours ring-through is a customer calling the next shop on the list. Our AI receptionist answers 24/7, qualifies the job, and books it — nights, weekends, and while your crew is on a roof.",
+          "price_primary": "Included in the $500/mo package (per-minute usage fees apply)",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-receptionist/"
+        },
+        {
+          "icon_svg": "comments",
+          "title": "Website Chatbot & Lead Capture",
+          "body": "A chatbot on your site answers \"do you service my town?\" and \"can you come today?\" instantly, then captures the lead — so visitors don't bounce to a competitor while you're up a ladder.",
+          "price_primary": "Included in the $500/mo package (per-minute usage fees apply)",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/ai/website-chatbot/"
+        },
+        {
+          "icon_svg": "browser",
+          "title": "Conversion-First Websites",
+          "body": "Fast, mobile-first sites built to book jobs — clear service areas, quote forms that work, and click-to-call everywhere. Built to be found by Google and by AI answer engines.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/web-design/"
+        },
+        {
+          "icon_svg": "star",
+          "title": "Reviews & Reputation",
+          "body": "Reviews decide who gets the call in home services. We automate review requests after every job and help you respond, so your star rating climbs and your map-pack ranking follows.",
+          "price_primary": "Included in the $500/mo package",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Full Details",
+          "link_href": "/services/reputation-management/"
+        }
+      ]
+    },
+    {
+      "type": "stats",
+      "v": 1,
+      "eyebrow": "The numbers that matter",
+      "heading": "What good home-service marketing actually moves.",
+      "subheading": "Booked calls and full calendars — not vanity metrics.",
+      "h2_mt": "mt-4",
+      "bg": "brand-50",
+      "cols": 4,
+      "stats": [
+        {
+          "value": "2003",
+          "prefix": "Since",
+          "label": "Marketing Massachusetts home-service companies"
+        },
+        {
+          "value": "24",
+          "suffix": "/7",
+          "label": "AI receptionist answering every call, day or night"
+        },
+        {
+          "value": "5.0",
+          "suffix": "★",
+          "label": "Average rating across 34 Google reviews"
+        },
+        {
+          "value": "30",
+          "suffix": "+",
+          "label": "Industries we run this playbook across"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Trusted by local contractors",
+      "heading": "Massachusetts home-service companies we work with.",
+      "h2_mt": "mt-4",
+      "bg": "brand-50",
+      "intro": "Real roofers, landscapers, masons, and home-service crews across Greater Boston — Twin Metals Roofing, Golini Roofing, Chris Battain Roofing, Gerrior Masonry, McLeod Landscaping, Boston Landscape Co., Cassidy Landscaping, Lentine Landscaping, Tranni Home Remodeling, and AA Tree Service.",
+      "items": [
+        {
+          "quote": "As a small roofing business based in Massachusetts, we couldn't be more grateful for the incredible work AQ Marketing has done for us. From building our website from the ground up to managing our social media and SEO, they've handled every aspect of our online presence with true professionalism and care… If you're looking for a marketing company with true integrity that cares and delivers outstanding results, AQ Marketing is it.",
+          "name": "Lindsay Devin",
+          "role": "Massachusetts roofing company"
+        },
+        {
+          "quote": "I've been using AQ Marketing for over two years, and my sales and exposure have gone through the roof. The results have been nothing but positive. Every project is handled on time, with great attention to detail.",
+          "name": "Tyler Tranni",
+          "role": "Tranni Home Remodeling"
+        },
+        {
+          "quote": "We have been working with Robert and his team at AQ Marketing for 2+ years. They are truly focused on bringing you real results with their marketing. We had a good website before, but AQ Marketing has taken it to the next level.",
+          "name": "Gerrior Masonry",
+          "role": "Masonry contractor"
+        }
+      ],
+      "cta_label": "Book your free audit",
+      "cta_href": "/contact/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Home-service marketing questions we hear most.",
+      "subheading": "Straight answers for contractors deciding who to trust.",
+      "h2_mt": "mt-4",
+      "schema": true,
+      "items": [
+        {
+          "q": "What does home services marketing cost?",
+          "a": "<p>Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which covers your website, Google Business Profile, citations, reviews, AI receptionist, and chatbot. In more competitive trades and towns, we add the SEO accelerator at $1,299/month for ongoing blog content and link building. You own everything we build. <a href=\"/contact/\">Get a free audit</a> and we'll recommend the right mix.</p>"
+        },
+        {
+          "q": "How long until I see more calls?",
+          "a": "<p>Most clients see early local-search movement inside the first few weeks, with the map pack typically improving over the first 60–90 days as reviews, citations, and on-page work compound. Your AI receptionist and chatbot start capturing leads on day one, so you see measurable progress, fast.</p>"
+        },
+        {
+          "q": "Do you only work with HVAC, roofing, plumbing, and landscaping?",
+          "a": "<p>Those are our strongest trades, but we market the full range of home services — masonry, remodeling, tree service, paving, electrical, and more. If your customers are local and the job often gets booked over the phone, our playbook fits. We've run it across 30+ industries.</p>"
+        },
+        {
+          "q": "How does the AI receptionist help a contractor specifically?",
+          "a": "<p>Home-service calls don't keep business hours. A furnace dies at midnight, a pipe bursts on Sunday, a storm tears off shingles after dinner. Our AI receptionist answers 24/7, asks the right qualifying questions, and books the appointment — so the emergency caller becomes your customer instead of the next contractor's. <a href=\"/ai/ai-receptionist/\">See how the AI receptionist works.</a></p>"
+        },
+        {
+          "q": "How does billing work?",
+          "a": "<p>Most clients start with our Smart Website & Marketing Package at $500/month on a 12-month agreement, so we have the runway to rank you and compound results. We earn your business by booking you jobs, month after month — and you own everything: your website, domain, Google Business Profile, ad accounts, and data, yours from day one.</p>"
+        },
+        {
+          "q": "Do you work with home-service companies outside Greater Boston?",
+          "a": "<p>Greater Boston is home base — we've tuned our playbook for the Woburn, North Shore, MetroWest, and Greater Boston markets since 2003. We take on Massachusetts-adjacent home-service clients case by case. If you're outside the Northeast, we'll likely refer you to someone better positioned for your area.</p>"
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free 20-point audit",
+      "heading": "See exactly where your home-service business is leaking jobs.",
+      "subheading": "No pitch. Just the three highest-ROI moves for your trade.",
+      "body": "In a free 45-minute call we benchmark your Google Business Profile, reviews, site speed, and after-hours call handling against your top 5 local competitors — then hand you a written action plan whether you hire us or not.",
+      "image": "home-services-final-cta-contractor-boston.png",
+      "cta_label": "Get my free audit",
+      "cta_href": "/contact/",
+      "footnote": "Free 20-point audit · You own everything · Rated 5.0 on Google"
+    }
+  ]
+}

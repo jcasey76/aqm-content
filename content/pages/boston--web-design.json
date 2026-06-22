@@ -1,0 +1,253 @@
+{
+  "path": "/boston/web-design/",
+  "title": "Boston Web Design",
+  "status": "publish",
+  "seo": {
+    "title": "Boston Web Design That Books More Local Customers",
+    "description": "Boston web design by a Woburn, MA agency serving Greater Boston since 2003. Fast, mobile-first sites built to rank in the local map pack and book the call.",
+    "canonical": "https://aqmarketing.com/boston/web-design/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Boston Web Design",
+      "heading": "Boston web design built to get found and book the call.",
+      "subheading": "Fast, mobile-first sites for businesses competing in the Boston market.",
+      "sub_style": "text-accent-500",
+      "intro": "A good-looking website does nothing if Boston can't find it. We design fast, mobile-first sites built around how people actually search across the city — Back Bay, the Seaport, Cambridge, and the suburbs ringing it — then wire in Local SEO and a 24/7 AI receptionist so every search turns into a booked customer. Built and run from our Woburn home base, just up I-93, since 2003.",
+      "image": "boston-web-design-hero.webp",
+      "badges": [
+        {
+          "text": "Serving Greater Boston since 2003"
+        },
+        {
+          "text": "Woburn, MA home base"
+        },
+        {
+          "text": "You own the site & domain"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free Boston site review",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See pricing",
+          "href": "#pricing",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why local matters",
+      "heading": "A Boston website has to beat the business next door.",
+      "subheading": "Local competition here is fierce — your site has to load fast, read clearly on a phone, and earn the click before someone scrolls to a competitor.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "<p>Boston buyers decide in seconds. They search on a phone, on the move, and they pick from the first handful of results — usually the local map pack. Slow, dated, or buried? The franchise across town gets the call instead of you. We design for that reality: speed, clarity, and an obvious next step on every page.</p>"
+        },
+        {
+          "html": "<p>We know this market because we live in it. We've built and ranked sites for Greater Boston businesses since 2003, from downtown storefronts to home-services crews running across the North Shore and MetroWest. Your site is built around the way Boston-area customers actually search — and around the competitors you're up against street by street.</p>"
+        },
+        {
+          "html": "<p>One team handles design, copy, Local SEO, and the AI behind the site — under one roof, with one login. No middlemen, no finger-pointing between a designer who won't talk to your SEO and an SEO who never sees the site. Want the full breakdown of what a build includes? That lives on our <a href=\"/services/web-design/\">web design service page</a>.</p>"
+        }
+      ],
+      "image": "boston-map-pack-results.webp"
+    },
+    {
+      "type": "trust_image_left",
+      "v": 1,
+      "eyebrow": "What you get",
+      "heading": "A Boston site that ranks, loads fast, and books the call.",
+      "subheading": "Every piece is aimed at one thing — turning a Boston search into a booked customer.",
+      "bg": "brand-50",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "<p>We design every page around a single job: get found in Boston, then get the call. That means fast load times, plain words, and a clear next step — call, book, or fill out the form — on every screen. The site is built mobile-first because that's where your Boston customers are looking.</p>"
+        },
+        {
+          "html": "<p>Local SEO and your Google Business Profile are wired in from day one, so Google can rank you for the Boston-area searches that matter. And a 24/7 AI receptionist sits behind every click, so an after-hours search from someone in Somerville or Quincy still turns into a booked job instead of a missed call.</p>"
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Mobile-first design that looks right on every phone"
+        },
+        {
+          "text": "Fast load times built for Google's Core Web Vitals"
+        },
+        {
+          "text": "Local SEO and Google Business Profile wired in for the Boston map pack"
+        },
+        {
+          "text": "Conversion-first layout — clear calls, forms, and booking"
+        },
+        {
+          "text": "24/7 AI receptionist and chatbot on every site"
+        },
+        {
+          "text": "Built and supported from our Woburn, MA home base"
+        },
+        {
+          "text": "You own the site, the domain, and the data from day one"
+        }
+      ],
+      "cta_label": "See everything a build includes",
+      "cta_href": "/services/web-design/",
+      "image": "boston-web-design-responsive-mockup.webp"
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "What clients say",
+      "heading": "Boston-area owners who trust us with their website.",
+      "bg": "white",
+      "intro": "Real reviews from real local businesses we've built for — 5.0 on Google across 34 reviews.",
+      "items": [
+        {
+          "quote": "Robert has been honest, dependable, and deeply committed to helping my spa grow. His knowledge of marketing, design, and how to build a professional, easy-to-navigate website has made a huge difference in how clients find and connect with us. Because of his help, we've seen real growth and stronger engagement from our clients.",
+          "name": "Saloni",
+          "role": "SA Blissful Spa"
+        },
+        {
+          "quote": "AQ Marketing helped us create our website and continues to help with our online services and forms. He is professional and responds to every email I send. If you are looking for website design, look no further than AQ Marketing.",
+          "name": "Heather Baril",
+          "role": "AQ Marketing client"
+        }
+      ]
+    },
+    {
+      "type": "gallery",
+      "v": 1,
+      "eyebrow": "Recent Boston work",
+      "heading": "Sites we've built for Boston-area businesses.",
+      "subheading": "Real projects across home services, trades, and local B2B.",
+      "intro": "A look at websites we've designed and launched for businesses in and around Boston.",
+      "bg": "white",
+      "columns": "3",
+      "items": [
+        {
+          "image": "portfolio-boston-landscape-co.webp",
+          "caption": "Boston Landscape Co. — landscaping, Greater Boston"
+        },
+        {
+          "image": "portfolio-golini-roofing.webp",
+          "caption": "Golini Roofing — roofing, Boston metro"
+        },
+        {
+          "image": "portfolio-cassidy-landscaping.webp",
+          "caption": "Cassidy Landscaping — landscaping"
+        },
+        {
+          "image": "portfolio-gerrior-masonry.webp",
+          "caption": "Gerrior Masonry — masonry & hardscape"
+        },
+        {
+          "image": "portfolio-monarch-pavement.webp",
+          "caption": "Monarch Pavement — paving"
+        },
+        {
+          "image": "portfolio-stanton-insurance.webp",
+          "caption": "Stanton Insurance — insurance"
+        }
+      ]
+    },
+    {
+      "type": "pricing_table",
+      "v": 1,
+      "eyebrow": "Pricing",
+      "heading": "Straightforward Boston web design pricing.",
+      "subheading": "One simple monthly plan. You own the site and domain from day one.",
+      "intro": "Most Boston businesses start with our Smart Website & Marketing Package — one flat monthly price that covers the website plus the marketing engine behind it. When you're ready to push harder on rankings or ads, add an accelerator. Your free Boston site review confirms the exact scope on the call.",
+      "bg": "brand-50",
+      "cols": "3",
+      "featured_label": "Most Popular",
+      "plans": [
+        {
+          "name": "Smart Website & Marketing Package",
+          "price": "$500",
+          "period": "/month (12-month agreement)",
+          "features": "<ul><li>Mobile-first website design, copy & page development</li><li>On-page SEO + premium hosting, updates & support</li><li>Local SEO basics + Google Business Profile / Maps visibility</li><li>CRM lead management + automation</li><li>24/7 AI website chatbot & AI voice receptionist (per-minute usage fees)</li><li>Reputation review management + social posting (up to 3 posts/week)</li><li>You own the site, domain & data</li></ul>",
+          "cta_label": "Get your free site review",
+          "cta_href": "/contact/",
+          "featured": true
+        },
+        {
+          "name": "SEO Accelerator",
+          "price": "$1,299",
+          "period": "/month (add-on)",
+          "features": "<ul><li>Adds to the $500/mo package when you want to rank harder</li><li>Ongoing blog articles written for Boston-area search</li><li>Link building to grow authority</li><li>Tuned for the Boston map pack and organic results</li><li>See our Boston SEO services for the full program</li></ul>",
+          "cta_label": "Get your free site review",
+          "cta_href": "/contact/"
+        },
+        {
+          "name": "Google Ads Accelerator",
+          "price": "$1,299",
+          "period": "/month (ad spend not included)",
+          "features": "<ul><li>Adds to the $500/mo package for instant Boston visibility</li><li>Google Ads campaign setup & management</li><li>Landing pages come via the $500/mo package</li><li>Meta (Facebook/Instagram) ads management available at $999/mo</li><li>Scope confirmed at your free review</li></ul>",
+          "cta_label": "Get your free site review",
+          "cta_href": "/contact/"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "FAQ",
+      "heading": "Boston web design, answered.",
+      "subheading": "The questions Boston business owners ask before they hire a web designer.",
+      "schema": true,
+      "items": [
+        {
+          "q": "How much does web design cost in Boston?",
+          "a": "<p>Most Boston clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), which covers the website plus the marketing engine behind it — hosting, on-page SEO, Local SEO basics, your Google Business Profile, the 24/7 AI receptionist and chatbot, and reputation and social management. When you want to rank harder or run ads, you can add an accelerator: SEO at $1,299/month or Google Ads at $1,299/month (ad spend separate). We confirm the exact scope at your free Boston site review. <a href=\"/contact/\">Book your free review</a> and we'll scope it on the call.</p>"
+        },
+        {
+          "q": "Do you work with businesses across Greater Boston, not just the city?",
+          "a": "<p>Yes. We build sites for businesses in Boston proper and the surrounding metro — Cambridge, Somerville, Quincy, the North Shore, and MetroWest — all from our Woburn, MA home base. We've ranked Greater Boston businesses since 2003 and we know how search works street by street across the area.</p>"
+        },
+        {
+          "q": "Will my new website show up on Google in Boston?",
+          "a": "<p>That's the whole point. We wire Local SEO and your Google Business Profile into the site from day one, so Google can read it, rank it, and show you in the Boston-area local results. A site nobody can find won't book you any work — ours are built to get found. For the full ranking program, see our <a href=\"/boston/seo/\">Boston SEO services</a>.</p>"
+        },
+        {
+          "q": "What makes a Boston web designer different from a cheaper template site?",
+          "a": "<p>A template can look fine and still leave you invisible. We design around how Boston customers actually search and who you compete with locally, then wire in Local SEO and a 24/7 AI receptionist so the site ranks and books, not just looks pretty. One team handles design, copy, SEO, and the AI under one roof — no juggling vendors.</p>"
+        },
+        {
+          "q": "Can you redesign my existing Boston business website?",
+          "a": "<p>Yes. We can rebuild a slow, dated, or hard-to-find site on a faster, mobile-first foundation while keeping what's already working — your domain, your reviews, and any rankings you've earned. You don't restart from zero. Full details on what a build or rebuild includes are on our <a href=\"/services/web-design/\">web design service page</a>.</p>"
+        },
+        {
+          "q": "Where are you located?",
+          "a": "<p>We're AQ Marketing, based at 400 Tradecenter Dr, Suite 5900, Woburn, MA 01801 — about ten miles north of downtown Boston, just off I-93 and I-95. We've served Greater Boston small businesses from here since 2003. The office is by appointment; most of our work happens over a call and a screen share. Reach us at (781) 730-6971 or <a href=\"/contact/\">book a free review</a>.</p>"
+        },
+        {
+          "q": "Do I own my website and domain?",
+          "a": "<p>Yes — you own the site, the domain, and the data from day one. No hostage situations, no handing it back if you ever leave. That's true across everything we do, and it's a principle we don't compromise on.</p>"
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free Boston site review",
+      "heading": "See exactly what's holding your Boston website back.",
+      "subheading": "No pitch, no obligation.",
+      "body": "Get a free, no-pressure review of your current site — speed, mobile experience, and how you stack up against your top Boston-area competitors. You'll walk away with a clear plan for the pages and fixes that book more jobs. No site yet? We'll map what you need from scratch. No pitch, no obligation.",
+      "image": "boston-web-design-cta-backdrop.webp",
+      "cta_label": "Get your free Boston site review",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Serving Greater Boston since 2003 · You own everything we build."
+    }
+  ]
+}

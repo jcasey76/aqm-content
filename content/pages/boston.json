@@ -1,0 +1,226 @@
+{
+  "path": "/boston/",
+  "title": "Greater Boston Marketing Agency",
+  "status": "publish",
+  "seo": {
+    "title": "Boston Marketing Agency for Local Small Business",
+    "description": "Woburn-based marketing agency serving Greater Boston since 2003. Local SEO + AI websites that get small businesses found and booked. Free audit.",
+    "canonical": "https://aqmarketing.com/boston/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Greater Boston · Since 2003",
+      "heading": "A Greater Boston marketing agency built for local small businesses",
+      "subheading": "Woburn-based, serving the whole metro",
+      "sub_style": "text-accent-500",
+      "intro": "We're not a downtown shop chasing national brands. AQ Marketing is a Boston marketing agency — based in Woburn — that's spent two decades getting Greater Boston's small businesses to the top of local search, then putting an AI receptionist behind every click so no lead slips through. Local SEO and AI websites, one team, under one roof.",
+      "image": "boston-city-hero.webp",
+      "badges": [
+        {
+          "text": "20+ years in Greater Boston"
+        },
+        {
+          "text": "5.0 on Google · 34 reviews"
+        },
+        {
+          "text": "Measurable progress, fast"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free local audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See Boston SEO",
+          "href": "/boston/seo/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "why_overview",
+      "v": 1,
+      "eyebrow": "Why a local agency",
+      "heading": "A Boston agency that knows the map pack — and your neighborhood",
+      "subheading": "We've ranked Greater Boston businesses since 2003",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "Plenty of agencies will sell a Boston small business a logo and a dashboard. We sell booked calls. Since 2003 we've helped Massachusetts owners get found in the Google map pack, get chosen over the franchise down the street, and get booked — work we run in-house from our Woburn office, not a national call center."
+        },
+        {
+          "html": "Greater Boston is a different fight than a generic national keyword. The competition is dense, the suburbs each have their own searchers, and \"near me\" decides who gets the call. As a digital marketing agency built for Boston, we tune your Google Business Profile, reviews, and site for the towns you actually serve — Woburn, the North Shore, MetroWest, and into Boston — so you show up when someone three blocks away is ready to buy."
+        },
+        {
+          "html": "And we don't stop at rankings. Every site we build comes with a 24/7 AI receptionist and chatbot, so the 7pm caller and the Saturday form-fill get answered instead of going to the next shop on the list. <a href=\"/ai/ai-receptionist/\">See how the AI receptionist works</a>."
+        }
+      ],
+      "image": "boston-why-local-agency.webp"
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "What we do for Boston businesses",
+      "heading": "Everything you need to grow, under one roof",
+      "subheading": "Local SEO, AI websites, and the marketing that fills your calendar",
+      "intro": "One team, one login — no middlemen and no finger-pointing between vendors. Here's where most Greater Boston owners start.",
+      "cards": [
+        {
+          "title": "Boston SEO",
+          "body": "Get into the Google map pack for the searches that matter in your towns. Local SEO built for Greater Boston's competition.",
+          "price_primary": "Foundations in the $500/mo package; SEO accelerator (blog articles + link building) $1,299/mo",
+          "link_label": "Full Details",
+          "link_href": "/boston/seo/"
+        },
+        {
+          "title": "Local SEO services",
+          "body": "Google Business Profile, citations, reviews, and on-page work that move you up the local results and keep you there.",
+          "price_primary": "Foundations in the $500/mo package; SEO accelerator (blog articles + link building) $1,299/mo",
+          "link_label": "Full Details",
+          "link_href": "/services/local-seo/"
+        },
+        {
+          "title": "Google Business Profile optimization",
+          "body": "The map pack is where local buyers choose. We optimize your profile so you're the one they call.",
+          "price_primary": "Included in the $500/mo Smart Website & Marketing Package",
+          "link_label": "Full Details",
+          "link_href": "/services/google-business-profile-optimization/"
+        },
+        {
+          "title": "Boston web design",
+          "body": "Fast, conversion-first websites for Greater Boston small businesses — built to turn visitors into booked customers.",
+          "price_primary": "Included in the $500/mo Smart Website & Marketing Package",
+          "link_label": "Full Details",
+          "link_href": "/boston/web-design/"
+        },
+        {
+          "title": "AI receptionist",
+          "body": "A 24/7 AI receptionist answers calls, texts, and chats so you never lose a Greater Boston lead after hours.",
+          "price_primary": "Included in the $500/mo Smart Website & Marketing Package (per-minute usage fees apply)",
+          "link_label": "Full Details",
+          "link_href": "/ai/ai-receptionist/"
+        },
+        {
+          "title": "All services",
+          "body": "Google Ads, reputation management, social, and more — the full done-for-you stack, handled in-house.",
+          "link_label": "Browse all services",
+          "link_href": "/services/"
+        }
+      ]
+    },
+    {
+      "type": "town_card_grid",
+      "v": 1,
+      "eyebrow": "Greater Boston · Middlesex County & beyond",
+      "heading": "Where we work across Greater Boston",
+      "subheading": "Woburn home base, the whole metro served",
+      "intro": "We're headquartered in Woburn and take on small businesses across Greater Boston. Office visits are by appointment only — most of our work happens remotely, wherever you are in the metro.",
+      "bg": "brand-50",
+      "card_heading_size": "base",
+      "cards": [
+        {
+          "county": "Middlesex County",
+          "title": "Woburn",
+          "body": "Our home base since 2003 — the verified address and the office Greater Boston owners can actually visit (by appointment).",
+          "href": "/service-area/woburn/"
+        },
+        {
+          "county": "Greater Boston",
+          "title": "Boston",
+          "body": "Done-for-you Local SEO and AI websites for small businesses across the city and its neighborhoods."
+        },
+        {
+          "county": "North Shore",
+          "title": "North Shore",
+          "body": "Map-pack rankings and lead capture tuned for the North Shore's local searchers."
+        },
+        {
+          "county": "MetroWest",
+          "title": "MetroWest",
+          "body": "Local SEO and conversion-first sites for MetroWest service businesses and B2B."
+        },
+        {
+          "county": "Middlesex County",
+          "title": "Greater Boston suburbs",
+          "body": "From the suburbs ringing Woburn out to the edge of the metro — if you serve a local Greater Boston market, we can help."
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Greater Boston clients",
+      "heading": "Trusted by Massachusetts businesses for 20+ years",
+      "bg": "brand-50",
+      "intro": "Rated 5.0 on Google across 34 reviews from Massachusetts business owners. Here's what working with our Woburn team looks like.",
+      "items": [
+        {
+          "quote": "As a small roofing business based in Massachusetts, we couldn't be more grateful for the incredible work AQ Marketing has done for us. From building our website from the ground up to managing our social media and SEO, they've handled every aspect of our online presence with true professionalism and care… If you're looking for a marketing company with true integrity that cares and delivers outstanding results, AQ Marketing is it.",
+          "name": "Lindsay Devin",
+          "role": "Massachusetts roofing company"
+        },
+        {
+          "quote": "The team at AQ Marketing demonstrates exceptional creativity, effective communication, and professionalism throughout every project… a standout small business marketing agency. We have been with AQ Marketing for many years and we will continue for many more!",
+          "name": "Arlington Club",
+          "role": "Greater Boston"
+        }
+      ],
+      "cta_label": "See our work",
+      "cta_href": "/about/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Boston FAQ",
+      "heading": "Questions Greater Boston owners ask us",
+      "schema": true,
+      "items": [
+        {
+          "q": "What does a Boston marketing agency do for a small business?",
+          "a": "A good one gets you found by local buyers and turns those clicks into booked work. For Greater Boston small businesses, AQ Marketing handles Local SEO (getting you into the Google map pack), Google Business Profile optimization, reviews, and a fast, conversion-first website — plus a 24/7 AI receptionist so after-hours calls and forms actually get answered. One team, one login, no middlemen."
+        },
+        {
+          "q": "Do I have to be in Boston to work with AQ Marketing?",
+          "a": "No. We're based in Woburn, MA and serve small businesses across Greater Boston — the North Shore, MetroWest, Middlesex County, and the city itself. Most of our work is done remotely, so where you sit in the metro doesn't change how we work. Our Woburn office is open by appointment only."
+        },
+        {
+          "q": "How much does a Boston marketing agency cost?",
+          "a": "Most clients start with our Smart Website & Marketing Package at $500/month on a 12-month agreement. It covers your website, on-page SEO, Google Business Profile and map visibility, reviews, social posting, CRM lead management, and the AI website chatbot and AI voice receptionist (per-minute usage fees apply). When you want to grow faster, you can add accelerators: SEO content and link building at $1,299/month, Google Ads management at $1,299/month (ad spend not included), or Meta Ads management at $999/month (ad spend not included)."
+        },
+        {
+          "q": "How long until I see results in Greater Boston?",
+          "a": "Local SEO is a build, not a switch, and the Boston metro is competitive — so it takes steady monthly work, not a one-time fix. We focus on showing you measurable progress, fast, and reporting it transparently month over month. No legitimate agency can promise a #1 ranking — Google doesn't let anyone — so be wary of anyone who does."
+        },
+        {
+          "q": "What makes AQ Marketing different from other Boston agencies?",
+          "a": "Three things. We pair Local SEO with AI websites under one roof, so your rankings and your lead capture come from the same team. We've done this for Greater Boston small businesses since 2003 — and we're rated 5.0 on Google across 34 reviews. And you own everything — your site, domain, Google Business Profile, and data — from day one."
+        },
+        {
+          "q": "Can you help my business rank in the Boston map pack?",
+          "a": "That's our core work. We optimize your Google Business Profile, build consistent local citations, generate real reviews, and tune your site so you climb the local results for the searches that bring you customers. <a href=\"/boston/seo/\">See our Boston SEO approach</a> or <a href=\"/services/google-business-profile-optimization/\">how we optimize Google Business Profiles</a>."
+        },
+        {
+          "q": "Is AQ Marketing a full-service digital marketing agency?",
+          "a": "Yes. Alongside Local SEO and AI websites, we run Google Ads, reputation management, and social media — the full done-for-you stack, handled in-house by one team. That's the point of \"under one roof\": no juggling three vendors, no finger-pointing when a campaign and a website don't line up. <a href=\"/services/\">Browse all our services</a>."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free local audit",
+      "heading": "Ready to own your corner of Greater Boston?",
+      "subheading": "No pitch, no obligation",
+      "body": "See exactly why Boston-area customers are calling your competitors instead of you. Our free 20-point audit checks your Google Business Profile, reviews, and site speed against the top 5 businesses in your category, then spells out the moves that get you booked. You get a written action plan back, on the house — usually within 2 business days.",
+      "image": "boston-final-cta.webp",
+      "cta_label": "Get your free audit",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · (781) 730-6971 · Serving Greater Boston since 2003 · Rated 5.0 on Google"
+    }
+  ]
+}

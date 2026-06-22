@@ -1,0 +1,182 @@
+{
+  "path": "/services/seo-audit/",
+  "title": "Free SEO Audit",
+  "status": "publish",
+  "seo": {
+    "title": "Free SEO Audit for Small Businesses",
+    "description": "Get a free 20-point SEO audit benchmarked against your top 5 local competitors. Written report back in 2 business days — no pitch, no obligation.",
+    "canonical": "https://aqmarketing.com/services/seo-audit/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Free SEO Audit",
+      "heading": "A free SEO audit that shows exactly why you're not ranking yet",
+      "subheading": "20 points, benchmarked against your top 5 local competitors",
+      "sub_style": "text-accent-500",
+      "intro": "An SEO audit is a checkup for your website and Google presence — it finds the specific things keeping you out of the map pack and off page one. Ours is free, runs to 20 points, and comes back as a plain-English written report within 2 business days. No automated 40-page PDF nobody reads. No pitch attached. Just a clear picture of where you stand and the three highest-ROI moves to fix first.",
+      "image": "seo-audit-report-hero.webp",
+      "badges": [
+        {
+          "text": "Free · no obligation"
+        },
+        {
+          "text": "Written report in 2 business days"
+        },
+        {
+          "text": "Benchmarked vs. your top 5 competitors"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Request your free audit",
+          "href": "#audit-form",
+          "style": "primary"
+        },
+        {
+          "label": "See what's in the report",
+          "href": "#whats-checked",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "What's checked",
+      "heading": "What a small-business SEO audit actually looks at",
+      "subheading": "Four areas decide whether local customers find you. We score every one against the competitors already beating you.",
+      "intro": "\"SEO audit\" sounds technical, but for a local business it comes down to four questions: Can Google find and trust your business listing? Does your website load fast and read clearly? Are people leaving reviews? And how do you stack up against the shops already ranking above you? Here's what we check in each area.",
+      "bg": "white",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "<i class=\"fa-solid fa-location-dot\"></i>",
+          "title": "Your Google Business Profile",
+          "text": "The biggest lever in local search. We check your primary category, completeness, service list, photos, posts, and Q&A — the signals that decide whether you show up in the map pack at all. Most of the fastest wins live here. Want the deep dive? See our <a href=\"/services/google-business-profile-optimization/\">Google Business Profile optimization</a> service."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-gauge-high\"></i>",
+          "title": "Your website's health",
+          "text": "Speed, mobile-friendliness, Core Web Vitals, broken links, missing local schema, and the on-page basics (titles, headings, content). A slow or messy site caps how high you can rank no matter how good your profile is. This is the technical SEO piece, in plain English."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-star\"></i>",
+          "title": "Reviews and reputation",
+          "text": "How many reviews you have, how fresh they are, how you compare to competitors, and whether you're replying. Reviews feed both your map-pack ranking and the gut-check a customer makes before they call. We flag where you're behind and what a healthy pace looks like."
+        },
+        {
+          "icon_svg": "<i class=\"fa-solid fa-magnifying-glass-chart\"></i>",
+          "title": "Where you rank vs. your top 5 competitors",
+          "text": "We benchmark your visibility for the searches that bring real customers against the five businesses already ranking above you — so you can see the exact gap, not a vague score. This side-by-side is the part owners say they've never gotten from anyone else."
+        }
+      ]
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "How it works",
+      "heading": "From request to written report in 2 business days",
+      "subheading": "No sales call required to get the audit. Here's the whole process, start to finish.",
+      "intro": "We keep this simple on purpose. You tell us about your business, we do the digging, and you get a written report you can act on — whether or not you ever hire us.",
+      "bg": "brand-50",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Tell us about your business",
+          "text": "Fill out the short form below — your business name, website, and what you're trying to grow. Takes under a minute. The more you tell us, the sharper the audit."
+        },
+        {
+          "number": "02",
+          "title": "We dig into your local presence",
+          "text": "We run the 20-point check on your Google Business Profile, website health, reviews, and rankings — and pull the same data for your top 5 local competitors so we can show you the gap, not just a number."
+        },
+        {
+          "number": "03",
+          "title": "You get a written report",
+          "text": "Within 2 business days you get a plain-English report: what's working, what's holding you back, and the three highest-ROI fixes in priority order. Yours to keep, no strings."
+        },
+        {
+          "number": "04",
+          "title": "Optional 45-minute walkthrough",
+          "text": "Want us to walk you through it? Book a free 45-minute call and we'll go line by line and answer anything. No pitch unless you ask for one — most owners just want to understand their report."
+        }
+      ]
+    },
+    {
+      "type": "columns",
+      "v": 1,
+      "heading": "Request your free 20-point SEO audit",
+      "intro": "Tell us where to send it. Within 2 business days you'll get a written audit of your Google Business Profile, website health, reviews, and how you rank against your top 5 local competitors — with the top three fixes laid out in order. No pitch, no obligation, nothing to install. Prefer to talk it through first? Call (781) 730-6971 and you'll reach a real person, not a queue.",
+      "cols": 2,
+      "align": "start",
+      "columns": [
+        {
+          "body": "<p class=\"form-note\">Takes under a minute. Written report back within 2 business days.</p>\n<!-- FORM HOST: render the WordPress form-plugin block/shortcode here (CF7 / GravityForms / admin-post / REST). Fields: First name* · Last name* · Work email* · Phone · Business name* · Website URL* · \"What do you most want to improve?\" (select: Show up in the Google map pack · Get more reviews · A faster / better website · Rank above a specific competitor · Not sure — that's what the audit is for) · \"Anything specific you want us to look at?\" (textarea) · honeypot (hidden, anti-spam) · consent checkbox*. [NEEDS CONFIRMATION: form backend is UNOWNED — must post to a real WP handler, NOT /api/contact.] -->\n<p class=\"form-consent\">I agree to receive my audit and a follow-up at the email and phone I provide. AQ Marketing will never sell or share your information.</p>\n<p class=\"form-submit-label\">Button: Send my free audit request</p>"
+        },
+        {
+          "body": "<figure class=\"audit-sample\">\n<img src=\"seo-audit-sample-report.webp\" alt=\"Sample SEO audit report showing the 20-point checklist, a competitor benchmark, and the top 3 fixes\">\n<figcaption>A sample of the written report you'll get back — plain English, prioritized, yours to keep.</figcaption>\n</figure>\n<!-- NOTE: sample-report image must use neutral/placeholder data, NOT invented client results (no fabricated growth percentages, ranking jumps, or invented client ratings/review counts). Image is a media-library asset, not a raw embed. -->\n<h3>What's in your report</h3>\n<ul>\n<li>Your 20-point local SEO score, by category</li>\n<li>A side-by-side benchmark against your top 5 local competitors</li>\n<li>Your Google Business Profile gaps and quick wins</li>\n<li>Website speed, mobile, and technical issues found</li>\n<li>The 3 highest-ROI fixes, in priority order</li>\n<li>Plain-English next steps — no jargon, no 40-page filler</li>\n</ul>"
+        }
+      ]
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "FAQ",
+      "heading": "SEO audit questions, answered straight",
+      "subheading": "What an audit is, what it costs, and what you get — before you ask for one.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What is an SEO audit?",
+          "a": "An SEO audit is a structured checkup of everything that affects whether customers find your business in search. For a local business that means four areas: your Google Business Profile, your website's health and speed, your reviews, and how you rank against nearby competitors. The audit finds the specific issues holding you back and lays out what to fix first."
+        },
+        {
+          "q": "Is the SEO audit really free?",
+          "a": "Yes — free, no credit card, no obligation to hire us. We run a limited number of free audits each month as a way to meet good-fit local businesses, so if we're booked up when you reach out we'll tell you within a day."
+        },
+        {
+          "q": "How long does the audit take to get back?",
+          "a": "You'll get your written report within 2 business days of submitting the form. If you'd like us to walk you through it, you can book a free 45-minute call after the report lands — but the report stands on its own and you don't have to get on a call to use it."
+        },
+        {
+          "q": "What's a 20-point SEO audit?",
+          "a": "It's our checklist of the 20 things that most affect local ranking and lead flow — covering your Google Business Profile, website health and speed, reviews, on-page SEO, and your competitive position. Each point gets scored so you can see at a glance where you're strong and where you're losing customers."
+        },
+        {
+          "q": "Is an SEO audit usually free?",
+          "a": "Not always — many agencies charge for a full audit, and depth varies a lot from one to the next. Ours is free because it's how we start a conversation. You get the competitor benchmark and prioritized fixes, with no obligation to do anything next."
+        },
+        {
+          "q": "Will you try to sell me something?",
+          "a": "No. The audit comes with no pitch attached. If you want help fixing what it finds, we're happy to talk — most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), and we show you measurable progress, fast. But plenty of owners take the report and run with it themselves, and that's fine by us."
+        },
+        {
+          "q": "What do I need to give you for the audit?",
+          "a": "Just your business name, website, and what you're trying to grow — that's enough for us to run the check. You don't need to share logins, billing, or access to anything. The whole form takes under a minute."
+        },
+        {
+          "q": "Do you do audits for businesses outside Greater Boston?",
+          "a": "We focus on Woburn, Boston, and Greater Boston because we know these markets and can benchmark you against the right local competitors. We take on Massachusetts-adjacent businesses case by case. If you're well outside the Northeast, we'll be straight with you and likely point you to someone better placed to help."
+        },
+        {
+          "q": "What should I do after I get my audit?",
+          "a": "Start with the three highest-ROI fixes at the top of the report — they're ordered that way on purpose. If they're inside your wheelhouse, run with them. If you'd rather have it handled, our <a href=\"/services/local-seo/\">local SEO services</a> cover the whole stack — profile, citations, reviews, and on-site work — under one roof."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free · no obligation",
+      "heading": "See exactly where you stand in local search",
+      "subheading": "A free 20-point audit, benchmarked against your top 5 competitors.",
+      "body": "Find out why you're not in the map pack yet — and what to fix first. Request your free SEO audit and we'll send back a plain-English written report within 2 business days. No pitch, no obligation, nothing to install. Just a clear picture and a prioritized plan.",
+      "image": "seo-audit-cta.webp",
+      "cta_label": "Request your free audit",
+      "cta_href": "#audit-form",
+      "footnote": "20-point written report · benchmarked vs. your top 5 competitors · back in 2 business days · optional free 45-minute walkthrough"
+    }
+  ]
+}

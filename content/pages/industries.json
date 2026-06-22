@@ -1,0 +1,196 @@
+{
+  "path": "/industries/",
+  "title": "Industries",
+  "status": "publish",
+  "seo": {
+    "title": "Industry Marketing for Small Businesses",
+    "description": "Local SEO & AI websites tailored by industry — home services, dental, legal & 30+ more across Greater Boston, from one Woburn, MA team since 2003.",
+    "canonical": "https://aqmarketing.com/industries/"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "v": 1,
+      "eyebrow": "Industries we serve",
+      "heading": "Local marketing built for your industry, not a generic template.",
+      "subheading": "Home services, dental, legal, and 30+ more local-service and B2B fields.",
+      "intro": "A dental practice doesn't win local search the same way a roofer or a law firm does — the keywords, the competitors, and the way customers choose are all different. AQ Marketing tailors the same done-for-you Local SEO and AI websites to how buyers actually find and pick a business in your field. Pick your industry below, or talk to us about yours. Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement), and you own everything we build.",
+      "intro_max": 860,
+      "image": "industries-hero-boston.webp",
+      "ctas": [
+        {
+          "label": "Get your free local audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "Don't see your industry? Talk to us",
+          "href": "/contact/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "service_card_grid",
+      "v": 1,
+      "eyebrow": "Built for local service and B2B",
+      "heading": "Find your industry — or the one closest to it.",
+      "subheading": "Deep playbooks for the fields we work in most, and proven moves for the 30+ industries we serve.",
+      "intro": "These are the industries we've built dedicated playbooks for. Don't see yours? We've ranked and booked work for HVAC, roofing, plumbing, electrical, landscaping, dental, medical, chiropractic, legal, financial, insurance, real estate, construction, auto, restaurants, fitness, and B2B businesses across Greater Boston since 2003 — 30+ industries in all. The fundamentals carry over; the details we tune to your field.",
+      "cards": [
+        {
+          "icon_svg": "screwdriver-wrench",
+          "title": "Home Services & Contractors",
+          "body": "HVAC, roofing, plumbing, electrical, landscaping, masonry, remodeling. We get you into the map pack for \"near me\" searches and put an AI receptionist on every call — so the 7pm emergency goes to you, not the next shop on the list.",
+          "price_primary": "From $500/mo",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Home services marketing",
+          "link_href": "/industries/home-services-marketing/"
+        },
+        {
+          "icon_svg": "tooth",
+          "title": "Dental & Medical Practices",
+          "body": "Dentists, orthodontists, and medical practices live and die by new-patient searches and reviews. We rank you for the procedures you want more of, build a steady stream of real reviews, and turn your website into a booking engine that fills the schedule.",
+          "price_primary": "From $500/mo",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Dental marketing",
+          "link_href": "/industries/dental-marketing/"
+        },
+        {
+          "icon_svg": "scale-balanced",
+          "title": "Law Firms & Attorneys",
+          "body": "Legal is one of the most competitive local searches there is. We get your firm into the map pack for your practice areas, capture every after-hours inquiry with an AI intake assistant, and build a site that turns a high-stakes click into a consultation.",
+          "price_primary": "From $500/mo",
+          "price_secondary": "Smart Website & Marketing Package (12-month agreement)",
+          "link_label": "Law firm marketing",
+          "link_href": "/industries/law-firm-marketing/"
+        },
+        {
+          "icon_svg": "briefcase",
+          "title": "Insurance & Professional Services",
+          "body": "Insurance agencies, accountants, financial advisors, and B2B firms win on trust and being easy to reach. We make you the obvious local choice in search and behind every form and phone call — so the right prospects find you and actually get a response.",
+          "link_label": "Talk to us about your firm",
+          "link_href": "/contact/"
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "Why industry-specific matters",
+      "heading": "Same proven playbook, tuned to how your customers actually search.",
+      "subheading": "The parts that change from one industry to the next — and why they decide who wins.",
+      "bg": "white",
+      "columns": 2,
+      "items": [
+        {
+          "icon_svg": "magnifying-glass-location",
+          "title": "The keywords are different",
+          "text": "A roofer ranks for \"roof repair near me\"; a dentist ranks for \"Invisalign\" and \"emergency dentist.\" We research the searches that actually bring you customers in your field — not generic industry terms that never get typed."
+        },
+        {
+          "icon_svg": "users-line",
+          "title": "Your competitors are different",
+          "text": "We benchmark you against the businesses you actually lose work to — the firm three towns over, the franchise down the street — not a national average. That's who you have to outrank in the map pack."
+        },
+        {
+          "icon_svg": "clock",
+          "title": "How buyers decide is different",
+          "text": "A burst pipe is an emergency; choosing a law firm or a dentist takes research and reviews. We match the website, the AI follow-up, and the reviews to how people in your industry actually choose — urgent capture for some, trust-building for others."
+        },
+        {
+          "icon_svg": "phone-volume",
+          "title": "The follow-up has to fit",
+          "text": "Home services need 24/7 call answering so no after-hours lead leaks. A practice needs clean online booking. A firm needs careful intake. Our AI receptionist and booking tools are configured for the way your business takes work — not one-size-fits-all."
+        },
+        {
+          "icon_svg": "map-location-dot",
+          "title": "The same Boston-metro expertise underneath",
+          "text": "Whatever the field, we've tuned our local playbooks for the Woburn, North Shore, MetroWest, and Greater Boston markets since 2003. The local fundamentals — Google Business Profile, citations, reviews, site speed — carry across all 30+ industries."
+        },
+        {
+          "icon_svg": "layer-group",
+          "title": "Everything still under one roof",
+          "text": "No matter your industry, you get one team for your <a href=\"/services/local-seo/\">Local SEO</a>, your <a href=\"/services/web-design/\">website</a>, and your <a href=\"/ai/\">AI follow-up</a> — one login, no middlemen, no finger-pointing between vendors."
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "What owners say",
+      "heading": "Trusted across Greater Boston, in every kind of business.",
+      "bg": "brand-50",
+      "intro": "From contractors to professional firms, Massachusetts owners have trusted AQ Marketing to get them found and booked since 2003.",
+      "items": [
+        {
+          "quote": "We have been working with Robert and his team at AQ Marketing for 2+ years. They are truly focused on bringing you real results with their marketing. We had a good website before, but AQ Marketing has taken it to the next level.",
+          "name": "Gerrior Masonry",
+          "role": "Masonry contractor"
+        },
+        {
+          "quote": "Robert has been honest, dependable, and deeply committed to helping my spa grow. His knowledge of marketing, design, and how to build a professional, easy-to-navigate website has made a huge difference in how clients find and connect with us. Because of his help, we've seen real growth and stronger engagement from our clients.",
+          "name": "Saloni",
+          "role": "SA Blissful Spa"
+        },
+        {
+          "quote": "We have been working with AQ Marketing for over 10 years. AQ doesn't just help us with our marketing, AQ is our marketing. They can take much of the credit for our consistent, steady growth, year after year.",
+          "name": "Betsy Sullivan",
+          "role": "Flynn Accounting"
+        }
+      ],
+      "cta_label": "See how we'd approach your industry",
+      "cta_href": "/contact/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "Questions, answered",
+      "heading": "Common questions about industry marketing with AQ Marketing.",
+      "subheading": "The ones we hear most from owners checking whether we fit their field.",
+      "schema": true,
+      "items": [
+        {
+          "q": "Which industries does AQ Marketing work with?",
+          "a": "We've served 30+ local-service and B2B industries across Greater Boston since 2003 — including HVAC, roofing, plumbing, electrical, landscaping, dental, medical, chiropractic, legal, financial, insurance, real estate, construction, auto, restaurants, fitness, and B2B. We've built dedicated playbooks for <a href=\"/industries/home-services-marketing/\">home services and contractors</a>, <a href=\"/industries/dental-marketing/\">dental and medical practices</a>, and <a href=\"/industries/law-firm-marketing/\">law firms</a>. If your field isn't listed, the local fundamentals still apply — <a href=\"/contact/\">tell us about your business</a>."
+        },
+        {
+          "q": "Do you really tailor the work to my industry, or is it the same plan for everyone?",
+          "a": "We tailor it. The local-SEO fundamentals are the same — Google Business Profile, citations, reviews, site speed — but the keywords, the competitors we benchmark you against, and the way your website and AI follow-up are set up all change by industry. A roofer needs 24/7 call answering for emergencies; a dental practice needs clean online booking; a law firm needs careful intake. We configure it for how your customers actually choose."
+        },
+        {
+          "q": "My industry isn't one of your three pages. Can you still help?",
+          "a": "Yes. The three pages are the fields we work in most, but they're not the limit — we've ranked and booked work across 30+ industries. The Local SEO, web design, and AI tools work the same way underneath; we adapt the keywords and the follow-up to your field. <a href=\"/contact/\">Book a free audit</a> and we'll show you exactly how we'd approach your market."
+        },
+        {
+          "q": "How is an industries page different from your services pages?",
+          "a": "Our <a href=\"/services/\">services pages</a> are organized by what you need done — rankings, a website, ads, reviews. Our industries pages are organized by who you are — a contractor, a practice, a firm — and show how we tailor those same services to your field. Most owners land on their industry page first to see that we understand their world, then dig into the specific service they need."
+        },
+        {
+          "q": "Do you only work with businesses in the Boston area?",
+          "a": "Greater Boston is home base — we've served Woburn, the North Shore, MetroWest, and the wider Boston metro since 2003. We take on Massachusetts-adjacent clients case by case. If you're outside the Northeast, we'll likely point you to someone better suited."
+        },
+        {
+          "q": "What does industry marketing cost?",
+          "a": "It depends on your industry and how competitive your local market is — legal and dental searches are far more competitive than many trades, so the work scales to match. Most clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement); in more competitive fields we add the SEO accelerator at $1,299/month for ongoing content and link building. You own everything we build. The fastest way to a real number is the free audit, where we benchmark you against your actual local competitors."
+        },
+        {
+          "q": "Will you work with my direct competitor down the street?",
+          "a": "No. When we take on a business in a given field and service area, we don't sign their direct local competitor — you're not going to fight your own agency in the map pack. Ask us about your market on the audit call and we'll tell you straight whether the lane is open."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "No pitch, no pressure",
+      "heading": "Want to see how we'd rank your business in your field?",
+      "subheading": "A free 45-minute growth audit for Greater Boston small businesses.",
+      "body": "Get a free, no-pitch local audit built around your industry. We'll benchmark you against your top 5 local competitors in your field, map the three highest-ROI moves for your business, and send a written action plan — usually within 2 business days. Zero obligation. If we're not the right fit for your industry, we'll tell you.",
+      "image": "boston-night-skyline.png",
+      "cta_label": "Get your free audit",
+      "cta_href": "/contact/",
+      "footnote": "Woburn, MA · Helping Massachusetts small businesses win the map pack since 2003 · (781) 730-6971"
+    }
+  ]
+}

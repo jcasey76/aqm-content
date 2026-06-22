@@ -1,0 +1,220 @@
+{
+  "path": "/about/",
+  "title": "About",
+  "status": "publish",
+  "seo": {
+    "title": "About AQ Marketing — Greater Boston SEO Since 2003",
+    "description": "Meet AQ Marketing — a Woburn, MA SEO company helping Greater Boston small businesses win local search since 2003 with done-for-you Local SEO and AI websites.",
+    "canonical": "https://aqmarketing.com/about/"
+  },
+  "sections": [
+    {
+      "type": "network_hero",
+      "v": 1,
+      "badge": "Woburn, MA · Since 2003",
+      "heading": "Two decades helping Greater Boston's small businesses win the search results.",
+      "intro": "A local SEO company and AI-website team, under one roof. AQ Marketing helps Massachusetts small businesses get found, get chosen, and get booked. We started in 2003 building websites and ranking local businesses on Google. Today we pair that same done-for-you Local SEO with AI websites, chatbots, and receptionists that turn every search into a real customer — all run by one Woburn-based team.",
+      "ctas": [
+        {
+          "label": "Book a free call · no pitch",
+          "href": "/contact/",
+          "style": "dark"
+        },
+        {
+          "label": "See our services",
+          "href": "/services/",
+          "style": "outline"
+        }
+      ],
+      "notes": [
+        {
+          "text": "20+ years in business"
+        },
+        {
+          "text": "One team, one roof"
+        },
+        {
+          "text": "Free, no-pitch audit"
+        }
+      ]
+    },
+    {
+      "type": "stat_split",
+      "v": 1,
+      "kicker": "Who we are",
+      "heading": "A Greater Boston agency that actually ships.",
+      "aside_text": "For over twenty years we've built the digital foundation Massachusetts businesses grow on — websites, <a href=\"/services/local-seo/\">Local SEO</a>, Google Ads, social, and brand identity. The tools keep changing; the obsession hasn't. We're a <a href=\"/boston/\">Boston-area digital marketing agency</a> owners can reach by name — one team that does the work instead of handing it off, so you get results without the stress.",
+      "aside_link_text": "See what we do",
+      "aside_link_href": "/services/",
+      "stats": [
+        {
+          "value": "2003",
+          "label": "The year AQ Marketing opened its doors in Woburn, MA"
+        },
+        {
+          "value": "20",
+          "suffix": "+ yrs",
+          "label": "Serving local-service and B2B businesses across Greater Boston"
+        },
+        {
+          "value": "1",
+          "suffix": " team",
+          "label": "Local SEO, web, AI, and ads under one roof — no silos, no hand-offs"
+        },
+        {
+          "value": "24/7",
+          "label": "AI receptionist and chatbot coverage on every site we build"
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "v": 1,
+      "eyebrow": "What we believe",
+      "heading": "Principles we don't compromise on.",
+      "bg": "brand-50",
+      "columns": 2,
+      "items": [
+        {
+          "title": "Results over reports",
+          "text": "We optimize every week and tie the work to booked calls and real revenue — not vanity dashboards or 40-page PDFs nobody reads."
+        },
+        {
+          "title": "Built for small business",
+          "text": "Two decades focused on local-service and B2B owners, not enterprise red tape. We speak plainly, move fast, and treat your budget like our own."
+        },
+        {
+          "title": "Everything under one roof",
+          "text": "Local SEO, websites, AI, ads, and reviews handled by one team with one login. No middlemen, no finger-pointing between vendors."
+        },
+        {
+          "title": "You own everything",
+          "text": "Your website, domain, ad accounts, and data are yours from day one. We keep earning your business by performing every month of the agreement."
+        }
+      ]
+    },
+    {
+      "type": "sticky_steps",
+      "v": 1,
+      "kicker": "How we work",
+      "heading": "A simple path from hello to growth.",
+      "steps": [
+        {
+          "tag": "Step 01",
+          "title": "Discovery",
+          "body": "We learn your business, audit your online presence, and benchmark you against your top local competitors — so we know exactly where the leads are leaking.",
+          "meta": "20-point audit\nCompetitor benchmark\nZero obligation"
+        },
+        {
+          "tag": "Step 02",
+          "title": "Strategy",
+          "body": "We map the highest-ROI moves — the keywords, pages, and systems that turn local searches into booked customers — with a clear timeline and budget.",
+          "meta": "Clear priorities\nTimeline & budget\nPlain English"
+        },
+        {
+          "tag": "Step 03",
+          "title": "Execution",
+          "body": "We build it — a fast AI-powered website, Local SEO, an optimized Google Business Profile, a review engine, and ads — wired together and launched as one system.",
+          "meta": "AI website\nLocal SEO\nAds & reviews"
+        },
+        {
+          "tag": "Step 04",
+          "title": "Growth",
+          "body": "We optimize every week, report only what matters, and scale what's working — turning early wins into steady, compounding growth month after month.",
+          "meta": "Weekly optimization\nLive reporting\nCompounding growth"
+        }
+      ]
+    },
+    {
+      "type": "chip_marquee",
+      "v": 1,
+      "kicker": "Our work",
+      "heading": "Trusted by Greater Boston businesses for 20+ years.",
+      "aside_text": "From home services and landscaping to insurance, spas, and B2B — a few of the local brands we've helped get found and grow across the Boston metro. Rated 5.0 on Google across 34 reviews.",
+      "row1_speed": "0.55",
+      "row1_chips": [
+        {
+          "fa": "fa-shield-halved",
+          "label": "Stanton Insurance"
+        },
+        {
+          "fa": "fa-leaf",
+          "label": "Boston Landscape Co."
+        },
+        {
+          "fa": "fa-calculator",
+          "label": "Flynn Accounting"
+        },
+        {
+          "fa": "fa-trowel-bricks",
+          "label": "Gerrior Masonry"
+        },
+        {
+          "fa": "fa-helmet-safety",
+          "label": "Norman Builders"
+        },
+        {
+          "fa": "fa-house-chimney",
+          "label": "Tranni Home Remodeling"
+        },
+        {
+          "fa": "fa-seedling",
+          "label": "McLeod Landscaping"
+        }
+      ],
+      "row2_speed": "-0.45",
+      "row2_chips": [
+        {
+          "fa": "fa-spa",
+          "label": "SA Blissful Spa"
+        },
+        {
+          "fa": "fa-house-chimney",
+          "label": "Chris Battain Roofing"
+        },
+        {
+          "fa": "fa-tree",
+          "label": "AA Tree Service"
+        },
+        {
+          "fa": "fa-house-chimney",
+          "label": "Twin Metals Roofing"
+        },
+        {
+          "fa": "fa-house-chimney",
+          "label": "Golini Roofing"
+        },
+        {
+          "fa": "fa-road",
+          "label": "Monarch Pavement"
+        },
+        {
+          "fa": "fa-leaf",
+          "label": "Lentine Landscaping"
+        },
+        {
+          "fa": "fa-tower-cell",
+          "label": "AccuTech Communications"
+        }
+      ]
+    },
+    {
+      "type": "scrub_quote",
+      "v": 1,
+      "kicker": "Our mission",
+      "quote": "We don't sell marketing. We sell booked calls, full calendars, and small businesses that finally outrank the franchise down the street.",
+      "author_name": "The AQ Marketing team",
+      "author_role": "Woburn, Massachusetts · Since 2003"
+    },
+    {
+      "type": "cta_band",
+      "v": 1,
+      "headline": "Ready to put 20 years of local growth to work?",
+      "body": "Twenty years in, the offer is still simple: a free, no-pitch audit. Tell us your business and we'll benchmark you against your top 5 local competitors, lay out the three moves that will move the needle fastest, and hand back a prioritized action plan — yours to keep whether or not you hire us.",
+      "primary_label": "Book your free audit",
+      "primary_href": "/contact/",
+      "secondary_label": "See what we do",
+      "secondary_href": "/services/"
+    }
+  ]
+}

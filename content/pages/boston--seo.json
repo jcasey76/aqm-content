@@ -1,0 +1,253 @@
+{
+  "path": "/boston/seo/",
+  "title": "Boston SEO",
+  "status": "publish",
+  "seo": {
+    "title": "Boston SEO Company Ranking Local Businesses Since 2003",
+    "description": "A Boston SEO company ranking small businesses in the local map pack since 2003. Free 20-point audit and a written plan in 2 business days.",
+    "canonical": "https://aqmarketing.com/boston/seo/"
+  },
+  "sections": [
+    {
+      "type": "city_hero",
+      "v": 1,
+      "eyebrow": "Boston SEO",
+      "heading": "Boston SEO company that gets your business found across the city.",
+      "subheading": "Rank in the map pack. Show up for \"near me.\" Turn local searches into booked customers.",
+      "sub_style": "text-accent-500",
+      "intro": "We're AQ Marketing — a Boston SEO agency that's ranked Greater Boston small businesses since 2003. We get you into the top local results for the searches your customers actually type, then make sure every click has somewhere to go. Run from our Woburn home base, tuned for how people search across Boston, the North Shore, and MetroWest.",
+      "image": "boston-night-skyline.png",
+      "badges": [
+        {
+          "text": "Serving Greater Boston since 2003"
+        },
+        {
+          "text": "5.0 on Google across 34 reviews"
+        },
+        {
+          "text": "Measurable progress, fast"
+        }
+      ],
+      "ctas": [
+        {
+          "label": "Get your free Boston SEO audit",
+          "href": "/contact/",
+          "style": "primary"
+        },
+        {
+          "label": "See how our Local SEO works",
+          "href": "/services/local-seo/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "type": "trust_image_left",
+      "v": 1,
+      "eyebrow": "What's included",
+      "heading": "Everything your Boston business needs to rank locally.",
+      "subheading": "One team handles the whole local-search picture — no middlemen, no finger-pointing between vendors.",
+      "bg": "white",
+      "pad": "normal",
+      "paragraphs": [
+        {
+          "html": "Boston is crowded. The franchise down the street has a budget you can't match, and the top three map-pack spots take most of the clicks. We level that field. We benchmark your Google Business Profile, citations, reviews, and site speed against your top 5 local competitors, then close every gap keeping you off the first page."
+        },
+        {
+          "html": "You get a dedicated strategist who knows the Boston market — not a ticket queue. We optimize your profile, build the local citations Google trusts, earn real reviews, and write geo-targeted content that wins the neighborhoods you serve. All of it is built to perform for both Google's local pack and the AI answer engines people now ask first."
+        }
+      ],
+      "checklist": [
+        {
+          "text": "Google Business Profile optimization built for Boston-area map-pack rankings"
+        },
+        {
+          "text": "Local citations and directory listings that match your Woburn-verified business details exactly"
+        },
+        {
+          "text": "Review generation and reputation management to earn the stars that win clicks"
+        },
+        {
+          "text": "Geo-targeted, neighborhood-level content for the searches your customers use"
+        },
+        {
+          "text": "Technical SEO and site-speed fixes so Google trusts and ranks your site"
+        },
+        {
+          "text": "One login, every metric — no vanity dashboards, no 40-page PDFs nobody reads"
+        }
+      ],
+      "cta_label": "See our full Local SEO service",
+      "cta_href": "/services/local-seo/",
+      "image": "map-pack-rankings.png"
+    },
+    {
+      "type": "stats",
+      "v": 1,
+      "eyebrow": "Results",
+      "heading": "What ranking in Boston looks like.",
+      "subheading": "Real movement on the metrics that bring in calls and customers.",
+      "h2_mt": "mt-4",
+      "intro": "What you can count on with AQ Marketing in your corner — and what we'll map specifically for your business and your market in your free audit.",
+      "bg": "brand-50",
+      "cols": 4,
+      "stats": [
+        {
+          "value": "2003",
+          "label": "Ranking Greater Boston businesses since"
+        },
+        {
+          "value": "Top 3",
+          "label": "The Map Pack position we work to win and hold"
+        },
+        {
+          "value": "5.0",
+          "label": "Our Google rating across 34 reviews"
+        },
+        {
+          "value": "24/7",
+          "label": "AI receptionist coverage behind every click"
+        }
+      ]
+    },
+    {
+      "type": "step_cards",
+      "v": 1,
+      "eyebrow": "Our process",
+      "heading": "How we get your Boston business ranking.",
+      "subheading": "A clear path from free audit to first-page results — no guesswork, no fluff.",
+      "intro": "The same process we've run for Greater Boston businesses for two decades, tuned to your market and your competitors.",
+      "cards": [
+        {
+          "number": "01",
+          "title": "Free Boston SEO audit",
+          "text": "We run our 20-point local audit and benchmark you against your top 5 Boston-area competitors. You get a written action plan within 2 business days — no obligation, no pitch."
+        },
+        {
+          "number": "02",
+          "title": "Fix the foundation",
+          "text": "We optimize your Google Business Profile, clean up your citations so your business details match everywhere, and fix the technical and speed issues holding your site back."
+        },
+        {
+          "number": "03",
+          "title": "Rank the map pack",
+          "text": "We build the local signals Google rewards — reviews, geo-targeted content, and authority — to climb you toward the top three results for the Boston-area searches that matter."
+        },
+        {
+          "number": "04",
+          "title": "Capture every lead",
+          "text": "We put an AI receptionist and smart lead capture behind every click, so the searches you now rank for turn into booked calls instead of voicemails."
+        }
+      ]
+    },
+    {
+      "type": "town_card_grid",
+      "v": 1,
+      "eyebrow": "Where we work",
+      "heading": "Local SEO across Greater Boston.",
+      "subheading": "Boston proper and the suburbs around it — we know how people search in each one.",
+      "intro": "From our Woburn home base, we rank businesses across the city and the surrounding towns. A few of the areas we serve:",
+      "bg": "white",
+      "cta_label": "Local SEO in this area",
+      "cards": [
+        {
+          "county": "Suffolk County",
+          "title": "Boston",
+          "body": "Downtown, Back Bay, the Seaport, and the neighborhoods — competitive turf where map-pack placement decides who gets the call.",
+          "href": "/boston/"
+        },
+        {
+          "county": "Middlesex County",
+          "title": "Woburn",
+          "body": "Our verified home base since 2003 and where our local-SEO playbook was built.",
+          "href": "/service-area/woburn/"
+        },
+        {
+          "county": "Middlesex County",
+          "title": "North Shore",
+          "body": "Local search across the communities north of the city, tuned for service-area businesses.",
+          "href": "/service-area/"
+        },
+        {
+          "county": "Greater Boston",
+          "title": "MetroWest",
+          "body": "The towns west of Boston, where we rank home services, professional firms, and local shops.",
+          "href": "/service-area/"
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "v": 1,
+      "eyebrow": "Client story",
+      "heading": "Boston businesses that climbed the rankings.",
+      "h2_mt": "mt-4",
+      "bg": "brand-50",
+      "intro": "Real local owners, real results — rated 5.0 on Google across 34 reviews.",
+      "items": [
+        {
+          "quote": "The clear results they delivered with their SEO services and online marketing efforts, friendly responsive service, and affordable rates with transparent reporting. AQ Marketing is a great marketing agency that helped our small business improve its online presence. Highly recommend!",
+          "name": "AJM Grounds",
+          "role": "Landscaping"
+        },
+        {
+          "quote": "Robert and his team redesigned our outdated construction website and helped us move to the top of Google searches with their SEO services. Highly recommend the team at AQ Marketing!",
+          "name": "Ryan Norman",
+          "role": "Norman Builders"
+        }
+      ],
+      "cta_label": "Start with a free audit",
+      "cta_href": "/contact/"
+    },
+    {
+      "type": "faq",
+      "v": 1,
+      "eyebrow": "FAQ",
+      "heading": "Boston SEO, answered.",
+      "subheading": "The questions Boston business owners actually ask before they hire an SEO company.",
+      "schema": true,
+      "items": [
+        {
+          "q": "What does a Boston SEO company actually do?",
+          "a": "We get your business found in Google's local results for the searches your Boston-area customers use — things like \"[your service] near me\" and \"[your service] Boston.\" That means optimizing your Google Business Profile, building local citations and reviews, writing geo-targeted content, and fixing the technical issues on your site. We also handle the website and lead capture so the rankings turn into booked calls, all under one roof."
+        },
+        {
+          "q": "How much does SEO cost in Boston?",
+          "a": "Most Boston clients start with our Smart Website & Marketing Package at $500/month (a 12-month agreement). That covers the local-SEO foundation — Google Business Profile optimization, citations, reviews, on-page SEO, plus your website, hosting, and lead capture. When you want to push harder on rankings, our SEO accelerator adds ongoing blog content and link building for $1,299/month. Your free audit includes a clear recommendation for your specific situation. See full options on our <a href=\"/services/local-seo/\">Local SEO service page</a>."
+        },
+        {
+          "q": "How long until I see SEO results in Boston?",
+          "a": "Climbing into the top three map-pack spots in a competitive Boston market usually takes a few months — it depends on your starting point and your competition. We focus on showing you measurable progress, fast, and reporting it in plain language. And no legitimate agency can promise a #1 ranking — Google doesn't let anyone."
+        },
+        {
+          "q": "Do you only work with businesses inside Boston?",
+          "a": "No. We work with small businesses across Greater Boston — the North Shore, MetroWest, and the surrounding towns — from our Woburn home base. We take on Massachusetts-adjacent clients case by case. If you're outside the Northeast, we'll likely refer you elsewhere rather than take work we can't do well."
+        },
+        {
+          "q": "What makes AQ Marketing different from other Boston SEO agencies?",
+          "a": "Two things, done at an unfair level: Local SEO and AI-powered websites, under one roof. You get a dedicated strategist instead of a ticket queue, and one login with every metric instead of a 40-page PDF nobody reads. We've ranked Greater Boston businesses since 2003, and you own everything we build — your site, your domain, your Google Business Profile, your data."
+        },
+        {
+          "q": "Will you help me show up for \"near me\" searches?",
+          "a": "Yes — that's the core of local SEO. \"Near me\" results are driven by your Google Business Profile, your proximity and relevance to the searcher, your reviews, and consistent business information across the web. We optimize all of it so you show up when someone nearby searches for what you do."
+        },
+        {
+          "q": "What's the difference between this page and your Local SEO service page?",
+          "a": "This page is about ranking specifically in the Boston market — the neighborhoods, suburbs, and local competition. Our <a href=\"/services/local-seo/\">Local SEO service page</a> covers exactly what's included, our full process, and pricing in detail. Want the nuts and bolts? Start there. Want to know how we win in Boston? You're in the right place."
+        }
+      ]
+    },
+    {
+      "type": "final_cta",
+      "v": 1,
+      "eyebrow": "Free Boston SEO audit",
+      "heading": "Find out why you're not ranking in Boston — free.",
+      "subheading": "No pitch. No obligation. Just a clear plan.",
+      "body": "We'll run our 20-point local audit, benchmark you against your top 5 Boston-area competitors, and map the three highest-ROI moves to get you ranking. You get a written action plan within 2 business days — on the house.",
+      "image": "hero-boston.webp",
+      "cta_label": "Get your free Boston SEO audit",
+      "cta_href": "/contact/",
+      "footnote": "Free 20-point audit · Written plan in 2 business days · You own everything we build."
+    }
+  ]
+}

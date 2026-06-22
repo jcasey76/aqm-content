@@ -1,0 +1,30 @@
+{
+  "_comment": "Per-client design tokens consumed by theme/aqm-base/tailwind.config.cjs at build time (loadTokens reads colors / fontFamily|fonts / maxWidth). Place at content/design.json before running `npm run css`. Seeded from the live AQ Marketing styles.css :root — brand scale = dark band (#06080b / #0d1014), accent scale = brand RED #c8102e (the legacy --teal/--red token, VALUE is red), plus a named ORANGE scale (#f26b3a, legacy --orange). Fonts = Inter only (the live site loads Inter 400-800; Georgia is decorative-only and not tokenized).",
+  "colors": {
+    "brand": {
+      "50": "#f7f9fa", "100": "#eef1f5", "200": "#d7dde4", "300": "#aeb7c2",
+      "400": "#7c8794", "500": "#5b6471", "600": "#3a424d", "700": "#1f262e",
+      "800": "#11151b", "900": "#0d1014", "950": "#06080b"
+    },
+    "accent": {
+      "50": "#fdf2f4", "100": "#fbe1e5", "200": "#f6c2cb", "300": "#ee94a4",
+      "400": "#e35877", "500": "#c8102e", "600": "#a30d25", "700": "#86101f",
+      "800": "#70131f", "900": "#5f141f", "950": "#34060d"
+    },
+    "orange": {
+      "50": "#fef4ef", "100": "#fde5d8", "200": "#fac7b0", "300": "#f7a07d",
+      "400": "#f4824f", "500": "#f26b3a", "600": "#dd4d1c", "700": "#b83a17",
+      "800": "#93311a", "900": "#772c18", "950": "#40130a"
+    }
+  },
+  "fontFamily": {
+    "serif": ["Inter", "Inter Fallback", "system-ui", "Segoe UI", "Roboto", "sans-serif"],
+    "display": ["Inter", "Inter Fallback", "system-ui", "Segoe UI", "Roboto", "sans-serif"],
+    "sans": ["Inter", "Inter Fallback", "system-ui", "-apple-system", "Segoe UI", "Roboto", "sans-serif"]
+  },
+  "maxWidth": {
+    "prose": "70ch",
+    "content": "1320px",
+    "content-wide": "1600px"
+  }
+}
