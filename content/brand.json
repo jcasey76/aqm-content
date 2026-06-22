@@ -9,6 +9,12 @@
   "themeColor": "#c8102e",
   "regionSuffix": " in Greater Boston",
 
+  "headerStyle": "dark",
+  "showTopbar": false,
+  "stickyBar": false,
+  "headerCta": { "label": "Book a call", "href": "/contact/" },
+  "footerCta": { "label": "Book a call", "href": "/contact/" },
+
   "schema": { "businessType": "MarketingAgency", "serviceRadius": "40000" },
 
   "phone": "(781) 730-6971",

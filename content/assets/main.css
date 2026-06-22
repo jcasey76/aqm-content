@@ -954,3 +954,11 @@ body.about #mission .hm-head{margin-bottom:clamp(24px,3vw,36px)}
   .ab-hero{min-height:auto;padding:72px 0 60px}
   .ab-hero-scroll{display:none}
 }
+
+/* ── AQM dark header (headerStyle=dark) — mirrors the original #0a0c0f nav ── */
+header[data-header="dark"]{background:#0a0c0f;border-bottom:1px solid rgba(255,255,255,.08);}
+header[data-header="dark"] [data-megamenu] .text-brand-800{color:#fff;}
+header[data-header="dark"] [data-megamenu] .text-brand-800:hover{color:#e2444f;}
+header[data-header="dark"] [data-megamenu] a[href^="tel:"]{background:transparent;border:1px solid rgba(255,255,255,.25);}
+header[data-header="dark"] [data-megamenu] a[href^="tel:"]:hover{border-color:#fff;background:rgba(255,255,255,.06);}
+header[data-header="dark"] [data-nav-toggle]{color:#fff;border-color:rgba(255,255,255,.2);}
