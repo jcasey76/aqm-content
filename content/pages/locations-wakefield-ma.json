@@ -1,0 +1,283 @@
+{
+    "path": "/locations/wakefield-ma/",
+    "title": "Locations · Wakefield, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Web Design in Wakefield, MA — Sites for Family Businesses + Restaurants | AQ Marketing",
+        "description": "Wakefield's tight-knit community favors family businesses, restaurants, retail, and trades that have been on Main Street for generations. AQM builds modern websites that respect that heritage — fast, mobile, conversion-tuned without being corporate.",
+        "canonical": "https://aqmarketing.com/locations/wakefield-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Wakefield, MA",
+            "heading": "Wakefield's businesses are <em>family-run, neighborhood-known</em>. Your site should feel like that.",
+            "lede": "Lake Quannapowitt, Main Street, the Common — Wakefield is a town where reputation walks. Many of the businesses we work with here are second- or third-generation, with a customer base built on relationships. Modern web design that respects that heritage — fast and mobile, but not corporate or sterile — is the right starting point.",
+            "ctas": [
+                {
+                    "label": "Get a Wakefield-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Wakefield, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE WAKEFIELD MARKET",
+            "heading": "What makes Wakefield different from corridor towns.",
+            "intro": "Tight community, generational businesses, walk-in commerce, restaurant-heavy downtown. The marketing playbook is different — heavier on reputation and walk-in capture, lighter on volume tactics.",
+            "stats": [
+                {
+                    "value": "27k",
+                    "label": "Wakefield population — concentrated around Lake Q + Main"
+                },
+                {
+                    "value": "8 mi",
+                    "label": "Drive from our Woburn HQ via 95"
+                },
+                {
+                    "value": "60+",
+                    "label": "Independent restaurants + retail on Main Street + nearby"
+                },
+                {
+                    "value": "3–4 gen",
+                    "label": "Typical tenure for family-business clients in Wakefield"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Wakefield businesses we work with.",
+            "intro": "Restaurants, retail, professional services, and home-service trades — most of them family-owned, most of them already known in town.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-utensils",
+                    "title": "Restaurants + cafes",
+                    "body": "Main Street + Lake Q corridor. Local SEO + GBP + Yelp drives walk-ins; reservation-platform optimization captures the rest."
+                },
+                {
+                    "fa": "fa-shop",
+                    "title": "Retail + boutiques",
+                    "body": "Main Street boutiques, gift shops, specialty retail. GBP + Apple Maps + Instagram drive most discovery."
+                },
+                {
+                    "fa": "fa-house-chimney",
+                    "title": "Family-run home services",
+                    "body": "Multi-generational HVAC, plumbing, electrical, contractors. Reputation depth is the moat — most have decades of word-of-mouth that the website should reflect."
+                },
+                {
+                    "fa": "fa-briefcase",
+                    "title": "Local professional services",
+                    "body": "Real estate, insurance, accounting, financial planning. Less map-pack-driven; more relationship-driven. SEO compounds via content + reviews."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN WAKEFIELD",
+            "heading": "The starting services for most Wakefield businesses.",
+            "intro": "Web design first (most have legacy sites that don't reflect their reputation). Reputation second. SEO third. Ads rarely a starting service.",
+            "cards": [
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Modern but not sterile. Most Wakefield businesses have decades of brand equity the site should preserve while updating the technical foundation.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Wakefield's word-of-mouth is real but invisible online if it's not on Google + Yelp. Surfacing it is often the highest-leverage early project.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "Most Wakefield businesses have an under-built GBP. Filling it out completely is one of the cheapest, fastest wins in the market.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a Wakefield engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Heritage + tech audit",
+                    "body": "What's working in your existing brand and reputation that the site should preserve. What's broken technically that's costing you traffic."
+                },
+                {
+                    "step_label": "WEEK 2–5",
+                    "title": "Site rebuild",
+                    "body": "Modern stack (Cloudflare Pages), mobile-first, but with brand and tone that respects the existing identity. Family-business clients usually approve in 1–2 design rounds."
+                },
+                {
+                    "step_label": "WEEK 6–8",
+                    "title": "Reputation + GBP",
+                    "body": "Activate the latent word-of-mouth. Review automation turns the relationships you already have into a steady stream of fresh Google and Yelp reviews."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Wakefield engagements often add Local SEO + Email/SMS in months 2–3 once foundations are in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY WAKEFIELD IS DIFFERENT",
+            "heading": "The reputation iceberg in a small town.",
+            "prose_html": "<p>Most Wakefield businesses we work with have ten times more reputation in town than they have visible online. Decades of relationship-building, customer loyalty, and word-of-mouth referrals — all invisible to a Google searcher who arrives at a 12-review profile and moves on. The fastest project we run in Wakefield is often \"surface what already exists\" — review automation that turns latent word-of-mouth into steady Google visibility.</p>\n        <p>The web design half of the same project is about preserving what's working while fixing what's broken. A Wakefield contractor with 35 years of family business doesn't need a startup-style website. They need a fast, mobile-first site that respects the brand they already have — clear photos of real jobs, real customer quotes, the family story, and a phone number that's easy to tap. We build for that bar.</p>\n        <h3>The walk-in capture problem</h3>\n        <p>Wakefield's downtown traffic — Main Street + the Common + Lake Q corridor — produces a lot of walk-in commerce. The web design has to capture the \"researching from the sidewalk\" use case: hours, menu, photos, parking, and a one-tap phone number. Mobile speed isn't a polish item here either; sub-1.5s loads convert dramatically better in walk-in markets.</p>\n        <h3>Why GBP under-investment is so common in Wakefield</h3>\n        <p>Most family businesses set up their GBP a decade ago and never touched it. Categories are wrong, services aren't listed, photos are stale, posts are zero. Filling all this out completely — the right way, with all the granularity — is part of the Local SEO foundations in the $500/mo package, and it's one of the steady levers that lifts map-pack rankings over a 3–6 month build. Cheapest foundational win in the Wakefield playbook.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "8 mi from our Woburn HQ",
+                    "note_body": "About 12 minutes via 95. We meet Wakefield clients on Main Street or at our office — the proximity makes either efficient."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Wakefield.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you have multi-generational family business experience?",
+                    "a": "Yes. Many Wakefield clients are second- or third-generation businesses. Brand-preservation engagements are different from greenfield branding — we know how to update the technical layer without losing the equity."
+                },
+                {
+                    "q": "How long until results in Wakefield?",
+                    "a": "Local SEO is a 3–6 month build, not an overnight switch. Most clients see meaningful map-pack movement in 3–6 months, with web rebuilds and sustained content compounding from there. Month-to-month — no long-term contracts."
+                },
+                {
+                    "q": "Will my Wakefield site look corporate?",
+                    "a": "Only if you want it to. Most Wakefield engagements explicitly avoid corporate styling — we build clean, modern, fast sites that still feel like the local family business they represent."
+                },
+                {
+                    "q": "Do you do logo or branding refreshes?",
+                    "a": "Yes — through our Branding service. For Wakefield family businesses we usually recommend refresh (preserve equity) over rebrand (reset). Different scope, different price point."
+                },
+                {
+                    "q": "Can you help with our Yelp reputation?",
+                    "a": "Yes. Yelp is over-indexed in Wakefield restaurants because of the dense downtown scene. Review-request automation routes to Yelp + Google + Facebook intelligently based on which platform most needs volume."
+                },
+                {
+                    "q": "Do you work with restaurants on reservation-platform optimization?",
+                    "a": "Yes — OpenTable, Resy, Yelp Reservations. Profile completeness + photos + menu structure + GBP linkage. Particularly useful for the Lake Q restaurants that depend on weekend traffic."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Nearby Wakefield-area markets.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Reading, MA",
+                    "body": "3 miles north. Similar pattern — bedroom community, family businesses, home-services density. Adjacent SEO playbook.",
+                    "href": "/locations/reading-ma/",
+                    "more_label": "See Reading"
+                },
+                {
+                    "tag": "HQ",
+                    "title": "Woburn, MA",
+                    "body": "Our HQ, 6 miles southwest. Larger population, broader industry mix, similar family-business culture in many sectors.",
+                    "href": "/locations/woburn-ma/",
+                    "more_label": "See Woburn"
+                },
+                {
+                    "tag": "Service",
+                    "title": "Web Design",
+                    "body": "Wakefield engagements often start with a brand-respecting rebuild. Modern technical foundation, family-business voice preserved.",
+                    "href": "/services/web-design/",
+                    "more_label": "See Web Design"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Wakefield-market audit",
+            "heading": "See your Wakefield business <em>through a Main-Street searcher's phone</em>.",
+            "body": "Mobile site speed, GBP completeness, review depth, walk-in conversion path. We'll send you a 2-page Wakefield-tuned audit and benchmark against the top 5 in your category.",
+            "ctas": [
+                {
+                    "label": "Book the Wakefield audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Family-business + tech review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "3–6 mo",
+                    "label": "Honest local-SEO build window"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

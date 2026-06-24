@@ -1,0 +1,291 @@
+{
+    "path": "/solutions/ai-receptionist/",
+    "title": "Solutions · Capture",
+    "status": "publish",
+    "seo": {
+        "title": "AI Phone Answering Service — 24/7 Voice Agent | AQ Marketing",
+        "description": "A bolt-on AI phone agent that answers your business line right away, qualifies the caller, books on your calendar live, and warm-transfers hot leads. Replaces voicemail and human answering services.",
+        "canonical": "https://aqmarketing.com/solutions/ai-receptionist/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-phone-volume",
+            "badge": "Solutions · Capture",
+            "heading": "The phone rang. <em>You didn't.</em> Your AI receptionist booked the job.",
+            "lede": "An AI voice agent that answers your business line right away, qualifies the caller, books the appointment, and texts you the details. Sounds human, won't pretend to be one. Costs less than a part-time answering service and handles far more volume.",
+            "ctas": [
+                {
+                    "label": "Hear a live sample",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-bolt"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Solutions",
+                    "url": "/solutions/"
+                },
+                {
+                    "label": "AI Receptionist"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHAT IT DOES",
+            "heading": "Every call answered, so fewer jobs walk to a competitor.",
+            "intro": "Plenty of home-services businesses miss inbound calls during jobs, meetings, and after hours. Each missed call can be a real job that walked.",
+            "stats": [
+                {
+                    "value": "24/7",
+                    "label": "Inbound calls answered, every hour of every day"
+                },
+                {
+                    "value": "Answered fast",
+                    "label": "The AI greets the caller right away, no voicemail"
+                },
+                {
+                    "value": "Books live",
+                    "label": "Qualifies the caller and books on your real calendar"
+                },
+                {
+                    "value": "Lower cost",
+                    "label": "Less per call than a human answering service"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why missed calls are the most expensive problem you have.",
+            "intro": "A missed call from a high-intent caller is the worst-case marketing leak: you paid for the click, paid for the SEO, paid for the truck wrap, and the buyer dialed your competitor.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-phone-slash",
+                    "title": "27% of calls go to voicemail",
+                    "body": "Industry data across home services, dental, legal, and real estate. The bigger your ad spend, the more this number costs you."
+                },
+                {
+                    "fa": "fa-headset",
+                    "title": "Answering services are expensive and bad",
+                    "body": "$0.95–$1.50 per call, scripts that sound like scripts, no calendar access, no way to book. They take a message and email it to you."
+                },
+                {
+                    "fa": "fa-mobile-screen-button",
+                    "title": "\"My cell forwards everything\"",
+                    "body": "Until you're on a job, in a meeting, in a tunnel, or asleep. \"Can you call them back?\" is the #1 reason leads switch vendors."
+                },
+                {
+                    "fa": "fa-language",
+                    "title": "After-hours = different country",
+                    "body": "9 PM service-emergency calls in MA frequently come from non-English-first households. Your voicemail can't translate. Ours can."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — THE STACK",
+            "heading": "What's actually inside the AI receptionist.",
+            "items": [
+                {
+                    "fa": "fa-microphone",
+                    "title": "Natural voice",
+                    "body": "Modern voice models — sounds human, not robotic. Picks the voice + tone that matches your brand: warm, professional, or no-nonsense."
+                },
+                {
+                    "fa": "fa-graduation-cap",
+                    "title": "Trained on your business",
+                    "body": "Same knowledge base as the chatbot. Knows your services, prices, hours, service area, common objections, what to refuse to quote."
+                },
+                {
+                    "fa": "fa-calendar-day",
+                    "title": "Books on your real calendar",
+                    "body": "\"How's Wednesday at 2?\" — checks Google Calendar, Jobber, Housecall Pro, ServiceTitan, Acuity. Confirms by SMS while still on the call."
+                },
+                {
+                    "fa": "fa-arrow-right-arrow-left",
+                    "title": "Warm transfer for hot leads",
+                    "body": "If the caller is ready-to-buy or it's an emergency, the AI says \"I'm connecting you to Mike now\" — and dials your cell with the context briefed."
+                },
+                {
+                    "fa": "fa-language",
+                    "title": "Bilingual EN/ES",
+                    "body": "Detects Spanish on the first sentence and switches. Rolls back to English on transfer or notifies you the caller speaks Spanish."
+                },
+                {
+                    "fa": "fa-file-audio",
+                    "title": "Transcript + recording",
+                    "body": "Every call recorded, transcribed, and dropped into your CRM with sentiment tags and the qualifying answers extracted."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "From signup to live on your line.",
+            "steps": [
+                {
+                    "step_label": "DAY 1–2",
+                    "title": "Number + voice",
+                    "body": "Pick the number (port yours or get a new local). Pick the voice. We tune the greeting and the brand tone."
+                },
+                {
+                    "step_label": "DAY 3–5",
+                    "title": "Knowledge + script",
+                    "body": "Same knowledge build as the chatbot. Custom scripts for top-3 call types (new lead, existing customer, emergency)."
+                },
+                {
+                    "step_label": "DAY 6–8",
+                    "title": "Wire + test",
+                    "body": "Calendar, CRM, transfer rules. We run 30 test calls with edge cases (background noise, accents, hostile callers, kids on the line)."
+                },
+                {
+                    "step_label": "DAY 9–10",
+                    "title": "Soft launch",
+                    "body": "Forward 25% of calls first day, ramp to 100% by day 10. We listen to every call for the first week."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "The economics of replacing voicemail with a real conversation.",
+            "prose_html": "<p>For a Massachusetts home-services business doing 200 inbound calls a month, missed-call rate of 27% means 54 lost conversations. Even at a 30% close rate and an average ticket of $480, that's $7,776 in monthly revenue evaporating into voicemail. The AI receptionist costs $290–$540/month. The math isn't subtle.</p>\r\n        <p>What's harder to quantify but bigger: the calls you'd never even know happened. Late-night HVAC emergencies, Sunday plumbing leaks, the after-funeral memorial-service inquiry to a florist on Saturday at 8 PM. Voicemail loses these silently — you never see them in your reporting because they hung up before leaving a message.</p>\r\n        <h3>It does not replace your team</h3>\r\n        <p>The AI handles tier-1: new-lead intake, scheduling, FAQ, simple existing-customer questions. Anything escalated — disputes, complex quoting, complaints — is warm-transferred to a human. The AI is not pretending to be your team; it's the front desk that lets your team focus on actual work.</p>\r\n        <h3>Compliance and recording</h3>\r\n        <p>MA is a two-party consent state for call recording. The AI announces \"this call may be recorded for quality\" on every answer. Recordings are encrypted at rest, retained for 90 days by default, and exportable on request. Full HIPAA-compliant tier available for medical/dental.</p>\r\n        <h3>This is the standalone widget. The full engagement is different.</h3><p>This page covers the <strong>AI Receptionist</strong> as a drop-in feature you can bolt onto any site. If you want the full done-for-you build — strategy, integration, ongoing optimization, and this widget as one piece of a unified system — that lives at the <a href=\"/services/ai-websites/\">AI Websites agency engagement</a> page. Different intent, different price point, different scope.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Bring your number",
+                    "note_body": "Port your existing business line or use a new local Woburn / Boston / Greater MA number. SMS works on the same line for 2-way text."
+                },
+                {
+                    "note_title": "EN + ES out of the box",
+                    "note_body": "Detects Spanish on the caller's first words. Other languages available on request — Portuguese is common for the South Shore."
+                },
+                {
+                    "note_title": "Compliance-aware",
+                    "note_body": "Two-party consent announcement. Recordings encrypted. HIPAA tier for medical/dental practices."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about the AI Receptionist.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Will the caller know it's an AI?",
+                    "a": "If the AI is asked directly, it answers honestly: \"I'm AQ's AI assistant — I can take your information, book the appointment, or transfer you to the team.\" Most callers don't ask and don't notice. The few that do appreciate the directness."
+                },
+                {
+                    "q": "Can it actually book on my calendar?",
+                    "a": "Yes — direct integrations with Google Calendar, Jobber, Housecall Pro, ServiceTitan, Acuity, Calendly, and most major scheduling tools. The customer hears live availability and gets a confirmation by SMS while still on the line."
+                },
+                {
+                    "q": "How much does it cost vs. a human answering service?",
+                    "a": "A human answering service runs about $1.00–$1.50 per call, with a setup fee and often no calendar access. Our AI receptionist is part of your Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — plus a few cents per minute of conversation — and we confirm the exact scope at your free audit. Cheaper and dramatically more capable."
+                },
+                {
+                    "q": "What about emergencies?",
+                    "a": "Define your emergency triggers (\"water leaking,\" \"no heat,\" \"chest pain\") and the AI escalates immediately — warm-transfers to your cell with context, or pages a 24/7 on-call number you specify."
+                },
+                {
+                    "q": "Will it work for my industry?",
+                    "a": "We've deployed it for HVAC, plumbing, electrical, dental, law (intake only — never legal advice), real estate, restaurants, and B2B services. If your call volume is over 30 calls/week, it pays for itself."
+                },
+                {
+                    "q": "What if it doesn't know an answer?",
+                    "a": "Trained refusal: \"That's a great question — let me have someone on our team call you back, would within an hour work?\" Then it texts you with the question and the caller's number. No invented answers, ever."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair the receptionist with...",
+            "cards": [
+                {
+                    "tag": "Capture",
+                    "title": "AI Chatbot",
+                    "body": "Same brain on the website. One trained knowledge base powering both web and phone — leads tagged the same way regardless of channel.",
+                    "href": "/solutions/ai-chatbot/",
+                    "more_label": "Explore Chatbot"
+                },
+                {
+                    "tag": "Capture",
+                    "title": "Online Booking",
+                    "body": "The receptionist needs a real calendar to book against. Booking widget gives the AI (and the website) a single source of truth.",
+                    "href": "/solutions/online-booking/",
+                    "more_label": "Explore Booking"
+                },
+                {
+                    "tag": "Measure",
+                    "title": "Call Tracking",
+                    "body": "See which marketing channel produced each call. Dynamic numbers tie inbound calls back to keywords, ads, and landing pages.",
+                    "href": "/solutions/call-tracking/",
+                    "more_label": "Explore Call Tracking"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Hear a sample call before you buy",
+            "heading": "Hear the AI <em>handle a real call</em> for your business.",
+            "body": "Send us your top 3 call scenarios. We'll record the AI handling them in your industry's voice and email you the audio + transcripts within 48 hours. No commitment, no card.",
+            "ctas": [
+                {
+                    "label": "Get a live sample call",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "Answered fast",
+                    "label": "The AI picks up, every hour"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "Quick setup",
+                    "label": "From signed to live on your line"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Bilingual",
+                    "label": "English + Spanish out of the box"
+                }
+            ]
+        }
+    ]
+}

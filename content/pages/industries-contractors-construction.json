@@ -1,0 +1,283 @@
+{
+    "path": "/industries/contractors-construction/",
+    "title": "Industries · GC · Custom Builders · Remodelers",
+    "status": "publish",
+    "seo": {
+        "title": "Marketing for Massachusetts General Contractors + Builders — Portfolio-Driven Lead Gen | AQ Marketing",
+        "description": "AQM helps Massachusetts GCs, custom builders, and remodelers win high-AOV project leads. Portfolio-led websites, long-cycle nurture, project-specific local SEO, and reputation depth that survives a $200k buyer's research process.",
+        "canonical": "https://aqmarketing.com/industries/contractors-construction/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-helmet-safety",
+            "badge": "Industries · GC · Custom Builders · Remodelers",
+            "heading": "A $200k kitchen buyer <em>researches for 6 months</em>. Your website has to survive that.",
+            "lede": "General contractors, custom home builders, remodelers, and design-build firms compete for high-AOV projects. The buyer reviews 8+ contractors, reads every word of your portfolio, calls 3 references, and watches your reviews for 90+ days before signing. Your marketing has to support all of that.",
+            "ctas": [
+                {
+                    "label": "Get a builder audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Industries",
+                    "url": "/industries/"
+                },
+                {
+                    "label": "Contractors & Construction"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE VERTICAL",
+            "heading": "What construction marketing in MA actually requires.",
+            "intro": "Project-based revenue. Long sales cycles. Portfolio-driven discovery. Reputation depth as a survival trait. The standard small-business playbook misses most of this.",
+            "stats": [
+                {
+                    "value": "$50k–$500k",
+                    "label": "Typical project-AOV range across MA residential remodel + custom builds"
+                },
+                {
+                    "value": "3–9 months",
+                    "label": "Avg sales cycle from first inquiry to signed contract"
+                },
+                {
+                    "value": "8+",
+                    "label": "Contractors a typical kitchen-remodel buyer evaluates"
+                },
+                {
+                    "value": "4.8★",
+                    "label": "Avg rating threshold buyers require for projects over $50k"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why most construction marketing fails high-AOV buyers.",
+            "intro": "Contractors who do great work often have terrible web presence — and lose to less-skilled competitors who simply present better online. The miss is consistent across the vertical.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-images",
+                    "title": "Portfolio thin or stale",
+                    "body": "5 photos from 2019 in a slideshow. The buyer wants 30 photos per project, with details, materials, before/after, and budget context. Most contractor sites can't deliver."
+                },
+                {
+                    "fa": "fa-hourglass-half",
+                    "title": "No long-cycle nurture",
+                    "body": "Buyer inquires in March, signs in November. Most contractors send one quote and disappear. The buyer signs with whoever stayed in touch — not who quoted lowest."
+                },
+                {
+                    "fa": "fa-comment-slash",
+                    "title": "Reviews shallow + sparse",
+                    "body": "12 reviews averaging 2 sentences. Doesn't survive a $200k buyer's research process. Need 50+ reviews with detail, named-project specifics, photos."
+                },
+                {
+                    "fa": "fa-magnifying-glass-chart",
+                    "title": "No project-specific SEO",
+                    "body": "Sites optimize for \"contractor [town]\" — but high-AOV buyers search \"custom kitchen remodel [town]\" or \"primary suite addition [town].\" Different queries, different content needed."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — STARTING PLAYBOOK",
+            "heading": "The starting playbook for most MA contractors + builders.",
+            "intro": "Web design + portfolio first (the buyer's first stop). Reputation depth second. Long-cycle nurture third. Local SEO compounds in the background.",
+            "cards": [
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Portfolio-driven, mobile-first, fast-loading. The buyer's first impression has to communicate craft + scale + capability in 8 seconds.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Depth-focused review automation. 50+ detailed reviews with named-project specifics. The asset that survives the 6-month research cycle.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Nurture",
+                    "title": "Email & SMS",
+                    "body": "Long-cycle nurture sequences. Monthly project updates, design inspiration, FAQ resources. Stays in front of the buyer for the 6-month decision window.",
+                    "href": "/solutions/email-sms/",
+                    "more_label": "Explore Email & SMS"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a contractor engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1–2",
+                    "title": "Audit + portfolio inventory",
+                    "body": "Site audit, portfolio quality + completeness review, reputation depth analysis, top-5 builder benchmark, lead-source breakdown."
+                },
+                {
+                    "step_label": "WEEK 3–6",
+                    "title": "Site + portfolio rebuild",
+                    "body": "Most engagements need a web rebuild. Portfolio reorganized by project type + budget tier. Real photos, real client quotes, real budget ranges."
+                },
+                {
+                    "step_label": "WEEK 7–10",
+                    "title": "Reputation + nurture",
+                    "body": "Review depth automation. Long-cycle email + SMS nurture flows. Lead-tagging for buyer-stage tracking."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Track inquiry volume, sales-cycle length, close rate, project-type mix. Adjust content + nurture against pipeline data."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY THIS VERTICAL IS DIFFERENT",
+            "heading": "Why portfolio is the contractor's most valuable digital asset.",
+            "prose_html": "<p>For a $200k home addition, the buyer evaluates 8+ contractors. They read every project page on every site. They count photos. They look for projects similar in scope to what they're considering. They check whether the named clients still endorse the contractor. The portfolio is doing 60–70% of the credibility-establishing work — every other channel either reinforces or contradicts it.</p>\n        <p>Most MA contractors under-invest here. We rebuild contractor portfolios from scratch in most engagements: 30+ photos per project, organized by type and budget tier, with material details, timeline notes, and named-client quotes. The before/after format is critical — buyers want to see the bones of the existing structure, not just the finished kitchen.</p>\n        <h3>Long-cycle nurture is the closer</h3>\n        <p>Most contractors send one quote, then wait. The buyer evaluates the contractor for 90+ days. The contractor who stays in front — through monthly email touches, project updates, design inspiration, FAQ resources — is the one who closes. Not because they're more aggressive; because they're remembered. Long-cycle nurture in construction is closer-equivalent.</p>\n        <h3>Project-specific SEO</h3>\n        <p>\"Contractor Lexington\" is the wrong query to optimize for. \"Custom kitchen remodel Lexington\" is the right one. \"Primary suite addition Winchester.\" \"Whole home renovation Belmont.\" These project-specific local queries have lower volume but 5–10× higher commercial intent. We build content for the queries the high-AOV buyer actually uses.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Verticals we work in",
+                    "note_body": "General contracting (residential + light commercial), custom home building, design-build firms, kitchen + bath remodelers, additions + whole-home renovations, exterior + siding + roofing, commercial fit-outs, tenant improvements. Tuned playbook per project type + AOV tier."
+                },
+                {
+                    "note_title": "MA HIC + licensing presentation",
+                    "note_body": "MA Home Improvement Contractor (HIC) registration, construction supervisor's license (CSL), and insurance proof are direct buyer-trust signals. We surface these prominently in GBP, schema, and on-site. License-status checking is part of every audit."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Most MA contractors start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — website, Local SEO, Google Business Profile, reviews, and the AI front desk in one plan. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions from MA builders + contractors.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Will you rebuild our portfolio from scratch?",
+                    "a": "Usually, yes. Most contractor portfolios we encounter are thin (5–10 photos per project) and outdated. Rebuilds take real photos (30+ per project ideal), client interviews, material details, budget context. 4–8 week scope typically."
+                },
+                {
+                    "q": "How do you handle long sales cycles?",
+                    "a": "Lifecycle email + SMS nurture sequences. Monthly project updates, design inspiration, materials FAQ, financing-aware content. Lead-tagging by buyer stage so messaging matches where they are in the 6-month evaluation."
+                },
+                {
+                    "q": "Can you help with permitting / inspection content?",
+                    "a": "Yes — particularly for additions and whole-home work where MA permit processes are real friction. Educational content reduces buyer anxiety and lifts close rate."
+                },
+                {
+                    "q": "Do you do design-build firm marketing differently?",
+                    "a": "Yes. Design-build has different SEO content needs (more design-led terms), longer sales cycles (often 12+ months for custom homes), and higher AOV ($500k–$2M+). Tuned playbook adjusts content and nurture accordingly."
+                },
+                {
+                    "q": "What's a typical builder engagement size?",
+                    "a": "Most builders start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which includes the website, Local SEO, reviews, and the AI front desk. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                },
+                {
+                    "q": "Will my contractor business actually rank for project-specific queries?",
+                    "a": "These queries are less competed than \"contractor [town],\" so they're a strong place to focus. Local SEO is a 3-6 month build, not an overnight switch, and project-specific queries often move sooner than the broader contractor terms."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair the contractor playbook with...",
+            "cards": [
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Portfolio-driven, mobile-first. The buyer's first stop. Site rebuild is the most common starting deliverable.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Nurture",
+                    "title": "Email & SMS",
+                    "body": "Long-cycle nurture is the closer in construction. Monthly touch in front of the buyer for the 6-month evaluation cycle.",
+                    "href": "/solutions/email-sms/",
+                    "more_label": "Explore Email & SMS"
+                },
+                {
+                    "tag": "Geo",
+                    "title": "Lexington, MA",
+                    "body": "Premium-AOV market. Custom builders + high-end remodelers over-index here. Tuned playbook differs from corridor markets.",
+                    "href": "/locations/lexington-ma/",
+                    "more_label": "See Lexington"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free contractor portfolio + nurture audit",
+            "heading": "See where your <em>portfolio + nurture is leaking high-AOV buyers</em>.",
+            "body": "Portfolio depth + organization + photo count benchmark vs. top 5 MA builders. Long-cycle nurture-gap analysis. 3-page contractor-specific report with prioritized fixes.",
+            "ctas": [
+                {
+                    "label": "Book the contractor audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Portfolio + nurture review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "3–6 months",
+                    "label": "Typical build for project-specific rankings"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

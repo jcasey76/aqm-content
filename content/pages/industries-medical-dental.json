@@ -1,0 +1,283 @@
+{
+    "path": "/industries/medical-dental/",
+    "title": "Industries · GP · Dental · Specialty · Allied Health",
+    "status": "publish",
+    "seo": {
+        "title": "Marketing for Massachusetts Dental + Medical Practices — HIPAA-Aware SEO + Reputation | AQ Marketing",
+        "description": "AQM helps Massachusetts dental, medical, and allied-health practices rank in the local map pack and grow new-patient flow. HIPAA-aware integrations, insurance-network landing pages, review compliance — built for healthcare specifically.",
+        "canonical": "https://aqmarketing.com/industries/medical-dental/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-tooth",
+            "badge": "Industries · GP · Dental · Specialty · Allied Health",
+            "heading": "Healthcare marketing in MA: <em>HIPAA-aware</em>, insurance-aware, patient-aware.",
+            "lede": "Dental, medical, specialty, allied health. Higher patient lifetime value, more research-driven decisions, stricter compliance. The practices that win in the Greater Boston map pack do so with depth — not volume — and with infrastructure that respects HIPAA and platform review rules.",
+            "ctas": [
+                {
+                    "label": "Get a practice audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Industries",
+                    "url": "/industries/"
+                },
+                {
+                    "label": "Medical & Dental"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE VERTICAL",
+            "heading": "What healthcare marketing in MA actually requires.",
+            "intro": "Compliance + reputation depth + insurance complexity. The standard digital-marketing playbook needs significant adjustment for healthcare — most generic agencies don't know which.",
+            "stats": [
+                {
+                    "value": "4.8★",
+                    "label": "Avg rating most MA patients require before booking new providers"
+                },
+                {
+                    "value": "$340",
+                    "label": "Avg new-patient acquisition cost in MA dental (industry benchmark)"
+                },
+                {
+                    "value": "60–90 days",
+                    "label": "Typical decision cycle for elective care + specialists"
+                },
+                {
+                    "value": "HIPAA",
+                    "label": "Compliance tier required for any system handling patient data"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why most healthcare marketing leaks compliance and conversion.",
+            "intro": "Four common failures across dental and medical engagements. Each one is a fixable infrastructure problem — but it requires a healthcare-specific playbook.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-shield-halved",
+                    "title": "HIPAA-non-compliant integrations",
+                    "body": "Lead-capture forms storing PHI on non-BAA platforms. Chatbots transcribing protected information. Setups that work for plumbers and would constitute breaches in healthcare."
+                },
+                {
+                    "fa": "fa-comments-dollar",
+                    "title": "Review-platform policy mismatches",
+                    "body": "Healthgrades, Zocdoc, and Google have different rules from each other for review requests. What's compliant on Google can be against policy on Healthgrades."
+                },
+                {
+                    "fa": "fa-handshake",
+                    "title": "Insurance complexity unaddressed",
+                    "body": "Patients filter by \"in-network\" before they filter by \"good.\" Practices with strong reputation but weak insurance-network presentation lose qualified leads at the wrong moment."
+                },
+                {
+                    "fa": "fa-magnifying-glass-location",
+                    "title": "GBP categories under-used",
+                    "body": "\"Dentist\" vs. \"orthodontist\" vs. \"cosmetic dentistry\" produce different SERPs. Most practices set one category and stop. The granularity is where rankings live."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — STARTING PLAYBOOK",
+            "heading": "The starting playbook for most MA practices.",
+            "intro": "Reputation + GBP + Local SEO. Ads selectively. AI chatbot for new-patient intake when HIPAA tier is available.",
+            "cards": [
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "HIPAA-aware review automation. Multi-platform routing (Google, Healthgrades, Zocdoc, Yelp). Depth matters more than count for healthcare.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "Granular categories, service detail, attribute tuning, photo strategy. Highest-leverage hour-per-month investment for most practices.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                },
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Insurance-network landing pages, condition-specific content, Bostonian or town-specific local context. Local SEO is a 3-6 month build that compounds patient flow over time.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a practice engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Compliance + practice audit",
+                    "body": "HIPAA review of current systems. Platform-policy audit for review automation. GBP + insurance-network gaps. Top-5 competitor benchmark."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "HIPAA + reputation foundation",
+                    "body": "BAA-backed review-request flow. GBP rebuild with proper specialty categories. Insurance-network landing-page architecture."
+                },
+                {
+                    "step_label": "WEEK 5–10",
+                    "title": "Content + ranking",
+                    "body": "Condition-specific content, insurance pages, town-specific local pages. Most practices see meaningful map-pack movement in 3-6 months."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Track new-patient flow, source attribution, retention, and review velocity. Add Google Ads selectively for high-intent specialty queries."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY THIS VERTICAL IS DIFFERENT",
+            "heading": "Why healthcare reputation requires depth, not just volume.",
+            "prose_html": "<p>Patients researching new providers in 2026 read reviews end-to-end — not just count. A practice with 80 reviews averaging 3 sentences each loses to a practice with 60 reviews averaging 2 paragraphs each. The depth signals authenticity, the specifics signal care quality, and named-provider mentions build the practitioner-level credibility that decides bookings.</p>\n        <p>Our healthcare review flows reflect this. Request emails ask specific follow-up questions — \"what brought you in today,\" \"what was the experience like,\" \"who did you see\" — to surface the depth real patients write naturally. We don't fabricate, we don't incentivize, we don't gate. We just ask better.</p>\n        <h3>HIPAA-aware infrastructure</h3>\n        <p>Every integration we ship for healthcare clients runs on a Business Associate Agreement (BAA) tier — chatbot platforms, CRM, lead-capture, SMS, email. Patient data is encrypted at rest and in transit, retention is documented, and incident-response is part of the engagement contract. We've handled healthcare clients with this discipline since 2003.</p>\n        <h3>Insurance-network presentation</h3>\n        <p>The single highest-friction step in patient acquisition is the \"are you in-network\" check. Most practice sites bury insurance information in a footer or skip it entirely. We build insurance-network sections into landing pages, GBP descriptions, and chatbot scripts so the answer surfaces right away — keeping the leads who would otherwise bounce at this step.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Verticals we work in",
+                    "note_body": "General + cosmetic dentistry, orthodontics, periodontics, oral surgery, dental specialty (endo, prostho, pedo). Family + internal medicine, pediatrics, OB/GYN, dermatology, cardiology, orthopedics, ENT, ophthalmology, optometry. Allied health: chiropractic, physical therapy, acupuncture, massage. Each vertical has a tuned playbook."
+                },
+                {
+                    "note_title": "HIPAA + platform-policy compliance",
+                    "note_body": "Every system reviewed against HIPAA + the policy specifics for Healthgrades, Zocdoc, Vitals, and Google. BAAs in place for all integrations handling PHI. Review-request flows compliant with each platform's specific rules — not a one-size-fits-all template."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Most MA practices start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — website, Local SEO, Google Business Profile, reviews, and the AI front desk in one plan, with HIPAA-aware integration handled in onboarding. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions from MA practices.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Are your systems HIPAA-compliant?",
+                    "a": "Yes. All integrations handling PHI run on BAA tiers. Encryption at rest + in transit. Documented retention. Incident-response included in engagement. We've handled healthcare clients with this discipline since 2003."
+                },
+                {
+                    "q": "Can you handle review requests across Google + Healthgrades + Zocdoc?",
+                    "a": "Yes. Each platform has different rules for review-request flow — what's compliant on Google can violate Healthgrades or Zocdoc terms. We build platform-specific flows that respect each one."
+                },
+                {
+                    "q": "How do you handle insurance-network presentation?",
+                    "a": "On-page insurance sections, GBP attribute tuning, chatbot scripts, and landing-page copy all surface accepted-insurance information right away, so you keep the leads who would otherwise bounce on this question."
+                },
+                {
+                    "q": "Do you do dental/medical specialty marketing (cosmetic, ortho, plastic surgery)?",
+                    "a": "Yes. Specialty practices have different decision cycles (60–90 days for elective), AOV ($3k–$30k+), and content needs (procedure-specific, before/after-aware, financing-aware). Tuned playbook per specialty."
+                },
+                {
+                    "q": "What's a typical practice engagement size?",
+                    "a": "Most practices start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which bundles Local SEO, Google Business Profile, reviews, and the website, with HIPAA-aware integration handled in onboarding. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                },
+                {
+                    "q": "Can you handle our specific PMS / EHR?",
+                    "a": "Most likely. We've integrated with Dentrix, Eaglesoft, OpenDental, athenahealth, Epic, and many practice-specific systems via webhook or Zapier. We'll confirm during the audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair the practice playbook with...",
+            "cards": [
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "HIPAA-aware automation, multi-platform routing, depth-driven flows. Single highest-leverage investment for most practices.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "Specialty category tuning + insurance attributes + service detail. The hour-per-month that consistently lifts new-patient flow most.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                },
+                {
+                    "tag": "Geo",
+                    "title": "Winchester, MA",
+                    "body": "Dense professional-practice market. Hyperlocal SEO playbook tested across dental + medical clients in 5-square-mile geography.",
+                    "href": "/locations/winchester-ma/",
+                    "more_label": "See Winchester"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free practice + HIPAA audit",
+            "heading": "See your practice's reputation, GBP, and HIPAA posture <em>against MA peers</em>.",
+            "body": "20-point practice audit + HIPAA-readiness review + top-5 competitor benchmark in your specialty + insurance-presentation analysis. 3-page healthcare-tuned report.",
+            "ctas": [
+                {
+                    "label": "Book the practice audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Practice + compliance review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "Since 2003",
+                    "label": "Serving MA healthcare practices"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "BAA",
+                    "label": "Tier on every PHI-touching integration"
+                }
+            ]
+        }
+    ]
+}

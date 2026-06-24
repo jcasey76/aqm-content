@@ -1,0 +1,29 @@
+{
+    "path": "/terms/",
+    "title": "Terms of Use",
+    "status": "publish",
+    "seo": {
+        "title": "Terms of Use | AQ Marketing",
+        "description": "The terms that govern your use of the AQ Marketing, Inc. website and services.",
+        "canonical": "https://aqmarketing.com/terms/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-file-contract",
+            "badge": "Legal",
+            "heading": "Terms of Use",
+            "lede": "The terms that govern your use of the AQ Marketing website and services.",
+            "crumbs": [
+                { "label": "Home", "url": "/" },
+                { "label": "Terms of Use" }
+            ]
+        },
+        {
+            "type": "aqm_termly",
+            "v": 1,
+            "data_id": "7232d943-d5a4-4862-a11c-17980a7a6d00"
+        }
+    ]
+}

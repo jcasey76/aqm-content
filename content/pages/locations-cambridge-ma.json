@@ -1,0 +1,283 @@
+{
+    "path": "/locations/cambridge-ma/",
+    "title": "Locations · Cambridge, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Digital Marketing in Cambridge, MA — Web Design + AI for Tech, Biotech, B2B | AQ Marketing",
+        "description": "Cambridge buyers expect technical sophistication. AQ Marketing builds Cambridge small businesses with modern web stacks, AI-powered chat + voice, and SEO tuned to a buyer base that knows the difference between Lighthouse 95 and Lighthouse 70.",
+        "canonical": "https://aqmarketing.com/locations/cambridge-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Cambridge, MA",
+            "heading": "Cambridge expects <em>actual technical depth</em>. Most agencies just promise it.",
+            "lede": "Kendall Square buyers know what \"sub-1s LCP\" means. Harvard Square shoppers can spot a stock-template website in 4 seconds. Cambridge demands more — modern stacks, real CWV scores, AI integration that works. We build for that bar.",
+            "ctas": [
+                {
+                    "label": "Get a Cambridge-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Cambridge, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE CAMBRIDGE MARKET",
+            "heading": "What makes the Cambridge market different.",
+            "intro": "Two universities, the densest biotech corridor in the world, and a buyer base that includes engineers and PhDs. Marketing without technical depth doesn't survive the first call.",
+            "stats": [
+                {
+                    "value": "120k",
+                    "label": "Cambridge population — half are students or knowledge workers"
+                },
+                {
+                    "value": "100k+",
+                    "label": "Tech / biotech / research professionals across MIT, Harvard, Kendall Square"
+                },
+                {
+                    "value": "6 mi",
+                    "label": "Drive from our Woburn HQ via 93 → Storrow"
+                },
+                {
+                    "value": "$5.80",
+                    "label": "Avg CPC for 'web design cambridge ma' — premium market"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Cambridge businesses we work with.",
+            "intro": "Tech is overrepresented but not the only customer here. Cambridge has dentists, restaurants, retail, and law firms too — all serving a more sophisticated buyer than the suburbs.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-microchip",
+                    "title": "Tech / biotech / SaaS",
+                    "body": "Kendall Square density. Different playbook — less map-pack, more organic + content + LinkedIn ads. Site has to perform technically."
+                },
+                {
+                    "fa": "fa-utensils",
+                    "title": "Restaurants + cafes",
+                    "body": "Harvard Square, Inman, Central. Heavy review-velocity market. Yelp matters more here than in most of MA."
+                },
+                {
+                    "fa": "fa-graduation-cap",
+                    "title": "Education-adjacent services",
+                    "body": "Tutoring, college consulting, ESL, test prep. Seasonal demand cycles. Heavy on Google Ads in Aug-Sep + Jan."
+                },
+                {
+                    "fa": "fa-stethoscope",
+                    "title": "Healthcare + dental",
+                    "body": "Cambridge Health Alliance ecosystem + private practices. Reputation + GBP + insurance-aware landing pages."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN CAMBRIDGE",
+            "heading": "The starting services for most Cambridge businesses.",
+            "intro": "Cambridge buyers reward technical excellence. Our starting bundle reflects that.",
+            "cards": [
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Cloudflare-hosted, sub-1s LCP, real Lighthouse 95+ scores. Cambridge buyers will check — and bounce if your site isn't there.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "AI",
+                    "title": "AI Websites",
+                    "body": "Cambridge expects sophisticated AI integration, not a generic Intercom widget. Our trained chatbots + voice agents fit the bar.",
+                    "href": "/services/ai-websites/",
+                    "more_label": "Explore AI Websites"
+                },
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Cambridge's map pack is dense and review-driven. Local SEO compounds well; Cambridge is where the long-tail work pays off.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "How a Cambridge engagement starts.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Technical audit",
+                    "body": "Lighthouse, CWV, real-user metrics, schema validity, security headers. Cambridge engagements start with the technical baseline because the buyer expects it."
+                },
+                {
+                    "step_label": "WEEK 2–3",
+                    "title": "Architecture decisions",
+                    "body": "Stack picks (most Cambridge engagements end up on Cloudflare Pages + Workers, not WordPress). Integration map for AI, CRM, analytics."
+                },
+                {
+                    "step_label": "WEEK 4–8",
+                    "title": "Build + ship",
+                    "body": "Design + dev + AI training. Most Cambridge sites ship in 4–6 weeks; tech buyers prefer iteration over big-bang launches."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Performance + content review",
+                    "body": "Cambridge engagements track CWV, conversion, and keyword performance more granularly than the suburbs. Weekly metrics, monthly strategy."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY CAMBRIDGE IS DIFFERENT",
+            "heading": "Why Cambridge marketing has to start with the technical layer.",
+            "prose_html": "<p>The Cambridge buyer base is unique in Massachusetts: a working population that includes software engineers, biotech scientists, PhD students, and the consultants who serve them. They open Chrome DevTools. They know Core Web Vitals targets. They notice when your site loads in 4 seconds. They will not give a slow site a second chance.</p>\n        <p>This shifts the order of operations for Cambridge marketing. In Woburn or Reading we can layer AI on top of an existing WordPress site and get results. In Cambridge, the site itself often has to be rebuilt before any other channel will perform — because the buyer leaves before the channel even fires.</p>\n        <h3>The Kendall Square SaaS playbook</h3>\n        <p>Cambridge tech buyers don't search like suburban service-business buyers. They start in their network (Slack, LinkedIn, podcasts), then research before contacting. SEO matters but it's less about the map pack and more about ranking for problem-aware queries (\"how to do X in Y\"). Content + organic ranking + retargeting is the dominant playbook here.</p>\n        <h3>What still works like the suburbs</h3>\n        <p>Restaurants, dentists, contractors, and retail in Cambridge follow more standard local-SEO patterns. Yelp velocity matters more than in most of MA. GBP categories matter — Cambridge's restaurant scene gets cut up into very narrow categories (\"contemporary American,\" \"Israeli,\" \"vegan-forward\") that the GBP playbook has to respect.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "6 mi from our Woburn HQ",
+                    "note_body": "Direct via 93 → Storrow Drive, or via 16 through Medford. About 20 minutes off-peak. We meet Cambridge clients at their office, ours, or via video."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Cambridge.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you have experience with biotech / SaaS clients?",
+                    "a": "Yes — Cambridge clients have included biotech startups in Kendall Square, B2B SaaS at the East Cambridge waterfront, and a handful of MIT-spinout consulting firms. Different SEO + content + ads playbook than service businesses; we adjust accordingly."
+                },
+                {
+                    "q": "Can you work with our existing Webflow / Next.js / custom site?",
+                    "a": "Yes. Most Cambridge engagements involve a modern stack already. We build on top of what you have when it makes sense and recommend a rebuild only when the current stack is the bottleneck."
+                },
+                {
+                    "q": "How fast can you make our site?",
+                    "a": "Sub-1s LCP and Lighthouse 95+ is our target on Cloudflare Pages. The fastest Cambridge clients are at LCP 800ms / Lighthouse 99 — we benchmark against the top 5 of your direct competitors and aim above them."
+                },
+                {
+                    "q": "Do you do CRO / conversion optimization?",
+                    "a": "Yes — heatmaps (Hotjar/Clarity), A/B testing, funnel analysis. Cambridge engagements often include CRO from week 1 because the traffic quality is high and small conversion gains matter."
+                },
+                {
+                    "q": "Do you handle B2B Google Ads (LinkedIn, Capterra, etc.)?",
+                    "a": "We run Google Ads + LinkedIn Ads. Capterra/G2 etc. are vendor-managed — we'll advise on positioning + landing-page optimization but don't run the platforms directly."
+                },
+                {
+                    "q": "Are you available for in-person meetings in Cambridge?",
+                    "a": "Yes. We'll meet in Kendall, Harvard, Inman, or Central. Most Cambridge clients prefer video for working sessions and in-person for kickoffs and quarterly reviews — we accommodate both."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Adjacent markets to Cambridge.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Boston, MA",
+                    "body": "Across the Charles. Different vertical mix — more retail/restaurants, more law/financial, denser SERP. Cambridge tactics partially port; not entirely.",
+                    "href": "/locations/boston-ma/",
+                    "more_label": "See Boston"
+                },
+                {
+                    "tag": "Adjacent",
+                    "title": "Medford, MA",
+                    "body": "3 miles north — Tufts adjacency, more residential, family-business mix. Different playbook than Cambridge tech.",
+                    "href": "/locations/medford-ma/",
+                    "more_label": "See Medford"
+                },
+                {
+                    "tag": "Service",
+                    "title": "Web Design",
+                    "body": "Cambridge engagements lead with web rebuilds more often than any other market. The technical baseline is the foundation here.",
+                    "href": "/services/web-design/",
+                    "more_label": "See Web Design"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Cambridge-tech audit",
+            "heading": "See your site benchmarked against the <em>top 5 Cambridge competitors</em>.",
+            "body": "Lighthouse, Core Web Vitals, schema, conversion path, AI integration. We'll send you a 2-page audit comparing your site to the top 5 in your Cambridge category — with specific upgrade priorities.",
+            "ctas": [
+                {
+                    "label": "Book the Cambridge audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Technical + market review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "Sub-1s",
+                    "label": "LCP target on rebuilds"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

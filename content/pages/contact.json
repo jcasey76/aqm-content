@@ -1,0 +1,96 @@
+{
+    "path": "/contact/",
+    "title": "Contact",
+    "status": "publish",
+    "seo": {
+        "title": "Contact AQ Marketing — Free Local SEO Audit for MA Small Businesses",
+        "description": "Book a free Local SEO audit with AQ Marketing. Based in Woburn, MA. Call (781) 730-6971 or fill the form — we respond within 4 business hours.",
+        "canonical": "https://aqmarketing.com/contact/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-envelope-open-text",
+            "badge": "Contact",
+            "heading": "Let's get your business <em>seen</em>.",
+            "lede": "Tell us about your business and we'll send back a free 20-point Local SEO audit within 2 business days — no pitch, no obligation. Prefer to talk? Call us — we answer within 4 business hours.",
+            "ctas": [
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "dark",
+                    "fa": "fa-phone"
+                }
+            ],
+            "crumbs": [
+                { "label": "Home", "url": "/" },
+                { "label": "Contact" }
+            ]
+        },
+        {
+            "type": "aqm_contact",
+            "v": 1,
+            "heading": "Request a free audit",
+            "sub": "Takes under a minute. We'll reply within 2 business days.",
+            "services": [
+                { "label": "Local SEO / Map pack rankings" },
+                { "label": "New website (build or rebuild)" },
+                { "label": "AI chatbot & AI receptionist" },
+                { "label": "Google Ads management" },
+                { "label": "Google Business Profile management" },
+                { "label": "Reputation & review management" },
+                { "label": "Social media marketing" },
+                { "label": "Branding & identity" },
+                { "label": "Not sure — I need guidance" }
+            ],
+            "consent": "I agree to receive a one-time audit response at the email and phone I provided. AQ Marketing will never sell or share my info.",
+            "submit_label": "Send my free audit request",
+            "success_msg": "Got it — we'll be in touch within 2 business days.",
+            "info": [
+                {
+                    "fa": "fa-phone",
+                    "title": "Call us",
+                    "body": "<a href=\"tel:+17817306971\">(781) 730-6971</a><br><span class=\"muted\">Mon–Fri · 9a–6p ET · Answered in 4 business hrs</span>"
+                },
+                {
+                    "fa": "fa-envelope",
+                    "title": "Email",
+                    "body": "<a href=\"mailto:hello@aqmarketing.com\">hello@aqmarketing.com</a><br><span class=\"muted\">Typical response in 1 business day</span>"
+                },
+                {
+                    "fa": "fa-location-dot",
+                    "title": "Visit",
+                    "body": "400 Tradecenter Dr, Suite 5900<br>Woburn, MA 01801<br><span class=\"muted\">By appointment only</span>"
+                }
+            ],
+            "map_query": "400 Tradecenter Dr, Woburn, MA 01801",
+            "map_label": "Map showing AQ Marketing office in Woburn, MA"
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "FAQ",
+            "heading": "Common questions before you reach out.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "What happens after I submit the form?",
+                    "a": "Within 2 business days you'll get a written 20-point Local SEO audit of your business — your Google Business Profile, citations, reviews, site speed, and top 5 competitor benchmarks. If it looks like a fit, we'll invite you to a 45-minute strategy call. No pitch on the audit itself."
+                },
+                {
+                    "q": "How much does an engagement cost?",
+                    "a": "Most owners start with our <strong>Smart Website &amp; Marketing Package at $500/month</strong> (a 12-month agreement) — it bundles the website, Local SEO foundations, hosting and maintenance, CRM, the AI chatbot and AI voice receptionist (per-minute usage fees), reviews, and social. When you're ready to grow faster, you can add accelerators like <a href=\"/services/local-seo/\">SEO</a> at $1,299/month or <a href=\"/services/google-ads/\">Google Ads</a> management at $1,299/month (ad spend not included). We confirm the exact mix after your free audit."
+                },
+                {
+                    "q": "Do you only work with Massachusetts businesses?",
+                    "a": "We focus on Woburn, Boston, and Greater Boston because we know the market and can visit in person. We take on MA-adjacent clients case by case. If you're outside the Northeast, we'll likely refer you elsewhere."
+                },
+                {
+                    "q": "Is the audit really free?",
+                    "a": "Yes. No credit card, no strings. We do a handful of free audits each month as part of prospecting. If we're out of slots, we'll let you know within a day."
+                }
+            ]
+        }
+    ]
+}

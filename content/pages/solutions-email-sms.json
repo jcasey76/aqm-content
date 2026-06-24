@@ -1,0 +1,291 @@
+{
+    "path": "/solutions/email-sms/",
+    "title": "Solutions · Nurture",
+    "status": "publish",
+    "seo": {
+        "title": "Email & SMS Marketing for Small Business — Reactivate Past Customers | AQ Marketing",
+        "description": "Email + SMS automation that reactivates past customers, nurtures new leads, and drives repeat work. Done-for-you content calendar, segmentation, A/B testing, and deliverability monitoring. Compliant with CAN-SPAM and TCPA.",
+        "canonical": "https://aqmarketing.com/solutions/email-sms/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-envelope",
+            "badge": "Solutions · Nurture",
+            "heading": "Your past customers <em>still want to hear from you</em>. They just need a reason.",
+            "lede": "Email + SMS automation that re-engages your customer list, drives repeat work, and nurtures new leads to a booking. Content built with your voice, sent with your branding, on a calendar tuned to your seasonality. CAN-SPAM and TCPA compliant.",
+            "ctas": [
+                {
+                    "label": "See a sample sequence",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-bolt"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Solutions",
+                    "url": "/solutions/"
+                },
+                {
+                    "label": "Email & SMS"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE OPPORTUNITY",
+            "heading": "Why a dormant list is worth waking up.",
+            "intro": "Most small businesses have an email list they've never really used. The people on it already know you and already bought from you — that's the cheapest audience you'll ever talk to.",
+            "stats": [
+                {
+                    "value": "Reactivation",
+                    "label": "We start by re-engaging the past customers already on your list"
+                },
+                {
+                    "value": "Email + SMS",
+                    "label": "Email for the calendar, SMS for time-sensitive reminders"
+                },
+                {
+                    "value": "Your voice",
+                    "label": "Content written in your voice, sent with your branding"
+                },
+                {
+                    "value": "Low cost",
+                    "label": "Talking to existing customers costs a fraction of new-lead ads"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why your customer list is your most undervalued asset.",
+            "intro": "You spent $400+ acquiring each customer. Then you stopped talking to them. Six months later they hire your competitor for the same service because that's who emailed.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-box-archive",
+                    "title": "Your list is collecting dust",
+                    "body": "1,200 customers from 2020–2025 sitting in QuickBooks, Jobber, or a spreadsheet. Last email: \"Holiday Hours 2022.\""
+                },
+                {
+                    "fa": "fa-comment-slash",
+                    "title": "DIY email feels icky",
+                    "body": "You don't want to spam. So you don't send. So they forget you. So they hire the next vendor who emails."
+                },
+                {
+                    "fa": "fa-skull",
+                    "title": "Inbox-deliverability hell",
+                    "body": "If you blast a year-old list with no warm-up, Gmail and Outlook flag you as spam. Your future emails — including legit ones — never land."
+                },
+                {
+                    "fa": "fa-gavel",
+                    "title": "TCPA violations cost $500–$1,500/text",
+                    "body": "SMS rules are strict. Wrong consent, wrong opt-out language, wrong sending hours = real lawsuits. Most DIY setups violate without realizing."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — THE STACK",
+            "heading": "What's in the email + SMS engine.",
+            "items": [
+                {
+                    "fa": "fa-calendar-week",
+                    "title": "Content calendar",
+                    "body": "Quarterly calendar tuned to your seasonality. Home services: spring tune-ups, fall winterizing, holiday safety. Restaurants: weekly. Dental: 6-month recall."
+                },
+                {
+                    "fa": "fa-users-line",
+                    "title": "Segmentation",
+                    "body": "Past customer vs. lead vs. one-time vs. recurring. Different cadence and content per segment — no one-message-to-all blasts."
+                },
+                {
+                    "fa": "fa-flask",
+                    "title": "A/B testing",
+                    "body": "Subject line + send time + offer A/B on every send. We learn what your specific list responds to and tune accordingly."
+                },
+                {
+                    "fa": "fa-mobile-screen-button",
+                    "title": "SMS for time-sensitive",
+                    "body": "Reminders, last-minute openings, weather-dependent service alerts. Texts get read fast, so they're built for the things that can't wait."
+                },
+                {
+                    "fa": "fa-broom",
+                    "title": "List hygiene + deliverability",
+                    "body": "Bounce handling, suppression management, warm-up for re-engagement. We work to keep your mail landing in the inbox on Gmail, Outlook, and Apple Mail."
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "title": "Compliance built-in",
+                    "body": "CAN-SPAM footer + valid physical address. TCPA consent tracking. STOP/HELP keyword handling. Quiet hours by ZIP code timezone."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "From signed to first send in 14 days.",
+            "steps": [
+                {
+                    "step_label": "DAY 1–3",
+                    "title": "List ingest + clean",
+                    "body": "Pull from QuickBooks, Jobber, HCP, ServiceTitan, Square, etc. Dedupe, append missing fields, scrub bounced/invalid."
+                },
+                {
+                    "step_label": "DAY 4–7",
+                    "title": "Content + design",
+                    "body": "First quarter content calendar drafted. Branded templates. You approve every email + every SMS template before any send."
+                },
+                {
+                    "step_label": "DAY 8–10",
+                    "title": "Warm-up + compliance",
+                    "body": "Sender reputation warm-up if list is cold. CAN-SPAM/TCPA double-check. Quiet hours, opt-out flow, segmentation rules."
+                },
+                {
+                    "step_label": "DAY 11–14",
+                    "title": "First send + monitor",
+                    "body": "Reactivation campaign goes out in waves. We watch deliverability, open rates, replies, and book-rate live."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "Why repeat-customer revenue is the cheapest growth you have.",
+            "prose_html": "<p>Acquiring a new customer in MA local services costs $90–$340 in marketing. Re-engaging an existing customer through email costs about $0.04 per send. The math is so lopsided that re-engaging customers you already have is almost always cheaper than buying new ones.</p>\r\n        <p>The reason most small businesses don't run nurture is psychological, not economic. Owners feel awkward emailing customers \"for nothing.\" The fix is content that actually helps — seasonal reminders, tips relevant to the service the customer bought, a heads-up about a price-saving window. \"For nothing\" emails feel spammy because they are; \"here's the spring HVAC tune-up window before prices go up\" emails feel like service.</p>\r\n        <h3>SMS rules: don't get sued</h3>\r\n        <p>TCPA violations are real, painful, and easy to commit. We track consent date and source for every contact, enforce STOP/HELP keyword compliance, respect quiet hours by recipient timezone, and never send marketing SMS without prior express written consent. Setup includes a compliance audit on your existing list — usually flagging 5–15% of contacts that need re-permission.</p>\r\n        <h3>Where this fits with everything else</h3>\r\n        <p>Email + SMS is the back half of the lead-and-keep flow. <a href=\"/solutions/ai-chatbot/\">Chatbot</a> + <a href=\"/solutions/online-booking/\">booking</a> capture the lead. <a href=\"/solutions/review-automation/\">Reviews</a> close the trust loop. Email + SMS bring them back. Wire all four together in the <a href=\"/solutions/crm-pipeline/\">CRM pipeline</a> and you've replaced four disconnected tools with one customer journey.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Compliance is a feature",
+                    "note_body": "TCPA fines run $500–$1,500 per text. We track consent, enforce opt-out, respect quiet hours, and audit your list at setup. The free DIY tools don't."
+                },
+                {
+                    "note_title": "Test, don't guess",
+                    "note_body": "Subject lines, send times, offers, CTA copy — all A/B tested on every send. After 8 weeks we know what your list responds to."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Part of our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement). SMS volume is a per-segment carrier cost (~$0.0075 each). We confirm the exact scope at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common email + SMS questions.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Will my customers think I'm spamming?",
+                    "a": "Not if the content is useful. Seasonal reminders, service-anniversary checkups, weather-driven tips — these read as service, not pitch. The cadence (one email/month + occasional time-sensitive SMS) is also tuned to feel helpful, not pushy."
+                },
+                {
+                    "q": "How do you handle TCPA / CAN-SPAM compliance?",
+                    "a": "Built-in. CAN-SPAM footer + valid physical address on every email. TCPA consent date + source tracked per contact. STOP/HELP keywords enforced. Quiet hours by recipient timezone. Setup audit flags any contacts needing re-permission."
+                },
+                {
+                    "q": "My list is 3 years old — can you still use it?",
+                    "a": "Yes, with a warm-up. We start with the most recently active 20% of the list, build sender reputation over 4–6 weeks, then expand. Cold-blasting old lists nukes deliverability — we don't do that."
+                },
+                {
+                    "q": "Can it integrate with my existing tools?",
+                    "a": "Yes — Mailchimp, Klaviyo, ActiveCampaign, HubSpot, ConvertKit, Sendgrid, Twilio for SMS. Or we set up the stack from scratch (typically Klaviyo or HubSpot for the right size)."
+                },
+                {
+                    "q": "How much does it cost?",
+                    "a": "It's part of our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — we confirm the exact scope at your free audit. SMS adds a per-segment carrier cost (~$0.0075 each)."
+                },
+                {
+                    "q": "How long until I see ROI?",
+                    "a": "The reactivation campaign usually moves first since it works your existing list. Nurture sequences build over time, so you get a clearer read on full ROI after a few months of consistent sending."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair email + SMS with...",
+            "cards": [
+                {
+                    "tag": "Nurture",
+                    "title": "CRM Pipeline",
+                    "body": "The CRM is the source of truth — segmentation, lifecycle stage, last service date all flow into the email logic.",
+                    "href": "/solutions/crm-pipeline/",
+                    "more_label": "Explore CRM"
+                },
+                {
+                    "tag": "Nurture",
+                    "title": "Review Automation",
+                    "body": "Reviews are the trust layer; email + SMS is the relationship layer. Both run off the same job-completion trigger.",
+                    "href": "/solutions/review-automation/",
+                    "more_label": "Explore Reviews"
+                },
+                {
+                    "tag": "Capture",
+                    "title": "Online Booking",
+                    "body": "Every email + SMS includes a one-tap booking link. \"Click here to book your spring tune-up\" beats \"call us to schedule.\"",
+                    "href": "/solutions/online-booking/",
+                    "more_label": "Explore Booking"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free list-health audit",
+            "heading": "Find out <em>exactly how much revenue is sitting in your customer list</em>.",
+            "body": "Free 20-minute audit: list size, recency, deliverability score, estimated reactivation revenue at typical conversion rates. Plus a 1-page action plan.",
+            "ctas": [
+                {
+                    "label": "Audit my customer list",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "20 min",
+                    "label": "Audit + estimated revenue projection"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "14 days",
+                    "label": "From signed to first reactivation send"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "100%",
+                    "label": "CAN-SPAM + TCPA compliant flows"
+                }
+            ]
+        }
+    ]
+}

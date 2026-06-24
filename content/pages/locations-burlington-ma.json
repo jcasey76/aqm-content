@@ -1,0 +1,283 @@
+{
+    "path": "/locations/burlington-ma/",
+    "title": "Locations · Burlington, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Web Design in Burlington, MA — Lead-Gen Sites for the 128/95 Corridor | AQ Marketing",
+        "description": "Burlington sits at the intersection of 128 and 95 — the highest-traffic retail and B2B corridor in suburban Boston. AQM builds fast, conversion-tuned websites for Burlington Mall retailers, Lahey-area healthcare, and the corridor's tech employers.",
+        "canonical": "https://aqmarketing.com/locations/burlington-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Burlington, MA",
+            "heading": "Burlington's traffic is heavy. Your website should match it.",
+            "lede": "190k+ vehicles a day pass through Burlington's 128/95 interchange. Burlington Mall, Lahey Hospital &amp; Medical Center, and Oracle's New England HQ all live within 2 miles of each other. Web design built for that volume — fast loads, mobile-first, conversion-tuned — is the foundation everything else builds on.",
+            "ctas": [
+                {
+                    "label": "Get a Burlington-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Burlington, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE BURLINGTON MARKET",
+            "heading": "What makes the Burlington market unique.",
+            "intro": "Suburban density that punches above its weight. The 128/95 corridor effect compresses retail, healthcare, B2B, and residential demand into one zip code.",
+            "stats": [
+                {
+                    "value": "27k",
+                    "label": "Burlington population — small town, regional commercial center"
+                },
+                {
+                    "value": "190k",
+                    "label": "Daily 128/95 traffic at the Burlington interchange"
+                },
+                {
+                    "value": "8 mi",
+                    "label": "Drive from our Woburn HQ via 95 — 12 minutes off-peak"
+                },
+                {
+                    "value": "3M+",
+                    "label": "Burlington Mall annual visitors"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Burlington businesses we work with.",
+            "intro": "Retail, healthcare, and B2B all overlap here. Each one has a different web-design playbook — but all of them lose conversion the same way (slow site, weak mobile, unclear CTA).",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-cart-shopping",
+                    "title": "Mall + retail",
+                    "body": "Burlington Mall + Wayside Commons + adjacent strip plazas. Local SEO + GBP + paid social drives walk-ins; web design captures online research."
+                },
+                {
+                    "fa": "fa-stethoscope",
+                    "title": "Healthcare (Lahey-adjacent)",
+                    "body": "Lahey Hospital orbit — physical therapy, dental, optometry, specialists. Insurance-aware landing pages + reputation play."
+                },
+                {
+                    "fa": "fa-briefcase",
+                    "title": "B2B + tech",
+                    "body": "Oracle, Sun, Nuance ecosystem. Web design has to perform for technical buyers — different bar than retail."
+                },
+                {
+                    "fa": "fa-house-chimney",
+                    "title": "Home services along the corridor",
+                    "body": "HVAC, plumbing, contractors serving the 128/95 corridor towns. Burlington as service-area hub for adjacent towns."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN BURLINGTON",
+            "heading": "The starting services for most Burlington businesses.",
+            "intro": "Web design leads, then SEO compounds, then ads scale. Burlington's mix supports all three.",
+            "cards": [
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Cloudflare-hosted, sub-1s LCP, mobile-first. Burlington's mall-and-corridor traffic is heavy on mobile research — site speed is the conversion lever.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Local Service Ads + Search for retail and healthcare. Burlington has manageable CPCs and a high-intent buyer base — ads efficiency is among the best in our markets.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                },
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "GBP + citation work for the Burlington-+-corridor service area. Map pack is winnable; competition density is lower than Boston/Cambridge.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a Burlington engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Site + GBP audit",
+                    "body": "Mobile speed, conversion path, GBP completeness, and a competitor benchmark across Burlington Mall and corridor competitors."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "Web rebuild or upgrade",
+                    "body": "Most Burlington engagements start with a web rebuild because legacy WordPress sites can't hit the speed bar the corridor's mobile traffic demands."
+                },
+                {
+                    "step_label": "WEEK 5–10",
+                    "title": "SEO + ads layered in",
+                    "body": "GBP, citations, on-page SEO. Google Ads launches in week 6 with the new site as the landing surface."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Standard 30-minute monthly. Burlington engagements often add reputation + AI Websites once the foundation is in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY BURLINGTON IS DIFFERENT",
+            "heading": "The corridor effect — why Burlington outperforms its size.",
+            "prose_html": "<p>Burlington's commercial weight comes from geography. The 128/95 interchange routes 190k vehicles a day through a town of 27k. Burlington Mall draws 3M+ visitors annually from a 30-mile radius. Lahey Hospital is a regional referral center. The result: Burlington businesses serve a much larger market than the population implies — and the SEO + web design has to be tuned for that.</p>\n        <p>For retailers, this means \"local SEO\" is partly mis-named. Customers driving in from Andover, Wilmington, Reading, Tewksbury, and Bedford all consider Burlington \"local.\" GBP service area should reflect that. Citation work should target the corridor towns, not just Burlington's zip codes.</p>\n        <h3>Mobile-first is non-negotiable</h3>\n        <p>Burlington's high-traffic patterns produce a buyer who's mostly researching from a phone — in the parking lot, in line, on the train. Site speed and mobile UX are doubled in importance versus a residential market like Reading or Wakefield. Sub-1s LCP isn't a polish item; it's the difference between getting the click and losing it to the next listing.</p>\n        <h3>The corridor's hidden B2B layer</h3>\n        <p>Underneath the retail and healthcare is a meaningful B2B base — Oracle, Sun (Burlington as legacy New England HQ), Nuance, plus dozens of mid-market software firms. B2B web design needs are different (less CTA pressure, more whitepapers and integrations) and we adjust accordingly.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "8 mi from our Woburn HQ",
+                    "note_body": "Direct shot down 95 from our office. About 12 minutes off-peak, 25 minutes during corridor rush. We meet Burlington clients on-site (mall food court works for a coffee meeting) or by video."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Burlington.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you have Burlington Mall retail clients?",
+                    "a": "Yes — past and current. Mall retailers have a unique mix of corporate-brand constraints and local-SEO opportunity. We respect the brand standards and optimize what's left to optimize."
+                },
+                {
+                    "q": "Can you handle multi-location retail across the corridor?",
+                    "a": "Yes. Per-location GBP + neighborhood-level on-page work for Burlington + Bedford + Lexington + Lynnfield retailers. Pricing scales per location with discounts at 5+."
+                },
+                {
+                    "q": "Do you work with Lahey-area healthcare practices?",
+                    "a": "Yes. Healthcare adds compliance considerations (no review incentives, careful response practices, HIPAA-aware integrations). We've handled physical therapy, dental, optometry, and specialty practices."
+                },
+                {
+                    "q": "How fast can you launch in Burlington?",
+                    "a": "Standard timeline: web rebuild 4–6 weeks, GBP + Local SEO live within 2 weeks of kickoff, Google Ads live week 5–6 with the new site. Local SEO is a 3-6 month build, so meaningful ranking movement typically takes 3-6 months, not days."
+                },
+                {
+                    "q": "What's a typical Burlington engagement size?",
+                    "a": "Most start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which includes the website, Local SEO, reviews, and the AI front desk. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                },
+                {
+                    "q": "Do you handle Google Local Service Ads (LSA)?",
+                    "a": "Yes. LSA is particularly effective in Burlington for home services and healthcare. We handle the verification, profile build, lead-dispute process, and reporting."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Adjacent markets to Burlington.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Lexington, MA",
+                    "body": "5 miles southwest. Affluent residential, professional-services-heavy, much higher AOV. Different starting playbook than Burlington corridor.",
+                    "href": "/locations/lexington-ma/",
+                    "more_label": "See Lexington"
+                },
+                {
+                    "tag": "HQ",
+                    "title": "Woburn, MA",
+                    "body": "Our HQ, 8 miles east. Mixed market — home services, professional, retail. Less corridor-driven than Burlington.",
+                    "href": "/locations/woburn-ma/",
+                    "more_label": "See Woburn"
+                },
+                {
+                    "tag": "Service",
+                    "title": "Web Design",
+                    "body": "Burlington engagements lead with web more often than any other suburban market because corridor mobile traffic doesn't tolerate slow sites.",
+                    "href": "/services/web-design/",
+                    "more_label": "See Web Design"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Burlington-corridor audit",
+            "heading": "See how your Burlington site converts the <em>corridor's mobile traffic</em>.",
+            "body": "Mobile speed, mobile conversion, GBP completeness, ads efficiency. We'll benchmark your site against the top 5 Burlington competitors in your category and hand you a corridor-specific upgrade plan.",
+            "ctas": [
+                {
+                    "label": "Book the Burlington audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Site + corridor benchmark"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "12 min",
+                    "label": "Drive time from our HQ"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

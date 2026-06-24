@@ -1,0 +1,107 @@
+{
+    "path": "/solutions/",
+    "title": "Solutions Catalog",
+    "status": "publish",
+    "seo": {
+        "title": "Website Solutions — AI Chatbots, Booking, Reviews & More | AQ Marketing",
+        "description": "27 à-la-carte website solutions for Massachusetts small businesses: AI chatbots, AI receptionists, online booking, review automation, quote calculators, care plans, and more. Bolt-on to any AQ Marketing website.",
+        "canonical": "https://aqmarketing.com/solutions/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-puzzle-piece",
+            "badge": "Solutions Catalog",
+            "heading": "27 à-la-carte <em>website upgrades</em>. Bolt on any AQM site.",
+            "lede": "Every solution below is production-ready and can be added to your current site (WordPress, Cloudflare Pages, Webflow, Squarespace) — or bundled at launch if we're building something new. Mix and match based on where leads are leaking today.",
+            "ctas": [
+                {
+                    "label": "Get a custom bundle quote",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Solutions"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "HOW IT WORKS",
+            "heading": "Three ways to add solutions to your site.",
+            "container": "grid-3",
+            "cards": [
+                {
+                    "fa": "fa-plus",
+                    "title": "Add to an existing AQM site",
+                    "body": "Already a client? Any solution deploys to your current site in 1–5 business days. No downtime, no rebuild."
+                },
+                {
+                    "fa": "fa-box",
+                    "title": "Bundle at launch",
+                    "body": "Building a new site with us? Tell us which solutions you want and we'll bake them into the initial build — cheaper than adding later."
+                },
+                {
+                    "fa": "fa-code-compare",
+                    "title": "Retrofit another site",
+                    "body": "Not an AQM site? We can bolt most solutions onto WordPress, Webflow, Squarespace, or Shopify. We'll quote after a 15-min review."
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Not sure which to pick?",
+            "heading": "Tell us where leads are <em>leaking today</em>.",
+            "body": "Book a free 45-minute strategy call. We'll look at your site, calls, forms, and GBP, then recommend the 2–3 solutions that will move revenue fastest. No obligation.",
+            "ctas": [
+                {
+                    "label": "Get a custom bundle quote",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-handshake",
+                    "value": "No lock-in",
+                    "label": "Month-to-month on recurring solutions"
+                },
+                {
+                    "fa": "fa-rocket",
+                    "value": "1–5 days",
+                    "label": "Typical time from kickoff to live"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "No long-term contracts on recurring solutions"
+                }
+            ]
+        }
+    ]
+}

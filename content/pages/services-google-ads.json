@@ -1,0 +1,322 @@
+{
+    "path": "/services/google-ads/",
+    "title": "Google Ads Management",
+    "status": "publish",
+    "seo": {
+        "title": "Google Ads Management Massachusetts — PPC That Books Jobs | AQ Marketing",
+        "description": "Transparent Google Ads management for Greater Boston small businesses. We run PPC that books real jobs, and you own the account, the data, and the history.",
+        "canonical": "https://aqmarketing.com/services/google-ads/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-bullseye",
+            "badge": "Google Ads Management",
+            "heading": "Google Ads that turn clicks into <em>booked jobs</em> — not wasted spend.",
+            "lede": "Most small businesses pour money into Google Ads and never know what they get back. We point your campaigns at one thing — phone calls and booked jobs — and show you where every dollar goes. The account is built in your name, so you keep it. We're a Woburn, MA team and we earn your business by performing month after month.",
+            "ctas": [
+                {
+                    "label": "Get your free ads review",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services",
+                    "url": "/services/"
+                },
+                {
+                    "label": "Google Ads"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHY IT WORKS",
+            "heading": "Built to make your ad budget work harder.",
+            "intro": "We're a Woburn, MA team that's been running campaigns for local small businesses for over 20 years. Here's what you can count on.",
+            "stats": [
+                {
+                    "value": "Since 2003",
+                    "label": "Running campaigns for Greater Boston small businesses"
+                },
+                {
+                    "value": "24/7",
+                    "label": "AI receptionist answering the leads your ads bring in"
+                },
+                {
+                    "value": "100%",
+                    "label": "You own the Google Ads account, the data, and the history"
+                },
+                {
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHERE BUDGET DIES",
+            "heading": "Why your Google Ads account is leaking money.",
+            "intro": "When we look at a small-business ad account, the same four problems show up again and again.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-fire",
+                    "title": "Too-broad keywords",
+                    "body": "Left on Google's defaults, your budget gets spent on searches like \"free plumber coupon\" before it ever reaches \"plumber Woburn MA.\" The wrong people click; you pay anyway."
+                },
+                {
+                    "fa": "fa-phone-slash",
+                    "title": "No call tracking",
+                    "body": "You pay for clicks but can't tell which keyword produced the booked job. So you keep spending on the wrong things for months without knowing."
+                },
+                {
+                    "fa": "fa-signs-post",
+                    "title": "Clicks land on the homepage",
+                    "body": "An \"emergency plumbing\" click dropped on your homepage makes people hunt for what they need — and most just leave. A page built for that one service books far more of them."
+                },
+                {
+                    "fa": "fa-ban",
+                    "title": "No negative keywords",
+                    "body": "Negative keywords tell Google which searches to skip. Without them, you pay to show up for \"jobs,\" \"DIY,\" and \"free\" — people who will never buy."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — THE STACK",
+            "heading": "The right ad channels for your business.",
+            "intro": "We pick the channels that match your service and budget — and we'll tell you which ones aren't worth running for your category.",
+            "items": [
+                {
+                    "fa": "fa-shield-check",
+                    "title": "Local Services Ads",
+                    "body": "The \"Google Screened\" boxes at the very top of local searches, where you pay per lead instead of per click. Often a better deal than Search ads for home services."
+                },
+                {
+                    "fa": "fa-magnifying-glass",
+                    "title": "Search ads",
+                    "body": "The classic pay-per-click ads on Google, aimed at people ready to buy. Tight keywords, negative keywords, and ad copy written for your service area."
+                },
+                {
+                    "fa": "fa-layer-group",
+                    "title": "Performance Max",
+                    "body": "Google's automated campaigns that run across its whole network. We use them carefully and on purpose, not as a \"set it and forget it\" budget drain."
+                },
+                {
+                    "fa": "fa-bullseye",
+                    "title": "Retargeting",
+                    "body": "Show your ad again to people who visited but didn't call the first time. It's a cheap way to stay in front of someone who's still deciding."
+                },
+                {
+                    "fa": "fa-phone",
+                    "title": "Call tracking",
+                    "body": "Every inbound call tied to the keyword, ad, and landing page that produced it. Included in the management fee, not billed as an extra."
+                },
+                {
+                    "fa": "fa-desktop",
+                    "title": "Landing pages",
+                    "body": "A dedicated page built for each service, so the click lands somewhere that matches what the person searched for and books more of them."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "From wasted spend to booked jobs, step by step.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Free ads review",
+                    "body": "We look at your current ads — or your competitors' if you're starting fresh — find where the budget is leaking, and map the searches your customers actually use. You approve the plan before we spend a dollar."
+                },
+                {
+                    "step_label": "WEEK 2",
+                    "title": "Build the campaigns",
+                    "body": "We structure the account around the searches that book jobs, write ads that earn the click, add negative keywords to cut waste, and set up call tracking. The account is built in your name from day one."
+                },
+                {
+                    "step_label": "WEEK 3–6",
+                    "title": "Land the click, answer the call",
+                    "body": "We point traffic at a fast landing page, with a 24/7 AI receptionist and chatbot behind it so after-hours leads never ring out. We watch the numbers daily and cut obvious waste while the account settles in."
+                },
+                {
+                    "step_label": "WEEK 7+",
+                    "title": "Optimize & report",
+                    "body": "We keep tightening the account — more budget on what books, less on what doesn't — and add nearby towns and services as the results earn it. You get plain-English reporting the whole way."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "What a well-run Google Ads account looks like.",
+            "prose_html": "<p>Good Google Ads work happens in the parts most people never see: which searches you show up for, which ones you skip, where you target, and how you measure a win. The ad copy matters, but most of the result is set before a word gets written.</p>\n        <h3>We measure booked jobs, not clicks</h3>\n        <p>A click is easy to count and tells you almost nothing. The number we report on is the one that pays your bills: what did it cost to get a real appointment on the calendar? Aiming at that keeps the landing page, the call tracking, the keywords, and the budget all working as one system.</p>\n        <h3>Local Services Ads first, for most home services</h3>\n        <p>For trades like plumbing, HVAC, electrical, and roofing, the \"Google Screened\" Local Services Ads sit above everything else and you pay per lead, not per click. They're often the better deal, but the setup and the process for disputing bad leads is fiddly work many small agencies skip. We do it.</p>\n        <h3>Targeting that matches your real service area</h3>\n        <p>Targeting all of \"Massachusetts\" burns budget on people too far away to ever hire you. We draw the target around the towns you actually serve and lean harder into the ones worth the most to you.</p>\n        <h3>Your account, your data</h3>\n        <p>The Google Ads account is created in your name, on your billing. If you ever leave, you take the history and the data with you. No starting over from scratch.</p>",
+            "aside_items": [
+                {
+                    "img_src": "/assets/generated/map-pack-rankings.png",
+                    "img_alt": "A Google Ads account dashboard showing call tracking and cost per booked call for a Massachusetts small business"
+                },
+                {
+                    "note_title": "Good to know",
+                    "note_body": "For most home-services trades, Local Services Ads — where you pay per lead instead of per click — are usually a better deal than classic Search ads. We tune them first."
+                },
+                {
+                    "img_src": "/assets/generated/review-generation.png",
+                    "img_alt": "A Google Ads landing page for a Woburn home-services business with a phone number and a simple request form"
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "06 — PRICING",
+            "heading": "Simple, transparent management pricing.",
+            "intro": "We charge a flat monthly fee to run your campaigns — separate from your ad budget, which you pay Google or Meta directly and keep full control of. Most clients start on the $500/mo Smart Website &amp; Marketing Package for the website, landing pages, and lead handling, then add the ad channel they want to grow.",
+            "cards": [
+                {
+                    "tag": "Foundation",
+                    "title": "Smart Website & Marketing Package",
+                    "body": "$500/mo (12-month agreement). Website + landing pages your ads can land on, content and on-page SEO, hosting and maintenance, CRM lead management, AI chatbot + AI voice receptionist (per-minute usage fees), Google Business Profile, citations and reviews.",
+                    "href": "/contact/",
+                    "more_label": "Get your free ads review"
+                },
+                {
+                    "tag": "Most Popular",
+                    "title": "Google Ads Management",
+                    "body": "$1,299/mo (ad spend not included). Campaigns built around booked jobs, keyword research and negative keywords, call tracking, weekly optimization and plain-English reporting. You own the account, the data, and the history. Best paired with the $500/mo package.",
+                    "href": "/contact/",
+                    "more_label": "Get your free ads review"
+                },
+                {
+                    "tag": "Social",
+                    "title": "Meta Ads Management",
+                    "body": "$999/mo (ad spend not included). Facebook and Instagram campaigns to reach local customers, audience targeting and creative, lead tracking with plain-English reporting. You own the ad account and the data. Best paired with the $500/mo package.",
+                    "href": "/contact/",
+                    "more_label": "Book an ads review"
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "07 — FAQ",
+            "heading": "Google Ads questions, answered straight.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "How much does Google Ads management cost?",
+                    "a": "You pay two things: a flat monthly management fee to us for running the campaigns, and your ad budget, which you pay Google directly and keep full control of. Google Ads management is $1,299/mo and Meta (Facebook and Instagram) ads management is $999/mo — ad spend not included in either. Most clients also start on our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) for the website, landing pages, and lead handling that make the ads pay off. We confirm the right mix at your free ads review."
+                },
+                {
+                    "q": "Do I own my Google Ads account?",
+                    "a": "Yes. The account is built in your name and it's yours from day one. You keep the campaigns, the data, and the history, and if you ever leave, it all goes with you."
+                },
+                {
+                    "q": "What's the difference between Google Ads and SEO?",
+                    "a": "Google Ads put you at the top of the results today — you pay for each click, and the traffic stops when the budget does. <a href=\"/services/local-seo/\">Local SEO</a> earns your spot in the map pack (the box of local businesses at the top of Google) over time and keeps working without paying per click. Most small businesses do best running both."
+                },
+                {
+                    "q": "How fast will I see results?",
+                    "a": "Ads can start showing the day a campaign goes live, which is faster than SEO. But showing and booking jobs aren't the same thing — the first few weeks are about cutting wasted spend and tightening the targeting so your cost per call comes down. We'll be straight with you about what's realistic for your market."
+                },
+                {
+                    "q": "How does the agreement work?",
+                    "a": "Most clients start on our Smart Website &amp; Marketing Package, a 12-month agreement at $500/mo that covers the website, landing pages, and lead handling. The Google Ads ($1,299/mo) and Meta ($999/mo) management fees sit alongside it, and your ad budget is always separate and paid to Google or Meta directly. The ad account stays in your name with all the data. We earn your business by performing month after month."
+                },
+                {
+                    "q": "Will you set up call tracking?",
+                    "a": "Yes — included. Every call is tied to the keyword, ad, and landing page that produced it, so you can see which ads make the phone ring."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "08 — RELATED",
+            "heading": "Pair Google Ads with...",
+            "cards": [
+                {
+                    "tag": "Grow",
+                    "title": "Local SEO",
+                    "body": "Ads bring leads today; Local SEO builds the free traffic that keeps coming without paying per click.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Convert",
+                    "title": "AI Websites",
+                    "body": "There's no point paying for clicks if your site can't answer the phone after hours. The AI receptionist and chatbot do.",
+                    "href": "/services/ai-websites/",
+                    "more_label": "Explore AI Websites"
+                },
+                {
+                    "tag": "Foundation",
+                    "title": "Web Design",
+                    "body": "A page built for the exact service someone searched books more of them than dropping the click on your homepage.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free ads review",
+            "heading": "Find out exactly <em>where your ad budget is leaking</em>.",
+            "body": "Get a free, no-pressure review of your Google Ads — where the budget is being wasted, which keywords are worth chasing, and how you stack up against your top local competitors — plus a clear plan to turn the spend into booked jobs. Not running ads yet? We'll map what a smart, transparent campaign looks like for your business.",
+            "ctas": [
+                {
+                    "label": "Get your free ads review",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-star",
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "fa": "fa-calendar-check",
+                    "value": "Since 2003",
+                    "label": "Serving Greater Boston small businesses"
+                },
+                {
+                    "fa": "fa-handshake",
+                    "value": "100%",
+                    "label": "You own the ad account and the data"
+                }
+            ]
+        }
+    ]
+}

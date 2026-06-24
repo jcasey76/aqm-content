@@ -1,0 +1,297 @@
+{
+    "path": "/services/web-design/",
+    "title": "Web Design",
+    "status": "publish",
+    "seo": {
+        "title": "Web Design Woburn MA — Small Business Websites That Book Jobs | AQ Marketing",
+        "description": "Small-business web design and website redesign by a Woburn, MA agency. Fast, mobile-first sites built to rank locally and turn clicks into booked customers. Serving Greater Boston since 2003.",
+        "canonical": "https://aqmarketing.com/services/web-design/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-display",
+            "badge": "Web Design",
+            "heading": "Small-business web design that <em>turns visitors into customers</em>.",
+            "lede": "Most small-business sites look fine and do nothing. We design fast, mobile-first websites that read clearly on a phone and push every visitor toward one thing: calling, booking, or filling out the form. Local SEO and a 24/7 AI receptionist come built in. New build or redesign, you own the site and domain from day one. Woburn, MA, serving Greater Boston since 2003.",
+            "ctas": [
+                {
+                    "label": "Get your free site review",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services",
+                    "url": "/services/"
+                },
+                {
+                    "label": "Web Design"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHY OWNERS PICK US",
+            "heading": "One local team behind your whole online presence.",
+            "intro": "Real numbers about how we work, not promises about your results. Here's what you can count on.",
+            "stats": [
+                {
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "value": "Since 2003",
+                    "label": "Serving Greater Boston small businesses"
+                },
+                {
+                    "value": "100%",
+                    "label": "You own your site, domain, and data"
+                },
+                {
+                    "value": "1 team",
+                    "label": "One team, one login — no finger-pointing"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why your current website doesn't bring in leads.",
+            "intro": "We've reviewed a lot of small-business sites in Massachusetts. The problem is almost always some mix of these four.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-gauge-high",
+                    "title": "Too slow",
+                    "body": "A slow site on a phone loses you both rankings and visitors. Google pushes you down; people leave before the page loads."
+                },
+                {
+                    "fa": "fa-mobile-screen",
+                    "title": "Broken on phones",
+                    "body": "Tiny buttons, cramped forms, an image spilling off the screen. Most of your visitors are on a phone, and the site fights them."
+                },
+                {
+                    "fa": "fa-align-left",
+                    "title": "Generic, boring copy",
+                    "body": "\"Welcome to our website\" and a stock photo of a handshake. No hook, no offer, no reason to call."
+                },
+                {
+                    "fa": "fa-puzzle-piece",
+                    "title": "Hard to find on Google",
+                    "body": "No Local SEO, no Google Business Profile, no clear pages for what people search. So the right customers never see you."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — WHAT YOU GET",
+            "heading": "A website built to get found and get the call.",
+            "intro": "All of this is included in the $500/mo Smart Website &amp; Marketing Package (12-month agreement). Starting from scratch or fixing a site that's letting you down, the goal is the same.",
+            "items": [
+                {
+                    "fa": "fa-pen-ruler",
+                    "title": "Custom design",
+                    "body": "Your brand, your services, your photos. A mobile-first layout that looks right on every phone, not a theme everyone recognizes."
+                },
+                {
+                    "fa": "fa-keyboard",
+                    "title": "Copywriting included",
+                    "body": "Clear, plain writing for every page, tuned to your Massachusetts service area and your real buyer. You review and approve it."
+                },
+                {
+                    "fa": "fa-bolt",
+                    "title": "Fast load times",
+                    "body": "Built for Google's Core Web Vitals — the speed and stability scores Google uses to rank pages. A fast site keeps visitors and helps you rank."
+                },
+                {
+                    "fa": "fa-magnifying-glass-chart",
+                    "title": "Local SEO wired in",
+                    "body": "Your Google Business Profile, local listings, and the right pages and words built in from day one, so Google can rank you."
+                },
+                {
+                    "fa": "fa-robot",
+                    "title": "24/7 AI receptionist",
+                    "body": "An AI chatbot and AI voice receptionist on every site, so no lead slips through after hours. Per-minute usage fees apply."
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "title": "Hosting & maintenance",
+                    "body": "Hosting, software updates, security, and support are all part of your plan. And you own the site, the domain, and the data."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "From first call to live site in four clear steps.",
+            "intro": "No mystery and no missed deadlines. You see progress at every stage and approve the work before it goes live.",
+            "steps": [
+                {
+                    "step_label": "STEP 01",
+                    "title": "Free site review",
+                    "body": "We look at your current site — or your competitors' if you don't have one yet — check how it loads on a phone, and map the pages and words your customers search for. You leave with a plan, not a pitch."
+                },
+                {
+                    "step_label": "STEP 02",
+                    "title": "Design & copy",
+                    "body": "We design a fast, mobile-first layout and write the words to match: clear headlines, clear services, and an obvious next step on every page. You review and approve before we build."
+                },
+                {
+                    "step_label": "STEP 03",
+                    "title": "Build & wire the AI",
+                    "body": "We build the site, connect your Google Business Profile and Local SEO, and set up the AI receptionist and chatbot so no lead slips through after hours. Everything is tested on real devices."
+                },
+                {
+                    "step_label": "STEP 04",
+                    "title": "Launch & grow",
+                    "body": "We launch, watch the numbers, and keep improving the pages that book the most jobs. Real ranking gains typically take 3-6 months, and we keep earning it every month of your plan."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "Starting fresh or fixing a site that's letting you down.",
+            "prose_html": "<p>A pretty website that nobody finds and nobody calls is just an expensive brochure. We design every page around one job: turn the visitor into a booked customer. That means fast load times, plain words, an obvious next step, and Local SEO wired in from day one so Google can actually rank you.</p>\n        <h3>Already have a site? We can redesign it</h3>\n        <p>If your current site feels slow, dated, or hard to use on a phone, a redesign keeps what's working — your domain, your reviews, your rankings — and rebuilds the rest on a faster, mobile-first foundation. You don't restart your reputation from zero.</p>\n        <h3>WordPress or our AI platform</h3>\n        <p>We build WordPress sites, which are easy to update and search-friendly, and we build on our own AI-website platform with a 24/7 receptionist and chatbot included. We'll recommend the right fit for your business at your free review.</p>\n        <h3>One team, one login</h3>\n        <p>One team handles your design, copy, Local SEO, and the AI. No middlemen and no finger-pointing between vendors. You get one login for the whole thing, and you own the site, the domain, and the data.</p>\n        <h3>One simple plan</h3>\n        <p>Web design isn't a one-off project here. It's built into the $500/mo Smart Website &amp; Marketing Package (12-month agreement), so your site, hosting, Local SEO, and AI tools all live under one plan. We don't make you guess — your free site review confirms the exact scope before you commit, and we keep earning it month after month.</p>",
+            "aside_items": [
+                {
+                    "img_src": "/assets/generated/map-pack-rankings.png",
+                    "img_alt": "Mobile-first small business website built by AQ Marketing in Woburn, MA"
+                },
+                {
+                    "note_title": "Good to know",
+                    "note_body": "A faster site keeps more visitors and helps you rank. We build for Google's Core Web Vitals — the speed and stability scores Google uses when deciding where to place your pages."
+                },
+                {
+                    "img_src": "/assets/generated/review-generation.png",
+                    "img_alt": "Web design mockup showing a click-to-call bar on a mobile service business site"
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Web design questions, answered straight.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "How much does a small-business website cost?",
+                    "a": "Most clients start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement). That covers your website design, copywriting, hosting, Local SEO, Google Business Profile, the 24/7 AI receptionist and chatbot, CRM, reviews, and ongoing maintenance — your whole online presence in one plan, not a one-off build. Want to rank faster? You can add the SEO accelerator at $1,299/mo. We confirm the exact scope at your free site review, with no obligation."
+                },
+                {
+                    "q": "Do you build on WordPress?",
+                    "a": "Yes. We do WordPress web design, which is easy to update and search-friendly, and we also offer our own AI-website platform with a 24/7 receptionist and chatbot built in. We'll recommend the right fit at your free review. Either way, you own the site and the domain."
+                },
+                {
+                    "q": "Can you redesign my existing website instead of starting over?",
+                    "a": "Yes. A redesign keeps what's already working for you — your domain, your reviews, and any Google rankings you've earned — and rebuilds the rest on a faster, mobile-first foundation. You don't restart your reputation from zero."
+                },
+                {
+                    "q": "Will my new website show up on Google?",
+                    "a": "That's the whole point. We wire <a href=\"/services/local-seo/\">Local SEO</a> and your Google Business Profile into the site from day one, so Google can read it, rank it, and show you in local results. A website nobody can find won't book you any work."
+                },
+                {
+                    "q": "Do you do the copywriting?",
+                    "a": "Yes — copy is included in your package. We write clear, plain-language pages tuned to your Massachusetts service area and your real buyer. You review and approve before anything is live."
+                },
+                {
+                    "q": "Can I edit the site myself after it launches?",
+                    "a": "Yes. You can edit text, swap photos, and add pages without touching code. Prefer to hand it off? Maintenance and support are built into your package, so we'll keep the site updated for you. Either way it's your site, your login, your call."
+                },
+                {
+                    "q": "Do I own my website and domain?",
+                    "a": "Yes — you own the site, the domain, and the data from day one. No hostage situations, no handing it back if you ever leave."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair Web Design with...",
+            "cards": [
+                {
+                    "tag": "Traffic",
+                    "title": "Local SEO",
+                    "body": "A fast website is the foundation; Local SEO fills it with the right Massachusetts visitors.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "AI",
+                    "title": "AI Websites",
+                    "body": "Add a 24/7 chatbot and voice receptionist so every visitor gets answered — not just the ones who fill a form.",
+                    "href": "/services/ai-websites/",
+                    "more_label": "Explore AI Websites"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Get leads coming in right away while your Local SEO rankings build over time.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free site review",
+            "heading": "See exactly what's holding <em>your website back</em>.",
+            "body": "Get a free, no-pressure review of your current site — speed, mobile experience, and how you stack up against your top local competitors — plus a clear plan for the fixes that will book you more jobs. No site yet? We'll map what you need from scratch.",
+            "ctas": [
+                {
+                    "label": "Get your free site review",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-star",
+                    "value": "5.0★",
+                    "label": "Google rating across 34 reviews"
+                },
+                {
+                    "fa": "fa-location-dot",
+                    "value": "Since 2003",
+                    "label": "Serving Greater Boston"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "100%",
+                    "label": "You own your site, domain & data"
+                }
+            ]
+        }
+    ]
+}

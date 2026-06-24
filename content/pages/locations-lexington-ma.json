@@ -1,0 +1,283 @@
+{
+    "path": "/locations/lexington-ma/",
+    "title": "Locations · Lexington, MA",
+    "status": "publish",
+    "seo": {
+        "title": "SEO Agency for Lexington, MA — Premium Local Search for Affluent Markets | AQ Marketing",
+        "description": "Lexington's median household income is over $200k. Service-business AOVs are high — meaning SEO compounds harder here than in most MA markets. AQM ranks Lexington law firms, financial advisors, dental practices, and home-service premium tiers in the local map pack.",
+        "canonical": "https://aqmarketing.com/locations/lexington-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Lexington, MA",
+            "heading": "Lexington's economics make local SEO <em>compound differently</em>.",
+            "lede": "Median household income over $200k. Premium service AOVs across legal, financial, dental, and home services. When the average customer is worth 3–5× the suburban average, ranking gains compound to revenue 3–5× faster. Lexington is one of the highest-leverage markets we work in.",
+            "ctas": [
+                {
+                    "label": "Get a Lexington-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Lexington, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE LEXINGTON MARKET",
+            "heading": "What makes Lexington a premium SEO market.",
+            "intro": "Affluent suburb with concentrated demand for professional services. Customer lifetime value is materially higher than adjacent towns, which changes the SEO economics.",
+            "stats": [
+                {
+                    "value": "34k",
+                    "label": "Lexington population — small but high-density buying power"
+                },
+                {
+                    "value": "$200k+",
+                    "label": "Median household income (vs. ~$95k MA average)"
+                },
+                {
+                    "value": "13 mi",
+                    "label": "Drive from our Woburn HQ via 3 → 95 → 2A"
+                },
+                {
+                    "value": "3–5×",
+                    "label": "AOV multiple vs. comparable suburban services"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Lexington businesses we work with.",
+            "intro": "Lexington's industry mix skews heavily toward professional services and premium home services. Local SEO + reputation + GBP do most of the work here.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-scale-balanced",
+                    "title": "Law firms",
+                    "body": "Estate, family, real estate, business law. Premium clients, premium fees. Reputation + content + map pack — paid is expensive ($15+ CPC)."
+                },
+                {
+                    "fa": "fa-piggy-bank",
+                    "title": "Financial advisors + wealth mgmt",
+                    "body": "Independent RIAs, CFPs, tax practices. Compliance-aware content + LinkedIn + GBP — very different playbook than other professionals."
+                },
+                {
+                    "fa": "fa-tooth",
+                    "title": "Premium dental + medical specialists",
+                    "body": "Cosmetic, orthodontic, specialty medical. Reputation matters more than anywhere else — premium buyers research extensively before booking."
+                },
+                {
+                    "fa": "fa-house-chimney",
+                    "title": "Premium home services",
+                    "body": "Custom kitchen + bath, high-end landscaping, smart-home installation, fine carpentry. Higher AOVs ($20k+ projects), longer sales cycles."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN LEXINGTON",
+            "heading": "The starting services for most Lexington businesses.",
+            "intro": "Premium markets reward the long-compounding plays. SEO + reputation + GBP first; ads supplement.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Lexington's premium AOVs make organic compounding particularly valuable. SEO ROI here often beats paid by 4×+ on a 12-month basis.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Premium buyers research more — and rely more heavily on review depth (not just count). Reputation work pays back faster here than in any other suburban market.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "Lexington's GBP categories matter — \"law firm\" vs. \"estate-planning attorney\" produces wildly different SERP positions. Granularity is the lever.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a Lexington engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Premium-market audit",
+                    "body": "Standard 20-point audit + premium-market additions: review depth, content authority signals, LinkedIn / professional-platform presence."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "GBP + reputation foundation",
+                    "body": "Lexington engagements often start with reputation + GBP because premium buyers research these first."
+                },
+                {
+                    "step_label": "WEEK 5–12",
+                    "title": "Content + authority",
+                    "body": "Long-form content tuned to Lexington-specific buyer concerns. Lexington SEO is content-heavier than corridor markets."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy + content review",
+                    "body": "Premium engagements track different KPIs — booked-consultation rate, average client value, retention. Monthly review reflects that."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY LEXINGTON IS DIFFERENT",
+            "heading": "Why Lexington's economics change the SEO equation.",
+            "prose_html": "<p>In a $95k-median town, a +20% lift in qualified leads at $400 average ticket produces $80 in incremental revenue per lead. In Lexington, the same 20% lift at $1,200+ ticket produces $240+. The marketing ROI math compounds 3–5× harder. This is why we lean SEO-heavy here — the long-compounding asset matters more when each lead is worth more.</p>\n        <p>Lexington buyers also research differently. They read reviews end-to-end, check LinkedIn, ask for referrals from neighbors. The brand presence has to hold up under more scrutiny — three positive Google reviews and a 2018 website don't survive that. Premium markets reward depth (long reviews, real case studies, multi-platform presence) over volume (lots of thin signals).</p>\n        <h3>Reputation depth, not just count</h3>\n        <p>Lexington reputation work emphasizes review length and specificity — a 200-word review that names a specific service, outcome, and team member is worth 5 short ones. Our review-request flows in Lexington use longer-form prompts and ask specific follow-up questions to surface the depth that the buyer base reads.</p>\n        <h3>Where paid still works</h3>\n        <p>Google Ads remain useful in Lexington for high-intent, time-sensitive queries (\"emergency dentist Lexington,\" \"estate attorney consultation\"). But CPCs run $12–$25 in premium verticals — the math only works if your conversion rate, follow-up speed, and offer are all premium-tier too. We don't recommend ads as a starting service in Lexington; we recommend them as a layer once SEO is producing.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "13 mi from our Woburn HQ",
+                    "note_body": "About 22 minutes via 3 → 95 → 2A. We meet Lexington clients in-person at the firm office or by video — Lexington engagements often involve quarterly reviews on-site."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Lexington.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Are you experienced with high-end law firm + financial-advisor SEO?",
+                    "a": "Yes. Lexington engagements have included estate-planning law firms, independent RIAs, CFP-led wealth management firms, and CPA practices. Different content + content-discovery playbook than retail or service businesses."
+                },
+                {
+                    "q": "How long until SEO compounds in Lexington?",
+                    "a": "Local SEO is a 3-6 month build, not an overnight switch — most clients see meaningful movement in 3-6 months. The bigger compounding effect — content authority, review depth, referral flow — takes 6–12 months but pays back materially harder than in lower-AOV markets."
+                },
+                {
+                    "q": "What about compliance for financial / legal content?",
+                    "a": "We work with the firm's compliance team. Financial advisor content is reviewed by your designated principal before publishing; law firm content avoids legal-advice pitfalls and gets reviewed for jurisdictional accuracy."
+                },
+                {
+                    "q": "Will my Lexington engagement be more expensive than other markets?",
+                    "a": "Slightly. Premium content and reputation depth take more research per asset. Most Lexington engagements run 15–25% above comparable suburban scope. The ROI math still favors Lexington because of the AOV multiple."
+                },
+                {
+                    "q": "Do you do thought-leadership content?",
+                    "a": "Yes — long-form, attribution-tagged, optimized for both organic and LinkedIn. Particularly effective for Lexington financial and legal practitioners."
+                },
+                {
+                    "q": "Can you help with referral partnerships in town?",
+                    "a": "Indirectly. We won't broker introductions but we structure your content + GBP + LinkedIn to maximize referral discoverability — what comes up when someone Googles \"Lexington estate attorney recommendation.\""
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Adjacent Lexington-area markets.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Burlington, MA",
+                    "body": "5 miles north. Different market type — corridor retail + B2B, lower AOVs, more volume-driven.",
+                    "href": "/locations/burlington-ma/",
+                    "more_label": "See Burlington"
+                },
+                {
+                    "tag": "Adjacent",
+                    "title": "Winchester, MA",
+                    "body": "8 miles east. Similar premium-residential pattern, denser professional-practices market.",
+                    "href": "/locations/winchester-ma/",
+                    "more_label": "See Winchester"
+                },
+                {
+                    "tag": "Service",
+                    "title": "Reputation Management",
+                    "body": "Lexington's premium buyer base relies on review depth more than any other market. Reputation is often the single most valuable starting service.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "See Reputation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Lexington premium-market audit",
+            "heading": "See your Lexington firm benchmarked against <em>premium-market peers</em>.",
+            "body": "GBP, review depth, content authority, LinkedIn presence, top-5 competitor breakdown. We'll send you a 3-page premium-market audit with specific upgrade priorities.",
+            "ctas": [
+                {
+                    "label": "Book the Lexington audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Premium-market review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "3–5×",
+                    "label": "AOV multiple vs. suburban services"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

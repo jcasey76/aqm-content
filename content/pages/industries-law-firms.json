@@ -1,0 +1,283 @@
+{
+    "path": "/industries/law-firms/",
+    "title": "Industries · Estate · Family · Real Estate · Business · PI",
+    "status": "publish",
+    "seo": {
+        "title": "Marketing for Massachusetts Law Firms — Map Pack, Reputation, Bar-Compliant Content | AQ Marketing",
+        "description": "AQM helps small and mid-size Massachusetts law firms rank for high-intent local queries — without violating Bar advertising rules. Local SEO, reputation, content, and Google Ads tuned for legal verticals (estate, family, real estate, business, PI).",
+        "canonical": "https://aqmarketing.com/industries/law-firms/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-scale-balanced",
+            "badge": "Industries · Estate · Family · Real Estate · Business · PI",
+            "heading": "Legal marketing in Massachusetts is <em>more constrained</em> than any other vertical.",
+            "lede": "Bar advertising rules. Long sales cycles. Six-month referral memory. CPCs that hit $30+ in PI categories. The firms that win online in MA do so by building authority that compounds — Local SEO, content, reputation depth, and bar-compliant communication — not by buying clicks.",
+            "ctas": [
+                {
+                    "label": "Get a firm-marketing audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Industries",
+                    "url": "/industries/"
+                },
+                {
+                    "label": "Law Firms"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE VERTICAL",
+            "heading": "What legal marketing in Massachusetts looks like.",
+            "intro": "Tighter constraints than any other vertical we work in. The agencies that win for law firms understand the rules; the ones that don't get their clients sanctioned.",
+            "stats": [
+                {
+                    "value": "$15–$45",
+                    "label": "Avg CPC for high-intent legal queries in Boston-area markets"
+                },
+                {
+                    "value": "60–180 days",
+                    "label": "Typical sales cycle from first inquiry to retainer"
+                },
+                {
+                    "value": "11",
+                    "label": "MA Bar Rules of Professional Conduct that touch advertising directly"
+                },
+                {
+                    "value": "4.7+",
+                    "label": "Avg rating threshold most legal buyers require before contacting"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why most legal marketing dies in 90 days.",
+            "intro": "The standard digital-marketing playbook violates Bar rules, ignores referral patterns, or burns budget on intent that takes months to mature. Each is a different way to fail.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-gavel",
+                    "title": "Bar-rule violations on testimonials",
+                    "body": "MA Rule 7.1 prohibits misleading client communications. Many sites lift testimonials in ways that imply guaranteed outcomes. Sanctions, removal demands, and Bar complaints follow."
+                },
+                {
+                    "fa": "fa-hourglass-half",
+                    "title": "Long sales cycles vs. short-funnel ads",
+                    "body": "Estate planning and business law sales cycles run 60–180 days. Standard \"book a call\" Google Ads optimization burns budget chasing leads who aren't ready to retain."
+                },
+                {
+                    "fa": "fa-handshake",
+                    "title": "Referral memory invisible to attribution",
+                    "body": "60%+ of MA small-firm work comes from referrals. The website + GBP needs to support the referral closing the loop, not generate leads from cold traffic only."
+                },
+                {
+                    "fa": "fa-magnifying-glass-chart",
+                    "title": "Authority signals weak",
+                    "body": "Bar admission, jurisdictions, super-lawyer recognition, AVVO ratings — most firms underuse these on-site. Google reads them as authority signals; so do referred buyers researching you."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — STARTING PLAYBOOK",
+            "heading": "The starting playbook for most MA law firms.",
+            "intro": "Reputation + local SEO + content. Ads selectively, only in high-velocity verticals where the math works.",
+            "cards": [
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Bar-compliant review request flow. Depth matters more than count for legal — long-form, named-attorney reviews carry more weight than 3-line generics.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Map-pack + GBP + citations + on-site authority signals. Compounds slower than home services but harder — legal SEO is a 12+ month asset.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Selective use only. PI + criminal defense + emergency family law work; doesn't work for estate planning at $30 CPC. We'll tell you which categories make sense.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a law firm engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1–2",
+                    "title": "Bar-compliance review",
+                    "body": "Audit existing site, GBP, and any active campaigns against MA Rules of Professional Conduct. Flag and document anything risky."
+                },
+                {
+                    "step_label": "WEEK 3–6",
+                    "title": "Reputation + GBP foundation",
+                    "body": "Bar-compliant review-request flow. GBP rebuild with proper categories, jurisdiction, attorney profiles. First-month review velocity."
+                },
+                {
+                    "step_label": "WEEK 7–14",
+                    "title": "Content + authority",
+                    "body": "Long-form, jurisdiction-aware content. Practice-area pages with real depth (FAQs, process explanations, jurisdiction notes). Bar-reviewed."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Track sources of consultations, retainer-conversion rate, and content performance. Adjust over the 12-month build cycle."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY THIS VERTICAL IS DIFFERENT",
+            "heading": "Why legal SEO is a 12-month asset, not a 90-day campaign.",
+            "prose_html": "<p>The temptation in legal marketing is to focus on Google Ads — high CPCs but immediate results, easy to measure. The reality is that Google Ads in most MA legal categories have unit economics that only work at scale, with strong infrastructure (intake systems, follow-up speed, conversion-tuned landing pages). Most small firms can't sustain the math.</p>\r\n        <p>Local SEO and content build a different asset. The firm that shows up in the map pack for \"[practice area] [town]\" queries captures referral-validation traffic — buyers who heard about you from a friend then Google you to confirm. That traffic converts at 30–60% to consultation, vs. 3–8% from cold ads. The asset compounds because referral patterns layer on top.</p>\r\n        <h3>Bar-compliance is a feature, not friction</h3>\r\n        <p>We treat MA Bar Rules of Professional Conduct as a design constraint, not an obstacle. Every review-request flow, every testimonial format, every ad creative is reviewed against Rule 7.1 (misleading communications), 7.2 (advertising), 7.3 (solicitation), and the related comments. Setup includes documentation you can hand to the firm's responsible attorney for sign-off.</p>\r\n        <h3>The referral-loop SEO play</h3>\r\n        <p>Most MA small-firm legal work is referral-driven. The buyer hears about you from a friend, then Googles to validate. Your GBP, reviews, and \"about\" content are doing 80% of the conversion work in those moments — not cold lead-gen. We optimize the firm's discoverability + credibility for the referral-validation moment specifically.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Verticals we work in",
+                    "note_body": "Estate planning + probate, family law + divorce, real estate + closings, business + commercial, personal injury + employment, immigration, criminal defense, intellectual property. Each vertical has tuned playbook (estate is referral-heavy, PI is ads-heavy, etc.)."
+                },
+                {
+                    "note_title": "MA Bar Rules of Professional Conduct",
+                    "note_body": "Every campaign reviewed against Rule 7.1 (false/misleading), 7.2 (advertising disclosures), 7.3 (solicitation), and related comments. Documentation provided for the firm's responsible attorney. We adjust testimonials, disclaimers, and language to stay compliant — even when it costs conversion."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Most MA firms start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — website, Local SEO foundations, reputation, and the AI front desk in one plan. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions from MA law firms.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Are you familiar with MA Bar advertising rules?",
+                    "a": "Yes. Every campaign reviewed against Rules 7.1, 7.2, 7.3, and the related comments. Setup includes documentation you can hand to the firm's responsible attorney. Compliance is a design constraint, not an afterthought."
+                },
+                {
+                    "q": "How do you handle testimonials given MA Rule 7.1?",
+                    "a": "Carefully. Reviews stay on Google/Yelp where they're third-party-hosted (compliant under most readings). Site testimonials use disclaimers and avoid implied-outcome language. We err strict — better to lose a testimonial than risk a Bar complaint."
+                },
+                {
+                    "q": "Do you do PI / personal injury marketing?",
+                    "a": "Yes, but selectively. PI is the highest-CPC legal vertical ($30+ in Boston), and the math only works at scale with strong intake. We're honest with smaller firms about whether ads make sense — sometimes the answer is not yet."
+                },
+                {
+                    "q": "What's a realistic timeline for legal SEO results?",
+                    "a": "Real ranking gains typically take 3–6 months. Meaningful organic traffic builds over 6–12 months, and compounding referral validation over 12+ months. Legal SEO is a long-tenure asset, not a quick win."
+                },
+                {
+                    "q": "Can you handle multi-jurisdiction firms?",
+                    "a": "Yes. Per-jurisdiction landing pages with jurisdiction-aware content, Bar admissions surfaced correctly in schema, and citation work tuned to the right state directories."
+                },
+                {
+                    "q": "What's a typical engagement size?",
+                    "a": "Most firms start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which bundles the website, Local SEO foundations, reputation, and the AI front desk. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair the legal playbook with...",
+            "cards": [
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Bar-compliant review depth + multi-platform monitoring. The single highest-leverage investment for most MA small firms.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "12-month compounding asset. Builds the referral-validation infrastructure most firm websites lack.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Geo",
+                    "title": "Lexington, MA",
+                    "body": "Premium-AOV market. High concentration of MA legal practices. Different SEO playbook (content-heavier, reputation-deeper).",
+                    "href": "/locations/lexington-ma/",
+                    "more_label": "See Lexington"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Bar-compliance + SEO audit",
+            "heading": "See where your firm <em>stands against MA legal marketing peers</em> — compliantly.",
+            "body": "20-point audit covering site Bar compliance, GBP, reputation depth, content authority, and top-5 firm benchmarks in your practice area + jurisdiction. 3-page legal-specific report.",
+            "ctas": [
+                {
+                    "label": "Book the firm audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Bar-compliant + competitive review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "12 mo",
+                    "label": "Realistic legal-SEO build cycle"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Bar-aware",
+                    "label": "Flows reviewed against MA Bar Rules"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "path": "/privacy/",
+    "title": "Privacy Policy",
+    "status": "publish",
+    "seo": {
+        "title": "Privacy Policy | AQ Marketing",
+        "description": "How AQ Marketing, Inc. collects, uses, and protects the information you share with us through our website and services.",
+        "canonical": "https://aqmarketing.com/privacy/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-shield-halved",
+            "badge": "Legal",
+            "heading": "Privacy Policy",
+            "lede": "How AQ Marketing collects, uses, and protects your information.",
+            "crumbs": [
+                { "label": "Home", "url": "/" },
+                { "label": "Privacy Policy" }
+            ]
+        },
+        {
+            "type": "aqm_termly",
+            "v": 1,
+            "data_id": "63777879-f739-42d3-9bc8-48fef031d10f"
+        }
+    ]
+}

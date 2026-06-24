@@ -1,0 +1,292 @@
+{
+    "path": "/services/ai-websites/",
+    "title": "AI Websites",
+    "status": "publish",
+    "seo": {
+        "title": "AI Website Agency for Massachusetts Small Business — Done-for-You Lead Capture | AQ Marketing",
+        "description": "An AI chatbot and AI voice receptionist for Greater Boston small businesses. They answer 24/7, qualify the lead, book the job, and save it to your CRM. Included in the $500/mo Smart Website & Marketing Package. Book a free demo.",
+        "canonical": "https://aqmarketing.com/services/ai-websites/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-robot",
+            "badge": "AI Websites",
+            "heading": "Your website should answer the phone, qualify the lead, and <em>book the job</em>.",
+            "lede": "AI chatbot + voice receptionist + online booking — wired into one system. We train it on your services, plug it into your calendar and CRM, and get it live. Every inbound lead answered, 24/7, in English or Spanish.",
+            "ctas": [
+                {
+                    "label": "See it live on a demo",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services",
+                    "url": "/services/"
+                },
+                {
+                    "label": "AI Websites"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHY AQ MARKETING",
+            "heading": "What you get when your website stops sleeping.",
+            "intro": "A Woburn, MA team that has helped Greater Boston small businesses get found and get booked since 2003.",
+            "stats": [
+                {
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "value": "2003",
+                    "label": "Serving Greater Boston since 2003"
+                },
+                {
+                    "value": "100%",
+                    "label": "You own your site, profile, and data"
+                },
+                {
+                    "value": "Free",
+                    "label": "20-point local audit, no obligation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — THE LEAKS",
+            "heading": "Where small businesses lose leads today.",
+            "intro": "If one of these sounds like your shop, an AI front desk can fix it. Most owners have all four.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-phone-slash",
+                    "title": "Missed calls",
+                    "body": "The phone rings during a job, at lunch, or after hours. It goes to voicemail, and most callers just dial the next business instead of leaving a message."
+                },
+                {
+                    "fa": "fa-moon",
+                    "title": "After-hours silence",
+                    "body": "A lot of searches happen at night and on weekends. If your site can only say \"we're closed,\" that urgent job becomes someone else's customer."
+                },
+                {
+                    "fa": "fa-keyboard",
+                    "title": "Form friction",
+                    "body": "Long contact forms scare people off. They want to ask one quick question and get an answer — not fill out a long form and wait."
+                },
+                {
+                    "fa": "fa-hourglass-end",
+                    "title": "Slow replies",
+                    "body": "The faster you reply, the more likely the lead books. People are hard to reach fast every time. An AI front desk answers right away, day or night."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — THE STACK",
+            "heading": "The AI Front Desk — four systems wired as one.",
+            "intro": "Pick one piece or take the whole stack. The stack is how you go from \"we try to answer\" to \"every lead gets caught.\"",
+            "items": [
+                {
+                    "fa": "fa-comments",
+                    "title": "AI Chatbot",
+                    "body": "Qualifies leads on every page. Trained on your services. Books to your calendar. Drops clean records into your CRM. <a href=\"/solutions/ai-chatbot/\">See details →</a>"
+                },
+                {
+                    "fa": "fa-phone-volume",
+                    "title": "AI Voice Receptionist",
+                    "body": "Natural voice answers every call — evenings, weekends, holidays. Books live, captures details, sends transcripts. <a href=\"/solutions/ai-receptionist/\">See details →</a>"
+                },
+                {
+                    "fa": "fa-calendar-check",
+                    "title": "Online Booking Widget",
+                    "body": "Customers pick a time and confirm instantly. Syncs to Google/Outlook/Jobber/Housecall Pro. <a href=\"/solutions/online-booking/\">See details →</a>"
+                },
+                {
+                    "fa": "fa-diagram-project",
+                    "title": "CRM wiring",
+                    "body": "Every lead — chat, call, form, booking — lands in one pipeline. No tab-switching, no data loss."
+                },
+                {
+                    "fa": "fa-star",
+                    "title": "Review Automation",
+                    "body": "Every finished job triggers a text or email asking for a review at the right moment, so your Google rating keeps climbing. <a href=\"/solutions/review-automation/\">See details →</a>"
+                },
+                {
+                    "fa": "fa-language",
+                    "title": "Bilingual ready",
+                    "body": "The chat and the voice receptionist both speak Spanish. That matters across Greater Boston and is often a missed opportunity."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "Live in days. We set it all up. We tune it every week.",
+            "steps": [
+                {
+                    "step_label": "DAY 1–3",
+                    "title": "Knowledge build",
+                    "body": "We interview you, pull from your site, and write the AI's knowledge base: services, pricing, hours, service area, booking rules, FAQ, objection handling."
+                },
+                {
+                    "step_label": "DAY 4–7",
+                    "title": "Install & integrate",
+                    "body": "Drop a script tag on your site. Forward your phone line. Connect to your calendar and CRM. Test 40+ scenarios together before going live."
+                },
+                {
+                    "step_label": "DAY 8–14",
+                    "title": "Go live & tune",
+                    "body": "Soft launch — we're watching every chat and call. Tighten answers, add FAQs, eliminate dead-ends in the first week."
+                },
+                {
+                    "step_label": "ONGOING",
+                    "title": "Weekly review",
+                    "body": "We flag every escaped question and handoff. Your knowledge base and booking rules get smarter every week."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "Why \"AI website\" means something different when we build it.",
+            "prose_html": "<p>There are two kinds of \"AI website\" being sold right now. One is a generic chat box bolted on to a website — quick to set up, but it knows nothing about your business and makes things up. The other is a chatbot and phone receptionist trained on your real business that actually books jobs. We build the second kind.</p>\n        <h3>Trained on your business, not guessing</h3>\n        <p>A generic AI will happily invent your prices, make up a response time, or send someone to the wrong town. Ours is set up to use only your real services, prices, hours, and service area. If a question falls outside that, it hands the caller to a person instead of guessing.</p>\n        <h3>It does the work, not just chats</h3>\n        <p>The chat box isn't the point. The point is that it books the job onto your calendar, saves the lead to your CRM (the one place all your leads live) with the details filled in, and hands your team a ready-to-call lead. That's where the missed money actually is.</p>\n        <h3>Built for how local businesses really run</h3>\n        <p>Local service businesses have their own rules: which towns you cover, your real hours, busy seasons, and customers who speak Spanish. We build those in from day one — not a one-size-fits-all template.</p>\n        <h3>You see everything</h3>\n        <p>You can read every conversation, every call transcript, and every booked job. Nothing is hidden. You own your number, your data, and your customer list, and you can see exactly what the system is doing.</p>",
+            "aside_items": [
+                {
+                    "img_src": "/assets/generated/review-generation.png",
+                    "img_alt": "AI chatbot widget on a Massachusetts small business website booking a lead into a Google Calendar slot"
+                },
+                {
+                    "note_title": "Why speed matters",
+                    "note_body": "The sooner you answer a new lead, the more likely they book with you instead of the next business they call. People can't be at the phone every minute. An AI front desk answers right away, day or night."
+                },
+                {
+                    "img_src": "/assets/generated/map-pack-rankings.png",
+                    "img_alt": "AI voice receptionist dashboard showing call transcripts and booked appointments from weekend hours"
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "AI website questions, answered straight.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Will the AI hallucinate or make up answers?",
+                    "a": "No. The agent is fenced to your exact services, pricing, and rules. Outside that scope it escalates to a human — it doesn't guess. We test 40+ edge cases before anything goes live."
+                },
+                {
+                    "q": "How much does it cost?",
+                    "a": "The AI chatbot and the AI voice receptionist are both included in our Smart Website &amp; Marketing Package — $500/mo on a 12-month agreement. That price also covers your website, hosting, local SEO foundations, CRM, and more. The voice receptionist carries small per-minute usage fees on top. Want to grow faster? You can add the SEO accelerator at $1,299/mo."
+                },
+                {
+                    "q": "Does it connect to my calendar and CRM?",
+                    "a": "Yes. It connects to your calendar so it can book real appointments, and it saves every lead to your CRM (the one place all your leads live). Bookings write straight back to the tools you already use, so there's no double entry."
+                },
+                {
+                    "q": "Will it replace my receptionist?",
+                    "a": "It handles the repetitive calls — pricing, hours, service area, and scheduling. Your team handles the rest. Most owners keep their receptionist and let the AI cover nights and weekends, where most missed calls happen."
+                },
+                {
+                    "q": "Will it actually book jobs or just take messages?",
+                    "a": "Books jobs. Reads your calendar live, checks your capacity rules, confirms the appointment on the call, and fires off confirmation SMS + email. Done."
+                },
+                {
+                    "q": "Do I need a new website to use this?",
+                    "a": "No. Chatbot is a one-tag install on any site. Voice receptionist is a phone forward. If your site is slow or broken, we can also rebuild it, but it's not required."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair AI Websites with...",
+            "cards": [
+                {
+                    "tag": "Foundation",
+                    "title": "Web Design",
+                    "body": "A fast Cloudflare-hosted site so the AI agent lands on something worth landing on.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Traffic",
+                    "title": "Local SEO",
+                    "body": "The AI only works if visitors find you. Local SEO fills the funnel the AI then converts.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation Management",
+                    "body": "Turn every job the AI books into a 5-star review — fuel for both rankings and the next lead.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "15-minute live demo",
+            "heading": "Watch it <em>answer, qualify, and book</em> — on your own business.",
+            "body": "Book a 15-minute live demo. We'll spin up a chatbot trained on your services and booking rules, then try to break it together on real questions your customers ask. You keep the demo either way.",
+            "ctas": [
+                {
+                    "label": "Book your AI demo",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-star",
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "100%",
+                    "label": "You own your site, profile, and data"
+                },
+                {
+                    "fa": "fa-clock",
+                    "value": "Free",
+                    "label": "20-point local audit, no obligation"
+                }
+            ]
+        }
+    ]
+}

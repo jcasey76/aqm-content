@@ -1,0 +1,283 @@
+{
+    "path": "/locations/medford-ma/",
+    "title": "Locations · Medford, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Web Design in Medford, MA — Sites for Restaurants, Retail + Local Services | AQ Marketing",
+        "description": "Medford sits between Boston and our Woburn HQ — Tufts adjacency, family neighborhoods, and a mix of restaurants, retail, professional services, and home-services contractors. AQM builds modern websites and ranks Medford businesses across this diverse market.",
+        "canonical": "https://aqmarketing.com/locations/medford-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Medford, MA",
+            "heading": "Medford's market is <em>quietly diverse</em>. Generic playbooks underperform here.",
+            "lede": "60,000 residents, Tufts University adjacency, family neighborhoods like West Medford and Lawrence Estates, the Mystic River corridor, plus a service-business community that grew up alongside Boston. Each segment needs a different starting playbook — generic \"Medford SEO\" misses the texture.",
+            "ctas": [
+                {
+                    "label": "Get a Medford-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Medford, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE MEDFORD MARKET",
+            "heading": "What makes Medford different from corridor or bedroom communities.",
+            "intro": "Bigger and denser than the suburbs, but more residential than Cambridge. The mix is what makes it interesting — and what generic agencies tend to miss.",
+            "stats": [
+                {
+                    "value": "60k",
+                    "label": "Medford population — closest tier-1 city to our Woburn HQ"
+                },
+                {
+                    "value": "4 mi",
+                    "label": "Drive from our HQ via 93 — the shortest of any tier-1 location"
+                },
+                {
+                    "value": "12k+",
+                    "label": "Tufts students + faculty (population spike Sep-May)"
+                },
+                {
+                    "value": "$3.10",
+                    "label": "Avg CPC for 'restaurant medford ma' (mid-tier vs. corridor)"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Medford businesses we work with.",
+            "intro": "Restaurants, retail, family-run trades, and Tufts-adjacent professional services. Each segment has a different playbook.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-utensils",
+                    "title": "Restaurants + cafes",
+                    "body": "Medford Square + Tufts neighborhoods. Reservation platforms + GBP + Yelp. Tufts seasonality is real (Sep-May peak)."
+                },
+                {
+                    "fa": "fa-shop",
+                    "title": "Retail + specialty",
+                    "body": "Independent retail along main corridors. GBP + Apple Maps + Instagram. Tufts gift / college-essentials retail has its own seasonality."
+                },
+                {
+                    "fa": "fa-house-chimney",
+                    "title": "Family-run home services",
+                    "body": "HVAC, plumbing, electrical, contractors. Older housing stock supports steady year-round demand."
+                },
+                {
+                    "fa": "fa-graduation-cap",
+                    "title": "Tufts-adjacent services",
+                    "body": "Tutoring, ESL, off-campus housing, college consulting. Seasonal Aug–Sep + Jan demand spikes."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN MEDFORD",
+            "heading": "The starting services for most Medford businesses.",
+            "intro": "Web design + GBP for restaurants and retail. Local SEO + reputation for home services. Different paths.",
+            "cards": [
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Mobile-first, fast loading. Medford's mixed buyer base (Tufts students on phones + family customers on desktop) demands both extremes work.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "GBP detail and category granularity matters for Medford restaurants and retail. Tufts seasonality factors into the post calendar.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                },
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Medford home services compete with adjacent town contractors. Service-area + reputation + on-page is the standard playbook.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a Medford engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Segment + competitor audit",
+                    "body": "Identify which Medford segment you're in (restaurant / retail / home services / Tufts-adjacent) and benchmark against the right top-5 competitors."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "Foundation work",
+                    "body": "Web design or GBP, depending on segment. Most Medford engagements need both, just in different orders."
+                },
+                {
+                    "step_label": "WEEK 5–10",
+                    "title": "SEO + reputation layered in",
+                    "body": "Local SEO + reputation foundation. For restaurants we add reservation-platform optimization."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Tufts-seasonal businesses get an extra mid-summer review to prep for the August traffic spike."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY MEDFORD IS DIFFERENT",
+            "heading": "Why Medford rewards segmented playbooks.",
+            "prose_html": "<p>Most agencies treat Medford like a bedroom community of Boston and apply suburban tactics. The miss is that Medford is actually four overlapping markets — Tufts-adjacent (transient population, college-cycle seasonality), Medford Square commercial (urban-style retail and restaurants), residential family neighborhoods (steady home-services demand), and Mystic-corridor recreational (seasonal restaurants, fitness, outdoor). Each has different SERP dynamics and different starting plays.</p>\n        <p>The simplest segmentation cue: where is your foot traffic from? Tufts segment = student/parent traffic with seasonality; Medford Square = walk-in residents + commuters; family neighborhoods = local repeat customers + word-of-mouth; corridor = weekend recreational. Different funnels, different content, different ad strategies.</p>\n        <h3>The Tufts seasonality is real</h3>\n        <p>Medford businesses with Tufts exposure see 30–60% revenue swings between September–May (peak) and June–August (dip). Marketing calendars have to anticipate this — Tufts-adjacent ads should ramp August 1, peak September, and downshift in May. Restaurants with significant Tufts traffic should adjust Yelp + reservation post strategy similarly.</p>\n        <h3>Why Medford's residential SEO is different from Reading's</h3>\n        <p>Both are residential markets, but Medford's home-services competition includes Cambridge + Somerville contractors who serve Medford from across the town line. The competitive set is broader and more sophisticated. Reading's HVAC competition is mostly other Reading-area contractors; Medford's HVAC competition often includes Cambridge-based companies with stronger SEO foundations. The bar is higher, so the build takes the full 3–6 months to show real ranking movement — local SEO is a build, not an overnight switch.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "4 mi from our Woburn HQ",
+                    "note_body": "Closest tier-1 location to our HQ — 8 minutes via 93. We meet Medford clients on-site frequently because the proximity is efficient."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Medford.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you have Tufts-area restaurant or retail experience?",
+                    "a": "Yes. Tufts-adjacency adds seasonality and a transient-population dynamic that affects GBP, Yelp, and ad campaigns. We've handled it for both restaurants and retail clients."
+                },
+                {
+                    "q": "How does Medford SEO compete with Cambridge / Somerville contractors?",
+                    "a": "Cambridge / Somerville contractors crossing into Medford for service area is real. We address it with stronger Medford-specific on-page content and GBP service-area work. Most Medford contractors hold their own with a properly-built foundation."
+                },
+                {
+                    "q": "Will you handle Medford Square retail and West Medford residential differently?",
+                    "a": "Yes. Medford Square retail = walk-in capture + GBP + Yelp + Instagram. West Medford residential = service-area Local SEO + reputation + family-business voice. Different segments, different playbooks."
+                },
+                {
+                    "q": "Do you do reservation-platform optimization for restaurants?",
+                    "a": "Yes — OpenTable, Resy, Yelp Reservations. Particularly important in Medford because of Tufts-related demand swings — your platform presence has to capture both peak and shoulder seasons."
+                },
+                {
+                    "q": "What's a typical Medford engagement size?",
+                    "a": "Most Medford businesses start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which includes the website, Local SEO, reviews, and the AI front desk. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                },
+                {
+                    "q": "Can we meet at our location instead of yours?",
+                    "a": "Yes. Medford's proximity (8 min from our HQ) makes on-site meetings efficient. Most Medford clients prefer monthly on-site reviews."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Adjacent Medford-area markets.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Arlington, MA",
+                    "body": "3 miles south. Higher density, similar mixed market. Many Medford service businesses also work Arlington from the same office.",
+                    "href": "/locations/arlington-ma/",
+                    "more_label": "See Arlington"
+                },
+                {
+                    "tag": "Adjacent",
+                    "title": "Cambridge, MA",
+                    "body": "3 miles southeast. Different (tech-heavier) but overlapping geography for service businesses.",
+                    "href": "/locations/cambridge-ma/",
+                    "more_label": "See Cambridge"
+                },
+                {
+                    "tag": "HQ",
+                    "title": "Woburn, MA",
+                    "body": "Our HQ, 4 miles north. Closest tier-1 location to AQM HQ. Adjacent home-services geography.",
+                    "href": "/locations/woburn-ma/",
+                    "more_label": "See Woburn"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Medford-segment audit",
+            "heading": "See your Medford business <em>against the right competitors</em> for your segment.",
+            "body": "Tufts-adjacent vs. Square vs. residential vs. corridor — different competitive sets, different benchmarks. We'll send you a 2-page audit tuned to your segment.",
+            "ctas": [
+                {
+                    "label": "Book the Medford audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Segment + competitor review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "8 min",
+                    "label": "Drive from our HQ"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

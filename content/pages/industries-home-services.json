@@ -1,0 +1,283 @@
+{
+    "path": "/industries/home-services/",
+    "title": "Industries · HVAC · Plumbing · Electrical · Roofing · Landscaping",
+    "status": "publish",
+    "seo": {
+        "title": "Marketing for Home-Services Contractors in MA — HVAC, Plumbing, Electrical | AQ Marketing",
+        "description": "AQM helps Massachusetts home-services contractors (HVAC, plumbing, electrical, roofing, landscaping) win the local map pack, capture after-hours calls with AI, and stay booked through seasonal cycles.",
+        "canonical": "https://aqmarketing.com/industries/home-services/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-house-chimney",
+            "badge": "Industries · HVAC · Plumbing · Electrical · Roofing · Landscaping",
+            "heading": "Home services in Massachusetts: <em>most leads come in after 5 PM</em>.",
+            "lede": "HVAC, plumbing, electrical, roofing, landscaping. Older housing stock + cold winters + dense neighborhoods produce steady year-round demand. The contractors who win in the Greater Boston map pack are the ones who answer the phone at 9 PM, capture seasonal valleys with paid, and convert reputation into ranking velocity.",
+            "ctas": [
+                {
+                    "label": "Get a contractor audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Industries",
+                    "url": "/industries/"
+                },
+                {
+                    "label": "Home Services"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE VERTICAL",
+            "heading": "What home-services demand looks like in Greater Boston.",
+            "intro": "Year-round baseline + seasonal peaks. Most marketing playbooks miss the seasonality and run flat campaigns that bleed budget.",
+            "stats": [
+                {
+                    "value": "27%",
+                    "label": "Of inbound calls go to voicemail at the average MA home-services business"
+                },
+                {
+                    "value": "64%",
+                    "label": "Of home-services queries happen after 5 PM or on weekends"
+                },
+                {
+                    "value": "$2.40–$8",
+                    "label": "Avg CPC across MA home-services categories — manageable for SEO+ads mix"
+                },
+                {
+                    "value": "60%+",
+                    "label": "Of MA housing stock predates 1980 — steady ongoing demand"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why most contractor marketing leaks money.",
+            "intro": "The same four problems show up across HVAC, plumbing, electrical, and roofing engagements. They're not technical — they're operational.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-phone-slash",
+                    "title": "Missed calls at peak demand",
+                    "body": "Emergency calls (no heat at 11 PM, water leak Sunday morning) hit voicemail. The customer dials the next contractor on the SERP and books with whoever answers."
+                },
+                {
+                    "fa": "fa-snowflake",
+                    "title": "Seasonal spend mismatch",
+                    "body": "Heating ads still running mid-July. Landscaping ads off in February when early-bird booking is highest. Generic agencies don't tune for MA seasonality."
+                },
+                {
+                    "fa": "fa-star-half-stroke",
+                    "title": "Reputation invisible online",
+                    "body": "30 years of word-of-mouth. 14 Google reviews from 2019. The contractor who's actually best in town isn't ranking — and the customer can't tell."
+                },
+                {
+                    "fa": "fa-route",
+                    "title": "Service area too narrow or too broad",
+                    "body": "GBP service area set to one town when crew serves 8. Or set to 30 towns when the competitive density makes ranking impossible. Both kill efficiency."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — STARTING PLAYBOOK",
+            "heading": "The starting playbook for most MA contractors.",
+            "intro": "Local SEO + GBP first because they compound. AI receptionist second because missed calls are an ROI emergency. Reviews third. Ads as a layer for seasonality.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Service-area optimization across the 5–8 towns you actually serve. GBP + citations + on-site local content. Real ranking gains typically take 3–6 months — it's a build, not an overnight switch.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Capture",
+                    "title": "AI Receptionist",
+                    "body": "Answered fast, 24/7 — the AI greets callers right away. Books on your dispatch tool live. Catches the after-hours calls that would otherwise go to voicemail.",
+                    "href": "/solutions/ai-receptionist/",
+                    "more_label": "Explore AI Receptionist"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Post-job SMS + email automation. Surface the word-of-mouth that's already there with a steady flow of new Google reviews.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a contractor engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Service-area + GBP audit",
+                    "body": "Map real service area. GBP audit, citation audit, review audit, top-5 competitor benchmark. Identify 3 quick wins."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "Foundation",
+                    "body": "GBP rebuild, citation cleanup, on-site service-area pages (genuinely unique per town), AI receptionist install."
+                },
+                {
+                    "step_label": "WEEK 5–10",
+                    "title": "Reputation + content",
+                    "body": "Review automation live. A steady flow of new reviews starts coming in. First service-page content rounds shipped."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Add Google Ads in months 2–3 to fill seasonal valleys. Tune service-area + ad budget against demand cycle."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY THIS VERTICAL IS DIFFERENT",
+            "heading": "Why home-services SEO compounds harder than most verticals.",
+            "prose_html": "<p>Most service businesses in Massachusetts have one disadvantage and one advantage when it comes to digital marketing. The disadvantage: customer LTV is moderate ($300–$2,000 per job typically), so each acquisition has to be cheap. The advantage: demand is real, recurring, and not negotiable — when the heat goes out at 6 PM in February, somebody is going to fix it tonight.</p>\n        <p>The contractor who shows up reliably in the local map pack, answers the phone within 2 rings (or has an AI that does), and has a recent flow of 4-star+ reviews captures a disproportionate share of that demand. The work is operational, not creative. The marketing playbook is more like running a clean kitchen than running a brand campaign.</p>\n        <h3>Service-area pages — the right way</h3>\n        <p>The previous generation of agencies built 200 templated city pages and got their clients penalized in Google's Helpful Content Update. We don't do that. We build 5–8 genuinely unique service-area pages per contractor — one per town actually served, with real photos of jobs done there, real testimonials from that town, and real local content. Slower to produce, but sustainable.</p>\n        <h3>The seasonality math</h3>\n        <p>Massachusetts contractor demand has predictable cycles. HVAC heating peaks November–February; cooling peaks June–August. Landscaping inverse. Plumbing has emergency baseline + remodel-driven peaks April–June and September–October. Electrical follows construction cycles. We forecast from your historical job data and pre-build 30–60 days early — both for SEO content and for ad campaign launches.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Verticals we work in",
+                    "note_body": "HVAC (heating + cooling + IAQ), plumbing (residential + light commercial), electrical (residential + service work), roofing + siding, landscaping + outdoor, general contractors + remodelers, painters, pest control, junk removal, cleaning services. Tuned playbook per vertical."
+                },
+                {
+                    "note_title": "Licensing + insurance signals",
+                    "note_body": "Massachusetts contractor licensing is consumer-facing — license number, HIC registration, and insurance proof are direct trust signals. We surface these prominently in GBP, schema, and on-site to lift conversion alongside ranking."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Most MA contractors start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — website, Local SEO, Google Business Profile, reviews, and the AI front desk in one plan. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions from MA contractors.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you work with HVAC / plumbing / electrical contractors?",
+                    "a": "Yes — these are the densest part of our client base. Each vertical has a tuned playbook (heating-cycle SEO for HVAC, emergency-search optimization for plumbing, construction-cycle alignment for electrical)."
+                },
+                {
+                    "q": "Can you handle multi-town service areas?",
+                    "a": "Yes — most MA contractors serve 5–8 adjacent towns from one office. We build the GBP service area + per-town landing pages correctly so you rank in adjacent towns from one address. Without templating that gets you penalized."
+                },
+                {
+                    "q": "How do you handle seasonal demand cycles?",
+                    "a": "Forecast from your historical job data. Pre-build SEO content 30–60 days early. Launch Google Ads campaigns ahead of the demand peak. Most contractors smooth their revenue curve significantly within the first 12 months."
+                },
+                {
+                    "q": "Will I rank in Boston / Cambridge as a Woburn contractor?",
+                    "a": "Yes if you actually serve those markets. GBP service area + on-site city pages + properly attributed citations let one contractor address rank in 4–7 adjacent towns, including Boston neighborhoods. Most clients see meaningful movement in 3–6 months."
+                },
+                {
+                    "q": "What's a typical contractor engagement size?",
+                    "a": "Most contractors start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which bundles Local SEO, Google Business Profile, reviews, and the AI receptionist. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                },
+                {
+                    "q": "Do you do dispatch / CRM integration?",
+                    "a": "Yes — Jobber, Housecall Pro, ServiceTitan, FieldEdge, and similar. Lead routing, calendar booking, and review-request triggers all wire into your existing dispatch stack. No double entry."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair the contractor playbook with...",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Service-area + GBP + citations. The compounding asset. Most contractor engagements lead with this.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Capture",
+                    "title": "AI Receptionist",
+                    "body": "Answered 24/7 — every after-hours call gets picked up instead of going to voicemail. A strong ROI lever for contractors with after-hours demand.",
+                    "href": "/solutions/ai-receptionist/",
+                    "more_label": "Explore Receptionist"
+                },
+                {
+                    "tag": "Geo",
+                    "title": "Reading, MA",
+                    "body": "Bedroom-community SEO playbook. Reading is one of our heaviest contractor markets — adjacent town crossover is real.",
+                    "href": "/locations/reading-ma/",
+                    "more_label": "See Reading"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free contractor service-area audit",
+            "heading": "See where your <em>contractor business actually ranks</em> across your full service area.",
+            "body": "GBP, map pack, citations, reviews, top-5 competitor benchmark per town in your service area. 2-page contractor-specific report, no commitment.",
+            "ctas": [
+                {
+                    "label": "Book the contractor audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Service-area + competitor review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "3–6 months",
+                    "label": "Typical build for real ranking gains"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

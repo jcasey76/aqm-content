@@ -1,0 +1,283 @@
+{
+    "path": "/locations/woburn-ma/",
+    "title": "Locations · Woburn, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Digital Marketing Agency in Woburn, MA — Local SEO + AI Websites Since 2003 | AQ Marketing",
+        "description": "AQ Marketing is the Woburn-based digital agency that's worked the local map pack since 2003. Local SEO, web design, AI websites, and Google Ads built for Woburn small businesses — by people who actually live and work in Woburn.",
+        "canonical": "https://aqmarketing.com/locations/woburn-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Woburn, MA",
+            "heading": "The digital marketing agency <em>headquartered in Woburn</em>.",
+            "lede": "Not a national chain with a Massachusetts \"office.\" AQ Marketing has operated from 400 Tradecenter Dr in Woburn since 2003 — 20+ years building map-pack rankings, AI-powered websites, and Google Ads accounts for businesses on Main Street, Washington Street, and Mishawum Road.",
+            "ctas": [
+                {
+                    "label": "Get a free Woburn audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Woburn, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE WOBURN MARKET",
+            "heading": "What the Woburn market actually looks like.",
+            "intro": "HQ-market context. We work our own local search here the same way we'd work yours — the data below is what we work with and against every day.",
+            "stats": [
+                {
+                    "value": "40k",
+                    "label": "Woburn population — small enough to know everyone, big enough for real demand"
+                },
+                {
+                    "value": "12 mi",
+                    "label": "Drive to downtown Boston via 93 — close enough to share the SERP"
+                },
+                {
+                    "value": "Local",
+                    "label": "We work our own Woburn map-pack rankings the same way we'd work yours"
+                },
+                {
+                    "value": "23+ yrs",
+                    "label": "AQM's tenure operating from 400 Tradecenter Dr, Suite 5900"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Woburn businesses we work with.",
+            "intro": "Woburn is unusually mixed for its size — full-stack market with home services, professional practices, retail, and B2B all represented within a 5-mile radius.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-house-chimney",
+                    "title": "Home-services contractors",
+                    "body": "HVAC, plumbing, electrical, roofing, landscaping. Woburn's residential density (Montvale, Horn Pond, North Woburn) supports steady year-round home-services demand."
+                },
+                {
+                    "fa": "fa-tooth",
+                    "title": "Local professional practices",
+                    "body": "Dental, medical, financial advisors, law firms — concentrated along Main Street and Washington Street. Reputation + GBP carry most of the ranking weight here."
+                },
+                {
+                    "fa": "fa-cart-shopping",
+                    "title": "Retail + restaurants",
+                    "body": "Woburn Mall, Four Corners, Horn Pond shopping district. Local SEO + GBP drives walk-ins; Google Ads handles seasonal pushes."
+                },
+                {
+                    "fa": "fa-building",
+                    "title": "B2B / professional services",
+                    "body": "Cummings Park alone hosts hundreds of B2B firms. Different SEO playbook (less map-pack, more organic + LinkedIn + content)."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN WOBURN",
+            "heading": "The starting services for most Woburn businesses.",
+            "intro": "HQ market, full-stack offer. Pick by problem; the rest can layer on.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Map-pack rankings for every service you offer across Woburn and the surrounding North Shore. Local SEO is a 3-6 month build, not an overnight switch.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "AI",
+                    "title": "AI Websites",
+                    "body": "Chatbot + AI receptionist + booking, wired into one system. The Woburn home-services + professional-practice market is heavy on after-hours inquiries.",
+                    "href": "/services/ai-websites/",
+                    "more_label": "Explore AI Websites"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Cost-per-booked-call optimization. Most Woburn service categories have manageable CPCs ($3–$8) — the math works fast.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What working with AQM looks like in our home market.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "On-site audit",
+                    "body": "We'll meet at our Woburn office or yours. Full SEO, GBP, site, and Google Ads audit — same 20-point framework we use across all engagements."
+                },
+                {
+                    "step_label": "WEEK 2",
+                    "title": "Plan + scope",
+                    "body": "Three-month plan with KPIs tied to booked calls, not vanity metrics. You see the spend allocation by line item."
+                },
+                {
+                    "step_label": "WEEK 3",
+                    "title": "Build + launch",
+                    "body": "GBP rebuild, citation cleanup, on-site SEO, AI install. Most Woburn engagements are live by end of week 3."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "30-minute monthly call at our office or yours. We walk through the dashboard, last-month wins, and next-month priorities."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY WOBURN IS DIFFERENT",
+            "heading": "What it actually means to be a Woburn agency.",
+            "prose_html": "<p>Most agencies that say they \"serve the Boston area\" mean they take Boston-area clients remotely. We mean: our team works from Woburn, our cars are in the lot at 400 Tradecenter, and we know the Cummings Park parking situation, the Horn Pond walking trail, and which Main Street restaurant has the best lunch.</p>\n        <p>That matters less for the technical work — SEO is SEO, Google Ads is Google Ads — and more for context. When a Woburn HVAC client says \"we're competing with the guy on Lexington Street,\" we know who they mean. When a dental practice says \"the parking entry on Main confuses people,\" we've sat in their lobby. The brief is shorter and the work lands sharper because we don't have to be told how the town works.</p>\n        <h3>What we own in our own market</h3>\n        <p>We work our own local search in Woburn for \"seo agency woburn ma,\" \"web design agency woburn ma,\" \"digital marketing woburn,\" and adjacent terms — the same playbook we'd run for you. We use our own market as the proof point: we put our own rankings on the line in the town we work in, against direct competitors.</p>\n        <h3>The home-court advantage on referrals</h3>\n        <p>Because we've been in Woburn for 20+ years, the referral network compounds. Many of our Woburn clients came from other Woburn clients, or from the Chamber of Commerce, or from Cummings Park network connections. That's not a marketing tactic — it's just what happens when you stay in one place long enough to be useful to people.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "HQ market — same town",
+                    "note_body": "Our office is at 400 Tradecenter Dr, Suite 5900 — the Cummings Park complex on the east side of 93. We're 5 minutes from anywhere in Woburn."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Woburn.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Where exactly is AQ Marketing located in Woburn?",
+                    "a": "400 Tradecenter Dr, Suite 5900, in the Cummings Park complex off Sylvan Road, east of I-93. Same office since 2003."
+                },
+                {
+                    "q": "Do you offer in-person meetings?",
+                    "a": "Yes — we prefer them for Woburn-area clients. Initial audit + monthly strategy reviews are typically held at our office or yours. Faster than video for most things."
+                },
+                {
+                    "q": "How long have you been in Woburn?",
+                    "a": "Founded 2003 in Woburn. 20+ years operating from the same office. We work our own local search in Woburn the same way we'd work yours — we use our own market as the proof point."
+                },
+                {
+                    "q": "What size businesses do you typically work with in Woburn?",
+                    "a": "Mostly 1–25-employee local businesses — home services, professional practices, retail, restaurants, B2B services. Most start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) and add accelerators as they grow."
+                },
+                {
+                    "q": "Can you handle multi-location businesses based in Woburn?",
+                    "a": "Yes. Multi-location adds complexity to GBP management and citation work. We charge per-location for those, with discounts at 5+. Web Design and Google Ads scale without per-location surcharges."
+                },
+                {
+                    "q": "Do you work with Woburn businesses in industries other than home services?",
+                    "a": "Yes — Woburn's industry mix is unusually broad. Active client base includes dentists, attorneys, financial advisors, restaurants, retail, B2B services, and contractors. Each has a different starting playbook."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair Woburn services with neighboring markets.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Winchester, MA",
+                    "body": "5 miles south of our HQ. Dense professional-practices market — dental, medical, law, financial services. Different playbook than Woburn home services.",
+                    "href": "/locations/winchester-ma/",
+                    "more_label": "See Winchester"
+                },
+                {
+                    "tag": "Adjacent",
+                    "title": "Medford, MA",
+                    "body": "4 miles south, closest tier-1 market to our HQ. Tufts adjacency, family neighborhoods, mixed restaurant/retail/professional services market.",
+                    "href": "/locations/medford-ma/",
+                    "more_label": "See Medford"
+                },
+                {
+                    "tag": "Adjacent",
+                    "title": "Burlington, MA",
+                    "body": "8 miles west on 95/128. Retail + tech corridor, Lahey Hospital, B2B density. Different SEO playbook than Woburn small business.",
+                    "href": "/locations/burlington-ma/",
+                    "more_label": "See Burlington"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Woburn-market audit",
+            "heading": "See how your Woburn business <em>stacks up</em> against your direct local competitors.",
+            "body": "In 45 minutes we'll benchmark your GBP, site, citations, and reviews against your top 5 Woburn-area competitors. You leave with a 20-point action plan — at our office, your office, or by video.",
+            "ctas": [
+                {
+                    "label": "Book the Woburn audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "In-person at our office or yours"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "23+ yrs",
+                    "label": "AQM tenure in Woburn"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

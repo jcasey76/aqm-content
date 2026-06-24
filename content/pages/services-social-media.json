@@ -1,0 +1,289 @@
+{
+    "path": "/services/social-media/",
+    "title": "Social Media",
+    "status": "publish",
+    "seo": {
+        "title": "Social Media Marketing for Small Business | AQ Marketing",
+        "description": "Done-for-you social media marketing and paid social for Massachusetts small businesses. Posts, ads, and replies handled by one team in Woburn, MA — since 2003.",
+        "canonical": "https://aqmarketing.com/services/social-media/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-hashtag",
+            "badge": "Social Media",
+            "heading": "Social media marketing that turns followers into <em>booked customers</em>.",
+            "lede": "Managed social and paid ads, handled for you. We write posts that sound like you, run Facebook and Instagram ads aimed at the right people near you, and answer comments and messages so nobody ready to buy gets ignored. One team in Woburn, MA, serving Greater Boston since 2003. You own every account and follower from day one.",
+            "ctas": [
+                {
+                    "label": "Book a strategy call",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services",
+                    "url": "/services/"
+                },
+                {
+                    "label": "Social Media"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHY US",
+            "heading": "One local team that handles the whole thing.",
+            "intro": "We've been helping Massachusetts small businesses get found and booked since 2003. Here's what that means for you.",
+            "stats": [
+                {
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "value": "2003",
+                    "label": "Serving Greater Boston since 2003"
+                },
+                {
+                    "value": "100%",
+                    "label": "You own your accounts, pages, and followers"
+                },
+                {
+                    "value": "1 team",
+                    "label": "One team, one login — no finger-pointing"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why your small-business social feed is stuck.",
+            "intro": "After auditing hundreds of MA small-business pages, it's almost always one of these four.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-shuffle",
+                    "title": "No real plan",
+                    "body": "Random memes, stock quotes, and holiday posts don't add up to much. No calendar, and nothing that points back to the work you actually do."
+                },
+                {
+                    "fa": "fa-face-meh",
+                    "title": "Generic, canned voice",
+                    "body": "\"Happy Monday! Hope you're having a great week\" gets scrolled past. The way you talk to a customer on the phone is what wins them over."
+                },
+                {
+                    "fa": "fa-ghost",
+                    "title": "Messages left hanging",
+                    "body": "A buyer messages Tuesday, you reply Thursday, and they already called someone else Wednesday. A fast reply is often the whole difference."
+                },
+                {
+                    "fa": "fa-calendar-xmark",
+                    "title": "On-and-off posting",
+                    "body": "Three posts in a week, then silence for a month. When you go quiet, fewer people see you and your following stops growing."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — WHAT YOU GET",
+            "heading": "Posting, ads, and replies — all handled.",
+            "intro": "Managed social posting is built into our $500/mo package. Here's what that covers, month after month.",
+            "items": [
+                {
+                    "fa": "fa-calendar-days",
+                    "title": "Up to 3 posts a week",
+                    "body": "A steady stream on Facebook and Instagram — a mix of jobs, reviews, tips, and behind-the-scenes."
+                },
+                {
+                    "fa": "fa-pen-nib",
+                    "title": "Written in your voice",
+                    "body": "We learn how you talk to customers and write every post to match, with a clear next step to call or visit your site."
+                },
+                {
+                    "fa": "fa-image",
+                    "title": "On-brand graphics",
+                    "body": "Your colors, logo, and fonts on every post — not a generic stock template."
+                },
+                {
+                    "fa": "fa-comments",
+                    "title": "Comments and messages answered",
+                    "body": "We reply during business hours and flag anything that needs you, so a ready buyer isn't left waiting."
+                },
+                {
+                    "fa": "fa-bullseye",
+                    "title": "Paid ads when you're ready",
+                    "body": "Add Facebook and Instagram ads aimed at the right people in your service area. We start small and put the budget where the leads come from."
+                },
+                {
+                    "fa": "fa-chart-pie",
+                    "title": "One simple report",
+                    "body": "We show you which posts and ads drove calls and messages — no 40-page PDF, just what matters."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "From a quiet account to a steady stream of leads.",
+            "intro": "You stay in control the whole way. You approve everything before it goes live.",
+            "steps": [
+                {
+                    "step_label": "STEP 1",
+                    "title": "Free social audit",
+                    "body": "We look at your accounts and your top local competitors' to find what's working, what's missing, and the easy wins. You leave with a clear plan, not a sales pitch."
+                },
+                {
+                    "step_label": "STEP 2",
+                    "title": "Plan & set up",
+                    "body": "We map out a month of posts and an ad plan for your service area, write everything in your voice, and design the graphics. You review and approve first."
+                },
+                {
+                    "step_label": "STEP 3",
+                    "title": "Post, advertise & reply",
+                    "body": "We publish on schedule, launch your paid ads with a small starting budget, and answer the comments and messages that come in."
+                },
+                {
+                    "step_label": "STEP 4",
+                    "title": "Measure & improve",
+                    "body": "We track which posts and ads drive calls and messages, then put more behind what works. You see steady, measurable progress over time."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "For a local business, social is about trust.",
+            "prose_html": "<p>Most people don't pick their roofer, dentist, or accountant by scrolling Facebook. That's fine. For a local business, social media isn't there to cold-sell — it's there to back you up. When someone gets your name from a Google search, a friend, or a review site, they often check your Facebook and Instagram before calling. A current page that sounds like you turns \"I'll look at a few options\" into \"I called them first.\"</p>\n        <h3>Why we don't chase viral</h3>\n        <p>We aim for steady, on-brand, and current. A few good posts a week, every week, beats one lucky video and then months of silence. We won't promise viral posts or a flood of followers, because no honest agency can.</p>\n        <h3>About pricing</h3>\n        <p>Managed social posting is included in our Smart Website &amp; Marketing Package — $500/mo on a 12-month agreement — alongside your website, local SEO, and the AI front desk. When you want to bring new people in, add Meta Ads management at $999/mo. Your ad budget is separate and always yours; we never mark it up. Your free audit confirms the exact scope.</p>\n        <h3>Where social fits</h3>\n        <p>Social works best next to <a href=\"/services/reputation-management/\">reputation management</a> (your 5-star reviews make some of the best posts you can run) and <a href=\"/services/web-design/\">web design</a> (one consistent look across your site and feed reads as far more professional than mismatched pieces).</p>",
+            "aside_items": [
+                {
+                    "note_title": "Buyers check before they call",
+                    "note_body": "People often look at your Facebook and Instagram before reaching out. A page that hasn't posted in a long time can read like you've closed up shop."
+                },
+                {
+                    "note_title": "A fast reply wins",
+                    "note_body": "A message is often a customer ready to buy. The faster someone hears back, the more likely they are to book — and on sites we build, our 24/7 AI receptionist catches the after-hours ones."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Social media questions, answered straight.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "How much does social media marketing cost for a small business?",
+                    "a": "Most clients start with our Smart Website &amp; Marketing Package at $500/mo on a 12-month agreement. Managed social posting is already included, along with your website, local SEO, and a 24/7 AI receptionist. When you're ready for paid ads, add Meta Ads management at $999/mo plus your ad budget, which is separate and always yours."
+                },
+                {
+                    "q": "What platforms should my business be on?",
+                    "a": "Probably fewer than you think. For most local service and B2B businesses in Greater Boston, Facebook and Instagram do the heavy lifting — that's where your customers already are. We'd rather you do two platforms well than five badly. At your free audit we tell you which ones are worth your time."
+                },
+                {
+                    "q": "Will the posts sound like me?",
+                    "a": "Yes. We do the writing and design in your voice, but you approve the plan before anything goes live. We learn your business and your tone, then handle the work each month so it's off your plate."
+                },
+                {
+                    "q": "Do you respond to comments and messages?",
+                    "a": "Yes. A comment or message is often a customer ready to buy, and an ignored one is a lead lost to the next business on the list. We reply during business hours, and on sites we build the <a href=\"/services/ai-websites/\">24/7 AI receptionist and chatbot</a> can answer after hours and book the appointment."
+                },
+                {
+                    "q": "Will social media actually bring me customers?",
+                    "a": "It works best as part of a bigger picture, not on its own. For most local businesses, the calls come from showing up on Google and in the map pack — social keeps you top of mind. If you want the channel that drives the most local calls, start with our <a href=\"/services/local-seo/\">Local SEO services</a>."
+                },
+                {
+                    "q": "Is there a contract?",
+                    "a": "Our Smart Website &amp; Marketing Package — which includes your managed social posting — is a 12-month agreement at $500/mo. We build your presence, run it, and show you measurable progress month after month. Paid social (Meta Ads management) is an add-on you can start or pause. You own every account and follower from day one."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair Social Media with...",
+            "cards": [
+                {
+                    "tag": "Trust",
+                    "title": "Reputation Management",
+                    "body": "Turn your 5-star reviews into some of the best, most-shared posts you can run.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "One consistent look across your site and feed reads as far more professional than mismatched pieces.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Brand",
+                    "title": "Branding",
+                    "body": "Logo, colors, voice — the assets every post is built on. Branding first, posts second.",
+                    "href": "/services/branding/",
+                    "more_label": "Explore Branding"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free social audit",
+            "heading": "See what your social media <em>could actually be doing</em>.",
+            "body": "Get a free, no-pressure look at your current accounts — what's working, what's missing, and how you stack up against your top local competitors — plus a clear plan for the posts and ads that bring more calls.",
+            "ctas": [
+                {
+                    "label": "Get your free social audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-star",
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "fa": "fa-calendar-check",
+                    "value": "Since 2003",
+                    "label": "Serving Greater Boston"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "100%",
+                    "label": "You own every account and follower"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "path": "/cookies/",
+    "title": "Cookie Policy",
+    "status": "publish",
+    "seo": {
+        "title": "Cookie Policy | AQ Marketing",
+        "description": "How and why AQ Marketing, Inc. uses cookies and similar technologies on this website.",
+        "canonical": "https://aqmarketing.com/cookies/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-cookie-bite",
+            "badge": "Legal",
+            "heading": "Cookie Policy",
+            "lede": "How and why AQ Marketing uses cookies on this website.",
+            "crumbs": [
+                { "label": "Home", "url": "/" },
+                { "label": "Cookie Policy" }
+            ]
+        },
+        {
+            "type": "aqm_termly",
+            "v": 1,
+            "data_id": "29666517-c05e-4597-b18b-e48515a5fd7e"
+        }
+    ]
+}

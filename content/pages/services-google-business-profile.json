@@ -1,0 +1,283 @@
+{
+    "path": "/services/google-business-profile/",
+    "title": "Google Business Profile · Map Pack",
+    "status": "publish",
+    "seo": {
+        "title": "Google Business Profile Management MA — Map Pack Optimization | AQ Marketing",
+        "description": "Google Business Profile management for Massachusetts small businesses. We tune your category, post weekly, respond to every review, and manage Q&A so you show up in the local map pack. Included in the $500/mo package.",
+        "canonical": "https://aqmarketing.com/services/google-business-profile/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-store",
+            "badge": "Google Business Profile · Map Pack",
+            "heading": "Google Business Profile management for Massachusetts small businesses.",
+            "lede": "Your Google Business Profile is the listing that decides whether you show up when someone nearby searches for what you do. We tune your category, post weekly, respond to every review, and keep your Q&amp;A answered so you land in the map pack — the top 3 local results with the map. Included in the $500/mo Smart Website &amp; Marketing Package.",
+            "ctas": [
+                {
+                    "label": "Claim your free GBP audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services",
+                    "url": "/services/"
+                },
+                {
+                    "label": "Google Business Profile"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHY IT MATTERS",
+            "heading": "The map pack is where local customers actually click.",
+            "intro": "When someone searches for what you do nearby, Google shows a map and three local listings first. Most people call or tap directions from one of those three. Your profile is what decides whether you're one of them.",
+            "stats": [
+                {
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "value": "Since 2003",
+                    "label": "Serving Greater Boston small businesses"
+                },
+                {
+                    "value": "100%",
+                    "label": "You own your site, profile, and data"
+                },
+                {
+                    "value": "Free",
+                    "label": "20-point local audit, no obligation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT MOST OWNERS MISS",
+            "heading": "Four fixable mistakes that keep you out of the map pack.",
+            "intro": "We check every field on a new profile. Four problems come up again and again on Massachusetts small-business listings — and all four are fixable.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-bullseye",
+                    "title": "Wrong primary category",
+                    "body": "The right category — \"plumber\" versus \"plumbing contractor\" versus \"drainage service\" — changes which searches you show up for. Most owners pick the most obvious one and never look again. We test the alternatives against real local search results."
+                },
+                {
+                    "fa": "fa-camera-retro",
+                    "title": "Stale or missing photos",
+                    "body": "Google favors profiles that look active, and fresh photos are part of that. Most small businesses haven't added one in a long time. We keep new photos flowing so your listing looks current and lived-in."
+                },
+                {
+                    "fa": "fa-message",
+                    "title": "No posts, no Q&A",
+                    "body": "Google Posts are free updates that show right inside the map pack. Most profiles have never used them. Meanwhile, competitors or random users may be answering your Q&amp;A — often with wrong information."
+                },
+                {
+                    "fa": "fa-star-half-stroke",
+                    "title": "Unanswered reviews",
+                    "body": "Google looks at how often and how fast you respond to reviews, not just your star rating. A profile that replies to every review reads as active and trusted. We answer all of them, in your voice."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — WHAT WE DO EACH MONTH",
+            "heading": "What's included every month.",
+            "items": [
+                {
+                    "fa": "fa-sliders",
+                    "title": "Category & service tuning",
+                    "body": "Primary and secondary categories, your service list with descriptions, attributes, hours, and service areas. We review it each quarter as Google adds new categories."
+                },
+                {
+                    "fa": "fa-bullhorn",
+                    "title": "Weekly posts",
+                    "body": "Regular Google Posts — offers, events, updates, product highlights — written in your voice, with buttons that link to pages we can track."
+                },
+                {
+                    "fa": "fa-image",
+                    "title": "Fresh photos",
+                    "body": "New photos every month covering your team, job sites, interior, exterior, and products. We'll tell your team exactly what to snap and send from the field."
+                },
+                {
+                    "fa": "fa-reply",
+                    "title": "Review responses",
+                    "body": "Every review answered within one business day, in your brand voice. Lower-star reviews get an approval step before we post a reply."
+                },
+                {
+                    "fa": "fa-circle-question",
+                    "title": "Q&A management",
+                    "body": "We seed your top questions with answers you approve, then watch for and answer new ones each week — before a random user beats us to it."
+                },
+                {
+                    "fa": "fa-chart-line",
+                    "title": "Monthly report",
+                    "body": "Calls, direction requests, website clicks, the searches that showed your profile, and your map-pack rank for the keywords that matter to you."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "From audit to a steady spot in the map pack.",
+            "steps": [
+                {
+                    "step_label": "STEP 1",
+                    "title": "Free 20-point audit",
+                    "body": "We check your profile against the top 5 local competitors for your main search and town. You get a written report, free, whether you hire us or not."
+                },
+                {
+                    "step_label": "STEP 2",
+                    "title": "Fix the foundation",
+                    "body": "Category, name, hours, services, attributes, and matching your business details across the web (your name, address, and phone). This first pass does the heavy lifting."
+                },
+                {
+                    "step_label": "STEP 3",
+                    "title": "Turn on the weekly work",
+                    "body": "Posts, photos, review responses, and Q&amp;A — the steady activity Google rewards. It builds up month after month."
+                },
+                {
+                    "step_label": "STEP 4",
+                    "title": "Report and adjust",
+                    "body": "A monthly call to walk through your numbers, your map-pack rank, and what we're changing for the next month."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "Why the map pack matters so much for local service businesses.",
+            "prose_html": "<p>If you run a plumbing, HVAC, legal, medical, or home-services business in Massachusetts, your map-pack ranking may matter more than the rest of your search results combined. The map pack sits at the top on a phone, and every slot above you is a customer who called someone else.</p>\n        <p>It's also a tight race — only three local spots per search. That makes a few things matter a lot: the right category, how close you are to the searcher, your reviews, and how complete and active your profile is. One wrong setting can keep you off the first page for a search you should win.</p>\n        <h3>About pricing.</h3>\n        <p>Google Business Profile management is included in our Smart Website &amp; Marketing Package at $500/mo, on a 12-month agreement. That package also covers your website, hosting, citations, reviews, and social posting. The audit is always free, and you own your profile and your data. If you want to go further with blog content and link building, our SEO accelerator is $1,299/mo.</p>\n        <h3>Where your profile fits in.</h3>\n        <p>Your profile is one piece. To win locally, pair it with <a href=\"/services/local-seo/\">local SEO</a> (citations, on-page work, location pages), <a href=\"/services/reputation-management/\">reputation management</a> (a steady flow of reviews and responses), and <a href=\"/services/google-ads/\">Google Ads</a> for the searches your profile doesn't rank for yet. Most of our Woburn and Boston clients run all four.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Did you know?",
+                    "note_body": "Google renamed <strong>Google My Business</strong> to <strong>Google Business Profile</strong> in 2022. It's the same listing — only the name changed. If you optimized it before, that's exactly what we manage today."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "How much does Google Business Profile management cost?",
+                    "a": "It's included in our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), along with your website, hosting, citations, reviews, and social posting. Want to go further with blog content and link building? Our SEO accelerator is $1,299/mo. Book a free audit and we'll recommend the right plan."
+                },
+                {
+                    "q": "Can I manage my own profile?",
+                    "a": "You can claim and fill out your profile yourself, and you should. Ranking in the top 3 is the hard part, because it takes steady, ongoing work — fresh reviews you respond to, new posts and photos, consistent details across the web, and fighting off spam listings. That's the part we handle, so you can run your business."
+                },
+                {
+                    "q": "What's the biggest factor in ranking?",
+                    "a": "Your primary category, by a wide margin. How close you are to the searcher comes next — and you can't change that. Everything else (reviews, posts, photos, Q&amp;A) builds up over the months that follow."
+                },
+                {
+                    "q": "Do you respond to reviews?",
+                    "a": "Yes — every review, in your voice, within one business day. Lower-star reviews get an approval step before we post a reply."
+                },
+                {
+                    "q": "I don't have a profile yet — can you create one?",
+                    "a": "Yes. Verification usually takes a few days to a couple of weeks depending on Google's method (postcard, video, or instant). We optimize it from day one of verification."
+                },
+                {
+                    "q": "What's the difference between Google Business Profile and Google My Business?",
+                    "a": "They're the same thing. Google renamed Google My Business to Google Business Profile in 2022. If you optimized it before, that's exactly the listing we manage today — only the name changed."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Works best alongside.",
+            "cards": [
+                {
+                    "tag": "Local",
+                    "title": "Local SEO",
+                    "body": "Citations, on-page work, and location pages — the off-profile signals that lift your map-pack ranking.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "A steady flow of new reviews, plus replies to every one, so your rating keeps climbing.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Cover the searches your profile doesn't rank for yet with ads that aim for booked calls.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free 20-point audit",
+            "heading": "Ready for a <em>map-pack audit</em>?",
+            "body": "20 points checked, benchmarked against your top 5 local competitors, written report. Free. No pitch if we're not a fit.",
+            "ctas": [
+                {
+                    "label": "Claim your audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "30 min",
+                    "label": "Audit call, zero obligation"
+                },
+                {
+                    "fa": "fa-file-lines",
+                    "value": "20-point",
+                    "label": "Written report delivered"
+                },
+                {
+                    "fa": "fa-lock",
+                    "value": "100% yours",
+                    "label": "You own your profile and data"
+                }
+            ]
+        }
+    ]
+}

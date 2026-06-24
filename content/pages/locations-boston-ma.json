@@ -1,0 +1,283 @@
+{
+    "path": "/locations/boston-ma/",
+    "title": "Locations · Boston, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Local SEO in Boston, MA — Map-Pack Rankings for Boston Small Business | AQ Marketing",
+        "description": "Boston is the most competitive local SERP in New England. AQM ranks Boston small businesses in the map pack with proximity-aware GBP work, neighborhood-level content (Back Bay, Seaport, North End), and citation cleanup that survives the city's directory chaos.",
+        "canonical": "https://aqmarketing.com/locations/boston-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Boston, MA",
+            "heading": "Boston's map pack is <em>brutal</em>. Here's how local businesses still win it.",
+            "lede": "Boston's organic SERP is owned by HubSpot, WebFX, and aggregators — fighting them is unwinnable. The map pack is different: proximity, GBP signals, reviews, and Boston-specific citation work decide it. We've been ranking Boston small businesses there for 20+ years.",
+            "ctas": [
+                {
+                    "label": "Get a Boston-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Boston, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE BOSTON MARKET",
+            "heading": "What makes Boston's local SERP harder than anywhere else in MA.",
+            "intro": "Higher CPCs, more aggregators in the SERP, and proximity-weighted ranking that punishes \"we serve Boston from the suburbs\" pages. Tactics that work in Worcester die here.",
+            "stats": [
+                {
+                    "value": "650k",
+                    "label": "Boston city population — biggest market and most competitive SERP in New England"
+                },
+                {
+                    "value": "$4.20",
+                    "label": "Avg CPC for 'plumber boston' in 2026 (vs. $1.80 in Woburn)"
+                },
+                {
+                    "value": "9 mi",
+                    "label": "Drive from our Woburn HQ via 93 — close enough for proximity weight to help"
+                },
+                {
+                    "value": "23+ yrs",
+                    "label": "AQM ranking Boston-area service businesses in the map pack"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Boston businesses we work with.",
+            "intro": "Boston is overwhelming if you treat it as one market. We split it by neighborhood + vertical — Back Bay law firms, Seaport restaurants, North End retail, and downtown B2B all need different playbooks.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-scale-balanced",
+                    "title": "Law firms",
+                    "body": "Back Bay, downtown, Beacon Hill. High-CPC vertical — paid alone burns out fast. Local SEO + reputation is the long-term moat."
+                },
+                {
+                    "fa": "fa-utensils",
+                    "title": "Restaurants + hospitality",
+                    "body": "Seaport, North End, Fenway. Ranking is review-velocity-driven. GBP posts + Yelp + reservation-platform optimization stack."
+                },
+                {
+                    "fa": "fa-briefcase",
+                    "title": "B2B + professional services",
+                    "body": "Financial District, Back Bay corporate. Less map-pack-driven; more organic + LinkedIn + content. Different toolkit than home services."
+                },
+                {
+                    "fa": "fa-shop",
+                    "title": "Retail + boutiques",
+                    "body": "Newbury Street, Charles Street, North End. Walk-in driven by GBP + Apple Maps + Instagram. Pure local search."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN BOSTON",
+            "heading": "The starting services for most Boston small businesses.",
+            "intro": "Boston's competitive density forces a different starting order than the suburbs. SEO compounds slowly here — most clients see meaningful movement in 3-6 months — but it compounds.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "The map pack is winnable when ads aren't. Boston engagements run longer — local SEO is a 3-6 month build, not an overnight switch — but the asset compounds harder than anywhere else in MA.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "For verticals where SEO will take 6+ months (law, dental, real estate), paid bridges. Cost-per-booked-call discipline is the difference between Boston Ads working and burning.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Reviews are the heaviest map-pack signal in Boston specifically — competition is dense and rating spreads are tight. Velocity, not just volume, decides.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "How a Boston engagement differs from a suburban one.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Neighborhood + vertical audit",
+                    "body": "We don't audit \"Boston\" — we audit \"your block plus 3 blocks of competitors.\" Different playbook for Back Bay law vs. Seaport restaurant."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "Foundations",
+                    "body": "GBP rebuild, citation cleanup, schema, on-site SEO. Boston has more directory chaos — 60+ MA-relevant directories vs. 30 in suburbs."
+                },
+                {
+                    "step_label": "MONTH 2+",
+                    "title": "Compound",
+                    "body": "Reviews start flowing and map-pack position climbs. Real ranking gains typically take 3-6 months. We measure weekly because Boston's SERP shifts more than suburbs."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy + spend review",
+                    "body": "30-minute review on the dashboard. Boston engagements often add or shift services month-over-month based on what's compounding fastest."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY BOSTON IS DIFFERENT",
+            "heading": "Why \"Boston\" is really 18 different markets.",
+            "prose_html": "<p>Boston's local SERP is decided by proximity and neighborhood — not by claiming \"Boston\" as a city. A Back Bay law firm and a Dorchester law firm are not in the same SERP. Google's local algorithm is proximity-aware: a search from Newbury Street produces different map-pack results than a search from Forest Hills, even for identical queries.</p>\n        <p>This makes \"Boston SEO\" as a phrase almost meaningless without a neighborhood modifier. Real Boston engagements optimize for the search radius around your physical address — typically 3-5 blocks for retail, 3-5 miles for service businesses with travel. The work is more granular and the wins are more local.</p>\n        <h3>What works against the national agencies</h3>\n        <p>HubSpot, WebFX, and Thrive run Boston ads to capture \"digital marketing agency boston\" leads. They can't out-rank a Boston business in the Boston map pack — proximity beats brand. Map-pack work is the moat. Don't chase national-agency keywords; defend and expand the geography Google actually rewards you for.</p>\n        <h3>Citation density</h3>\n        <p>Boston has 2× the relevant local-business directories of suburban MA — Boston Magazine, BostInno, Boston Business Journal, Universal Hub neighborhood blogs, plus 30+ industry-specific. Citation cleanup takes more weeks; Boston engagement timelines are tuned for that.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "9 mi from our Woburn HQ",
+                    "note_body": "Direct shot down 93. We meet Boston clients at their office or by video — most of our Boston work doesn't require in-person, but it's available when useful."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Boston.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Are you a Boston-based agency?",
+                    "a": "Greater Boston, headquartered in Woburn since 2003 — 9 miles north. Most Boston agencies that claim a downtown address rent a virtual office. We're real, just not at 100 Federal Street."
+                },
+                {
+                    "q": "How long until we rank in the Boston map pack?",
+                    "a": "Longer than the suburbs. Local SEO is a 3-6 month build, not an overnight switch, and Boston sits at the longer end because competitor density and review velocity are higher than a town like Woburn. Real ranking gains typically take 3-6 months."
+                },
+                {
+                    "q": "Will paid ads work in Boston?",
+                    "a": "Yes, but the cost discipline is unforgiving. Boston CPCs run $4–$15 in service categories. Ads only work if conversion rate, follow-up speed, and offer all line up. We typically build SEO underneath in parallel so paid doesn't have to carry the whole load."
+                },
+                {
+                    "q": "Do you do downtown Boston only or all neighborhoods?",
+                    "a": "All neighborhoods. We've worked Back Bay, Seaport, Fenway, Allston, Brighton, Roxbury, Dorchester, JP, North End, South End, and the inner suburbs (Brookline, Cambridge, Somerville, Charlestown). Each has different SERP dynamics."
+                },
+                {
+                    "q": "How do you handle multi-location Boston brands?",
+                    "a": "Per-location GBP + neighborhood-level on-page work. Boston multi-location is harder than suburban multi-location because the SERP changes block by block. We price by location with significant discounts at 3+ locations."
+                },
+                {
+                    "q": "Are you certified in Google Ads / Google Partner?",
+                    "a": "Yes — Google Partner since 2009. Direct line to Google Ads support, beta-program access, and Performance Planner data that's not available to non-partners."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Adjacent Greater Boston markets.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Cambridge, MA",
+                    "body": "Across the Charles. Tech + biotech density, MIT/Harvard ecosystem. Different vertical mix than Boston proper — more B2B, less retail/restaurant.",
+                    "href": "/locations/cambridge-ma/",
+                    "more_label": "See Cambridge"
+                },
+                {
+                    "tag": "Adjacent",
+                    "title": "Medford, MA",
+                    "body": "5 miles north, between Boston and our Woburn HQ. Tufts adjacency, family neighborhoods, smaller-business mix.",
+                    "href": "/locations/medford-ma/",
+                    "more_label": "See Medford"
+                },
+                {
+                    "tag": "HQ",
+                    "title": "Woburn, MA",
+                    "body": "Our home market. Different playbook — full-stack small business, proximity-friendly competition, lower CPCs.",
+                    "href": "/locations/woburn-ma/",
+                    "more_label": "See Woburn"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Boston-neighborhood audit",
+            "heading": "See where your Boston business actually ranks — <em>by neighborhood</em>.",
+            "body": "Most owners think they rank for \"Boston [service].\" The reality: Google ranks them for a 3–5 block radius around their address. We'll show you exactly which neighborhoods you own, where you leak, and the 5-step plan to expand the perimeter.",
+            "ctas": [
+                {
+                    "label": "Book the Boston audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Neighborhood-level review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "20+ yrs",
+                    "label": "Ranking Boston small businesses"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "path": "/industries/insurance-agencies/",
+    "title": "Industries · P&C · Life · Commercial · Independent + Captive",
+    "status": "publish",
+    "seo": {
+        "title": "Marketing for Massachusetts Insurance Agencies — Local SEO, Quote Capture, Trust-First | AQ Marketing",
+        "description": "AQM helps MA insurance agencies (independent, captive, P&C, life, commercial) win local search, capture quote requests with confidence, and compete against direct-to-consumer carriers — without violating compliance constraints.",
+        "canonical": "https://aqmarketing.com/industries/insurance-agencies/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-shield-halved",
+            "badge": "Industries · P&C · Life · Commercial · Independent + Captive",
+            "heading": "Insurance agencies in MA compete against <em>direct-to-consumer carriers</em>. Trust is the moat.",
+            "lede": "GEICO's ads. Progressive's apps. State Farm's brand. The independent and captive MA agency competes with $billions in direct-to-consumer marketing — and wins on relationships, advice, and local presence. Marketing has to amplify that, not chase the carriers' clicks.",
+            "ctas": [
+                {
+                    "label": "Get an agency audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Industries",
+                    "url": "/industries/"
+                },
+                {
+                    "label": "Insurance Agencies"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE VERTICAL",
+            "heading": "What insurance marketing in MA actually competes against.",
+            "intro": "The economics aren't fair. National carriers spend more on a single Super Bowl ad than every MA agency combined spends on marketing in a year. The MA agencies that grow do it through local presence + reputation + advice-led content.",
+            "stats": [
+                {
+                    "value": "$8B+",
+                    "label": "Annual US insurance industry ad spend (carriers + agencies combined)"
+                },
+                {
+                    "value": "63%",
+                    "label": "Of MA insurance buyers still prefer working with a local agent"
+                },
+                {
+                    "value": "$4–$12",
+                    "label": "Avg CPC for high-intent insurance queries in MA"
+                },
+                {
+                    "value": "70%",
+                    "label": "Of agency new business comes from referrals + retention (not cold leads)"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why most agency marketing fails to compound.",
+            "intro": "Carriers' direct-to-consumer dollars distort the digital landscape. Agencies that try to play the carrier's game lose. The ones that build a local advice-led brand win.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-coins",
+                    "title": "Burning ads against carrier budgets",
+                    "body": "An agency spending $1,500/mo on Google Ads competing with GEICO's $400M annual budget will lose. Cold ads are a misallocation for most independents."
+                },
+                {
+                    "fa": "fa-handshake-slash",
+                    "title": "Quote-form abandonment",
+                    "body": "Generic agency websites have 6-field quote forms with no incentive to complete. 75%+ abandon. Direct-to-carrier sites are tuned for completion in ways most agencies don't replicate."
+                },
+                {
+                    "fa": "fa-comment",
+                    "title": "No advice-led content",
+                    "body": "Agencies sell expertise but publish generic copy. Carriers publish glossaries; agencies should publish \"why your home policy excludes water damage\" specifics. Most don't."
+                },
+                {
+                    "fa": "fa-rotate",
+                    "title": "Renewal + retention invisible online",
+                    "body": "Most agency revenue is renewal-driven. The website + email infrastructure does almost nothing to support retention or cross-sell. Massive opportunity untapped."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — STARTING PLAYBOOK",
+            "heading": "The starting playbook for most MA agencies.",
+            "intro": "Local SEO + advice content + reputation. Ads selectively for time-sensitive verticals. Quote capture optimized like the carriers do.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Local + advice-led ranking is what beats the carriers' cold ads. Most MA agencies have weak local SEO foundations — fixing them is a 3–6 month build that compounds over time.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Insurance buyers research heavily before switching. Review depth signals real-relationship versus chatbot-and-app carrier experience. Differentiator that compounds.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "Nurture",
+                    "title": "Email & SMS",
+                    "body": "Renewal flows, cross-sell, life-event triggers (marriage, baby, home purchase, retirement). Most agency lifetime value is here, not in cold leads.",
+                    "href": "/solutions/email-sms/",
+                    "more_label": "Explore Email & SMS"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What an agency engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1–2",
+                    "title": "Agency audit",
+                    "body": "GBP, site, content, quote-form abandonment, renewal-flow infrastructure, top-5 competitor benchmark (other MA agencies, not carriers)."
+                },
+                {
+                    "step_label": "WEEK 3–6",
+                    "title": "Local SEO + reputation foundation",
+                    "body": "GBP rebuild, citation cleanup, reputation automation. This is the groundwork; real ranking gains typically take 3–6 months to show."
+                },
+                {
+                    "step_label": "WEEK 7–12",
+                    "title": "Advice content + quote optimization",
+                    "body": "Practice-area pages with real depth (auto, home, life, commercial). Quote-form CRO. Renewal email sequences."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Track quote-request volume, close rate, retention, cross-sell. Adjust content and email cadence against carrier disruption events."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY THIS VERTICAL IS DIFFERENT",
+            "heading": "Why local agencies still win — but only with the right playbook.",
+            "prose_html": "<p>Direct-to-consumer carriers can serve simple needs cheaper. They cannot serve complex needs — multi-policy households, small business commercial, life-event transitions, claims-handling support — at the same quality as a local independent agent. The MA agencies that grow are the ones that position around the complex side of the market and use marketing to surface that expertise.</p>\n        <p>This means content matters more than for most verticals. \"Why your home policy excludes water damage,\" \"what a small-business package actually covers,\" \"life insurance for blended families\" — these are the queries where a local agency outranks GEICO because GEICO doesn't bother. Local SEO + advice content together build the asset that compounds against direct-to-consumer.</p>\n        <h3>Quote-form CRO is more important than ads</h3>\n        <p>Most agency websites lose 75%+ of quote-request traffic to form abandonment. The carriers don't — their forms are progressively disclosed, gamified, and optimized at the field level. Closing even part of that gap lifts agency lead volume without spending another dollar on traffic. We treat quote CRO as a starting deliverable.</p>\n        <h3>Renewal + retention infrastructure</h3>\n        <p>The MA insurance agency that's losing 8% of book to retention is leaving more revenue on the table than they could ever recover with new-business marketing. Email + SMS automation around renewal windows, life events, and cross-sell triggers is one of the highest-ROI projects we ship for agencies, because it protects revenue you already have.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Verticals we work in",
+                    "note_body": "Personal auto + home (P&amp;C), life + annuities, commercial + business owner, professional liability, workers comp, umbrella, specialty (boat, motorcycle, pet, event). Independent + captive. Solo agencies through 50+ producer firms. Tuned playbook per agency type and book mix."
+                },
+                {
+                    "note_title": "MA Division of Insurance + carrier compliance",
+                    "note_body": "Every campaign reviewed against MA Division of Insurance advertising rules + each carrier's specific advertising guidelines. Agency E&amp;O exposure considered in messaging, testimonials, and CTA design. Compliance documented for the agency principal."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Most MA agencies start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — website, Local SEO, reputation, email/SMS, and the AI front desk in one plan. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions from MA agencies.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you do carrier co-op marketing?",
+                    "a": "We work with co-op-funded campaigns when carriers offer them — common with Travelers, Liberty, Safety, Plymouth Rock. We handle the carrier-compliance side and the campaign management. Carrier co-op can offset 30–60% of agency marketing spend."
+                },
+                {
+                    "q": "Can you handle quote-form CRO without breaking carrier compliance?",
+                    "a": "Yes. Each carrier has specific rules about how quote forms can be presented and what data can be requested. We work within those rules and still close 30–60% of the abandonment gap most agency sites have."
+                },
+                {
+                    "q": "How do you handle renewal + retention email automation?",
+                    "a": "Lifecycle-based flows. Renewal-90, renewal-60, renewal-30 reminders. Life-event triggers (home purchase, marriage, baby, retirement). Cross-sell prompts based on book gaps. AMS-integrated where possible (AMS360, EZLynx, Applied)."
+                },
+                {
+                    "q": "Will my agency rank against GEICO / Progressive nationally?",
+                    "a": "No — and don't try. We rank you against other MA agencies on local-modified terms (\"insurance agency [town]\", \"home insurance quote [town]\") plus advice content. That fight is winnable; the carrier-keyword fight is not."
+                },
+                {
+                    "q": "What's a typical agency engagement size?",
+                    "a": "Most agencies start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which bundles Local SEO, reputation, email/SMS, and the website. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                },
+                {
+                    "q": "Do you integrate with our AMS?",
+                    "a": "Most likely — AMS360, EZLynx, Applied Epic, Hawksoft, NowCerts via API or Zapier. Lead routing, renewal triggers, cross-sell prompts. Confirmed during the audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair the agency playbook with...",
+            "cards": [
+                {
+                    "tag": "Nurture",
+                    "title": "Email & SMS",
+                    "body": "Renewal + retention is one of the highest-ROI marketing projects for most agencies. Lifecycle automation protects revenue you already have.",
+                    "href": "/solutions/email-sms/",
+                    "more_label": "Explore Email & SMS"
+                },
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "The asset that beats carrier ads. Local + advice-content rankings compound against direct-to-consumer.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Geo",
+                    "title": "Lexington, MA",
+                    "body": "Premium-AOV market. Agencies with high-net-worth and commercial books over-index here.",
+                    "href": "/locations/lexington-ma/",
+                    "more_label": "See Lexington"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free agency book + retention audit",
+            "heading": "See where your agency is <em>leaving renewal + cross-sell revenue on the table</em>.",
+            "body": "Quote-form abandonment, renewal-flow gaps, cross-sell triggers, top-5 MA agency benchmark in your line mix. 3-page agency-specific report.",
+            "ctas": [
+                {
+                    "label": "Book the agency audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Agency + retention review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "100%",
+                    "label": "MA DOI + carrier-compliant flows"
+                }
+            ]
+        }
+    ]
+}

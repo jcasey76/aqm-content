@@ -1,0 +1,234 @@
+{
+    "path": "/locations/",
+    "title": "Locations",
+    "status": "publish",
+    "seo": {
+        "title": "Locations We Serve — Greater Boston, MA Tier-1 Markets | AQ Marketing",
+        "description": "AQ Marketing operates from Woburn, MA and serves 10 tier-1 Greater Boston markets with location-specific marketing playbooks. Pick your city below — each page covers the local market, starting services, competitive context, and engagement specifics.",
+        "canonical": "https://aqmarketing.com/locations/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations",
+            "heading": "Pick your market. We have <em>a local playbook</em> for it.",
+            "lede": "Marketing tactics that work in Burlington's 128/95 corridor don't work in Lexington's premium residential market. Boston's brutal SERP needs different infrastructure than Reading's bedroom-community home-services density. Pick your city below to see the local playbook, the competitive context, and the starting services.",
+            "ctas": [
+                {
+                    "label": "Book a free local audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations"
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "01 — TIER-1 MARKETS",
+            "heading": "Ten markets we have deep local playbooks in.",
+            "intro": "Each location page covers the city's market dynamics, the businesses we typically work with there, the starting services that compound fastest, and how the engagement differs from neighboring markets.",
+            "cards": [
+                {
+                    "tag": "HQ",
+                    "title": "Woburn, MA",
+                    "body": "Our headquarters market since 2003. We've spent two decades building local search presence for businesses here, so we know the Woburn map pack inside out. Full-stack market.",
+                    "href": "/locations/woburn-ma/",
+                    "more_label": "See the Woburn playbook"
+                },
+                {
+                    "tag": "City",
+                    "title": "Boston, MA",
+                    "body": "Brutal SERP, national agencies on every keyword. Map-pack work + neighborhood-level optimization is how local businesses still win. Different playbook than the suburbs.",
+                    "href": "/locations/boston-ma/",
+                    "more_label": "See the Boston playbook"
+                },
+                {
+                    "tag": "Tech",
+                    "title": "Cambridge, MA",
+                    "body": "Tech + biotech + B2B density. Buyers expect technical depth — sub-1s LCP, real Lighthouse 95+, sophisticated AI. Generic agency work doesn't survive here.",
+                    "href": "/locations/cambridge-ma/",
+                    "more_label": "See the Cambridge playbook"
+                },
+                {
+                    "tag": "Corridor",
+                    "title": "Burlington, MA",
+                    "body": "128/95 retail + tech corridor. 190k vehicles a day, Burlington Mall, Lahey Hospital. Mobile-first web + corridor-tuned local SEO + ads efficiency.",
+                    "href": "/locations/burlington-ma/",
+                    "more_label": "See the Burlington playbook"
+                },
+                {
+                    "tag": "Premium",
+                    "title": "Lexington, MA",
+                    "body": "Median household income $200k+. Premium AOVs in legal, financial, dental, home services. SEO compounds 3–5× harder when each customer is worth more.",
+                    "href": "/locations/lexington-ma/",
+                    "more_label": "See the Lexington playbook"
+                },
+                {
+                    "tag": "Practices",
+                    "title": "Winchester, MA",
+                    "body": "Dense professional-practices market — 80+ dental, medical, legal, financial in 5 sq mi. The map-pack fight is hyperlocal: hand-to-hand on Main Street.",
+                    "href": "/locations/winchester-ma/",
+                    "more_label": "See the Winchester playbook"
+                },
+                {
+                    "tag": "Family-biz",
+                    "title": "Wakefield, MA",
+                    "body": "Family-run businesses, Lake Q corridor restaurants, Main Street retail. Tight community, generational businesses, reputation-iceberg dynamic.",
+                    "href": "/locations/wakefield-ma/",
+                    "more_label": "See the Wakefield playbook"
+                },
+                {
+                    "tag": "Bedroom",
+                    "title": "Reading, MA",
+                    "body": "Owner-occupied housing, older stock, year-round home-services demand. Service-area SEO + GBP + reputation is the dominant playbook.",
+                    "href": "/locations/reading-ma/",
+                    "more_label": "See the Reading playbook"
+                },
+                {
+                    "tag": "Density",
+                    "title": "Arlington, MA",
+                    "body": "Highest population density on this list. Mass Ave commercial corridor, dense residential, intense competition. SERP is compressed — top-3 fight is sharp.",
+                    "href": "/locations/arlington-ma/",
+                    "more_label": "See the Arlington playbook"
+                },
+                {
+                    "tag": "Mixed",
+                    "title": "Medford, MA",
+                    "body": "Tufts adjacency + Medford Square + family neighborhoods + Mystic corridor. Four overlapping markets in one — generic playbooks miss the texture.",
+                    "href": "/locations/medford-ma/",
+                    "more_label": "See the Medford playbook"
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "02 — WHY GEOGRAPHIC PLAYBOOKS",
+            "heading": "Why a Boston playbook is different from a Lexington one.",
+            "intro": "Five dimensions where local market context substantively changes the marketing playbook — even when the same business is being marketed.",
+            "items": [
+                {
+                    "fa": "fa-magnifying-glass",
+                    "title": "SERP density varies by market",
+                    "body": "Boston SERP has 50+ relevant local + national agencies fighting per category. Reading's HVAC SERP has 8–12 contractors. Different competitive density = different timeline-to-rank and different ranking maintenance investment."
+                },
+                {
+                    "fa": "fa-coins",
+                    "title": "CPCs swing 4–10× across markets",
+                    "body": "'Plumber Reading' = $1.80 CPC. 'Plumber Boston' = $4.20. 'Estate attorney Lexington' = $25+. 'HVAC Burlington' = $4. Same service, wildly different ad math by market — what works in one breaks in another."
+                },
+                {
+                    "fa": "fa-people-roof",
+                    "title": "Buyer-research patterns differ",
+                    "body": "Cambridge tech buyers research via LinkedIn first. Wakefield family-business buyers ask neighbors. Lexington premium buyers read reviews end-to-end. Boston buyers compare 8+ options. Different buyer behaviors = different infrastructure investments."
+                },
+                {
+                    "fa": "fa-route",
+                    "title": "Service-area dynamics differ by geography",
+                    "body": "Woburn contractors serve 5–8 adjacent towns from one office. Cambridge B2B firms serve nationwide from a Kendall address. Burlington corridor retailers serve a 30-mile catchment. Same physical address ≠ same service-area strategy."
+                },
+                {
+                    "fa": "fa-compress",
+                    "title": "Proximity weighting is geographic",
+                    "body": "Google's local algorithm is proximity-aware. A Boston searcher near Newbury Street sees different map-pack results than one near Forest Hills — for identical queries. Marketing has to be tuned for the specific search radius around your address, not generic 'Boston'."
+                },
+                {
+                    "fa": "fa-clock",
+                    "title": "Sales-cycle length tracks with market type",
+                    "body": "Bedroom-community home services = same-day. Premium suburban legal = 60–180 days. Tech B2B Cambridge = 90–270 days. Family-business Wakefield = relationship-driven, hard to clock. Cycle length affects every infrastructure choice."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "03 — FAQ",
+            "heading": "Common questions about our location-specific approach.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you only work in these 10 markets?",
+                    "a": "These are the tier-1 markets where we have published playbooks. We work selectively in adjacent towns (Belmont, Stoneham, Andover, Wilmington, Watertown, Somerville, etc.) — typically when the client's primary market is one of the tier-1s and the work extends naturally."
+                },
+                {
+                    "q": "Why not more cities? What about Worcester, Lowell, Lynn?",
+                    "a": "Honest answer: we work mostly in Greater Boston / North Shore where we have the deepest market context. Worcester, Springfield, and Western MA have different SERP dynamics that we don't claim to know as well. We refer those out when appropriate."
+                },
+                {
+                    "q": "Will I rank in cities where I don't have a physical address?",
+                    "a": "Sometimes — depends on your service area, the competitive density, and Google's proximity weighting. Most of our clients rank in 4–7 adjacent towns from one office. Ranking in cities you don't physically serve is harder and often not worth pursuing."
+                },
+                {
+                    "q": "Do you have published case studies per location?",
+                    "a": "Per-client case studies are gated for privacy. Per-location market data and approach is published openly on each location page. We share specific client results in private audits when relevant."
+                },
+                {
+                    "q": "How is location playbook different from service playbook?",
+                    "a": "Different lens. Service pages tell you what we deliver. Location pages tell you what's competitive in your specific market and how we adjust. Most clients read both — service page first, then their city's page to see the market context."
+                },
+                {
+                    "q": "Can you handle multi-location businesses across these cities?",
+                    "a": "Yes — most of our multi-location clients span 2–5 of these tier-1 markets. Per-location GBP + per-location landing pages with genuinely unique content (not templated). Pricing scales per location with discounts at 3+ locations."
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free local-market audit",
+            "heading": "Tell us your market — <em>we'll send a city-tuned audit</em>.",
+            "body": "20-point audit + top-5 competitor benchmark + market-specific recommendations. Each city's playbook is different; the audit reflects yours.",
+            "ctas": [
+                {
+                    "label": "Book the location audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "City-tuned audit + recommendations"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "10 markets",
+                    "label": "With deep published playbooks today"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

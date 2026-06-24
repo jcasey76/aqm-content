@@ -1,0 +1,291 @@
+{
+    "path": "/solutions/online-booking/",
+    "title": "Solutions · Capture",
+    "status": "publish",
+    "seo": {
+        "title": "Appointment Booking Widget — Live-Calendar Embed for Any Site | AQ Marketing",
+        "description": "An embeddable appointment-booking widget that shows live calendar availability, takes deposits, and sends SMS + email confirmations. Wired to Jobber, Housecall Pro, Google Calendar, Acuity. Drops on any site.",
+        "canonical": "https://aqmarketing.com/solutions/online-booking/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-calendar-check",
+            "badge": "Solutions · Capture",
+            "heading": "Book it from <em>your website</em>. Not three voicemails later.",
+            "lede": "A booking widget on every page of your site. Live availability, your real calendar, optional deposit, automatic SMS + email confirmations and reminders. Cuts the phone-tag, no-shows, and \"can you call me back\" that lose jobs.",
+            "ctas": [
+                {
+                    "label": "See it on a live site",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-bolt"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Solutions",
+                    "url": "/solutions/"
+                },
+                {
+                    "label": "Online Booking"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHAT IT DOES",
+            "heading": "What happens when you let people book themselves.",
+            "intro": "Self-serve booking removes the phone-tag and back-and-forth that loses jobs. Here's what the widget handles for home services, dental, and personal-care businesses.",
+            "stats": [
+                {
+                    "value": "After hours",
+                    "label": "People can book outside business hours, when self-serve is on"
+                },
+                {
+                    "value": "Fewer no-shows",
+                    "label": "SMS reminders plus an optional deposit keep more booked jobs on the calendar"
+                },
+                {
+                    "value": "Faster",
+                    "label": "Book in a few taps instead of rounds of phone-tag"
+                },
+                {
+                    "value": "No conflicts",
+                    "label": "No calendar clashes when the widget is the source of truth"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why phone-tag is the worst booking funnel.",
+            "intro": "Every back-and-forth is a chance for the buyer to drop. Most do. A quick \"book now\" experience is the difference between a job and a missed lead.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-phone-volume",
+                    "title": "Three rounds of phone-tag",
+                    "body": "Customer calls, you're busy. You call back, they're at lunch. They call back, you're on a job. By round three, they've booked the next guy."
+                },
+                {
+                    "fa": "fa-calendar-xmark",
+                    "title": "Double-bookings + conflicts",
+                    "body": "Two people on the team take bookings, calendars don't sync, you arrive at one job and the other one is screaming."
+                },
+                {
+                    "fa": "fa-user-slash",
+                    "title": "No-shows",
+                    "body": "Without an SMS reminder + a small deposit, no-show rates run 18–34% in MA service businesses. That's a half-day of crew time gone."
+                },
+                {
+                    "fa": "fa-circle-question",
+                    "title": "\"What time works for you\" emails",
+                    "body": "Endless email loops trying to find a slot. The customer abandons. You don't know they abandoned because they never said \"no\" — they just stopped replying."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — THE STACK",
+            "heading": "What we wire into the booking flow.",
+            "items": [
+                {
+                    "fa": "fa-plug",
+                    "title": "Connects to your real tool",
+                    "body": "Jobber, Housecall Pro, ServiceTitan, Acuity, Calendly, Google Calendar, Square Appointments. Single source of truth — no double entry."
+                },
+                {
+                    "fa": "fa-credit-card",
+                    "title": "Deposit-on-book (optional)",
+                    "body": "Stripe-powered. $25–$100 holds the slot, applies to the invoice. Stops no-shows cold without scaring off legit customers."
+                },
+                {
+                    "fa": "fa-bell",
+                    "title": "Multi-channel reminders",
+                    "body": "Email confirmation immediately, SMS 24h before, second SMS 1h before. Reminders help cut down on no-shows."
+                },
+                {
+                    "fa": "fa-route",
+                    "title": "Service-specific flows",
+                    "body": "Different forms per service. \"Drain cleaning\" needs photos; \"consultation\" doesn't. Smart branching, no irrelevant fields."
+                },
+                {
+                    "fa": "fa-map-pin",
+                    "title": "Service-area validation",
+                    "body": "Customer enters ZIP — if outside your service area, the form redirects to a wait-list capture instead of a booking. No wasted truck rolls."
+                },
+                {
+                    "fa": "fa-mobile-screen-button",
+                    "title": "Mobile-first",
+                    "body": "60% of bookings happen on phones. Three taps from landing page to booked appointment, no pinch-zoom, no broken date pickers."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "Live on your site in 7 business days.",
+            "steps": [
+                {
+                    "step_label": "DAY 1–2",
+                    "title": "Pick the tool",
+                    "body": "If you already have one (Jobber, etc.) we wire to it. If you don't, we recommend one and migrate any existing bookings."
+                },
+                {
+                    "step_label": "DAY 3–4",
+                    "title": "Build the flow",
+                    "body": "Per-service forms, deposit rules, ZIP validation, reminder cadence. You approve every screen + every text/email template."
+                },
+                {
+                    "step_label": "DAY 5–6",
+                    "title": "Embed + brand",
+                    "body": "Widget styled to your brand. Embedded site-wide, with a \"Book now\" CTA in the header, footer, and every service page."
+                },
+                {
+                    "step_label": "DAY 7",
+                    "title": "Go live + monitor",
+                    "body": "First 30 bookings go through with us watching. Tune timing, copy, and friction points before handing off."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "Why deposits are the single biggest no-show fix.",
+            "prose_html": "<p>Deposits work because they give the customer a stake. Charging a small refundable deposit ($25–$100) at booking meaningfully reduces no-shows. Customers who object to a deposit were often not going to show up anyway. Customers who pay one tend to keep the appointment.</p>\n        <p>The objection \"customers will leave if I ask for a deposit\" is real but smaller than owners think — a small share of bookings drop off when a deposit field is added. The rest who book are far more likely to actually show. Net: more booked-and-attended jobs, fewer crew hours wasted on empty driveways.</p>\n        <h3>Pricing it</h3>\n        <p>The booking widget is part of your Smart Website &amp; Marketing Package at $500/mo; we confirm the exact scope at your free audit. Stripe processing fees on deposits are passed through (2.9% + $0.30) — you can absorb them or surcharge.</p>\n        <h3>Where it fits with everything else</h3>\n        <p>Pairs with the <a href=\"/solutions/ai-chatbot/\">AI chatbot</a> (which can book directly into the widget), the <a href=\"/solutions/ai-receptionist/\">AI receptionist</a> (which uses the same calendar), and <a href=\"/solutions/email-sms/\">SMS reminders</a>. The full flow: visitor → chatbot/phone → real-time booking → SMS reminder → showed-up customer.</p>\n        <h3>This is the standalone widget. The full engagement is different.</h3><p>This page covers the <strong>Online Booking</strong> as a drop-in feature you can bolt onto any site. If you want the full done-for-you build — strategy, integration, ongoing optimization, and this widget as one piece of a unified system — that lives at the <a href=\"/services/ai-websites/\">AI Websites agency engagement</a> page. Different intent, different price point, different scope.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Deposit math",
+                    "note_body": "A $50 deposit on a $400 service meaningfully cuts no-shows. The few who refuse to pay it weren't likely to show anyway. You net more booked-and-attended jobs."
+                },
+                {
+                    "note_title": "Mobile is everything",
+                    "note_body": "60% of bookings happen on phones. Our widget is built mobile-first — three taps from landing to confirmation. Most competitor widgets break on iOS Safari."
+                },
+                {
+                    "note_title": "ADA-compliant",
+                    "note_body": "WCAG 2.1 AA-tested. Keyboard navigation, screen reader support, color-contrast safe. Avoids the demand letters that hit small business sites every year."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common booking-widget questions.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do I need a separate scheduling tool?",
+                    "a": "No — but it helps. We work with whatever you have (Jobber, Housecall Pro, Google Calendar, Acuity, etc.). If you don't have one, we'll recommend the right one for your industry as part of setup."
+                },
+                {
+                    "q": "Can I take a deposit?",
+                    "a": "Yes. Stripe-powered, $25–$100 range, refundable per your policy. Deposits help cut down on no-shows. Optional per service — \"consultations\" can be no-deposit while \"emergency dispatch\" can require one."
+                },
+                {
+                    "q": "What about double-bookings?",
+                    "a": "Impossible if the widget is the source of truth. It checks live availability against your connected calendar before showing slots. Two people booking the same slot at the same instant is handled with optimistic locking."
+                },
+                {
+                    "q": "Will it work on mobile?",
+                    "a": "Built mobile-first. 60% of bookings come from phones. Three taps from \"book now\" to confirmation, no pinch-zoom, no broken date pickers."
+                },
+                {
+                    "q": "How much does it cost?",
+                    "a": "It's part of our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — we confirm the exact scope at your free audit. Stripe processing fees (2.9% + $0.30) on deposits are passed through. No per-booking fees."
+                },
+                {
+                    "q": "Can I block off vacation/lunch?",
+                    "a": "Yes — the widget reads from your real calendar. Block slots there, they disappear from the widget. Recurring blocks (every Wednesday, every other Friday) are supported."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair booking with...",
+            "cards": [
+                {
+                    "tag": "Capture",
+                    "title": "AI Chatbot",
+                    "body": "Bot offers real calendar slots through the booking widget — \"Wednesday at 2?\" instead of \"someone will reach out.\"",
+                    "href": "/solutions/ai-chatbot/",
+                    "more_label": "Explore Chatbot"
+                },
+                {
+                    "tag": "Nurture",
+                    "title": "SMS Reminders",
+                    "body": "Automatic confirmations, day-before reminders, hour-before nudges. Helps cut down on no-shows.",
+                    "href": "/solutions/email-sms/",
+                    "more_label": "Explore SMS"
+                },
+                {
+                    "tag": "Nurture",
+                    "title": "Review Automation",
+                    "body": "After every completed booking, a 7-day-later review request. Booking → service → review, no manual chasing.",
+                    "href": "/solutions/review-automation/",
+                    "more_label": "Explore Reviews"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Try it on a real site, not a demo",
+            "heading": "See booking on <em>a live AQM client site</em> — book a fake job in 90 seconds.",
+            "body": "We'll send you a sandbox link with a real booking flow on a real site. Click through, book a fake appointment, see the SMS confirmation hit your phone. Then decide.",
+            "ctas": [
+                {
+                    "label": "Get the sandbox link",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "Quick",
+                    "label": "Book from a phone in a few taps"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "7 days",
+                    "label": "From signed to live on your site"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Fewer no-shows",
+                    "label": "Deposits plus SMS reminders keep more jobs on the calendar"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "path": "/locations/reading-ma/",
+    "title": "Locations · Reading, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Local SEO in Reading, MA — Map-Pack Rankings for Home Services + Trades | AQ Marketing",
+        "description": "Reading is a bedroom community where home-services demand stays steady year-round. AQM ranks Reading HVAC, plumbing, electrical, contractors, and landscaping in the local map pack — and across adjacent towns from one address.",
+        "canonical": "https://aqmarketing.com/locations/reading-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Reading, MA",
+            "heading": "Reading's <em>home-services demand</em> is steady. The map pack rewards consistency.",
+            "lede": "Bedroom community of 26k residents, dense owner-occupied housing, and an aging-housing-stock heat-and-plumbing problem that produces year-round home-services demand. Local SEO + GBP + reviews is the dominant playbook here — paid is a bridge, not a foundation.",
+            "ctas": [
+                {
+                    "label": "Get a Reading-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Reading, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE READING MARKET",
+            "heading": "What makes Reading a home-services SEO market.",
+            "intro": "Owner-occupied density, older housing stock, predictable seasonal cycles. Most Reading SEO engagements are home-services contractors and trades.",
+            "stats": [
+                {
+                    "value": "26k",
+                    "label": "Reading population — bedroom community north of Boston"
+                },
+                {
+                    "value": "11 mi",
+                    "label": "Drive from our Woburn HQ via 95 / 28"
+                },
+                {
+                    "value": "85%",
+                    "label": "Owner-occupied housing rate (vs. ~62% MA avg)"
+                },
+                {
+                    "value": "$2.40",
+                    "label": "Avg CPC for 'plumber reading ma' (manageable for SEO+ads mix)"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Reading businesses we work with.",
+            "intro": "Mostly home-services contractors and adjacent professionals. Some retail and restaurants in the downtown core but the volume is on the residential service side.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-temperature-arrow-up",
+                    "title": "HVAC + heating",
+                    "body": "Older housing + cold winters = steady demand. Map-pack + ads + reputation. Multi-town service area is normal."
+                },
+                {
+                    "fa": "fa-screwdriver-wrench",
+                    "title": "Plumbing + electrical",
+                    "body": "Same pattern as HVAC. Emergency demand cycles are real — AI receptionist + 24/7 GBP is the lever."
+                },
+                {
+                    "fa": "fa-tree",
+                    "title": "Landscaping + outdoor",
+                    "body": "Spring + fall surge cycles. Seasonal Google Ads + steady SEO. Reputation matters because referrals carry the off-season."
+                },
+                {
+                    "fa": "fa-house-chimney",
+                    "title": "General contractors + remodeling",
+                    "body": "Higher-AOV projects (kitchens, baths, additions). Longer sales cycles, more research, content-heavier SEO playbook."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN READING",
+            "heading": "The starting services for most Reading contractors.",
+            "intro": "Local SEO first. Reputation second. Then ads to fill seasonal valleys.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "The Reading map pack is winnable, but it's a 3-6 month build, not an overnight switch. Service-area optimization is the lever — most contractors serve 5–8 adjacent towns from one Reading address.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "GBP is the single highest-leverage hour-per-month for a Reading contractor. Service area, weekly posts, photos of real jobs, Q&amp;A.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Home-services reputation in Reading is often deep but invisible online. Review-request automation surfaces what's already real.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What a Reading contractor engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Service-area + competitor audit",
+                    "body": "Map your real service area. Benchmark vs. top 5 contractors operating in Reading + adjacent towns. Identify the 3 service categories where you're closest to top-3."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "GBP + foundation",
+                    "body": "Service-area definition, category fix, weekly posts, citation cleanup, on-page schema. This is the foundation the rankings build on over the following months."
+                },
+                {
+                    "step_label": "WEEK 5–10",
+                    "title": "Reputation + content",
+                    "body": "Review automation live. First service-area pages built (Reading + 5 adjacent towns) with genuinely unique content per town."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Most Reading contractors add Google Ads in months 2–3 to fill seasonal valleys (mid-winter for landscapers, summer for heating)."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY READING IS DIFFERENT",
+            "heading": "Why bedroom-community SEO compounds harder than corridor SEO.",
+            "prose_html": "<p>Burlington and Boston compete on volume — lots of searches, expensive CPCs, dense competition. Reading competes on consistency. There aren't a hundred Reading-area HVAC companies bidding against each other; there are 8–12 serious ones. The contractor that shows up in the map pack consistently for 12 months captures a disproportionate share of the year-round demand.</p>\n        <p>This makes Reading SEO different from corridor or city work. The volume per query is lower but the conversion rate is higher (high-intent buyer with a real problem). The asset compounds because the competitive set doesn't churn. A contractor who's #2 in the Reading HVAC map pack today is likely still #2 in 18 months unless they let it slip.</p>\n        <h3>Service-area optimization is the lever</h3>\n        <p>Most Reading contractors serve 5–8 adjacent towns — Reading + Wakefield + North Reading + Stoneham + Andover + Wilmington + Tewksbury + Lynnfield. The GBP service area should reflect that. The site should have town-specific service pages (genuinely unique, not templated — that's how the prior generation of agencies got their clients penalized). We've built dozens of these correctly and seen them rank.</p>\n        <h3>The seasonal-valley problem</h3>\n        <p>Reading home services have predictable demand cycles: HVAC heating peak November–February, cooling peak June–August, mid-season valleys in October and April. Landscaping inverse. Local SEO produces baseline; ads bridge the valleys. Most engagements layer ads in month 2-3 to smooth the seasonality.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "11 mi from our Woburn HQ",
+                    "note_body": "About 17 minutes via 95 / 28. We meet Reading clients at their office or by video — most of our home-services work doesn't require in-person past kickoff."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Reading.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you have HVAC / plumbing / electrical experience in Reading?",
+                    "a": "Yes. Multiple HVAC, plumbing, and electrical clients in Reading + adjacent towns. Each vertical has a tuned GBP, citation, and content playbook."
+                },
+                {
+                    "q": "How does service-area SEO actually work?",
+                    "a": "Three layers: (1) GBP service-area set correctly with the right towns; (2) on-site service-area pages built genuinely unique per town (not templated); (3) citation work on town-relevant directories. Done right, you rank in adjacent towns from one office address."
+                },
+                {
+                    "q": "Will I rank in adjacent towns from my Reading address?",
+                    "a": "Yes, with proper setup. Most of our Reading contractors come to rank in several adjacent towns over time — local SEO is a 3-6 month build, not an overnight switch. Some adjacent towns are easier than others — Stoneham yes, central Lynn typically requires a satellite location."
+                },
+                {
+                    "q": "How do you handle the seasonal valleys?",
+                    "a": "Google Ads layered in for the off-season. Landscaping ads peak January (early-bird booking), HVAC heating ads peak October. We forecast seasonality from your historical job data and pre-build the campaigns 30–60 days early."
+                },
+                {
+                    "q": "What's a typical Reading contractor engagement?",
+                    "a": "Most Reading contractors start with our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement), which bundles Local SEO, Google Business Profile, and reputation. When you're ready to grow faster, add accelerators: SEO at $1,299/mo for content and link building, Google Ads management at $1,299/mo, or Meta Ads at $999/mo (ad spend separate). We confirm the right mix at your free audit."
+                },
+                {
+                    "q": "Can you handle the booking and CRM side?",
+                    "a": "Yes — through our Solutions: AI Chatbot, AI Receptionist, Online Booking, CRM Pipeline. Most Reading contractors layer these on after SEO is producing volume."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Nearby Reading-area markets.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Wakefield, MA",
+                    "body": "3 miles south. Similar bedroom-community pattern. Most Reading contractors also serve Wakefield from the same office.",
+                    "href": "/locations/wakefield-ma/",
+                    "more_label": "See Wakefield"
+                },
+                {
+                    "tag": "HQ",
+                    "title": "Woburn, MA",
+                    "body": "Our HQ, 6 miles south. Larger market, broader industry mix. Many Reading contractors serve Woburn too.",
+                    "href": "/locations/woburn-ma/",
+                    "more_label": "See Woburn"
+                },
+                {
+                    "tag": "Service",
+                    "title": "Local SEO",
+                    "body": "Reading is one of our heaviest Local SEO markets. Service-area optimization + GBP + reputation = the standard starting bundle.",
+                    "href": "/services/local-seo/",
+                    "more_label": "See Local SEO"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Reading-contractor audit",
+            "heading": "See where your Reading service business <em>ranks across your full service area</em>.",
+            "body": "Reading + 7 adjacent towns. GBP, map pack, citation depth, top-5 competitor benchmark per town. 2-page service-area audit, no commitment.",
+            "ctas": [
+                {
+                    "label": "Book the Reading audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Service-area + competitor review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "3–6 months",
+                    "label": "Typical build to meaningful map-pack movement"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

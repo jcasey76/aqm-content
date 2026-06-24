@@ -1,0 +1,282 @@
+{
+    "path": "/services/branding/",
+    "title": "Branding · Identity",
+    "status": "publish",
+    "seo": {
+        "title": "Small Business Branding Massachusetts — Logo, Voice, Identity | AQ Marketing",
+        "description": "Brand identity for Massachusetts small businesses. Logo, colors, typography, a voice guide, and a usable brand kit. Scoped per project and quoted on a free, no-obligation consult.",
+        "canonical": "https://aqmarketing.com/services/branding/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-palette",
+            "badge": "Branding · Identity",
+            "heading": "Small business branding for Massachusetts — a brand you'll <em>actually use</em>.",
+            "lede": "Most \"brand packages\" hand you a PDF nobody opens twice. We build a brand your team can actually use: a logo, your colors, your fonts, a short guide for how you sound, and ready-made templates in Canva and Google Docs. So every post and page looks like the same company. Branding is scoped to your project and quoted on a free consult.",
+            "ctas": [
+                {
+                    "label": "Start a brand project",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-bullseye"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services",
+                    "url": "/services/"
+                },
+                {
+                    "label": "Branding"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — IMPACT",
+            "heading": "Why a real brand helps you get chosen.",
+            "intro": "When your logo, colors, and the way you sound stay the same everywhere a customer sees you, you look like one steady company they can trust. That makes the next step — calling or booking — easier.",
+            "stats": [
+                {
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "value": "2003",
+                    "label": "Serving Greater Boston since 2003"
+                },
+                {
+                    "value": "100%",
+                    "label": "You own your site, profile, and data"
+                },
+                {
+                    "value": "Free",
+                    "label": "20-point local audit, no obligation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why most small-business brands look DIY.",
+            "intro": "Not because the owner has bad taste. Because the brand was built for one thing (a trade show, a website launch) and never set up as a reusable system. A year later, everyone's making up colors and fonts on the fly.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-puzzle-piece",
+                    "title": "Logo, no system",
+                    "body": "A great logo alone doesn't make a brand. Without a color system, typography rules, and usage guidelines, your logo drifts into 8 different color variants within 12 months."
+                },
+                {
+                    "fa": "fa-volume-high",
+                    "title": "No voice, no tone",
+                    "body": "Visuals are only half. When your website sounds corporate, your social sounds chill, and your emails sound like a different company — you don't have a brand. You have three brands fighting each other."
+                },
+                {
+                    "fa": "fa-file-pdf",
+                    "title": "PDF-only guidelines",
+                    "body": "A beautiful 40-page brand book no one opens is worth less than a 3-page doc your team actually references. We build short, usable, linked-to guidelines — plus Canva/Google templates pre-set with the right colors and fonts."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — DELIVERABLES",
+            "heading": "What's in the complete brand system.",
+            "intro": "Six deliverables that turn a logo into a working system your whole team can use without asking permission.",
+            "items": [
+                {
+                    "fa": "fa-bullseye",
+                    "title": "Strategy doc",
+                    "body": "Audience, positioning, competitor landscape, value prop, voice attributes. The foundation every design decision is measured against."
+                },
+                {
+                    "fa": "fa-star-of-life",
+                    "title": "Logo system",
+                    "body": "Primary, secondary, horizontal, stacked, monogram, favicon. Light + dark variants. Clear-space + minimum-size rules. All formats."
+                },
+                {
+                    "fa": "fa-palette",
+                    "title": "Color + typography",
+                    "body": "Primary + secondary palettes with HEX/RGB/CMYK/Pantone. Web + print typography pairing with size + weight ladder."
+                },
+                {
+                    "fa": "fa-message",
+                    "title": "Voice & tone guide",
+                    "body": "How you write. Tone modifiers by channel (website vs. social vs. email). Do / don't examples. Reusable headline and CTA patterns."
+                },
+                {
+                    "fa": "fa-address-card",
+                    "title": "Collateral + templates",
+                    "body": "Business card, letterhead, email signature, social post templates (IG, FB, LI), one-pager template, slide deck master."
+                },
+                {
+                    "fa": "fa-box",
+                    "title": "Brand kit (wired)",
+                    "body": "Canva brand kit + Google Docs/Slides templates pre-loaded with your colors, fonts, logo. Team uses it on day one."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "Three phases to a brand you'll actually use.",
+            "steps": [
+                {
+                    "step_label": "PHASE 1",
+                    "title": "Strategy + direction",
+                    "body": "We start with a working session on your customers and competitors. Then you see two visual directions — mood, logo sketches, color, and fonts — and pick the one that feels right."
+                },
+                {
+                    "step_label": "PHASE 2",
+                    "title": "Refine + expand",
+                    "body": "We build out the direction you chose into a finished logo set, color palette, and font pairing, with a round of changes so it lands the way you want."
+                },
+                {
+                    "step_label": "PHASE 3",
+                    "title": "System + kit",
+                    "body": "A short, usable guide plus templates and a Canva and Google brand kit. You get all the source files and a training call so your team can use it from day one."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "Why looking like one steady company helps you win the job.",
+            "prose_html": "<p>When your logo, colors, type, and the way you talk stay the same everywhere a customer sees you, you look like one company that has its act together. When they don't match, people quietly wonder if you're a bit scattered — and that doubt can send the call to a competitor instead.</p>\n        <p>For a local service business, it's the difference between someone who saw your truck, your Facebook, your website, and your Google review in the same week and thought \"same company, must be legit\" — and someone who saw the same things and thought \"wait, is that even the same business?\"</p>\n        <h3>About pricing</h3>\n        <p>There's no fixed price for branding, because the right amount of work depends on you. A simple logo and color set is a small project; a full rebrand across your truck, signage, site, and social is a bigger one. We scope it to what you actually need and give you a clear quote on a free, no-obligation consult.</p>\n        <p>If you're starting fresh, brand basics — a logo, your colors, and a consistent look across your site, Google Business Profile, and social — are also built into our <a href=\"/services/ai-websites/\">Smart Website &amp; Marketing Package</a> at $500/mo (12-month agreement). A deeper brand system is scoped and quoted separately.</p>\n        <h3>Where branding fits</h3>\n        <p>Branding comes before <a href=\"/services/web-design/\">web design</a>, so your site launches looking right instead of being fixed later. It comes before <a href=\"/services/social-media/\">social media</a>, so every post uses your real colors instead of a guess. And it sets up your <a href=\"/services/reputation-management/\">reputation work</a>, so review widgets and posts look like they belong to the same company.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Strategy first",
+                    "note_body": "Every project starts with a working session on your customers, your competitors, and how you want to sound. <strong>We figure out the thinking before we design anything.</strong>"
+                },
+                {
+                    "note_title": "You own everything",
+                    "note_body": "Full rights and all source files (SVG, PDF, AI, PNG in multiple sizes) are yours on delivery. No licensing fees, no per-use charges."
+                },
+                {
+                    "note_title": "Refresh, not rebuild",
+                    "note_body": "Already have a logo people know? We can keep what works — the shape, the recognition, the core color — and bring the look up to date. We scope it on the consult."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Branding questions, answered straight.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "How much does branding cost?",
+                    "a": "It's scoped to your project and quoted on a free consult — a simple logo set and a full rebrand are very different jobs. Brand basics also come built into the $500/mo Smart Website &amp; Marketing Package."
+                },
+                {
+                    "q": "How long does it take?",
+                    "a": "Depends on scope. We work in phases so you see direction early, not at the end. We'll map out your timeline on the consult."
+                },
+                {
+                    "q": "Do I own the files?",
+                    "a": "Yes — full rights, all source formats (SVG, PDF, AI, PNG), on delivery. You own everything."
+                },
+                {
+                    "q": "Can you refresh instead of rebrand?",
+                    "a": "Yes. We keep what people recognize — the shape, the core color — and bring the look up to date. We scope it on the consult."
+                },
+                {
+                    "q": "Strategy or just design?",
+                    "a": "Both, and the thinking comes first. We sort out your customers and competitors before we design anything."
+                },
+                {
+                    "q": "What if I don't like round 1?",
+                    "a": "Revisions are included in each phase. If the direction is wrong at the concept stage, we re-concept at no extra charge."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair branding with...",
+            "cards": [
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Launch your new brand on a site built to match — same colors, same fonts, same voice.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design"
+                },
+                {
+                    "tag": "Social",
+                    "title": "Social Media",
+                    "body": "Every post looks like you, because your brand kit is built right into the posting setup.",
+                    "href": "/services/social-media/",
+                    "more_label": "Explore Social Media"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation",
+                    "body": "Review widgets and social proof that look cohesive against a real brand system.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free 30-minute brand consult",
+            "heading": "Ready for a brand you'd hand <em>to any designer on your team</em>?",
+            "body": "Tell us where you are — DIY logo, dated rebrand, or starting from scratch — and we'll tell you whether you need a refresh, a rebuild, or neither. No pitch, no hard sell.",
+            "ctas": [
+                {
+                    "label": "Start a brand project",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-star",
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "100%",
+                    "label": "You own your logo, files, and brand"
+                },
+                {
+                    "fa": "fa-calendar-check",
+                    "value": "Free",
+                    "label": "No-obligation brand consult"
+                }
+            ]
+        }
+    ]
+}

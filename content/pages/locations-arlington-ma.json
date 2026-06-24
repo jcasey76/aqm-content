@@ -1,0 +1,283 @@
+{
+    "path": "/locations/arlington-ma/",
+    "title": "Locations · Arlington, MA",
+    "status": "publish",
+    "seo": {
+        "title": "Digital Marketing in Arlington, MA — Local SEO + Web for Home Services & Retail | AQ Marketing",
+        "description": "Arlington's 46k residents and density of older housing stock produces consistent home-services demand. AQM helps Arlington HVAC, plumbing, electrical, contractors, and Mass Ave retail compete in the local map pack and the search results that drive walk-ins.",
+        "canonical": "https://aqmarketing.com/locations/arlington-ma/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Locations · Arlington, MA",
+            "heading": "Arlington's home-services demand is <em>dense and competitive</em>.",
+            "lede": "46,000 residents, the highest population density on this list, packed into 5 square miles around Mass Ave and the Minuteman Bikeway. Older housing stock + condensed geography produces home-services demand that's both consistent and intensely competed for.",
+            "ctas": [
+                {
+                    "label": "Get an Arlington-market audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Locations",
+                    "url": "/locations/"
+                },
+                {
+                    "label": "Arlington, MA"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — THE ARLINGTON MARKET",
+            "heading": "What makes Arlington a high-density local market.",
+            "intro": "Population density, older housing, dense small-business retail along Mass Ave. The map pack is fought hard here — but winnable with the right foundation.",
+            "stats": [
+                {
+                    "value": "46k",
+                    "label": "Arlington population — highest density of our location list"
+                },
+                {
+                    "value": "6 mi",
+                    "label": "Drive from our Woburn HQ via 38 / 16"
+                },
+                {
+                    "value": "3.6 mi",
+                    "label": "Length of Mass Ave through Arlington — the commercial spine"
+                },
+                {
+                    "value": "60%+",
+                    "label": "Of housing built before 1960 (steady remodel + repair demand)"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHO WE WORK WITH",
+            "heading": "The Arlington businesses we work with.",
+            "intro": "Home services dominate by volume; Mass Ave retail and restaurants are the second largest segment.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-temperature-arrow-up",
+                    "title": "HVAC + heating + cooling",
+                    "body": "Mature housing stock + dense neighborhoods = steady year-round demand. Map-pack + ads + reputation, in that order."
+                },
+                {
+                    "fa": "fa-screwdriver-wrench",
+                    "title": "Plumbing + electrical",
+                    "body": "Older homes mean ongoing maintenance + emergency calls. AI receptionist + 24/7 GBP is the lever."
+                },
+                {
+                    "fa": "fa-utensils",
+                    "title": "Mass Ave restaurants + cafes",
+                    "body": "Dense corridor with strong walk-in. GBP + Yelp + Instagram. Reservation-platform optimization on the high end."
+                },
+                {
+                    "fa": "fa-shop",
+                    "title": "Mass Ave retail + boutiques",
+                    "body": "Specialty retail along the corridor. GBP + local SEO + Apple Maps + paid social drive discovery."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "03 — WHERE TO START IN ARLINGTON",
+            "heading": "The starting services for most Arlington businesses.",
+            "intro": "Home services lead with Local SEO + GBP. Retail leads with web design + GBP. Different paths, same starting playbook.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Arlington's density compresses the SERP — the difference between the top of the map pack and the bottom is real revenue. Local SEO is a 3-6 month build, not an overnight switch.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "Mass Ave retail and home services both leak ranking signal here from under-built GBPs. Highest-leverage hour-per-month investment in the market.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Arlington has manageable CPCs ($2–$6 for most service categories) and a high-intent buyer base. Ads efficiency is among the best of our suburban markets.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW WE ENGAGE",
+            "heading": "What an Arlington engagement looks like.",
+            "steps": [
+                {
+                    "step_label": "WEEK 1",
+                    "title": "Density + competitor audit",
+                    "body": "Map your service area or commercial geography. Benchmark vs. top 5 competitors in your category along Mass Ave or in the surrounding neighborhoods."
+                },
+                {
+                    "step_label": "WEEK 2–4",
+                    "title": "GBP + foundation",
+                    "body": "Service-area + category tuning, weekly posts, citations, schema. This is the groundwork that ranking gains build on over the following months."
+                },
+                {
+                    "step_label": "WEEK 5–10",
+                    "title": "Reputation + content",
+                    "body": "Review automation live. First service-area pages or neighborhood content live."
+                },
+                {
+                    "step_label": "MONTHLY",
+                    "title": "Strategy review",
+                    "body": "Standard 30-min review. Arlington engagements often add ads + AI Websites in month 2–3."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — WHY ARLINGTON IS DIFFERENT",
+            "heading": "Why density compresses Arlington's SERP.",
+            "prose_html": "<p>Arlington's geography is unusual — 46,000 residents in 5.5 square miles, twice the density of Wakefield or Reading. That density compresses the local-search results: there are only so many top-3 spots in a town this small, and there are dozens of contractors competing for each. The fight for ranking is sharper, but the upside per ranking gain is also higher because the ratio of residents-to-results is high.</p>\n        <p>Tactically this means Arlington engagements emphasize the differentiating signals — review depth, GBP service detail, on-page neighborhood specificity (East Arlington vs. Arlington Heights vs. Arlington Center) — more than volume signals. Generic optimization tends to stall out partway down the page. Specific optimization is what moves a profile up toward the map pack.</p>\n        <h3>Mass Ave is its own playbook</h3>\n        <p>The Mass Ave corridor — 3.6 miles of dense retail and restaurant — has its own SEO dynamics. GBP categories are fought tightly (\"contemporary American\" vs. \"farm-to-table\" matters), Yelp velocity matters more than in residential parts of town, and Instagram feeds GBP discovery in a way that doesn't happen in less-dense markets.</p>\n        <h3>The Minuteman Bikeway effect</h3>\n        <p>Arlington's bike traffic produces an unusual amount of \"on the way home\" search volume — coffee, restaurants, retail. Mobile speed and GBP photo strategy help capture this traffic. A clean GBP photo update plus accurate hours can make a real difference to walk-in rate.</p>",
+            "aside_items": [
+                {
+                    "map_src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2944.0!2d-71.1497!3d42.4793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzQ1LjUiTiA3McKwMDgnNTguOSJX!5e0!3m2!1sen!2sus!4v0",
+                    "img_alt": "AQ Marketing Woburn, MA HQ — 400 Tradecenter Dr"
+                },
+                {
+                    "note_title": "6 mi from our Woburn HQ",
+                    "note_body": "About 12 minutes via 38 / 16. We meet Arlington clients on Mass Ave or at our office — proximity makes either efficient."
+                },
+                {
+                    "note_title": "Local presence since 2003",
+                    "note_body": "AQ Marketing has been headquartered at 400 Tradecenter Dr, Woburn since 2003. Twenty-plus years of building Massachusetts service-business pipelines — not a national agency parachuting in."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about working with AQM in Arlington.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Do you handle the East Arlington / Arlington Heights / Center distinction?",
+                    "a": "Yes. Arlington's neighborhoods have distinct SEO dynamics. On-page geographic specificity and local content tuned to the right neighborhood is one of the levers that moves rankings in this market."
+                },
+                {
+                    "q": "How fast does the Arlington map pack move?",
+                    "a": "Local SEO is a 3-6 month build, not an overnight switch. Most service categories see meaningful movement in that window with foundation work; Mass Ave restaurant categories can take longer because review velocity is the bottleneck."
+                },
+                {
+                    "q": "Can you help with the Mass Ave retail walk-in pattern?",
+                    "a": "Yes — GBP photo strategy, hours accuracy, mobile speed, Apple Maps optimization, Instagram-to-GBP linkage. Walk-in capture is a measurable channel we optimize for explicitly."
+                },
+                {
+                    "q": "How do Arlington home-services compete with Cambridge / Somerville?",
+                    "a": "Most Arlington contractors also serve Cambridge + Somerville + Belmont. Multi-town GBP service area + town-specific landing pages let one Arlington address rank in adjacent markets."
+                },
+                {
+                    "q": "Are CPCs higher in Arlington than the suburbs further out?",
+                    "a": "Slightly — $2–$6 vs. $1.50–$4 in Reading or Wakefield. But the conversion rate is higher because the buyer base is denser and more sophisticated. Net ROI is comparable."
+                },
+                {
+                    "q": "Do you handle Mass Ave restaurant reservation platforms?",
+                    "a": "Yes — OpenTable, Resy, Yelp Reservations. Profile completeness + photos + menu structure + GBP linkage. Particularly impactful in Arlington's higher-end restaurant scene."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Adjacent Arlington-area markets.",
+            "cards": [
+                {
+                    "tag": "Adjacent",
+                    "title": "Medford, MA",
+                    "body": "3 miles north. Similar pattern but lower density. Many Arlington contractors also serve Medford from the same office.",
+                    "href": "/locations/medford-ma/",
+                    "more_label": "See Medford"
+                },
+                {
+                    "tag": "Adjacent",
+                    "title": "Cambridge, MA",
+                    "body": "3 miles southeast. Different vertical mix (more tech/biotech) but adjacent home-services geography.",
+                    "href": "/locations/cambridge-ma/",
+                    "more_label": "See Cambridge"
+                },
+                {
+                    "tag": "Service",
+                    "title": "GBP Management",
+                    "body": "Arlington's density makes GBP detail more valuable than in less-dense markets. Highest-leverage hour-per-month investment.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "See GBP"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free Arlington-density audit",
+            "heading": "See your Arlington business <em>by neighborhood</em> against the local map pack.",
+            "body": "East Arlington vs. Heights vs. Center, Mass Ave corridor specifics, GBP completeness, top-5 competitor benchmark. 2-page Arlington-tuned report.",
+            "ctas": [
+                {
+                    "label": "Book the Arlington audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Density + neighborhood review"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "3–6 months",
+                    "label": "Typical build for real ranking gains"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Month-to-month",
+                    "label": "On add-ons & accelerators"
+                }
+            ]
+        }
+    ]
+}

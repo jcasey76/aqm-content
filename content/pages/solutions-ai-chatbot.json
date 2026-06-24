@@ -1,0 +1,292 @@
+{
+    "path": "/solutions/ai-chatbot/",
+    "title": "Solutions · Capture",
+    "status": "publish",
+    "seo": {
+        "title": "AI Chat Widget — Trained Lead-Qualification Bot for Any Website | AQ Marketing",
+        "description": "A drop-in AI chat widget that qualifies and books leads on any website — WordPress, Webflow, Shopify, custom. Trained on your knowledge base, refuses to invent answers, books on real calendars. Bolt-on solution for any site.",
+        "canonical": "https://aqmarketing.com/solutions/ai-chatbot/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-comments",
+            "badge": "Solutions · Capture",
+            "heading": "The lead came in at <em>9:47 PM</em>. Your chatbot already booked it.",
+            "lede": "A trained AI chat assistant on every page of your site. It knows your services, your prices, your service area, and your booking calendar — and it qualifies, answers, and books while your team is asleep, on a job, or on another call.",
+            "ctas": [
+                {
+                    "label": "See a live demo",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-bolt"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Solutions",
+                    "url": "/solutions/"
+                },
+                {
+                    "label": "AI Chatbot"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHAT IT DOES",
+            "heading": "What changes when you stop missing inquiries.",
+            "intro": "A trained assistant that works while you can't — here's what it handles for you.",
+            "stats": [
+                {
+                    "value": "Every page",
+                    "label": "Qualifies and books leads from any page of your site"
+                },
+                {
+                    "value": "After hours",
+                    "label": "Catches the evening and weekend visits a form would lose"
+                },
+                {
+                    "value": "Fast",
+                    "label": "Qualified leads land in your inbox in seconds"
+                },
+                {
+                    "value": "$0",
+                    "label": "Per chat — flat monthly cost regardless of volume"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why your contact form leaks money every night.",
+            "intro": "Owners assume \"the inquiry will come in tomorrow.\" Most of them don't. The buyer fills out three forms, gets one reply by the time you're online, and books with whoever answered first.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-moon",
+                    "title": "After-hours leads vanish",
+                    "body": "Two thirds of website visits arrive evenings and weekends. A static contact form sends them to an inbox no one's watching — and they're gone by Monday."
+                },
+                {
+                    "fa": "fa-clock-rotate-left",
+                    "title": "Slow first-response kills deals",
+                    "body": "Inman, HBR, and InsideSales all clocked it: the business that responds within 5 minutes wins the lead 4–9× more often than the one that responds in an hour."
+                },
+                {
+                    "fa": "fa-circle-question",
+                    "title": "Forms ask the wrong things",
+                    "body": "A 5-field contact form can't qualify. You can't tell the price-shopper from the ready-to-book customer until you call them — and by then it's too late."
+                },
+                {
+                    "fa": "fa-comments-dollar",
+                    "title": "Chat \"widgets\" route to nobody",
+                    "body": "Generic Intercom-style chat boxes ping a Slack channel that nobody monitors. The visitor sees \"typing…\" then silence — worse than no chat at all."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — THE STACK",
+            "heading": "What we actually build into the chat.",
+            "intro": "Not a generic GPT-wrapper. A trained, scoped, branded assistant that knows your business and follows your rules.",
+            "items": [
+                {
+                    "fa": "fa-graduation-cap",
+                    "title": "Trained on your business",
+                    "body": "Services, pricing tiers, service area, hours, common objections, your FAQ. Refuses to make up information it doesn't know."
+                },
+                {
+                    "fa": "fa-calendar-check",
+                    "title": "Books appointments live",
+                    "body": "Real-time calendar lookup. Customer picks a slot, gets a confirmation email + SMS, and you wake up to a booked job."
+                },
+                {
+                    "fa": "fa-filter",
+                    "title": "Qualifies before it routes",
+                    "body": "Asks the 3–5 questions you'd ask on a phone screen. Tags leads as Hot / Warm / Tire-Kicker before they hit your inbox."
+                },
+                {
+                    "fa": "fa-arrow-right-arrow-left",
+                    "title": "Hand-off to a human",
+                    "body": "When the visitor types \"talk to a person,\" the bot pages your team via SMS or Slack and warm-transfers the conversation context."
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "title": "On-brand and safe",
+                    "body": "Tone matches your brand voice. Refuses pricing on jobs that need an estimate. Won't quote outside your service area."
+                },
+                {
+                    "fa": "fa-chart-line",
+                    "title": "Reports that read like English",
+                    "body": "Weekly digest: chats started, leads captured, jobs booked, top topics, and the 3 questions you should add to the FAQ."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "From signature to first booked lead in 14 days.",
+            "steps": [
+                {
+                    "step_label": "DAY 1–3",
+                    "title": "Discovery + content sweep",
+                    "body": "We pull your site, FAQ, pricing, GBP, and a 30-minute call recording. Build the knowledge base."
+                },
+                {
+                    "step_label": "DAY 4–7",
+                    "title": "Train + brand-fit",
+                    "body": "Tone tuning, prompt engineering, refusal rules. You review 30+ canned responses before launch."
+                },
+                {
+                    "step_label": "DAY 8–10",
+                    "title": "Calendar + CRM wiring",
+                    "body": "Live calendar booking. Lead routing to your CRM, SMS, Slack, or email — your call."
+                },
+                {
+                    "step_label": "DAY 11–14",
+                    "title": "Soft launch + tune",
+                    "body": "Live on the site for 100 chats. We watch every transcript, fix gaps, ship a tuned v2."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "Why a trained chatbot beats a generic one (and a contact form).",
+            "prose_html": "<p>The first generation of website chatbots — Intercom, Drift, the rest — were just routing tools dressed up as AI. They needed a human on the other end. If your team was busy, the conversation died on the page. The buyer learned to ignore them.</p>\r\n        <p>The 2025+ generation is genuinely autonomous: an LLM that's been given your knowledge base, your booking rules, your tone, and your refusal policies. It can hold a 12-turn conversation, answer about pricing tiers it actually knows, refuse to invent ones it doesn't, and book the appointment without ever needing a human in the loop.</p>\r\n        <h3>The cost-per-lead math</h3>\r\n        <p>If you're already spending on Google Ads, every form a visitor abandons is paid traffic walking away. A chatbot that catches more of those conversations turns clicks you've already paid for into booked jobs. We bake a lead calculator into your reporting so you can see the dollar lift for yourself.</p>\r\n        <h3>Where the chatbot fits with everything else</h3>\r\n        <p>Best deployed alongside <a href=\"/solutions/online-booking/\">online booking</a> (so the bot can offer real slots) and the <a href=\"/solutions/ai-receptionist/\">AI receptionist</a> (so phone leads are captured the same way as web leads). All three feed the same <a href=\"/solutions/crm-pipeline/\">CRM pipeline</a> — one inbox, every channel, properly tagged.</p>\r\n        <h3>This is the standalone widget. The full engagement is different.</h3><p>This page covers the <strong>AI Chatbot</strong> as a drop-in feature you can bolt onto any site. If you want the full done-for-you build — strategy, integration, ongoing optimization, and this widget as one piece of a unified system — that lives at the <a href=\"/services/ai-websites/\">AI Websites agency engagement</a> page. Different intent, different price point, different scope.</p>",
+            "aside_items": [
+                {
+                    "note_title": "Why we don't use Intercom",
+                    "note_body": "Old-school chat widgets need a human on the other end. Our setup is fully autonomous — the bot books the job. Humans only get pulled in for warm hand-offs."
+                },
+                {
+                    "note_title": "Refusal-trained",
+                    "note_body": "Won't invent prices. Won't guess at service availability outside your area. Won't pretend to be human if directly asked. Real guardrails, not vibes."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Part of our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — included in or added to your plan. We confirm the exact scope for your business at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common questions about the AI Chatbot.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "How is this different from a normal chatbot?",
+                    "a": "Older widgets like Intercom or Drift are routing tools — they need your team on the other side. Ours is autonomous: it answers from your knowledge base, books appointments live, and refuses to invent information it doesn't have."
+                },
+                {
+                    "q": "Will it pretend to be human?",
+                    "a": "No. If a visitor asks \"are you a real person,\" the bot says \"I'm an AI assistant — I can answer questions and book your appointment, or I can text someone on the team.\" Honesty is built into the policy."
+                },
+                {
+                    "q": "How do you train it on my business?",
+                    "a": "We pull from your website, FAQ, services pages, pricing, hours, GBP, and a 30-minute discovery call recording. You review every canned answer before launch. Updates are pushed within 24 hours."
+                },
+                {
+                    "q": "What does it cost?",
+                    "a": "It's part of our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — most clients get this capability included in or added to that plan, alongside the website, Local SEO, reviews, and the AI front desk. We confirm exactly what's included for your business at your free audit."
+                },
+                {
+                    "q": "Can it book onto my calendar?",
+                    "a": "Yes. Direct integrations with Google Calendar, Calendly, Acuity, Jobber, ServiceTitan, Housecall Pro. The customer picks a real slot and you get a calendar invite."
+                },
+                {
+                    "q": "What if it gets a question wrong?",
+                    "a": "It defers. Trained refusal: \"That's a great question — let me text someone on the team and they'll follow up within X minutes.\" Then it pages a real human via SMS or Slack with the chat transcript attached."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair the chatbot with...",
+            "cards": [
+                {
+                    "tag": "Capture",
+                    "title": "Online Booking",
+                    "body": "So the chatbot can offer real calendar slots, not just \"someone will reach out.\"",
+                    "href": "/solutions/online-booking/",
+                    "more_label": "Explore Booking"
+                },
+                {
+                    "tag": "Capture",
+                    "title": "AI Receptionist",
+                    "body": "Same brain on the phone — qualifies, books, transfers warm leads. Wire up both for one unified front desk.",
+                    "href": "/solutions/ai-receptionist/",
+                    "more_label": "Explore Receptionist"
+                },
+                {
+                    "tag": "Nurture",
+                    "title": "CRM Pipeline",
+                    "body": "Every chat lead lands in your pipeline tagged Hot / Warm / Cold with the full transcript attached. No more inbox sprawl.",
+                    "href": "/solutions/crm-pipeline/",
+                    "more_label": "Explore CRM"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free 30-minute live demo",
+            "heading": "See your chatbot answer <em>your real questions</em> on a live demo.",
+            "body": "In 30 minutes we'll spin up a sandbox bot trained on your site and watch it handle the inbound questions you actually get. If it's not better than your current contact form, we won't pitch you.",
+            "ctas": [
+                {
+                    "label": "Book a live demo",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "30 min",
+                    "label": "Live demo, your questions, your data"
+                },
+                {
+                    "fa": "fa-rocket",
+                    "value": "14 days",
+                    "label": "From signed agreement to live on your site"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "$0",
+                    "label": "To run the demo or change your mind"
+                }
+            ]
+        }
+    ]
+}

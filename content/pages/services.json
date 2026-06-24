@@ -1,0 +1,284 @@
+{
+    "path": "/services/",
+    "title": "Services",
+    "status": "publish",
+    "seo": {
+        "title": "Services — Local SEO, AI Websites, Web Design | AQ Marketing",
+        "description": "AQ Marketing services: Local SEO, AI-powered websites, AI receptionists & chatbots, Google Ads, reputation management, Google Business Profile, social media, and branding for Massachusetts small businesses.",
+        "canonical": "https://aqmarketing.com/services/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-layer-group",
+            "badge": "Services",
+            "heading": "Small-business marketing services that get you <em>found and booked</em>.",
+            "lede": "One team for your rankings, your website, and your ads. Most owners start with our Smart Website &amp; Marketing Package at $500/mo on a 12-month agreement, then add more as they grow. Pick the service you need, or let us build the plan.",
+            "ctas": [
+                {
+                    "label": "Book a free audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services"
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "01 — CORE SERVICES",
+            "heading": "Pick one service, or run them together.",
+            "intro": "Each one stands on its own. Run them together and local search turns into booked work. Most owners start with the one fire they need put out, then add the rest when they're ready — no new vendor required.",
+            "cards": [
+                {
+                    "tag": "Search",
+                    "title": "Local SEO",
+                    "body": "Rank in the Google map pack for every service you offer across your service area.",
+                    "href": "/services/local-seo/",
+                    "more_label": "Explore Local SEO",
+                    "features": "Google Business Profile\nLocal citations & schema\nGeo-targeted content\nReview generation"
+                },
+                {
+                    "tag": "Web",
+                    "title": "Web Design",
+                    "body": "Fast, mobile-first websites engineered for conversion, not just looks.",
+                    "href": "/services/web-design/",
+                    "more_label": "Explore Web Design",
+                    "features": "Sub-1s load times\nBuilt-in SEO & schema\nClick-to-call & forms\nHosted on Cloudflare"
+                },
+                {
+                    "tag": "AI",
+                    "title": "AI Websites",
+                    "body": "AI chatbots + AI receptionists that qualify leads 24/7 on your site.",
+                    "href": "/services/ai-websites/",
+                    "more_label": "Explore AI Websites",
+                    "features": "Trained on your services\nBooks to calendar\nDrops leads in your CRM\nNatural voice & chat"
+                },
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Ad accounts built around cost-per-booked-call, not cost-per-click.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads",
+                    "features": "Keyword strategy\nLanding pages\nCall tracking\nWeekly optimization"
+                },
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "Full management of your Google Business Profile — one of the biggest local ranking signals.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP",
+                    "features": "Category & service tuning\nWeekly posts\nQ&A management\nInsight reporting"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation Management",
+                    "body": "Turn happy customers into 5-star reviews — and protect against the bad ones.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation",
+                    "features": "Automated review requests\nMulti-platform monitoring\nResponse workflows\nReputation reporting"
+                },
+                {
+                    "tag": "Content",
+                    "title": "Social Media",
+                    "body": "Done-for-you social posting that supports SEO and feeds your pipeline.",
+                    "href": "/services/social-media/",
+                    "more_label": "Explore Social Media",
+                    "features": "Content calendar\nPost production\nCommunity management\nPaid promotion"
+                },
+                {
+                    "tag": "Brand",
+                    "title": "Branding & Identity",
+                    "body": "The logo, voice, and visuals that make your business unmistakable.",
+                    "href": "/services/branding/",
+                    "more_label": "Explore Branding",
+                    "features": "Logo & visual system\nMessaging framework\nBrand guidelines\nCollateral design"
+                }
+            ]
+        },
+        {
+            "type": "aqm_split_media",
+            "v": 1,
+            "kicker": "02 — WHY IT WORKS",
+            "heading": "One team, one login — no finger-pointing.",
+            "intro": "Most small businesses end up with a different vendor for every problem: one for the website, one for SEO, a freelancer for ads, a tool for reviews. When something breaks, nobody owns it. We do it all in one place, so the work connects.",
+            "cards": [
+                {
+                    "fa": "fa-bullseye",
+                    "title": "Tied to revenue",
+                    "body": "We measure every campaign by booked calls, not clicks."
+                },
+                {
+                    "fa": "fa-gauge-high",
+                    "title": "Honest timelines",
+                    "body": "Real ranking gains typically take 3-6 months. We report progress along the way — rankings, calls, and reviews."
+                },
+                {
+                    "fa": "fa-handshake",
+                    "title": "One simple plan",
+                    "body": "The Smart Website &amp; Marketing Package: $500/mo, 12-month agreement."
+                },
+                {
+                    "fa": "fa-location-dot",
+                    "title": "Woburn-based",
+                    "body": "Local team since 2003. We know the Boston and North Shore market."
+                }
+            ],
+            "img_src": "/assets/generated/hero-dashboard.png",
+            "img_alt": "AQ Marketing client reporting dashboard showing local keyword rankings, calls, and cost-per-booked-call metrics"
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "03 — WHAT YOU GET",
+            "heading": "Built for Massachusetts small businesses.",
+            "intro": "Every engagement ships with the same foundation — regardless of which services you pick.",
+            "container": "grid-3",
+            "cards": [
+                {
+                    "fa": "fa-chart-line",
+                    "title": "Live reporting dashboard",
+                    "body": "Rankings, traffic, calls, leads — every metric in one place, updated weekly."
+                },
+                {
+                    "fa": "fa-user-tie",
+                    "title": "Dedicated strategist",
+                    "body": "Real person who replies quickly. No ticketing system."
+                },
+                {
+                    "fa": "fa-file-circle-check",
+                    "title": "Monthly strategy review",
+                    "body": "We walk you through wins, losses, and next-month priorities together."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "04 — WHERE TO START",
+            "heading": "Not sure which service you need? Start here.",
+            "intro": "You don't have to figure out the whole plan today. Most owners hit one of these problems first. Tell us what's hurting, and we'll point you to the fix.",
+            "items": [
+                {
+                    "fa": "fa-magnifying-glass-location",
+                    "title": "\"We're invisible on Google.\"",
+                    "body": "Start with <a href=\"/services/local-seo/\">Local SEO</a> and <a href=\"/services/google-business-profile/\">GBP Management</a>. We get you into the map pack — the box of three local businesses Google shows at the top of search — for the searches that bring you customers. Google rewards consistency here more than spend."
+                },
+                {
+                    "fa": "fa-phone-slash",
+                    "title": "\"We're getting traffic but missing leads.\"",
+                    "body": "Start with <a href=\"/services/ai-websites/\">AI Websites</a> — an AI chatbot, an AI voice receptionist, and a booking widget working as one system. It answers and books leads around the clock, including the ones that come in after hours when nobody's at the desk."
+                },
+                {
+                    "fa": "fa-bolt",
+                    "title": "\"We need leads this month.\"",
+                    "body": "Start with <a href=\"/services/google-ads/\">Google Ads</a>. Ads can put you in front of buyers right away, while SEO is still building underneath. SEO is a 3-6 month build, so most clients add Local SEO once the ads are producing."
+                },
+                {
+                    "fa": "fa-star-half-stroke",
+                    "title": "\"Our reviews are stale or thin.\"",
+                    "body": "Start with <a href=\"/services/reputation-management/\">Reputation Management</a>. Reviews are one of the biggest signals Google uses to rank local businesses, and they win the click when buyers compare you. Most businesses simply forget to ask — we ask for you, automatically."
+                },
+                {
+                    "fa": "fa-display",
+                    "title": "\"Our website is slow and dated.\"",
+                    "body": "Start with <a href=\"/services/web-design/\">Web Design</a>. A fast, mobile-first site that loads quickly and puts a call or booking one tap away gives every other service a foundation that can rank and convert. You own the site and the domain from day one."
+                },
+                {
+                    "fa": "fa-palette",
+                    "title": "\"We don't look like a real company.\"",
+                    "body": "Start with <a href=\"/services/branding/\">Branding</a>. A logo isn't a brand. When your visuals and voice don't match across your website, Google profile, and social, it costs you trust. Getting this right early makes everything else work better."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "05 — FAQ",
+            "heading": "Common questions about working with AQM.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Which service should I start with?",
+                    "a": "Most owners start with our <strong>Smart Website &amp; Marketing Package at $500/mo</strong> (a 12-month agreement). It covers the website, <a href=\"/services/google-business-profile/\">Google Business Profile</a>, citations, reviews, social, the AI chatbot and AI voice receptionist, hosting, and CRM in one plan. As you grow, add accelerators: <a href=\"/services/local-seo/\">SEO</a> at $1,299/mo for blog content and link building, or <a href=\"/services/google-ads/\">Google Ads</a> management at $1,299/mo (ad spend not included). Not sure where to begin? Start with the free audit."
+                },
+                {
+                    "q": "Do I have to bundle services or can I pick one?",
+                    "a": "Most owners start with the Smart Website &amp; Marketing Package at $500/mo, which bundles the website, SEO foundations, AI follow-up, reviews, and social into one plan. If you only need one thing, tell us and we'll point you to the right starting place."
+                },
+                {
+                    "q": "How does the agreement work?",
+                    "a": "The Smart Website &amp; Marketing Package is a 12-month agreement at $500/mo. That gives us a real runway to build, rank, and grow your presence instead of starting over every few weeks. Local SEO is a 3-6 month build, not an overnight switch, and we report progress in plain English so you always know where things stand."
+                },
+                {
+                    "q": "What does the typical engagement cost?",
+                    "a": "Most clients start with the Smart Website &amp; Marketing Package at <strong>$500/mo</strong> (a 12-month agreement), which includes the website, on-page SEO, hosting and maintenance, CRM, the AI chatbot and AI voice receptionist (per-minute usage fees), reviews, and social up to 3 posts per week. From there, add accelerators: SEO at $1,299/mo for blog content and link building, Google Ads management at $1,299/mo (ad spend not included), or Meta Ads management at $999/mo (ad spend not included). The SEO audit is Free."
+                },
+                {
+                    "q": "Do you work outside Massachusetts?",
+                    "a": "Greater Boston is home base — we've served Woburn, the North Shore, MetroWest, and the wider Boston metro since 2003. We take on Massachusetts-adjacent clients case by case. If you're outside the Northeast, we'll likely point you to someone better suited."
+                },
+                {
+                    "q": "How is AQM different from a generic agency?",
+                    "a": "Three things: one team handles your SEO, website, ads, reviews, and social in-house, so there's no finger-pointing between vendors; we measure to booked calls, not clicks; and we're Woburn-based, serving Greater Boston small businesses since 2003."
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "No pitch, no pressure",
+            "heading": "Not sure where to <em>start?</em>",
+            "body": "Book a free 45-minute audit. We'll check your site, Google Business Profile, and top 5 local competitors, then send you a written 20-point action plan — usually within 2 business days. No obligation, and if we're not the right fit, we'll say so.",
+            "ctas": [
+                {
+                    "label": "Book your free audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Audit call, zero obligation"
+                },
+                {
+                    "fa": "fa-file-lines",
+                    "value": "20-point",
+                    "label": "Written action plan delivered"
+                },
+                {
+                    "fa": "fa-star",
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                }
+            ]
+        }
+    ]
+}

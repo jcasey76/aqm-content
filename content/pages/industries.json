@@ -1,0 +1,206 @@
+{
+    "path": "/industries/",
+    "title": "Industries",
+    "status": "publish",
+    "seo": {
+        "title": "Industries We Serve in Massachusetts — Vertical-Specific Marketing Playbooks | AQ Marketing",
+        "description": "AQ Marketing builds vertical-specific marketing playbooks for Massachusetts home-services contractors, law firms, dental + medical practices, insurance agencies, builders, and professional services firms. Pick your industry to see the tuned approach.",
+        "canonical": "https://aqmarketing.com/industries/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-briefcase",
+            "badge": "Industries",
+            "heading": "Pick your industry. We have <em>a tuned playbook</em> for it.",
+            "lede": "Generic agencies run the same playbook for every client. We don't. The home-services SEO playbook is different from the law firm one, which is different from the medical practice one. Pick your industry below — each page covers the playbook, the compliance frame, the typical engagement size, and the starting services.",
+            "ctas": [
+                {
+                    "label": "Book a free industry audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Industries"
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "01 — THE VERTICALS",
+            "heading": "Six industries we have deep MA-specific playbooks in.",
+            "intro": "Each industry has its own page covering: the vertical's economics, what's typically broken in that industry's marketing, the starting service mix, and the compliance frame.",
+            "cards": [
+                {
+                    "tag": "Trades",
+                    "title": "Home Services",
+                    "body": "HVAC, plumbing, electrical, roofing, landscaping. Service-area SEO + AI receptionist for after-hours capture + reputation surface for word-of-mouth.",
+                    "href": "/industries/home-services/",
+                    "more_label": "See the home-services playbook"
+                },
+                {
+                    "tag": "Legal",
+                    "title": "Law Firms",
+                    "body": "Estate, family, real estate, business, PI. Bar Rule 7.1-compliant flows + 12-month content compounding + reputation depth that survives the long sales cycle.",
+                    "href": "/industries/law-firms/",
+                    "more_label": "See the law firm playbook"
+                },
+                {
+                    "tag": "Healthcare",
+                    "title": "Medical & Dental",
+                    "body": "GP, specialty, dental, allied health. HIPAA-aware integrations + insurance-network presentation + multi-platform reputation (Google, Healthgrades, Zocdoc).",
+                    "href": "/industries/medical-dental/",
+                    "more_label": "See the practice playbook"
+                },
+                {
+                    "tag": "Insurance",
+                    "title": "Insurance Agencies",
+                    "body": "Independent + captive, P&amp;C through commercial. Local advice-content + retention-flow infrastructure + quote-form CRO that competes with carrier ad spend.",
+                    "href": "/industries/insurance-agencies/",
+                    "more_label": "See the agency playbook"
+                },
+                {
+                    "tag": "Construction",
+                    "title": "Contractors & Construction",
+                    "body": "GCs, custom builders, remodelers, design-build. Portfolio-driven web + 6-month nurture cycles + project-specific Local SEO for $50k–$500k buyers.",
+                    "href": "/industries/contractors-construction/",
+                    "more_label": "See the contractor playbook"
+                },
+                {
+                    "tag": "Advisors",
+                    "title": "Professional Services",
+                    "body": "CPAs, RIAs, CFPs, consultants. LinkedIn-led authority + content publishing + reputation depth, all reviewed against FINRA / CFP Board / AICPA rules.",
+                    "href": "/industries/professional-services/",
+                    "more_label": "See the firm playbook"
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "02 — WHY VERTICAL-FIRST",
+            "heading": "Why we built per-industry playbooks instead of one generic stack.",
+            "intro": "Six reasons the same SEO + ads + reputation mix produces different results in different industries — and why we tune accordingly.",
+            "items": [
+                {
+                    "fa": "fa-shield-halved",
+                    "title": "Compliance frames differ wildly",
+                    "body": "MA Bar Rule 7.1 for law firms. HIPAA + platform policy for medical. FINRA Rule 2210 for advisors. MA HIC for contractors. The same review-request flow that works for HVAC violates Bar rules for law firms — we know which is which."
+                },
+                {
+                    "fa": "fa-clock-rotate-left",
+                    "title": "Sales cycles span 1 day to 18 months",
+                    "body": "Plumbing emergency = same-day decision. Custom kitchen remodel = 6-month decision. Estate planning = 60–180 days. Marketing infrastructure that doesn't match the sales cycle wastes spend and miscounts attribution."
+                },
+                {
+                    "fa": "fa-tags",
+                    "title": "Buyer intent vocabulary is industry-specific",
+                    "body": "\"Contractor [town]\" vs. \"custom kitchen remodel [town].\" \"CPA\" vs. \"small business tax planning [town].\" \"Plumber\" vs. \"24/7 emergency plumbing [town].\" Generic content optimized for the wrong query loses the high-intent buyer."
+                },
+                {
+                    "fa": "fa-route",
+                    "title": "Channel weight varies by vertical",
+                    "body": "Home services = Local SEO + map pack heavy. Professional services = LinkedIn + content heavy. Insurance = email + retention heavy. Law firms = reputation + content heavy. Different channel mixes per vertical — not just different copy on the same channels."
+                },
+                {
+                    "fa": "fa-coins",
+                    "title": "Unit economics drive the playbook",
+                    "body": "$2k average ticket + same-day decision + 60% close rate = home services math. $30k average project + 6-month decision + 30% close rate = builder math. Same agency tactics produce wildly different ROI outcomes — we tune per vertical."
+                },
+                {
+                    "fa": "fa-handshake",
+                    "title": "Trust signals are vertical-specific",
+                    "body": "License numbers + insurance for contractors. Bar admission + practice areas for law. Provider credentials + insurance accepted for medical. NMLS / CFP / Series 7 for advisors. Generic \"trust elements\" without these specifics underperform in regulated verticals."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "03 — FAQ",
+            "heading": "Common questions about our industry-specific approach.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Why do you separate playbooks by industry?",
+                    "a": "Because the same SEO + ads + reputation mix produces wildly different ROI in different industries. Compliance frames, sales-cycle lengths, buyer intent vocabularies, channel weights, unit economics, and trust signals all vary by vertical. Generic agency playbooks underperform in 4 of 5 verticals as a result."
+                },
+                {
+                    "q": "Do you only work in these 6 industries?",
+                    "a": "No — these are the verticals where we have enough depth to publish a public playbook. We also work with restaurants, retail, real estate, fitness, education, and various B2B services. Reach out and we'll tell you whether we have the playbook depth for your specific vertical."
+                },
+                {
+                    "q": "Do industry pages and service pages overlap?",
+                    "a": "Different intent. Service pages (Local SEO, Web Design, etc.) are about the service — what we deliver. Industry pages are about the vertical — how the service applies in your context. Most clients read both before contacting us; the industry page tells them whether we get their world, the service page tells them what we'd actually do."
+                },
+                {
+                    "q": "How do you handle multi-industry firms?",
+                    "a": "Custom playbook combining elements from each vertical. A real-estate-and-business law firm needs both the law-firm Bar-compliance frame AND the project-specific content patterns we use for builders. We pick the right mix on a per-engagement basis."
+                },
+                {
+                    "q": "What about regulated industries you don't list (cannabis, firearms, etc.)?",
+                    "a": "We handle some — case-by-case. Highly regulated verticals (cannabis, firearms, gambling, adult, alcohol) often have ad-platform restrictions that change the playbook significantly. Reach out and we'll be honest about whether we can help."
+                },
+                {
+                    "q": "Will the playbook stay the same if my business is in MA but our clients are nationwide?",
+                    "a": "No — local-SEO and map-pack tactics drop out, content and authority tactics scale up. National-audience B2B engagements look more like the professional-services playbook regardless of vertical. We adjust accordingly."
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Free vertical-specific audit",
+            "heading": "Tell us your industry — <em>we'll send back a tuned audit</em>.",
+            "body": "20-point audit + competitor benchmark + compliance review specific to your vertical. We won't run a generic audit; pick your industry and we'll send the playbook-specific version.",
+            "ctas": [
+                {
+                    "label": "Book the industry audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Vertical-specific audit + recommendations"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "6 verticals",
+                    "label": "With deep published playbooks today"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "Compliance-aware",
+                    "label": "Reviewed against each vertical's rules"
+                }
+            ]
+        }
+    ]
+}

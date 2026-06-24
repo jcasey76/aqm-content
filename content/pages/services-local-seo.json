@@ -1,0 +1,293 @@
+{
+    "path": "/services/local-seo/",
+    "title": "Local SEO",
+    "status": "publish",
+    "seo": {
+        "title": "Local SEO Massachusetts — Map Pack Rankings for MA Small Businesses | AQ Marketing",
+        "description": "Local SEO services in Massachusetts. AQ Marketing ranks Woburn and Greater Boston small businesses in the Google map pack with Google Business Profile optimization, citations, reviews, and geo-targeted content.",
+        "canonical": "https://aqmarketing.com/services/local-seo/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-location-dot",
+            "badge": "Local SEO",
+            "heading": "Local SEO in Massachusetts. From <em>page three</em> to the map pack.",
+            "lede": "Done-for-you Local SEO for Woburn and Greater Boston small businesses. We optimize your Google Business Profile, fix your citations, generate real reviews, and build the geo-targeted content that actually moves rankings.",
+            "ctas": [
+                {
+                    "label": "Get a free local audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-magnifying-glass-chart"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Services",
+                    "url": "/services/"
+                },
+                {
+                    "label": "Local SEO"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHY WORK WITH US",
+            "heading": "What you get when you hire us for Local SEO.",
+            "intro": "We've helped Massachusetts small businesses get found on Google since 2003. Here's what that looks like.",
+            "stats": [
+                {
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                },
+                {
+                    "value": "Since 2003",
+                    "label": "Serving Greater Boston"
+                },
+                {
+                    "value": "100%",
+                    "label": "You own your site, profile, and data"
+                },
+                {
+                    "value": "Free",
+                    "label": "20-point local audit, no obligation"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why your Massachusetts business isn't in the map pack.",
+            "intro": "After more than 20 years of local SEO audits, it's almost always one of these four.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-triangle-exclamation",
+                    "title": "Weak GBP",
+                    "body": "Wrong primary category, no service descriptions, no posts, no photos added in 2 years."
+                },
+                {
+                    "fa": "fa-link-slash",
+                    "title": "Broken citations",
+                    "body": "Your name, address, or phone doesn't match across Google, Yelp, Bing, the BBB, and the other directories that list you."
+                },
+                {
+                    "fa": "fa-star-half-stroke",
+                    "title": "Thin reviews",
+                    "body": "A handful of old reviews while your competitor keeps earning fresh ones. Google ranks by review volume, recency, and how you respond."
+                },
+                {
+                    "fa": "fa-hourglass-half",
+                    "title": "Slow, bad site",
+                    "body": "A slow site on phones, no local schema (the code that tells Google who and where you are), generic content. That caps how high you can rank."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — WHAT'S INCLUDED",
+            "heading": "Everything we do, in one place.",
+            "intro": "One team handles every signal Google uses to rank you locally — under one roof, no vendors to chase. It all works together, which is why doing the whole list beats fixing one piece.",
+            "items": [
+                {
+                    "fa": "fa-map-location-dot",
+                    "title": "Google Business Profile",
+                    "body": "Category tuning, service descriptions, weekly posts, photo strategy, Q&amp;A management."
+                },
+                {
+                    "fa": "fa-list-check",
+                    "title": "Citation cleanup",
+                    "body": "Top 50 MA-relevant directories audited, fixed, and kept in sync automatically."
+                },
+                {
+                    "fa": "fa-star",
+                    "title": "Review generation",
+                    "body": "Automated, compliant review requests across Google, Yelp, Facebook, Angi."
+                },
+                {
+                    "fa": "fa-pen-ruler",
+                    "title": "On-page SEO",
+                    "body": "Title tags, meta, H-structure, internal linking, local schema — done right once, maintained."
+                },
+                {
+                    "fa": "fa-city",
+                    "title": "City/service pages",
+                    "body": "Genuinely unique landing pages for your real service areas — no doorway-page template spam."
+                },
+                {
+                    "fa": "fa-gauge-high",
+                    "title": "Core Web Vitals",
+                    "body": "We fix the speed, layout-shift, and responsiveness scores Google uses to rank you."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "Our Local SEO playbook.",
+            "intro": "Local SEO is a 3-6 month build, not an overnight switch. Here's the order we work in.",
+            "steps": [
+                {
+                    "step_label": "STEP 1",
+                    "title": "Audit & benchmark",
+                    "body": "Full GBP, citation, review, backlink, and competitor audit. Baseline rankings for 20 priority keywords."
+                },
+                {
+                    "step_label": "STEP 2",
+                    "title": "Foundations fixed",
+                    "body": "GBP rebuilt, citations cleaned, local schema installed, and your site made fast and mobile-friendly. This is the groundwork rankings build on."
+                },
+                {
+                    "step_label": "STEP 3",
+                    "title": "Content & authority",
+                    "body": "Service pages, city pages, reviews flowing in, local link building kicks off."
+                },
+                {
+                    "step_label": "STEP 4",
+                    "title": "Optimize & scale",
+                    "body": "Build on what's ranking. Expand to secondary keywords and adjacent service areas."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "What makes Massachusetts Local SEO different.",
+            "prose_html": "<p>Massachusetts is its own kind of market: a tight cluster of well-off towns north and west of Boston, a lot of law, medical, and financial firms, and a home-services scene run by long-standing family businesses. A one-size-fits-all national playbook misses this. We've worked the Woburn, North Shore, MetroWest, and Greater Boston markets since 2003, so we know them.</p>\n        <h3>Why your Google Business Profile matters most</h3>\n        <p>Google ranks local results on three things: <strong>relevance</strong> (do you do what they searched for), <strong>distance</strong> (how close you are), and <strong>prominence</strong> (how well-known and trusted you are). Your Google Business Profile feeds all three. Getting it right — correct main category, a full service list, weekly posts, fresh photos, active Q&amp;A — can lift how often you show up, without touching your website.</p>\n        <h3>The citation problem nobody talks about</h3>\n        <p>If your business name, address, or phone number differs across Google, Yelp, Bing, Apple Maps, the BBB, and industry directories, Google quietly trusts you less. (Citations are simply your listings on those sites.) Most Massachusetts small businesses have a pile of mismatches. We find them and fix them in the first two weeks.</p>\n        <h3>Reviews aren't a \"nice to have\"</h3>\n        <p>How many reviews you have, how recent they are, your rating, and how you respond are all things Google uses to rank you. A steady stream of fresh reviews beats a big pile of old ones. We set up an automated, compliant review-request system over text and email, so reviews come in every week.</p>\n        <h3>Content: depth over breadth</h3>\n        <p>The old trick of spinning up hundreds of near-identical town pages now gets you penalized by Google. Our approach is a smaller set of genuinely useful service-area pages with real local signals — maps, reviews from that town, photos from jobs done there. That wins.</p>",
+            "aside_items": [
+                {
+                    "img_src": "/assets/generated/map-pack-rankings.png",
+                    "img_alt": "Google map-pack ranking dashboard tracking a Massachusetts local business across map-pack and local search results over time"
+                },
+                {
+                    "note_title": "Did you know?",
+                    "note_body": "The top 3 local results in the Google map pack (the small map with three businesses at the top of search) get the large majority of clicks on \"near me\" searches. Spots below that get very little."
+                },
+                {
+                    "img_src": "/assets/generated/review-generation.png",
+                    "img_alt": "Mobile phone notification showing an incoming 5-star Google review for a local business"
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Local SEO questions, answered straight.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "How long does Local SEO take to work?",
+                    "a": "Local SEO is a 3-6 month build, not an overnight switch. Most clients see meaningful movement in 3-6 months, depending on how competitive your market is and the starting state of your Google Business Profile and citations. We set realistic targets for your market during the free audit."
+                },
+                {
+                    "q": "What do Local SEO services cost in Massachusetts?",
+                    "a": "Most clients start with our Smart Website &amp; Marketing Package at $500/mo on a 12-month agreement, which covers your Google Business Profile, citations, reviews, and the local-SEO foundations. In more competitive markets like HVAC, personal-injury law, and dental, we add the SEO accelerator at $1,299/mo for ongoing blog content and link building. You own everything we build, and we recommend the right mix after the free audit."
+                },
+                {
+                    "q": "Do I need a website for Local SEO to work?",
+                    "a": "Yes. Google ranks your website and your Google Business Profile together. A fast, mobile-friendly site with proper local schema (the code that tells Google who and where you are) is the foundation — a weak site caps how high you can climb in the map pack, no matter how good your profile is."
+                },
+                {
+                    "q": "What's the difference between Local SEO and regular SEO?",
+                    "a": "Regular SEO chases broad keyword rankings nationwide. Local SEO targets the Google map pack and \"near me\" searches inside your service area, and it leans on different signals: your Google Business Profile, citations, reviews, and how close you are to the searcher."
+                },
+                {
+                    "q": "Do you guarantee top rankings?",
+                    "a": "No honest agency can — Google doesn't let anyone guarantee a position. Real ranking gains typically take 3-6 months. What we do commit to is steady, transparent work and clear reporting on what we're doing and why. Add-on services stay month-to-month, so we keep earning your business."
+                },
+                {
+                    "q": "Do you work with WordPress sites?",
+                    "a": "Yes — WordPress, Webflow, Squarespace, Shopify, and custom stacks. If your current site can't clear the technical bar we need, we'll tell you and recommend a fix so your pages can rank."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair Local SEO with...",
+            "cards": [
+                {
+                    "tag": "Local",
+                    "title": "GBP Management",
+                    "body": "Deep-dive Google Business Profile optimization — posts, photos, Q&amp;A, insights.",
+                    "href": "/services/google-business-profile/",
+                    "more_label": "Explore GBP"
+                },
+                {
+                    "tag": "Trust",
+                    "title": "Reputation Management",
+                    "body": "Turn every happy customer into a 5-star review. Reviews drive both rankings and clicks.",
+                    "href": "/services/reputation-management/",
+                    "more_label": "Explore Reputation"
+                },
+                {
+                    "tag": "AI",
+                    "title": "AI Websites",
+                    "body": "AI chatbot + receptionist that captures every lead Local SEO sends your way — 24/7.",
+                    "href": "/services/ai-websites/",
+                    "more_label": "Explore AI Websites"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "Limited — 5 audit slots this month",
+            "heading": "See exactly <em>why you're not in the map pack</em>.",
+            "body": "Book a free 45-minute Local SEO audit. We'll score your GBP, citations, reviews, and site against your top 5 Massachusetts competitors, then hand you a prioritized action plan — on the house.",
+            "ctas": [
+                {
+                    "label": "Book your free audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "45 min",
+                    "label": "Audit call, zero obligation"
+                },
+                {
+                    "fa": "fa-file-lines",
+                    "value": "20-point",
+                    "label": "Written action plan delivered"
+                },
+                {
+                    "fa": "fa-star",
+                    "value": "5.0★",
+                    "label": "Average Google rating across 34 reviews"
+                }
+            ]
+        }
+    ]
+}

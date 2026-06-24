@@ -1,0 +1,112 @@
+{
+    "path": "/blog/",
+    "title": "Blog",
+    "status": "publish",
+    "seo": {
+        "title": "Blog — Local SEO & Digital Marketing Insights | AQ Marketing",
+        "description": "Practical Local SEO, AI website, reviews, and Google Business Profile guidance for Massachusetts small businesses, from the AQ Marketing team in Woburn, MA.",
+        "canonical": "https://aqmarketing.com/blog/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-newspaper",
+            "badge": "Blog",
+            "heading": "Local SEO &amp; digital marketing <em>insights</em>.",
+            "lede": "Plain-English guides on Local SEO, AI websites, reviews, and Google Business Profile — written for Massachusetts small-business owners, not marketers. New articles are on the way. In the meantime, the fastest win is a free 20-point growth audit.",
+            "ctas": [
+                {
+                    "label": "Book a free audit",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                { "label": "Home", "url": "/" },
+                { "label": "Blog" }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "WHAT WE'LL COVER",
+            "heading": "The topics we help owners win.",
+            "intro": "When articles go live, here's the kind of practical, no-fluff guidance you can expect.",
+            "container": "grid-3",
+            "cards": [
+                {
+                    "fa": "fa-location-dot",
+                    "title": "Local SEO &amp; the map pack",
+                    "body": "How Greater Boston businesses climb into Google's local 3-pack and stay there.",
+                    "href": "/services/local-seo/"
+                },
+                {
+                    "fa": "fa-robot",
+                    "title": "AI websites &amp; the front desk",
+                    "body": "Using AI chatbots and receptionists to answer and book every lead, 24/7.",
+                    "href": "/services/ai-websites/"
+                },
+                {
+                    "fa": "fa-star",
+                    "title": "Reviews &amp; reputation",
+                    "body": "Turning happy customers into a steady stream of 5-star Google reviews.",
+                    "href": "/services/reputation-management/"
+                },
+                {
+                    "fa": "fa-store",
+                    "title": "Google Business Profile",
+                    "body": "Getting the #1 local ranking signal set up and working for you.",
+                    "href": "/services/google-business-profile/"
+                },
+                {
+                    "fa": "fa-bullseye",
+                    "title": "Google Ads that pay back",
+                    "body": "Building campaigns around cost-per-booked-call, not cost-per-click.",
+                    "href": "/services/google-ads/"
+                },
+                {
+                    "fa": "fa-display",
+                    "title": "Websites that convert",
+                    "body": "Fast, mobile-first design that turns visitors into phone calls and forms.",
+                    "href": "/services/web-design/"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "No pitch, no pressure",
+            "heading": "Want the plan before the <em>article?</em>",
+            "body": "Skip the reading and get a free 45-minute audit. We'll check your site, Google Business Profile, and top 5 local competitors, then send you a written 20-point action plan — usually within 2 business days.",
+            "ctas": [
+                {
+                    "label": "Book your free audit",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                { "fa": "fa-clock", "value": "45 min", "label": "Audit call, zero obligation" },
+                { "fa": "fa-file-lines", "value": "20-point", "label": "Written action plan delivered" },
+                { "fa": "fa-star", "value": "5.0★", "label": "Average Google rating across 34 reviews" }
+            ]
+        }
+    ]
+}

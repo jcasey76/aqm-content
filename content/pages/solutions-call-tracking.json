@@ -1,0 +1,291 @@
+{
+    "path": "/solutions/call-tracking/",
+    "title": "Solutions · Measure",
+    "status": "publish",
+    "seo": {
+        "title": "Dynamic-Number Call Tracking — Tie Every Call to Its Marketing Source | AQ Marketing",
+        "description": "Dynamic phone numbers swap on your site so every call is tied to its source — keyword, ad, page, or campaign. Recording, transcription, and full attribution to Google Ads, GBP, and organic traffic.",
+        "canonical": "https://aqmarketing.com/solutions/call-tracking/"
+    },
+    "sections": [
+        {
+            "type": "aqm_page_hero",
+            "v": 1,
+            "badge_fa": "fa-phone",
+            "badge": "Solutions · Measure",
+            "heading": "\"Most of our business is from <em>word of mouth</em>.\" <br><span class=\"sub\">— Owners who don't track calls.</span>",
+            "lede": "Dynamic-number-insertion call tracking that swaps the phone number on your site by visitor source. Every call is tagged with the keyword, ad, page, or organic referrer that produced it. Recordings, transcripts, and attribution flow into one dashboard you'll actually look at.",
+            "ctas": [
+                {
+                    "label": "See an attribution sample",
+                    "href": "/contact/",
+                    "style": "dark",
+                    "fa": "fa-bolt"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "outline",
+                    "fa": ""
+                }
+            ],
+            "crumbs": [
+                {
+                    "label": "Home",
+                    "url": "/"
+                },
+                {
+                    "label": "Solutions",
+                    "url": "/solutions/"
+                },
+                {
+                    "label": "Call Tracking"
+                }
+            ]
+        },
+        {
+            "type": "aqm_stat_row",
+            "v": 1,
+            "kicker": "01 — WHAT IT REVEALS",
+            "heading": "What call tracking changes about ad spend.",
+            "intro": "Most owners think the bulk of business is word-of-mouth. Once calls are tracked, a lot of those \"word of mouth\" calls turn out to be web sources you were already paying for. The wrong picture drives the wrong ad spend.",
+            "stats": [
+                {
+                    "value": "Word of mouth",
+                    "label": "Often turns out to be web sources once calls are tracked"
+                },
+                {
+                    "value": "Wasted spend",
+                    "label": "Untracked calls hide which clicks never produce a call"
+                },
+                {
+                    "value": "Instant",
+                    "label": "The number swap is invisible to the visitor"
+                },
+                {
+                    "value": "Every call",
+                    "label": "Tied to the keyword, ad, or page that drove it"
+                }
+            ]
+        },
+        {
+            "type": "aqm_icon_card_grid",
+            "v": 1,
+            "kicker": "02 — WHAT'S BROKEN",
+            "heading": "Why your marketing decisions are blindfolded.",
+            "intro": "Without call tracking, every phone call is anonymous. You can't tell which ad worked, which keyword is gold, or which page closes — so you keep funding the loudest channel, not the best one.",
+            "container": "pain",
+            "cards": [
+                {
+                    "fa": "fa-eye-slash",
+                    "title": "Phone calls are invisible",
+                    "body": "Web form? Tracked. Phone call from the same visitor? Anonymous. For service businesses doing 60–80% of inquiries by phone, that's most of your data missing."
+                },
+                {
+                    "fa": "fa-coins",
+                    "title": "Wasted ad spend",
+                    "body": "You keep running the campaign that \"feels\" like it's working but produces no form fills — because the calls all came in untracked. Without attribution, you can't kill the dead campaigns."
+                },
+                {
+                    "fa": "fa-circle-question",
+                    "title": "\"How did you hear about us?\"",
+                    "body": "Customers say \"the internet.\" Or \"a friend.\" Or shrug. Self-reported attribution is notoriously unreliable — people simply don't remember which ad or search brought them to you."
+                },
+                {
+                    "fa": "fa-list-check",
+                    "title": "No coaching loop",
+                    "body": "Without recordings + transcripts, you can't tell which scripts close and which kill the call. Sales coaching becomes vibes-based."
+                }
+            ]
+        },
+        {
+            "type": "aqm_feature_grid",
+            "v": 1,
+            "kicker": "03 — THE STACK",
+            "heading": "What's actually in the call tracking system.",
+            "items": [
+                {
+                    "fa": "fa-shuffle",
+                    "title": "Dynamic number insertion",
+                    "body": "Different visitor sources see different numbers. Google Ads visitor sees number A; organic search sees number B; GBP visitor sees number C. Single sub-second JavaScript swap, zero performance impact."
+                },
+                {
+                    "fa": "fa-microphone-lines",
+                    "title": "Call recording + transcription",
+                    "body": "Every call recorded (with two-party-consent announcement). Auto-transcribed. Searchable by keyword across all calls."
+                },
+                {
+                    "fa": "fa-tags",
+                    "title": "Keyword-level attribution",
+                    "body": "For Google Ads + paid traffic, tie each call back to the exact keyword that triggered it. Shut off the ones with zero call conversions."
+                },
+                {
+                    "fa": "fa-map",
+                    "title": "GBP + organic + referral",
+                    "body": "Distinct numbers for each source. See whether GBP is producing more calls than organic, whether the Yelp listing is worth the time, etc."
+                },
+                {
+                    "fa": "fa-chart-mixed",
+                    "title": "Attribution dashboard",
+                    "body": "Calls by source, keyword, page, day-of-week, hour-of-day. Lead-quality scoring (was it a real lead or a wrong number)."
+                },
+                {
+                    "fa": "fa-plug",
+                    "title": "Pipes into Google Ads + GA4",
+                    "body": "Calls flow back into Google Ads as conversions, into GA4 as events, and into your <a href=\"/solutions/crm-pipeline/\">CRM</a> as leads. Full closed-loop measurement."
+                }
+            ]
+        },
+        {
+            "type": "aqm_process_steps",
+            "v": 1,
+            "kicker": "04 — HOW IT WORKS",
+            "heading": "How we get your calls tracked and attributed.",
+            "steps": [
+                {
+                    "step_label": "DAY 1–2",
+                    "title": "Provision numbers",
+                    "body": "Local Woburn / Boston / Greater MA numbers (or 800 if you prefer). One per major source: paid, organic, GBP, social, direct."
+                },
+                {
+                    "step_label": "DAY 3",
+                    "title": "Site instrumentation",
+                    "body": "Single line of JavaScript. Numbers swap automatically based on UTM, referrer, or paid keyword. Falls back to default if visitor source is unclear."
+                },
+                {
+                    "step_label": "DAY 4–5",
+                    "title": "Wire to Ads + GA4 + CRM",
+                    "body": "Conversion uploads to Google Ads. Events to GA4. Lead-creation in your CRM. Calls become first-class data, not anonymous."
+                },
+                {
+                    "step_label": "ONGOING",
+                    "title": "Tune",
+                    "body": "Once the data builds, we spot ghost campaigns (high spend, zero call conversions) and shut them off — so your budget follows the channels that actually ring the phone."
+                }
+            ]
+        },
+        {
+            "type": "aqm_prose_aside",
+            "v": 1,
+            "kicker": "05 — THE DETAILS",
+            "heading": "The legal + technical questions every owner asks.",
+            "prose_html": "<p>Massachusetts is a two-party consent state for call recording. The tracking system plays a one-line announcement on every answered call (\"This call may be recorded for quality.\") which satisfies consent under MA law. Recordings are encrypted at rest, retained 90 days by default, and can be exported on owner request.</p>\r\n        <p>The number-swap is invisible to visitors. JavaScript reads the source on page load and replaces the displayed number with the matching tracking number — taking under a second, with no flicker. Calls forward instantly to your real business line. Voicemail and SMS also work on the tracked numbers if needed.</p>\r\n        <h3>Why dynamic insertion beats per-page numbers</h3>\r\n        <p>Some agencies still recommend a static \"different number on each page.\" That tells you which page produced the call but not which traffic source. Dynamic insertion ties calls to source (Google Ads vs. organic vs. direct) AND keyword AND landing page — a 3-D view, not a 1-D one. Source attribution is what kills wasted spend.</p>\r\n        <h3>Where call tracking fits</h3>\r\n        <p>It's the measurement layer for everything that drives phone calls — <a href=\"/services/google-ads/\">Google Ads</a>, <a href=\"/services/local-seo/\">Local SEO</a>, <a href=\"/services/google-business-profile/\">GBP</a>. It also feeds the <a href=\"/solutions/crm-pipeline/\">CRM pipeline</a> and <a href=\"/solutions/ai-receptionist/\">AI receptionist</a> with full source data, so every lead is enriched from the moment it lands.</p>",
+            "aside_items": [
+                {
+                    "note_title": "MA law: two-party consent",
+                    "note_body": "Built-in announcement on every call (\"This call may be recorded\") satisfies MA consent requirements. Encrypted at rest. 90-day retention."
+                },
+                {
+                    "note_title": "Sub-second swap",
+                    "note_body": "JavaScript reads visitor source on page load and replaces the displayed number invisibly. No flicker, no FOUC, zero performance impact."
+                },
+                {
+                    "note_title": "Pricing model",
+                    "note_body": "Part of our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — included in or added to your plan. We confirm the exact scope for your business at your free audit."
+                }
+            ]
+        },
+        {
+            "type": "aqm_faq",
+            "v": 1,
+            "kicker": "06 — FAQ",
+            "heading": "Common call-tracking questions.",
+            "schema": true,
+            "items": [
+                {
+                    "q": "Is this legal in Massachusetts?",
+                    "a": "Yes. MA is a two-party consent state for recording — the system plays a one-line announcement at the start of every call (\"This call may be recorded for quality.\") which satisfies the requirement."
+                },
+                {
+                    "q": "Will the number-swap slow my site down?",
+                    "a": "No. Single line of JavaScript, sub-second execution, zero blocking. Doesn't affect Core Web Vitals scores. Falls back to your default number if the script fails."
+                },
+                {
+                    "q": "Can I track calls from Google Ads keywords?",
+                    "a": "Yes — that's where call tracking earns its keep fastest. Each keyword's calls become a Google Ads conversion. Lets you bid up high-converting keywords and turn off zero-call ones."
+                },
+                {
+                    "q": "How many numbers do I need?",
+                    "a": "Most clients run 4–8: paid search, paid social, organic, GBP, direct, and maybe one each for the biggest landing pages. We pick the right count during setup."
+                },
+                {
+                    "q": "How much does it cost?",
+                    "a": "It's part of our Smart Website &amp; Marketing Package at $500/mo (a 12-month agreement) — most clients get this capability included in or added to that plan, alongside the website, Local SEO, reviews, and the AI front desk. We confirm exactly what's included for your business at your free audit."
+                },
+                {
+                    "q": "Will recordings make my customers uncomfortable?",
+                    "a": "The announcement is brief and standard — almost every business uses one. We've never had a client report a complaint. Recording is also optional — you can run tracking without recording if you prefer."
+                }
+            ]
+        },
+        {
+            "type": "aqm_svc_grid",
+            "v": 1,
+            "kicker": "07 — RELATED",
+            "heading": "Pair call tracking with...",
+            "cards": [
+                {
+                    "tag": "Paid",
+                    "title": "Google Ads",
+                    "body": "Call tracking + Google Ads is one of the highest-leverage pairs we run. Once attribution turns on, you can move budget toward the keywords that actually ring the phone and cut the ones that don't.",
+                    "href": "/services/google-ads/",
+                    "more_label": "Explore Google Ads"
+                },
+                {
+                    "tag": "Capture",
+                    "title": "AI Receptionist",
+                    "body": "Tracked calls go to the AI receptionist, get answered around the clock, get qualified, and land in CRM with full source data. End-to-end.",
+                    "href": "/solutions/ai-receptionist/",
+                    "more_label": "Explore Receptionist"
+                },
+                {
+                    "tag": "Measure",
+                    "title": "Reporting Dashboard",
+                    "body": "Calls roll into the unified dashboard alongside form fills, ads spend, organic, and reviews. One owner view across every channel.",
+                    "href": "/solutions/reporting/",
+                    "more_label": "Explore Reporting"
+                }
+            ]
+        },
+        {
+            "type": "aqm_cta_band",
+            "v": 1,
+            "anchor": "book",
+            "eyebrow_fa": "fa-bolt",
+            "eyebrow": "See your real call source data",
+            "heading": "Find out <em>where your calls actually come from</em> — and what you're wasting.",
+            "body": "Free 30-day call-tracking trial. We'll wire 4 numbers to your top sources, run for 30 days, and hand you a 2-page report showing where the calls really come from. Keep it or kill it.",
+            "ctas": [
+                {
+                    "label": "Start the 30-day trial",
+                    "href": "/contact/",
+                    "style": "primary",
+                    "fa": "fa-calendar-check"
+                },
+                {
+                    "label": "Call (781) 730-6971",
+                    "href": "tel:+17817306971",
+                    "style": "ghost",
+                    "fa": ""
+                }
+            ],
+            "stats": [
+                {
+                    "fa": "fa-clock",
+                    "value": "Quick setup",
+                    "label": "We provision and instrument your tracked numbers"
+                },
+                {
+                    "fa": "fa-bolt",
+                    "value": "30 days",
+                    "label": "Trial period — keep or kill"
+                },
+                {
+                    "fa": "fa-shield-halved",
+                    "value": "100%",
+                    "label": "MA two-party-consent compliant"
+                }
+            ]
+        }
+    ]
+}
